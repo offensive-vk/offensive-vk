@@ -1,5 +1,7 @@
+========================================
+- Don't Steal, just ask.
 - 👋 Hi, I’m @offensive-vk
-- 👀 I’m interested in creating advanced network security firewalls and itsec.
+- 👀 I’m interested in creating a mess.
 - 🌱 I’m currently learning basics lol
 -
 - 
