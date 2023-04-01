@@ -1,8 +1,0 @@
-Brands: Asus, Acer, Dell, HP, Lenovo, Gigabyte, MSI.
-
-Processor: Intel Core i7 11th Gen or AMD Ryzen 7 (H Series)
-Minimum 6 Cores and 12 Threads or Better.
-RAM: 8GB 3200MHz - DDR4 or 16GB Would be Better.
-Storage: 512GB NVMe SSD or 1TB.
-Graphics: Nvidia Geforce RTX 3060/3050/3090 OR Better (Not Much Needed).
-Display: 1920x1080 (15.6 Inches will be good.).
