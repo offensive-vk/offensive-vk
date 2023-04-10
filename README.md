@@ -13,6 +13,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" height="720px" width="500px"/>
+<img src="https://rm.up.railway.app/" height="500px" width="500px"/>
 
 #### Don't Copy Profile Settings, just ask..
