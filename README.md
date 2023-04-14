@@ -1,3 +1,4 @@
+[![](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 ........<br>👯 I like to write computer code.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning anything<br>💬 Ask me about nothing<br>⚡ Fun fact: no fun, only work.
 
