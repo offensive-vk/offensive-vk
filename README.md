@@ -1,6 +1,6 @@
 [![SVG](https://readme-typing-svg.demolab.com?font=Monospace&size=35&duration=1200&pause=1000&color=20F77B&width=720&height=70&lines=Just+Another+Github+Profile;You'll+Find+Some+Web+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
 # 💫 About Me:
-🔭 ........<br>👯 I like to write computer code.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning anything<br>💬 Ask me about nothing<br>⚡ Fun fact: no fun, only work.<br> 💥 Keep Coding !!.
+🔭 <em>Perfection isn't the goal.</em><br>👯 I like to write computer code.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning anything<br>💬 Ask me about nothing<br>⚡ Fun fact: no fun, only work.<br> 💥 Keep Coding !!.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,4 +19,5 @@
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" height="500px" width="500px"/> -->
-
+# Loops in Life.tsx
+<a href="https://github.com"><img src="https://github.com/offensive-vk/offensive-vk/blob/main/MyLife.svg" alt="main" width="1080px"/><br/></a>
