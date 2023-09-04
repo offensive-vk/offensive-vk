@@ -22,11 +22,10 @@
 <div align="center">
 <!--
 ### I Mostly Prefer Working On ~
-<a href="https://www.nginx.com/"><img src="https://github.com/offensive-vk/offensive-vk/blob/main/Server.svg" alt="server" height="400px" width="600px"/><br/></a>
--->
+<a href="https://www.nginx.com/"><img src="https://github.com/offensive-vk/offensive-vk/blob/main/Server.svg" alt="server" height="400px" width="600px"/><br/></a> -->
+
 ### My Favourite Place to Work ~
 <a href="https://www.nginx.com/"><img src="https://github.com/offensive-vk/offensive-vk/blob/main/Server-Room.svg" alt="server" height="400px" width="600px"/><br/></a>
-
 </div>
 
 # Loops in Life.tsx
