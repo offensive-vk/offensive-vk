@@ -1,4 +1,4 @@
-[![SVG](https://readme-typing-svg.demolab.com?font=Monospace&size=35&duration=1200&pause=1000&color=20F77B&width=720&height=70&lines=Just+Another+Github+Profile;You'll+Find+Some+Web+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
+[![SVG](https://readme-typing-svg.demolab.com?font=Monospace&size=35&duration=1200&pause=1000&color=20F77B&width=720&height=70&lines=Yet+Another+Github+Profile;You'll+Find+Some+Cool+Web+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 <em>Perfection isn't the goal.</em><br>👯 I like to write computer code.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning anything<br>💬 Ask me about nothing<br>⚡ Fun fact: no fun, only work.<br> 💥 Keep Coding !!.
 
