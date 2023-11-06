@@ -1,6 +1,6 @@
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=20F77B&width=800&height=100&lines=Yet+Another+Github+Profile;You'll+Find+Some+Cool+Web+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
 # 💫 About Me:
-🔭 <em>Perfection isn't the goal.</em><br>👯 I like to write computer code.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning anything<br>💬 Ask me about nothing<br>⚡ Fun fact: no fun, only work.<br> 💥 Keep Coding !!.
+🔭 <em>Perfection isn't the goal.</em><br>🧑‍💻 I like to write computer code.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning anything<br>💬 Ask me about nothing<br>⚡ Fun fact: no fun, only work.<br> 💥 Keep Coding !!.
        
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/> </a>
@@ -28,10 +28,10 @@
 <!--
 ### I Mostly Prefer Working On ~
 <a href="https://www.nginx.com/"><img src="https://github.com/offensive-vk/offensive-vk/blob/main/Server.svg" alt="server" height="400px" width="600px"/><br/></a> -->
-
+<!--
 ### My Favourite Place to Work ~
 <a href="https://www.nginx.com/"><img src="https://github.com/offensive-vk/offensive-vk/blob/main/Server-Room.svg" alt="server" height="400px" width="600px"/><br/></a>
-</div>
+</div> -->
 
 # Loops in Life.tsx
 <a href="https://www.typescriptlang.org/play#code/"><img src="https://github.com/offensive-vk/offensive-vk/blob/main/MyLife.svg" alt="main" width="1080px"/><br/></a>
