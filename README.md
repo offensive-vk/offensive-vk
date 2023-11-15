@@ -6,7 +6,7 @@
     <p align="left"> 
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/atom/atom-original.svg" alt="atom" width="40" height="40" /> </a>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+                src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/bash/bash-original.svg" alt="bash" width="40" height="40" />
         </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
                 src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/c/c-original.svg" alt="c"
                 width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
@@ -66,8 +66,8 @@
 <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" height="500px" width="500px"/> -->
 
-<div align="center">
 <!--
+<div align="center">
 ### I Mostly Prefer Working On ~
 <a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@main/Server.svg" alt="server" height="400px" width="600px"/><br/></a> -->
 <!--
