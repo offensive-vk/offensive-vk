@@ -63,17 +63,15 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" height="500px" width="500px"/> -->
 
-<!--
 <div align="center">
 ### I Mostly Prefer Working On ~
-<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@main/Server.svg" alt="server" height="400px" width="600px"/><br/></a> -->
-<!--
-### My Favourite Place to Work ~
-<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@main/Server-Room.svg" alt="server" height="400px" width="600px"/><br/></a>
-</div> -->
+<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@main/Server.svg" alt="server" height="400px" width="600px"/><br/></a><br>
+<img src="https://github.com/offensive-vk/offensive-vk/blob/main/MyLife.svg" alt="main" width="1000px"/> </a>
+
+</div>
+
 
 # Loops in Life.tsx
-<a href="https://www.typescriptlang.org/play#code/"> <img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@main/MyLife.svg" alt="main" width="1080px"/> </a>
+<a href="https://www.typescriptlang.org/play#code/"> 
+<img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@main/MyLife.svg" alt="main" width="1080px"/> </a>
