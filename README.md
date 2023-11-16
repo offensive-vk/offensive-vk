@@ -48,12 +48,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!--
 ## I Mostly Prefer Working On ~
 <div align="center">
-<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@main/Server.svg" alt="server" height="400px" width="600px"/><br/></a>
-</div>
-
+<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@old/Server.svg" alt="server" height="400px" width="600px"/><br/></a>
+</div> -->
 
 # Loops in Life.tsx
 <a href="https://www.typescriptlang.org/play#code/"> 
-<img src="https://github.com/offensive-vk/offensive-vk/blob/main/MyLife.svg" alt="main" width="1080px"/> </a>
+<img src="https://github.com/offensive-vk/offensive-vk/blob/old/MyLife.svg" alt="main" width="1080px"/> </a>
