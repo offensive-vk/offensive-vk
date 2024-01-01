@@ -46,7 +46,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-vk&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-### ✍️ Random Dev Quote
+### Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
@@ -54,7 +54,8 @@
 <div align="center">
 <a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@old/Server.svg" alt="server" height="400px" width="600px"/><br/></a>
 </div> -->
-
+<!--
 # Loops in Life.tsx
 <a href="https://www.typescriptlang.org/play#code/"> 
 <img src="https://github.com/offensive-vk/offensive-vk/blob/old/MyLife.svg" alt="main" width="1080px"/> </a>
+-->
