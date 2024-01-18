@@ -1,7 +1,7 @@
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=20F77B&width=800&height=70&lines=Yet+Another+Github+Profile;You'll+Find+Some+Cool+Web+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 <em>Perfection isn't the goal.</em><br>🧑‍💻 I like to write computer code.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning anything<br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only work.<br> 💥 Keep Coding & Develop Cool Stuff !!.
+🔭 <em>Perfection isn't the goal.</em><br>🧑‍💻 I like to write computer code.<br>🤝 I’m looking for help with file management in my computer.<br>🌱 I’m currently learning anything. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only work. <br> 💥 Keep Coding & Develop Cool Stuff !!.
 
 <h3 align="left">🧑‍💻 Languages and Tools: </h3>
     <p align="left"> 
@@ -41,6 +41,8 @@
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> 
         <a href="https://github.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original-wordmark.svg" height="40" width="40" /> </a>
+        <a href="https://npmjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/npm/npm-original-wordmark.svg" height="40" width="40" /> </a>
     </p>
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=offensive-vk&theme=shades-of-purple&hide_border=true) 
