@@ -38,9 +38,9 @@
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a> 
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> 
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> </a> 
         <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original-wordmark.svg" height="40" width="40" /> </a>
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" /> </a>
         <a href="https://npmjs.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/npm/npm-original-wordmark.svg" height="40" width="40" /> </a>
     </p>
@@ -56,8 +56,8 @@
 ## I Mostly Prefer Working On ~
 <div align="center">
 <a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@old/Server.svg" alt="server" height="400px" width="600px"/><br/></a>
-</div> -->
-<!--
+</div>
+
 # Loops in Life.tsx
 <a href="https://www.typescriptlang.org/play#code/"> 
 <img src="https://github.com/offensive-vk/offensive-vk/blob/old/MyLife.svg" alt="main" width="1080px"/> </a>
