@@ -14,8 +14,8 @@
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a> 
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
-        <a href="https://debian.org" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/debian/debian-original.svg" alt="debian" width="40" height="40" /> </a> 
+        <a href="https://vim.org" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/vim/vim-original.svg" alt="vim" width="40" height="40" /> </a> 
         <a href="https://docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/docker/docker-original.svg" alt="docker" width="40" height="40" /> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
