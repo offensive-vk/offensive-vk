@@ -53,13 +53,6 @@
 ### ✌️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--
-## I Mostly Prefer Working On ~
 <div align="center">
-<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@old/Server.svg" alt="server" height="400px" width="600px"/><br/></a>
+    <img src="https://github.com/offensive-vk/offensive-vk/blob/old/snek.svg" height=200 width=800 alt="snake" />
 </div>
-
-# Loops in Life.tsx
-<a href="https://www.typescriptlang.org/play#code/"> 
-<img src="https://github.com/offensive-vk/offensive-vk/blob/old/MyLife.svg" alt="main" width="1080px"/> </a>
--->
