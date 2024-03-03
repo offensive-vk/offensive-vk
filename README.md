@@ -1,4 +1,4 @@
-[![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=20F77B&width=800&height=70&lines=Yet+Another+Github+Profile;You'll+Find+Some+Cool+Web+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
+[![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=800&height=70&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep coding & contribute to opensource. <br> 📧 _You will find a way to contact me_.
