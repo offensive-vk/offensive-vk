@@ -1,4 +1,4 @@
-[![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=20F77B&width=800&height=70&lines=Yet+Another+Github+Profile;You'll+Find+Some+Cool+Web+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
+[![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=800&height=70&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep coding & contribute to opensource. <br> 📧 _You will find a way to contact me_.
@@ -53,13 +53,8 @@
 ### ✌️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--
-## I Mostly Prefer Working On ~
 <div align="center">
-<a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/offensive-vk/offensive-vk@old/Server.svg" alt="server" height="400px" width="600px"/><br/></a>
+    <img src="https://github.com/offensive-vk/offensive-vk/blob/old/snek.svg" height=200 width=800 alt="snake" />
 </div>
 
-# Loops in Life.tsx
-<a href="https://www.typescriptlang.org/play#code/"> 
-<img src="https://github.com/offensive-vk/offensive-vk/blob/old/MyLife.svg" alt="main" width="1080px"/> </a>
--->
+***
