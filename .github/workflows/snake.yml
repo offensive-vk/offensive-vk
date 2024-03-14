@@ -14,13 +14,13 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.repository_owner || 'offensive-vk' }}
           outputs: |
             assets/github-snake.gif
             assets/github-snake.svg
             assets/github-snake.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.BOT_GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
 
       - name: Commit files
         run: |
