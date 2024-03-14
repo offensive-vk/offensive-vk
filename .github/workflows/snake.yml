@@ -1,0 +1,36 @@
+name: 🐍 Generate Snake Contribution GIF
+on:
+  schedule:
+    - cron: '30 23 * * *' # Runs at 23:30 every day.
+  workflow_dispatch: # Manual dispatch
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake.gif
+            assets/github-snake.svg
+            assets/github-snake.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_GH_TOKEN }}
+
+      - name: Commit files
+        run: |
+          git config --global user.email "node_modules@hotmail.com"
+          git config --global user.name "npm-run-test"
+          git add .
+          git commit -m ":snake: Updated Snake Animation"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.BOT_GH_TOKEN }}
+          branch: ${{ github.ref }}
