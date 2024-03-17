@@ -1,0 +1,13 @@
+name: 🌄 Morning Greetings
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Runs daily at 6:00 AM
+
+jobs:
+  greet-contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Greetings
+        run: |
+          echo "Good morning, contributors and watchers! Have a great day!"
