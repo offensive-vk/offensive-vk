@@ -3,6 +3,7 @@ name: ⭐ Mark Stale Issues and PRs
 on:
   schedule:
     - cron: '10 0 * * *' # Runs daily at 12:10 AM
+  workflow_dispatch:
 
 jobs:
   stale:

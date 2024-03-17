@@ -49,20 +49,28 @@
 
 <details>
   <summary><b>⚡ Recent Activity</b></summary>
-    <a href="https://github.com/offensive-vk/">
-        <img align='right' width='300' src="https://github-contribution-stats.vercel.app/api/?username=offensive-vk" alt='stats'>
-    </a>
-
+    <br>
+    <p align="left">
+        <a href="https://github.com/offensive-vk/">
+            <img align='left' width=300 height=300 src="https://github-contribution-stats.vercel.app/api/?username=offensive-vk" alt='stats'>
+        </a>
+    </p>
+    <br>
+<p align="right">
 <!--START_SECTION:activity-->
+Some Activity is Hidden.
 
 <!--END_SECTION:activity-->
+</p>
+
+***
+➡️  **[Click Here To See More Activity](/assets/Recent.md)**
 </details>
 
-➡️  **[Click Here To See More Activity](/assets/Recent.md)**
-
+<br>
 <details>
-    <summary><b> 📊 Github Metrics</b></summary>
-    <img align="center" width=500 height=500 src="./profile-3d-contrib/profile-night-rainbow.svg" alt='metrics' />
+    <summary><b>📊 Github Metrics</b></summary>
+    <img align="center" width=600 height=400 src="./profile-3d-contrib/profile-night-rainbow.svg" alt='metrics' />
 </details>
 
 <!--
