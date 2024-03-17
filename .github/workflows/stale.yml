@@ -1,4 +1,4 @@
-name: Mark Stale Issues and PRs
+name: ⭐ Mark Stale Issues and PRs
 
 on:
   schedule:
