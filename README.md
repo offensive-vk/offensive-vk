@@ -49,15 +49,22 @@
 
 <details>
   <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-        <a href="https://github.com/offensive-vk/"><img align='right' width='300' src="https://github-contribution-stats.vercel.app/api/?username=offensive-vk" alt='stats'></a>
+    <a href="https://github.com/offensive-vk/">
+        <img align='right' width='300' src="https://github-contribution-stats.vercel.app/api/?username=offensive-vk" alt='stats'>
+    </a>
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-➡️  **[More Activity](/assets/Recent.md)**
-    </p>
 </details>
+
+➡️  **[Click Here To See More Activity](/assets/Recent.md)**
+
+<details>
+    <summary><b> 📊 Github Metrics</b></summary>
+    <img align="center" width=500 height=500 src="./profile-3d-contrib/profile-night-rainbow.svg" alt='metrics' />
+</details>
+
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=offensive-vk&theme=shades-of-purple&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-vk&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
