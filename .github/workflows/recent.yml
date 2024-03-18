@@ -1,7 +1,7 @@
 name: 👩‍💻 Update Recent Activity
 on:
   schedule:
-    - cron: '0 */2 * * *' # Run every 4 hours
+    - cron: '0 */2 * * *' # Run every 2 hours
   workflow_dispatch:
 jobs:
   update_activity:
@@ -16,7 +16,7 @@ jobs:
         uses: lissy93/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
-          COMMIT_MSG: ':zap: Updates on recent activity in Readme'
+          COMMIT_MSG: ':zap: Updated Activity in Readme'
         with:
           MAX_LINES: 10
 

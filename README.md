@@ -4,6 +4,10 @@
 ## 💫 About Me:
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep coding & contribute to opensource. <br> 📧 _You will find a way to contact me_.
 
+<!--STARTS_HERE_QUOTE_README-->
+
+<!--ENDS_HERE_QUOTE_README-->
+
 ***
 <h3 align="left" title="...and I'm happy to see you here :)">🧑‍💻 Languages and Tools: </h3>
     <p align="left"> 
@@ -49,20 +53,27 @@
 
 <details>
   <summary><b>⚡ Recent Activity</b></summary>
-    <a href="https://github.com/offensive-vk/">
-        <img align='right' width='300' src="https://github-contribution-stats.vercel.app/api/?username=offensive-vk" alt='stats'>
-    </a>
-
+    <br>
+    <p align="left">
+        <a href="https://github.com/offensive-vk/">
+            <img align='left' width=300 height=300 src="https://github-contribution-stats.vercel.app/api/?username=offensive-vk" alt='stats'>
+        </a>
+    </p>
+    <br>
+<p align="right">
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+</p>
+
+***
+➡️  **[Click Here To See More Activity](/assets/Recent.md)**
 </details>
 
-➡️  **[Click Here To See More Activity](/assets/Recent.md)**
-
+<br>
 <details>
-    <summary><b> 📊 Github Metrics</b></summary>
-    <img align="center" width=500 height=500 src="./profile-3d-contrib/profile-night-rainbow.svg" alt='metrics' />
+    <summary><b>📊 Github Metrics</b></summary>
+    <img align="center" width=600 height=400 src="./profile-3d-contrib/profile-night-rainbow.svg" alt='metrics' />
 </details>
 
 <!--
