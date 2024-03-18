@@ -1,0 +1,8 @@
+# =================================
+*.yml linguist-language=YAML
+*.yml linguist-detectable=true
+*.svg linguist-language=Markdown
+*.md linguist-language=Markdown
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+# =================================
