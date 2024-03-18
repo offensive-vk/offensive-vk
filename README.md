@@ -62,7 +62,6 @@
     <br>
 <p align="right">
 <!--START_SECTION:activity-->
-Some Activity is Hidden.
 
 <!--END_SECTION:activity-->
 </p>
