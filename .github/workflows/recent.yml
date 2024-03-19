@@ -18,7 +18,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
           COMMIT_MSG: ':zap: Updated Activity in Readme'
         with:
-          MAX_LINES: 15
+          MAX_LINES: 10
 
       - name: Adds Latest Activity to File
         uses: lissy93/github-activity-readme@master
