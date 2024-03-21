@@ -5,7 +5,7 @@
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep coding & contribute to opensource. <br> 📧 _You will find a way to contact me_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Programs must be written for people to read, and only incidentally for machines to execute.”— Abelson and Sussman   ❞</i>
+<i>❝HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ***
