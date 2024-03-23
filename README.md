@@ -104,7 +104,7 @@
 
 <br>
 <div align="center">
-    <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=200 width=800 alt="snake" />
+    <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.svg" height=200 width=800 alt="snake" />
 </div>
 
 ***
