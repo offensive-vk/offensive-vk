@@ -88,7 +88,7 @@
 <br>
 <details>
     <summary><b>📊 Github Metrics</b></summary>
-    <img align="center" width=600 height=400 src="./profile-3d-contrib/profile-night-green.svg" alt='metrics' />
+    <img align="center" width=600 height=400 src="./profile-3d-contrib/profile-green-animate.svg" alt='metrics' />
 </details>
 
 <!--
@@ -99,12 +99,12 @@
 <br>
 <details>
     <summary><b>✌️ Dev Quote of the Day</b></summary>
-    <img align="center" width=600 height=400 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt='dev-quote' />
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt='dev-quote' />
 </details>
 
 <br>
 <div align="center">
-    <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.svg" height=200 width=800 alt="snake" />
+    <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=200 width=800 alt="snake" />
 </div>
 
 ***
