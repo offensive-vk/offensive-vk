@@ -96,9 +96,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-vk&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-### ✌️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<details>
+    <summary><b>✌️ Dev Quote of the Day</b></summary>
+    <img align="center" width=600 height=400 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt='dev-quote' />
+</details>
 
+<br>
 <div align="center">
     <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.svg" height=200 width=800 alt="snake" />
 </div>
