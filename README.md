@@ -102,9 +102,11 @@
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt='dev-quote' />
 </details>
 
+***
+
 <br>
 <div align="center">
-    <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.svg" height=200 width=800 alt="snake" />
+    <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.svg" height=250 width=850 alt="snake" />
 </div>
 
 ***
