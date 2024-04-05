@@ -1,6 +1,8 @@
 # =================================
+# == Github Linguistic Library ====
 *.yml linguist-language=YAML
 *.yml linguist-detectable=true
+*.yml linguist-documentation=false
 *.svg linguist-language=Markdown
 *.md linguist-language=Markdown
 *.md linguist-detectable=true
