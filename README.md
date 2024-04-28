@@ -88,7 +88,7 @@
 <br>
 <details>
     <summary><b>📊 Github Metrics</b></summary>
-    <img align="center" width=600 height=400 src="./profile-3d-contrib/profile-green-animate.svg" alt='metrics' />
+    <img align="center" width=600 height=400 src="./profile-3d-contrib/profile-night-green.svg" alt='metrics' />
 </details>
 
 <!--
