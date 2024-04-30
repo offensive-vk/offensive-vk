@@ -20,6 +20,3 @@ jobs:
           git add -A .
           git commit -m ":zap: Updated The Contributions Patterns."
           git push
-          
-  
-  
