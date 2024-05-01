@@ -19,10 +19,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/tickets.svg
           committer_message: "📊 Updates metrics - tickets"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_followup: yes
@@ -36,7 +36,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/habits.svg
           committer_message: "📊 Updates metrics - habbits"
           user: offensive-vk
@@ -57,10 +57,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/stargazers.svg
           committer_message: "📊 Updates metrics - stargazers"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_stargazers: yes
@@ -75,10 +75,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/activity.svg
           committer_message: "📊 Updates metrics - activity"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_activity: yes
@@ -94,10 +94,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/reactions.svg
           committer_message: "📊 Updates metrics - reactions"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_reactions: yes
@@ -116,9 +116,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           committer_message: "📊 Updates metrics - people"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           filename: assets/people.svg
           user: offensive-vk
           base: ""
@@ -134,10 +134,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/languages.svg
           committer_message: "📊 Updates metrics - languages"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_languages: yes
@@ -157,10 +157,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/achievements.svg
           committer_message: "📊 Updates metrics - acheivments"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_achievements: yes
@@ -175,10 +175,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/notable.svg
           committer_message: "📊 Updates metrics - notable contribs"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_notable: yes
@@ -195,10 +195,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/starlists.svg
           committer_message: "📊 Updates metrics - starlists"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_starlists: yes
@@ -214,10 +214,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/intro.svg
           committer_message: "📊 Updates metrics - intro"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_introduction: yes  
@@ -230,10 +230,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/topics.svg
           committer_message: "📊 Updates metrics - topics"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_topics: yes
@@ -247,9 +247,9 @@ jobs:
     steps:
     - uses: lowlighter/metrics@latest
       with:
-        committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+        committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
         filename: assets/lines-of-code.svg
-        token:  ${{ secrets.BOT_GH_TOKEN }}
+        token:  ${{ secrets.CLASSIC_GH_TOKEN }}
         user: offensive-vk
         base: ""
         plugin_lines: yes
@@ -269,10 +269,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/all.svg
           committer_message: "📊 Updates metrics - all"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           # Options
           user: offensive-vk
           template: classic
@@ -322,10 +322,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.BOT_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/summary.svg
           committer_message: "📊 Updates metrics - summary"
-          committer_token: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           template: classic
           base: activity, community, repositories
