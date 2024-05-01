@@ -7,7 +7,7 @@
 name: 📊 Generates Metrics
 on:
   schedule:
-    - cron: '40 23 * * *' # Run every evening, twenty mins before midnight
+    - cron: '50 23 * * *' # At 11:50 PM every day
   workflow_dispatch: # Or when it's manually triggered
 jobs:        
   
@@ -28,7 +28,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
 
-  
   # Coding Habits
   coding-habits-metrics:
     runs-on: ubuntu-latest
