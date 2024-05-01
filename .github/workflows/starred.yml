@@ -16,7 +16,7 @@ jobs:
         uses: rverst/stargazer@v1.2.0
         with:
           github-user: ${{ github.actor }}
-          github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          github-token: ${{ secrets.BOT_GH_TOKEN }}
           list-file: "STARRED.md"
 
       # Commit the changes
@@ -31,5 +31,5 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          github_token: ${{ secrets.BOT_GH_TOKEN }}
           branch: ${{ github.ref }}
