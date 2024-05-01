@@ -1,4 +1,4 @@
-name: 💬 Update Quote Daily
+name: 💬 Update Daily Quote
 
 on:
   workflow_dispatch:
@@ -7,8 +7,8 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update Quote README
+  update-quote:
+    name: Update Quote
     runs-on: ubuntu-latest
     steps:
       - uses: siddharth2016/quote-readme@main

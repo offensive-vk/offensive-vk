@@ -2,7 +2,7 @@ name: 🐍 Generate Snake Contribution GIF
 on:
   schedule:
     - cron: '30 23 * * *' # Runs at 23:30 every day.
-  workflow_dispatch: # Manual dispatch
+  workflow_dispatch:
 
 jobs:
   snake:
@@ -27,7 +27,11 @@ jobs:
           git config --global user.email "node_modules@hotmail.com"
           git config --global user.name "npm-run-test"
           git add .
-          git commit -m ":snake: Updated Snake Animation"
+          git commit -m ":snake: Updated Snake Animation
+          
+
+          Signed-off-by: node_module [bot] <node_modules@hotmail.com>
+          Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
       
       - name: Push changes
         uses: ad-m/github-push-action@master
