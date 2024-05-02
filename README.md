@@ -50,10 +50,21 @@
         <a href="https://npmjs.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/npm/npm-original-wordmark.svg" height="40" width="40" /> </a>
     </p>
+    
+<!-- Showing Stuff, that i dont care about lol. have fun -->
+
+<details>
+  <summary><h4>⭐ Achievements & Awards </h4></summary>
+    <img src="./assets/achievements.svg" alt="..." height=auto width=auto />
+</details>
+
+<details>
+  <summary><h4>💻 Languages I Depend Upon </h4></summary>
+    <img src="./assets/languages.svg" alt="..." height=auto width=auto />
+</details>
 
 <details>
   <summary><b>⚡ Recent Activity</b></summary>
-    <br>
     <p align="left">
         <a href="https://github.com/offensive-vk/">
             <img align='right' width=300 height=300 src="https://github-contribution-stats.vercel.app/api/?username=offensive-vk" alt='stats'>
@@ -96,7 +107,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-vk&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-<br>
+<details>
+  <summary><h4>👻 Quick Snapshot </h4></summary>
+    <img src="./assets/all.svg" alt="..." height=auto width=auto />
+</details>
+
 <details>
     <summary><b>🐍 Do you like snakes?</b></summary>
     <div align="center">
