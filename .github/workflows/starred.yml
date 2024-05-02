@@ -1,7 +1,7 @@
-name: ⭐ Generate Stared Repo List
+name: ⭐ Generate Starred Repo List
 
 on:
-  workflow_dispatch: # Manual dispatch
+  workflow_dispatch:
   schedule:
     - cron: '50 23 * * *' # At 11:50 PM every day
 jobs:
@@ -9,9 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      # Generate the list
-      - name: Create star list
+      
+      - name: Create Star List
         id: stargazer
         uses: rverst/stargazer@v1.2.0
         with:
@@ -19,8 +18,7 @@ jobs:
           github-token: ${{ secrets.BOT_GH_TOKEN }}
           list-file: "STARRED.md"
 
-      # Commit the changes
-      - name: Commit files
+      - name: Commit changes
         run: |
           git config --local user.email "node_modules@hotmail.com"
           git config --local user.name "npm-run-test"
@@ -31,9 +29,7 @@ jobs:
           Signed-off-by: node_module [bot] <node_modules@hotmail.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
 
-
-      # Push the changes
-      - name: Push
+      - name: Push the Changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.BOT_GH_TOKEN }}

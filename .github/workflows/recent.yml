@@ -16,7 +16,13 @@ jobs:
         uses: lissy93/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
-          COMMIT_MSG: ':zap: Updated Recent Activity in Readme'
+          # COMMIT_MSG: ':zap: Updated Recent Activity in Readme'
+          COMMIT_MSG: |
+            ':zap: Updated Recent Activity in Readme
+
+            Signed-off-by: node_module [bot] <node_modules@hotmail.com>
+            Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
+
         with:
           MAX_LINES: 10
 
@@ -24,7 +30,11 @@ jobs:
         uses: lissy93/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
-          COMMIT_MSG: ':zap: Updated Recent Activity'
+          COMMIT_MSG: |
+            ':zap: Updated Recent Activity
+
+            Signed-off-by: node_module [bot] <node_modules@hotmail.com>
+            Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
         with:
           MAX_LINES: 150
           TARGET_FILE: 'assets/RECENT.md'

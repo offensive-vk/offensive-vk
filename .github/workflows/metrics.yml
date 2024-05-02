@@ -1,5 +1,4 @@
 # Action to generate metrics using LowLighter/Metrics by Simon Lecoq
-
 # All results are in SVG format, and commited to /assets/ in master branch.
 # Split into multiple jobs, to prevent everything failing if one component errors,
 # And to improve the loading and layout of /METRICS.md where the SVGs are displayed
@@ -10,7 +9,6 @@ on:
     - cron: '50 23 * * *' # At 11:50 PM every day
   workflow_dispatch: # Or when it's manually triggered
 jobs:        
-  
   # Ticket (Issue + PR) Follow Ups
   ticket-metrics:
     runs-on: ubuntu-latest
@@ -21,7 +19,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/tickets.svg
-          committer_message: "📊 Updates metrics - tickets"
+          committer_message: "📊 Updated Metrics - tickets"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -38,7 +36,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/habits.svg
-          committer_message: "📊 Updates metrics - habbits"
+          committer_message: "📊 Updated Metrics - habbits"
           user: offensive-vk
           base: ""
           plugin_habits: yes
@@ -59,7 +57,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/stargazers.svg
-          committer_message: "📊 Updates metrics - stargazers"
+          committer_message: "📊 Updated Metrics - stargazers"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -77,7 +75,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/activity.svg
-          committer_message: "📊 Updates metrics - activity"
+          committer_message: "📊 Updated Metrics - activity"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -96,7 +94,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/reactions.svg
-          committer_message: "📊 Updates metrics - reactions"
+          committer_message: "📊 Updated Metrics - reactions"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -117,16 +115,15 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
-          committer_message: "📊 Updates metrics - people"
+          committer_message: "📊 Updated Metrics - people"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           filename: assets/people.svg
           user: offensive-vk
           base: ""
           plugin_people: yes
           plugin_people_types: followers, following
-          
-
-  # Languages that code is written in (probz just JS, yuck)
+        
+  # Languages that code is written in
   language-metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -136,7 +133,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/languages.svg
-          committer_message: "📊 Updates metrics - languages"
+          committer_message: "📊 Updated Metrics - languages"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -159,7 +156,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/achievements.svg
-          committer_message: "📊 Updates metrics - acheivments"
+          committer_message: "📊 Updated Metrics - acheivments"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -177,7 +174,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/notable.svg
-          committer_message: "📊 Updates metrics - notable contribs"
+          committer_message: "📊 Updated Metrics - notable contribs"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -197,7 +194,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/starlists.svg
-          committer_message: "📊 Updates metrics - starlists"
+          committer_message: "📊 Updated Metrics - starlists"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -216,7 +213,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/intro.svg
-          committer_message: "📊 Updates metrics - intro"
+          committer_message: "📊 Updated Metrics - intro"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -232,7 +229,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/topics.svg
-          committer_message: "📊 Updates metrics - topics"
+          committer_message: "📊 Updated Metrics - topics"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
@@ -240,6 +237,7 @@ jobs:
           plugin_topics_limit: 20
           plugin_topics_mode: icons
 
+ # Lines of code that is changed
   lines-code-changed:
     runs-on: ubuntu-latest
     permissions:
@@ -271,7 +269,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/all.svg
-          committer_message: "📊 Updates metrics - all"
+          committer_message: "📊 Updated Metrics - all"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           # Options
           user: offensive-vk
@@ -324,7 +322,7 @@ jobs:
         with:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/summary.svg
-          committer_message: "📊 Updates metrics - summary"
+          committer_message: "📊 Updated Metrics - summary"
           committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           template: classic

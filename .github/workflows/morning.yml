@@ -5,9 +5,13 @@ on:
     - cron: '0 6 * * *' # Runs daily at 6:00 AM
 
 jobs:
-  greet-contributors:
+  greetings:
     runs-on: ubuntu-latest
     steps:
       - name: Send Greetings
         run: |
+          echo "Howdy Everyone ! What is Up" | base64 
           echo "Good morning, contributors and watchers! Have a great day!"
+          sudo apt install lolcat neofetch -y
+          neofetch | lolcat 
+          whoami
