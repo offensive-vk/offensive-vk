@@ -2,7 +2,7 @@
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
 
 ## 💫 About Me:
-🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep coding & contribute to opensource. <br> 📧 _You will find a way to contact me_.
+🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep coding, you'll overcome someday. <br> 📧 _You will find a way to contact me_.
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝An Apple laptop stinks. One 2001 iBook model used a glue that, after 12-18 months, may begin to smell like human body odor. It is so strong that repairs are difficult because the smell makes people nauseous.❞</i>
@@ -50,10 +50,25 @@
         <a href="https://npmjs.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/npm/npm-original-wordmark.svg" height="40" width="40" /> </a>
     </p>
+    
+<!-- Showing Stuff, that i dont care about lol. have fun -->
+<!-- Outer switch START -->
 
 <details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <br>
+  <summary><h3>🚀 Expecting Something else? Expand for more !</h3></summary>
+
+<details>
+  <summary><h4>⭐ Achievements & Awards ✅ </h4></summary>
+    <img src="./assets/achievements.svg" alt="..." height=auto width=auto />
+</details>
+
+<details>
+  <summary><h4>💻 Top Languages ✅</h4></summary>
+    <img src="./assets/languages.svg" alt="..." height=auto width=auto />
+</details>
+
+<details>
+  <summary><h4>⚡ Recent Activity ✅</h4></summary>
     <p align="left">
         <a href="https://github.com/offensive-vk/">
             <img align='right' width=300 height=300 src="https://github-contribution-stats.vercel.app/api/?username=offensive-vk" alt='stats'>
@@ -85,10 +100,10 @@
 ➡️  **[Click Here To See More Activity](assets/RECENT.md)**
 </details>
 
-<br>
 <details>
-    <summary><b>📊 Github Metrics</b></summary>
+    <summary><h4>📊 Github Metrics ✅</h4></summary>
     <img align="center" width=600 height=400 src="./profile-3d-contrib/profile-night-green.svg" alt='metrics' />
+    <img align="center" width=auto height=auto src="./assets/tickets.svg" alt='metrics' />
 </details>
 
 <!--
@@ -96,13 +111,20 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-vk&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-<br>
 <details>
-    <summary><b>🐍 Do you like snakes?</b></summary>
+  <summary><h4>👻 Quick Snapshot of Past ✅</h4></summary>
+    <img src="./assets/all.svg" alt="..." height=auto width=auto />
+</details>
+
+<details>
+    <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
         <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.svg" height=250 width=850 alt="snake" />
     </div>
 </details>
+
+</details>
+<!-- Outer switch end -->
 
 ***
 
