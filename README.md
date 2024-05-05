@@ -1,3 +1,11 @@
+<a href="https://github.com/offensive-vk">
+   <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg">
+        <img alt="this is art" src="./assets/default.svg">
+  </picture>
+</a>
+
 <!-- Copyright by Vedansh (offensive-vk) 2022 - Present. All Rights Reserved. -->
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
 
