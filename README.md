@@ -1,12 +1,14 @@
-<a href="https://github.com/offensive-vk">
-   <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg">
-        <img alt="this is art" src="./assets/default.svg">
-  </picture>
-</a>
-
 <!-- Copyright by Vedansh (offensive-vk) 2022 - Present. All Rights Reserved. -->
+<div align="center">
+   <a href="https://github.com/offensive-vk">
+      <picture>
+           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="350" width="650" />
+           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="350" width="650" />
+           <img alt="this is art" src="./assets/default.svg" height="350" width="650" />
+     </picture>
+   </a>
+</div>
+
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg)
 
 ## 💫 About Me:
@@ -120,8 +122,12 @@
 
 <details>
     <summary><h4>📊 Github Metrics ✅</h4></summary>
-    <img align="center" width=600 height=400 src="./profile-3d-contrib/profile-night-green.svg" alt='metrics' />
-    <img align="center" width=auto height=auto src="./assets/tickets.svg" alt='metrics' />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" width=600 height=400 alt='metrics' />
+        <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" width=600 height=400 alt='metrics' />
+        <img src="./profile-3d-contrib/profile-season.svg" width=600 height=400 alt='metrics' />
+    </picture>
+    <img align="center" width="auto" height="auto" src="./assets/tickets.svg" alt='metrics' />
 </details>
 
 <!--
@@ -137,7 +143,11 @@
 <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
-        <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.svg" height=250 width=850 alt="snake" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.svg" height=250 width=850 alt="snake" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=250 width=850 alt="snake" />
+        <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=250 width=850 alt="snake" />
+     </picture>
     </div>
 </details>
 
