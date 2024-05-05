@@ -3,7 +3,6 @@ name: 💬 Update Daily Quote
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12 UTC everyday
     - cron: "0 0 * * *"
 
 jobs:
@@ -12,3 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: siddharth2016/quote-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.BOT_GH_TOKEN }}
+          COMMIT_MESSAGE: Updated Daily Quote ✌️
+################################################
