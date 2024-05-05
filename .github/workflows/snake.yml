@@ -9,7 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate Snake - SVG
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -20,7 +22,7 @@ jobs:
       - name: Commit and Push Changes
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
-          target_branch: main
+          target_branch: master
           build_dir: assets
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
