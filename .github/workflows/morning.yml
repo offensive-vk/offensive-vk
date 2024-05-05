@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Send Greetings
         run: |
-          echo "Howdy Everyone ! What is Up" | base64 
+          echo "Howdy Everyone ! What is Up"
           echo "Good morning, contributors and watchers! Have a great day!"
           sudo apt install lolcat neofetch -y
           neofetch | lolcat 

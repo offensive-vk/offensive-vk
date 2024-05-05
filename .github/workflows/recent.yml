@@ -16,7 +16,6 @@ jobs:
         uses: lissy93/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
-          # COMMIT_MSG: ':zap: Updated Recent Activity in Readme'
           COMMIT_MSG: |
             ':zap: Updated Recent Activity in Readme
 
