@@ -5,32 +5,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  snake-svg-only:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v2
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
-
-      - name: Commit and Push Changes
-        uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: master
-          build_dir: assets
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.BOT_GH_TOKEN }}
-          branch: ${{ github.ref }}
   snake:
     runs-on: ubuntu-latest
     steps:
