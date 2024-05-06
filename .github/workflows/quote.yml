@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: siddharth2016/quote-readme@main
         with:
-          GH_TOKEN: ${{ secrets.BOT_GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN }}
           COMMIT_MESSAGE: Updated Daily Quote ✌️
 ################################################

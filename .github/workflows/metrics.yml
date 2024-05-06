@@ -247,7 +247,7 @@ jobs:
         committer_message: "📊 Updated Metrics - Lines of Code"
         committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
         filename: assets/lines-of-code.svg
-        token:  ${{ secrets.MY_GH_TOKEN }}
+        token:  ${{ secrets.CLASSIC_GH_TOKEN }}
         user: offensive-vk
         base: ""
         plugin_lines: yes
