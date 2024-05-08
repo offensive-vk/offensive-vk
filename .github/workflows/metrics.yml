@@ -146,7 +146,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
 
   # Achievements, fake awards showing that i have no life
-  acheiment-metrics:
+  achievement-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write

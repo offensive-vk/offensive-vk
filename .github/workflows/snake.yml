@@ -1,7 +1,8 @@
 name: 🐍 Generate Snake Contribution GIF
+
 on:
   schedule:
-    - cron: '35 23 * * *' # Runs at 23:35 every day.
+    - cron: '40 23 * * *' # Runs at 23:40 every day.
   workflow_dispatch:
 
 jobs:
@@ -17,8 +18,8 @@ jobs:
           github_user_name: ${{ github.repository_owner || 'offensive-vk' }}
           outputs: |
             assets/github-snake.gif
-            assets/github-snake.svg
-            assets/github-snake.svg?palette=github-dark
+            assets/github-snake-light.svg
+            assets/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
 
