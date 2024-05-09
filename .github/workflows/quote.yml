@@ -13,10 +13,9 @@ jobs:
       - uses: siddharth2016/quote-readme@main
         with:
           GH_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN }}
-          COMMIT_MESSAGE: "Updated Daily Quote ☁️
-
-          
-          Signed-off-by: node_module [bot] <node_modules@hotmail.com>
-          Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-
-################################################
+          COMMIT_MESSAGE: | 
+            "Updated Daily Quote ☁️ 
+            
+            
+            Signed-off-by: node_module [bot] <node_modules@hotmail.com> 
+            Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
