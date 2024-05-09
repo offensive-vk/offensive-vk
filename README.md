@@ -144,8 +144,8 @@
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.svg" height=250 width=850 alt="snake" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=250 width=850 alt="snake" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-dark.svg" height=250 width=850 alt="snake" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-light.svg" height=250 width=850 alt="snake" />
         <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=250 width=850 alt="snake" />
      </picture>
     </div>
