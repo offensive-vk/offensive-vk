@@ -15,7 +15,7 @@
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep coding, you'll overcome someday. <br> 📧 _You will find a way to contact me_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
+<i>❝“It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.”— Steve McConnell   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ***
