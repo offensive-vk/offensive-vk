@@ -21,7 +21,7 @@ Total starred repositories: `24`
 
 ## C
 
-  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C. \[*MIT License*\] (⭐️7191)
+  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C. \[*MIT License*\] (⭐️7221)
 
 ## C++
 
@@ -53,7 +53,7 @@ Total starred repositories: `24`
 
 ## QML
 
-  - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (⭐️21656)
+  - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (⭐️21662)
 
 ## SCSS
 
@@ -61,19 +61,19 @@ Total starred repositories: `24`
 
 ## TypeScript
 
-  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️19400)
-  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️159394)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️19410)
+  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️159428)
   - [offensive-vk/Collection](https://github.com/offensive-vk/Collection) - Some Practical and Curated Interview Coding Questions + Exercises. In 5 Most Popular High Level Programming Languages. Leave a ⭐ if you found it helpful. \[*GNU GPLv3*\] (⭐️2)
   - [offensive-vk/override.ps1](https://github.com/offensive-vk/override.ps1) - Curated Collection of Cool Functions. For Enhanced Unit Testing & NPM Registry @ <https://registry.npmjs.org> \[*MIT License*\] (⭐️1)
   - [offensive-vk/Radioactive](https://github.com/offensive-vk/Radioactive) - Yet Another Goofy Repo (cursed). More Like Personal Project. (⭐️1)
   - [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript) - TypedScript - A Static Repository for Hosting My Personal *TypeScript* :bowtie: Programs. ~ TypeScript is also known as JavaScript with Static Types. \[*MIT License*\] (⭐️2)
-  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️23356)
+  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️23361)
 
 ## Unknown
 
-  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers \[*Creative Commons Zero v1.0 Universal*\] (⭐️78779)
-  - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐   \[*Creative Commons Zero v1.0 Universal*\] (⭐️10590)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️305747)
+  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers \[*Creative Commons Zero v1.0 Universal*\] (⭐️78825)
+  - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐   \[*Creative Commons Zero v1.0 Universal*\] (⭐️10589)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️305890)
 
 ## YAML
 
