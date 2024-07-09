@@ -21,7 +21,7 @@ jobs:
         id: open-pr
         uses: repo-sync/pull-request@v2
         with:
-          destination_branch: "main"
+          destination_branch: "master"
           pr_title: "[Bot] Automated Pull Request [Bot]."
           pr_template: "This Pull Request Was Automated by github-actions-robot."
           pr_reviewer: "offensive-vk"
