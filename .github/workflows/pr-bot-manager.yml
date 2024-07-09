@@ -1,0 +1,28 @@
+name: Automated PR Manager
+
+on:
+  push:
+    branches-ignore:
+      - "master"
+      - "old"
+      - "readme-2022"
+      - "Automation"
+      - "Best-Readme-Ever"
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  create_pr_repo_sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create or Open A PR
+        id: open-pr
+        uses: repo-sync/pull-request@v2
+        with:
+          destination_branch: "master"
+          pr_title: "[Bot] Automated Pull Request [Bot]."
+          pr_template: ".github/auto-pr-bot.md"
+          pr_reviewer: "offensive-vk"
+          pr_draft: false
