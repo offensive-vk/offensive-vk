@@ -1,4 +1,4 @@
-name: Automated PR Manager
+name: 🤖 Automated PR Manager
 
 on:
   push:
