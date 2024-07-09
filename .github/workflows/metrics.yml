@@ -36,6 +36,7 @@ jobs:
           token: ${{ secrets.CLASSIC_GH_TOKEN }}
           filename: assets/habits.svg
           committer_message: "📊 Updated Metrics - Habits"
+          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
           user: offensive-vk
           base: ""
           plugin_habits: yes
