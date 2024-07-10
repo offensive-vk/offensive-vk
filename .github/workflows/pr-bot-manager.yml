@@ -24,7 +24,7 @@ jobs:
           destination_branch: "master"
           pr_title: "Automated Pull Request by Actions Bot."
           pr_template: ".github/auto-pr-bot.md"
-          pr_reviewer: "offensive-vk,npm-run-test"
-          pr_draft: false
-          pr_assignee: "npm-run-test"
+          pr_reviewer: "offensive-vk"
           pr_label: "bot,automated"
+          pr_assignee: "npm-run-test"
+          pr_draft: false
