@@ -62,9 +62,12 @@
     </p>
     
 <!-- Showing Stuff, that i dont care about lol. have fun -->
+<details>
+  <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
+
 <!-- Outer switch START -->
 <details>
-  <summary><h3>💻 Wanna see something cool? Click here ⬇️</h3></summary>
+  <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
     <a href="https://github.com/offensive-vk">
        <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/offensive-vk?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
@@ -73,9 +76,6 @@
       </picture>
     </a>
 </details>
-
-<details>
-  <summary><h3>🚀 Expecting Something else? Expand for more !</h3></summary>
 
 <details>
   <summary><h4>⭐ Achievements & Awards ✅ </h4></summary>
@@ -151,9 +151,6 @@
     </div>
 </details>
 
-</details>
-<!-- Outer switch end -->
-
 ***
 
 <p align="center">
@@ -162,5 +159,7 @@
   <a href="https://github.com/npm-run-test"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <kbd>Thanks for visiting :)</kbd>
 </p>
+</details>
 
+<!-- Outer switch end -->
 <!-- Copyright by Vedansh (offensive-vk) 2022 - Present. All Rights Reserved. -->
