@@ -26,5 +26,5 @@ jobs:
           pr_template: ".github/auto-pr-bot.md"
           pr_reviewer: "offensive-vk,npm-run-test"
           pr_draft: false
-          pr_assignee: "github-actions"
+          pr_assignee: "npm-run-test"
           pr_label: "bot,automated"
