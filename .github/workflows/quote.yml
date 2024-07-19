@@ -9,6 +9,7 @@ jobs:
   update-quote:
     name: Update Quote
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: siddharth2016/quote-readme@main
         with:
