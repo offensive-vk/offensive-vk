@@ -4,9 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '50 23 * * *' # At 11:50 PM every day
+
 jobs:
   starred:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v2
       
