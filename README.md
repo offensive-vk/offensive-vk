@@ -36,7 +36,7 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/html5/html5-original.svg" alt="html5" width="40" height="40" /> </a> 
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/githubactions/githubactions-original.svg" alt="gh-actions" width="40" height="40" /> </a> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/java/java-original.svg" alt="java" width="40" height="40" /> </a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -58,12 +58,13 @@
         <a href="https://github.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" /> </a>
         <a href="https://npmjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/npm/npm-original-wordmark.svg" height="40" width="40" /> </a>
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" /> </a>
     </p>
     
 <!-- Showing Stuff, that i dont care about lol. have fun -->
 <details>
   <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
+    <img src="./assets/shocked.gif" alt="whatttt???" height=auto width=auto />
 
 <!-- Outer switch START -->
 <details>
