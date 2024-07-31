@@ -19,7 +19,7 @@ jobs:
           COMMIT_MSG: |
             ':zap: Updated Recent Activity in Readme
 
-            Signed-off-by: node_module [bot] <node_modules@hotmail.com>
+            Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
             Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
 
         with:
@@ -32,7 +32,7 @@ jobs:
           COMMIT_MSG: |
             ':zap: Updated Recent Activity
 
-            Signed-off-by: node_module [bot] <node_modules@hotmail.com>
+            Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
             Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
         with:
           MAX_LINES: 150
