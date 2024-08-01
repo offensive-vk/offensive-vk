@@ -14,13 +14,13 @@ jobs:
       - name: Set Random Code Snippet
         run: |
           snippets=(
-            "```c\nprintf('Hello, World !');```"
-            "```cpp\nstd::cout << "Hello, World!" << std::endl;```"
-            "```python\nprint('Hello, World!')\n```"
-            "```javascript\nconsole.log('Hello, World!');\n```"
-            "```bash\necho 'Hello, World!'\n```"
-            "```go\nfmt.Println('Hello, World!')\n```"
-            "```ruby\nputs 'Hello, World!'\n```"
+            "printf('Hello, World !');"
+            "std::cout << "Hello, World!" << std::endl;"
+            "print('Hello, World!')"
+            "console.log('Hello, World!');"
+            "echo 'Hello, World!'"
+            "fmt.Println('Hello, World!')"
+            "puts 'Hello, World!'\n"
           )
           random_snippet=${snippets[$RANDOM % ${#snippets[@]}]}
           touch .github/code_snipped.md
