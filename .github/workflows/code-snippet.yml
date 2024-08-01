@@ -23,6 +23,7 @@ jobs:
             "```ruby\nputs 'Hello, World!'\n```"
           )
           random_snippet=${snippets[$RANDOM % ${#snippets[@]}]}
+          touch .github/code_snipped.md
           echo -e "## Code Snippet of the Day\n\n$random_snippet" > code_snippet.md
 
       - name: Commit and Push Changes
