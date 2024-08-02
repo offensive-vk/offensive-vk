@@ -1,4 +1,3 @@
 ## Code Snippet of the Day
 
-puts 'Hello, World!'
-
+fmt.Println('Hello, World!')
