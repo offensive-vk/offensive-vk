@@ -1,4 +1,4 @@
-name: 🧑‍💻 Daily Code Snippet
+name: 📝 Daily Code Snippet
 
 on:
   schedule:
@@ -21,18 +21,19 @@ jobs:
             "echo 'Hello, World!'"
             "fmt.Println('Hello, World!')"
             "puts 'Hello, World!'\n"
+            "System.out.printf('Hello, World.');"
           )
           random_snippet=${snippets[$RANDOM % ${#snippets[@]}]}
-          touch .github/code_snipped.md
-          echo -e "## Code Snippet of the Day\n\n$random_snippet" > code_snippet.md
+          touch .github/CODE_SNIPPET.md
+          echo -e "$random_snippet" > .github/CODE_SNIPPET.md
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "npm-run-test"
           git config --global user.email "node_modules@hotmail.com"
           git fetch && git pull
-          git add code_snippet.md
-          git commit -m ":bowtie: Updated Code Snippet of the Day.
+          git add .
+          git commit -m ":rabbit2: Updated Code Snippet of the Day.
 
           Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"

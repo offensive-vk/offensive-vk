@@ -15,7 +15,7 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN }}
           COMMIT_MESSAGE: | 
-            Updated Daily Quote ☁️ 
+            :cloud: Updated Daily Quote 
             
             
             Signed-off-by: Hamster [bot] <node_modules@hotmail.com> 
