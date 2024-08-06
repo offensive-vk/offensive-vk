@@ -1,1 +1,1 @@
-echo 'Hello, World!'
+World! << std::endl;
