@@ -15,7 +15,7 @@
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep moving and you'll overcome one day. <br> 📧 _You will find a way to contact me_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Steve Jobs wanted to hide a man wearing a fedora on the first Mac. Dubbed “Mr. Macintosh,” the character would appear after opening the menu bar several thousand times then quickly disappear, leaving users to question their sanity. The idea was scrapped due to Mac’s paltry 128KB of RAM.❞</i>
+<i>❝“Being able to break security doesn’t make you a hacker anymore than being able to hotwire cars makes you an automotive engineer.”— Eric Raymond   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ***
