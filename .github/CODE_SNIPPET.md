@@ -1,1 +1,1 @@
-World! << std::endl;
+std::cout << Hello,
