@@ -1,1 +1,1 @@
-std::cout << Hello,
+fmt.Println('Hello, World!')
