@@ -1,1 +1,1 @@
-fmt.Println('Hello, World!')
+System.out.printf('Hello, World.');
