@@ -1,1 +1,1 @@
-echo 'Hello, World!'
+System.out.printf('Hello, World.');
