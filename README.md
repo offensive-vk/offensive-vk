@@ -98,14 +98,14 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6721](https://github.com/kamranahmedse/developer-roadmap/issues/6721) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 💪 Opened PR [#6720](https://github.com/kamranahmedse/developer-roadmap/pull/6720) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🗣 Commented on [#20671](https://github.com/docker/docs/issues/20671) in [docker/docs](https://github.com/docker/docs)
-4. 🎉 Merged PR [#17](https://github.com/offensive-vk/TypedScript/pull/17) in [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-5. 🎉 Merged PR [#191](https://github.com/offensive-vk/UntilEverything/pull/191) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6. 🔒 Closed issue [#6663](https://github.com/kamranahmedse/developer-roadmap/issues/6663) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7. 🗣 Commented on [#6673](https://github.com/kamranahmedse/developer-roadmap/issues/6673) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8. 🗣 Commented on [#6666](https://github.com/kamranahmedse/developer-roadmap/issues/6666) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. 🚀 Published release [Download Classics Setups✨](https://github.com/Download Classics Setups✨) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+2. 🎉 Merged PR [#94](https://github.com/offensive-vk/Classics/pull/94) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+3. ❗ Opened issue [#6721](https://github.com/kamranahmedse/developer-roadmap/issues/6721) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 💪 Opened PR [#6720](https://github.com/kamranahmedse/developer-roadmap/pull/6720) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. 🗣 Commented on [#20671](https://github.com/docker/docs/issues/20671) in [docker/docs](https://github.com/docker/docs)
+6. 🎉 Merged PR [#17](https://github.com/offensive-vk/TypedScript/pull/17) in [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+7. 🎉 Merged PR [#191](https://github.com/offensive-vk/UntilEverything/pull/191) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8. 🔒 Closed issue [#6663](https://github.com/kamranahmedse/developer-roadmap/issues/6663) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 9. 🗣 Commented on [#6673](https://github.com/kamranahmedse/developer-roadmap/issues/6673) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 10. 🗣 Commented on [#6666](https://github.com/kamranahmedse/developer-roadmap/issues/6666) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 11. 🔒 Closed issue [#58](https://github.com/offensive-vk/UntilEverything/issues/58) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
