@@ -26,20 +26,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 745kb of code in 802 edited files across 399 commits over last 20 days</small>
+                <small>estimation from 744kb of code in 800 edited files across 397 commits over last 21 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.3946273174423" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="329.3946273174423" y="0" width="56.7385546727204" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="386.1331819901627" y="0" width="35.12296632614453" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.25614831630725" y="0" width="29.178963299281122" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="450.43511161558837" y="0" width="5.339891537394375" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.7750031529827" y="0" width="2.334468407113129" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.10947156009587" y="0" width="1.0152604363728088" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.1247319964687" y="0" width="0.8752680035313406" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="328.7690598421577" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="328.7690598421577" y="0" width="56.6308000481627" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="385.3998598903204" y="0" width="35.05626279321782" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="420.45612268353824" y="0" width="29.12354827763609" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="449.5796709611743" y="0" width="5.3297503201725105" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.9094212813468" y="0" width="2.330034917959215" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.239456199306" y="0" width="1.747211488993728" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="458.98666768829975" y="0" width="1.0133323117002528" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -82,13 +82,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PowerShell
+                                Hack
                             </div>
                             <small>
-                                <div>13 lines</div>
-                                <div>805 bytes</div>
+                                <div>70 lines</div>
+                                <div>1.39 kB</div>
                             </small>
                         </div>
                     </section>
@@ -132,13 +132,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Hack
+                                PowerShell
                             </div>
                             <small>
-                                <div>35 lines</div>
-                                <div>694 bytes</div>
+                                <div>13 lines</div>
+                                <div>805 bytes</div>
                             </small>
                         </div>
                     </section>
