@@ -1,1 +1,1 @@
-console.log('Hello, World!');
+fmt.Println('Hello, World!')
