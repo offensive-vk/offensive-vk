@@ -1,1 +1,1 @@
-fmt.Println('Hello, World!')
+echo 'Hello, World!'
