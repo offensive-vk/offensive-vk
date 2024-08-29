@@ -29,8 +29,8 @@
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-original.svg" alt="css3" width="40" height="40" /> </a>
-        <a href="https://vim.org" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/vim/vim-original.svg" alt="vim" width="40" height="40" /> </a>
+        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /> </a>
         <a href="https://docker.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/docker/docker-original.svg" alt="docker" width="40" height="40" /> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -134,12 +134,13 @@
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=offensive-vk&theme=shades-of-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-vk&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
+
 
 <details>
   <summary><h4>👻 Quick Snapshot of Past ✅</h4></summary>
     <img src="./assets/all.svg" alt="..." height=auto width=auto />
 </details>
+-->
 
 <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
