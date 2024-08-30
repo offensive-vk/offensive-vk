@@ -1,1 +1,1 @@
-std::cout << "Hello, World!" << std::endl;
+console.log('Hello, World!');
