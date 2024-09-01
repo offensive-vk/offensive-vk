@@ -1,4 +1,4 @@
-name: 🤖 Automated Issue - Hamster
+name: 🤖 Automated Issue - Hamster 🐹
 
 on:
   pull_request:
@@ -48,7 +48,7 @@ jobs:
         with:
           token: ${{ secrets.BOT_TOKEN }}
           title: |
-            CI: ${{ github.workflow }} during ${{ github.event_name }} Event was Successful - Hamster 🐹
+            ${{ github.workflow }} 🐹
           assignees: npm-run-test
           labels: automated,bot,hamster,issue
           body: |
