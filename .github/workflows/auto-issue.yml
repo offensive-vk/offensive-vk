@@ -40,6 +40,10 @@ jobs:
             Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
           EOF)
           echo "$markdown" > .github/Auto_Issue_Request.md
+          echo "MARKDOWN_CONTENT<<EOF" >> $ISSUE_BODY
+          echo "$markdown" >> $ISSUE_BODY
+          echo "EOF" >> $ISSUE_BODY
+
       - name: Create Dynamic Issue
         uses: dacbd/create-issue-action@main
         with:
@@ -49,7 +53,7 @@ jobs:
           assignees: npm-run-test
           labels: automated,bot,hamster,issue
           body: |
-            $markdown
+            ${{ env.ISSUE_BODY }}
 
   close_issue:
     runs-on: ubuntu-latest
