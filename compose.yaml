@@ -1,0 +1,5 @@
+services:
+  debian-container:
+    build: .
+    container_name: Vedansh_Dev_Container
+    tty: true

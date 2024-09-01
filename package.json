@@ -1,0 +1,39 @@
+{
+  "name": "offensive-vk",
+  "version": "10.0.1",
+  "description": "My Personal Github Repository. (Automated)",
+  "main": "README.md",
+  "scripts": {
+    "secret": "",
+    "hello": "sleep 5; echo 'Development is Live !'",
+    "dev": "sleep 5; echo 'Development Server Started... A Joke.' ",
+    "image": "docker build -t mycontainer .",
+    "compose": "docker compose up --build --no-orphans",
+    "spawn": "docker run -it -d --name vedansh-container --rm --restart always -p 9999:9999 -v $(pwd):/shared/offensive-vk mycontainer:latest"
+  },
+  "keywords": [
+    "readme",
+    "github",
+    "profile",
+    "daily",
+    "automated",
+    "yaml",
+    "bot-managed"
+  ],
+  "author": {
+    "name": "Vedansh ✨",
+    "url": "https://github.com/offensive-vk/"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@9.9.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/offensive-vk/"
+  },
+  "bugs": {
+    "url": "https://github.com/offensive-vk/issues"
+  },
+  "homepage": "https://github.com/offensive-vk#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
