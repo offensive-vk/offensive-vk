@@ -1,7 +1,7 @@
 ## Yayy ! This Pull Request Was Automated by [Hamster [bot]](https://github.com/npm-run-test)
 
 > [!IMPORTANT]
-> What Happened: push event at  path.
+> What Happened: push event at / path.
 > Details of Run: https://github.com/offensive-vk/offensive-vk/actions/runs/10655414282
 
 - Author: @npm-run-test

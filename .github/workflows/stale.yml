@@ -2,7 +2,7 @@ name: 👻 Mark Stale Issues and PRs
 
 on:
   schedule:
-    - cron: '10 0 * * *' # Runs daily at 12:10 AM
+    - cron: '10 */1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,10 +12,20 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-      - uses: actions/stale@v5
+      - uses: actions/stale@v9
         with:
-          repo-token: ${{ secrets.BOT_GH_TOKEN }}
-          stale-issue-message: 'This issue seems to be inactive. If you believe its still relevant, please provide an update. Otherwise, it may be closed soon.'
-          stale-pr-message: 'This pull request seems to be inactive. If you need further assistance or if there is any progress, please update the PR. Otherwise, it may be closed soon.'
-          stale-issue-label: 'no-issue-activity'
-          stale-pr-label: 'no-pr-activity'
+          repo-token: ${{ secrets.BOT_TOKEN }}
+          stale-issue-message: |
+            This issue has been automatically marked as stale due to inactivity for the past 7 days. 
+            If this issue is still relevant, please provide an update or additional information. 
+            If no updates are made, this issue will be closed in 3 days. Thank you for your contributions.
+          stale-pr-message: |
+            This pull request has been automatically marked as stale due to inactivity for the past 7 days. 
+            If this pull request is still in progress, please provide an update or additional information. 
+            If no updates are made, this pull request will be closed in 3 days. Thank you for your contributions.
+          stale-issue-label: 'no-activity'
+          stale-pr-label: 'no-activity'
+          days-before-pr-stale: 3
+          days-before-issue-stale: 7
+          days-before-close: 7
+          operations-per-run: 100

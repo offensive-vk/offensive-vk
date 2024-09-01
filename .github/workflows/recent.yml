@@ -1,8 +1,10 @@
 name: 👩‍💻 Update Recent Activity
+
 on:
   schedule:
-    - cron: '0 */4 * * *' # Run every 4 hours
+    - cron: '0 */4 * * *'
   workflow_dispatch:
+
 jobs:
   update_activity:
     runs-on: ubuntu-latest
@@ -10,12 +12,12 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Adds Activity to Readme.md
         uses: lissy93/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
           COMMIT_MSG: |
             ':zap: Updated Recent Activity in Readme
 
@@ -27,7 +29,7 @@ jobs:
       - name: Adds Latest Activity to File
         uses: lissy93/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
           COMMIT_MSG: |
             ':zap: Updated Recent Activity
 

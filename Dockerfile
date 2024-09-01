@@ -1,3 +1,7 @@
+#####################################################
+# All Rights Reserved. 2022 - Present. (offensive-vk)
+#####################################################
+
 # Use the Debian Bullseye base image
 FROM debian:bullseye
 

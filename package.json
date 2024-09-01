@@ -4,7 +4,6 @@
   "description": "My Personal Github Repository. (Automated)",
   "main": "README.md",
   "scripts": {
-    "secret": "",
     "hello": "sleep 5; echo 'Development is Live !'",
     "dev": "sleep 5; echo 'Development Server Started... A Joke.' ",
     "image": "docker build -t mycontainer .",
