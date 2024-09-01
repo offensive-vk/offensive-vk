@@ -1,1 +1,1 @@
-fmt.Println('Hello, World!')
+print('Hello, World!')
