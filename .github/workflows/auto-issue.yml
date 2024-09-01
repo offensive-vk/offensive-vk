@@ -40,7 +40,6 @@ jobs:
             Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
           EOF)
           echo "$markdown" > .github/Auto_Issue_Request.md
-          git commit -m "Dynamic Issue Template Update."
       - name: Create Dynamic Issue
         uses: dacbd/create-issue-action@main
         with:
