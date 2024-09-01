@@ -49,7 +49,7 @@ jobs:
           assignees: npm-run-test
           labels: automated,bot,hamster,issue
           body: |
-            $(cat .github/Auto_Issue_Request.md)
+            $markdown
 
   close_issue:
     runs-on: ubuntu-latest
