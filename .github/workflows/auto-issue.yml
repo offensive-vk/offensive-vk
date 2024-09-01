@@ -1,0 +1,60 @@
+name: 🤖 Automated Issue
+
+on:
+  pull_request:
+    types: [ "opened", "closed", "synchronize" ]
+  issue_comment:
+    types: [ "created" ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */1 * * 0'
+
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request' && github.event.pull_request.state == 'open'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Issue Template
+        run: |
+            ## Information Regarding the Pull Request:
+            
+            > [!IMPORTANT]
+            > Triggered / What Happened: ${{ github.event_name }} at ${{ github.event_path }} path.
+            > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+            
+            - Author: @${{ github.actor }}
+            - Admin: @offensive-vk
+            - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
+            - Commit: ${{ github.sha }}
+            - Workflow Path: ${{ github.workflow_ref }}
+            - Pull Request Number: #${{ github.event.number }}
+            - Pull Request Title: ${{ github.event.pull_request.title }}
+            - Pull Request Body: ${{ github.event.pull_request.body }}
+
+            ---
+            
+            Thanks.
+            Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
+            EOF)
+            echo "$markdown" > .github/Auto_Issue_Request.md
+      - name: Create Issue
+        uses: dacbd/create-issue-action@main
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+          title: |
+            Event : ${{ github.workflow }} during ${{ github.event_name }} Event was Successful - Automated 🤖
+          assignees: npm-run-test
+          labels: automated,bot,hamster,issue
+          body: |
+            .github/Auto_Issue_Template.md
+  close_issue:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'issue_comment' && github.event.issue.state == 'open'
+    steps:
+      - name: Close Issue
+        uses: peter-evans/close-issue@v2
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          comment: 'Hamster [bot] - Issue Closed. At Your Service.'
