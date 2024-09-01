@@ -1,0 +1,69 @@
+name: 🤖 Automated Pull Request - Hamster 🐹
+
+on:
+  push:
+    branches-ignore:
+      - "main"
+      - "master"
+      - "old"
+      - "readme-2022"
+      - "Automation"
+      - "Best-Readme-Ever"
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */1 * * *' 
+
+jobs:
+  create_pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Pull Request Template
+        run: |
+          timestamp=$(date '+%b %d, %A %I:%M:%S %p')
+          markdown=$(cat <<EOF
+          ## Yayy ! This Pull Request Was Automated by [Hamster [bot]](https://github.com/npm-run-test)
+
+          > [!IMPORTANT]
+          > What Happened: ${{ github.event_name }} event at ${{ github.action_path }} path.
+          > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+          - Author: @npm-run-test
+          - Admin: @offensive-vk
+          - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
+          - Commit: ${{ github.sha }}
+          - Workflow Path: ${{ github.workflow }}
+          - Pull Request Number: #${{ github.event.number }}
+          - Pull Request Title: ${{ github.event.pull_request.title }}
+          
+          ---
+          
+          Thanks.
+          $timestamp
+          Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
+          EOF)
+          echo "$markdown" > .github/Auto_Pull_Request.md
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "npm-run-test"
+          git config --global user.email "node_modules@hotmail.com"
+          git fetch && git pull
+          git add .
+          git commit -m "Dynamic Pull Request Template
+
+          Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
+          Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          git push
+  
+      - name: Create or Open A PR
+        id: open-pr
+        uses: repo-sync/pull-request@v2
+        with:
+          github_token: ${{ secrets.BOT_TOKEN }}
+          destination_branch: "master"
+          pr_title: "${{ github.workflow }} - ${{ github.event.head_commit.message }} (#${{ github.event.head_commit.id }})"
+          pr_template: ".github/Auto_Pull_Request.md"
+          pr_reviewer: "offensive-vk"
+          pr_label: "bot,automated,hamster,pull-request"
+          pr_assignee: "npm-run-test"
+          pr_draft: false
