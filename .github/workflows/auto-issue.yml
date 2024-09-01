@@ -1,4 +1,4 @@
-name: 🤖 Automated Issue
+name: 🤖 Automated Issue - Hamster
 
 on:
   pull_request:
@@ -19,11 +19,10 @@ jobs:
         run: |
             timestamp=$(date '+%b %d, %A %I:%M:%S %p')
             markdown=$(cat <<EOF
-
             ## Information Regarding the Pull Request:
             
             > [!IMPORTANT]
-            > What Happened: ${{ github.event_name }} at ${{ github.event_path }} path.
+            > What Happened: ${{ github.event_name }} event at ${{ github.action_path }} path.
             > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
             
             - Author: @${{ github.actor }}
@@ -33,7 +32,6 @@ jobs:
             - Workflow Path: ${{ github.workflow_ref }}
             - Pull Request Number: #${{ github.event.number }}
             - Pull Request Title: ${{ github.event.pull_request.title }}
-            - Pull Request Body: ${{ github.event.pull_request.body }}
 
             ---
             

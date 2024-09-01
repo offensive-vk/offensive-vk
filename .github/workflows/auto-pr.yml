@@ -1,4 +1,4 @@
-name: 🤖 Automated Pull Request
+name: 🤖 Automated Pull Request - Hamster
 
 on:
   push:
@@ -25,7 +25,7 @@ jobs:
           ## Yayy ! This Pull Request Was Automated by [Hamster [bot]](https://github.com/npm-run-test)
 
           > [!IMPORTANT]
-          > Triggered / What Happened: ${{ github.event_name }} at ${{ github.event_path }} path.
+          > What Happened: ${{ github.event_name }} event at ${{ github.action_path }} path.
           > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @${{ github.actor }}
