@@ -43,6 +43,18 @@ jobs:
           Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
           EOF)
           echo "$markdown" > .github/Auto_Pull_Request.md
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "npm-run-test"
+          git config --global user.email "node_modules@hotmail.com"
+          git fetch && git pull
+          git add .
+          git commit -m "Update Pull Request Template
+
+          Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
+          Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          git push
+  
       - name: Create or Open A PR
         id: open-pr
         uses: repo-sync/pull-request@v2
@@ -50,7 +62,7 @@ jobs:
           github_token: ${{ secrets.BOT_TOKEN }}
           destination_branch: "master"
           pr_title: |
-            Automated Pull Request: ${GITHUB_REF##*/} - ${github.event.head_commit.message} (#${github.event.head_commit.id})
+            Automated Pull Request - ${github.event.head_commit.message} (#${github.event.head_commit.id})
           pr_template: ".github/Auto_Pull_Request.md"
           pr_reviewer: "offensive-vk"
           pr_label: "bot,automated,hamster,pull-request"
