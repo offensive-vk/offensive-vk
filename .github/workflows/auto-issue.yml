@@ -32,6 +32,7 @@ jobs:
             - Workflow Path: ${{ github.workflow_ref }}
             - Pull Request Number: #${{ github.event.number }}
             - Pull Request Title: ${{ github.event.pull_request.title }}
+            
             ---
 
             Thanks.
@@ -43,7 +44,7 @@ jobs:
         run: |
           git config --global user.name "npm-run-test"
           git config --global user.email "node_modules@hotmail.com"
-          git fetch && git pull
+          git fetch && git pull ${{ github.head_ref }} --verbose
           git add .
           git commit -m "Dynamic Issue Template.
 
