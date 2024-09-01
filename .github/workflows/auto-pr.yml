@@ -11,7 +11,7 @@ on:
       - "Best-Readme-Ever"
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 */1 * * *' 
 
 jobs:
   create_pr:
@@ -30,7 +30,7 @@ jobs:
 
           - Author: @npm-run-test
           - Admin: @offensive-vk
-          - Branch: ${{ github.ref }} (base) / ${{ github.ref }} (head)
+          - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
           - Pull Request Number: #${{ github.event.number }}

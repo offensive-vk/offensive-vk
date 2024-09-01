@@ -7,7 +7,7 @@ on:
     types: ["created"]
   workflow_dispatch:
   schedule:
-    - cron: "0 */1 * * 0"
+    - cron: "0 */1 * * *"
 
 jobs:
   create_issue:
@@ -40,17 +40,7 @@ jobs:
             Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
           EOF)
           echo "$markdown" > .github/Auto_Issue_Request.md
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "npm-run-test"
-          git config --global user.email "node_modules@hotmail.com"
-          git fetch && git pull https://github.com/${{ github.repository}} ${{ github.head_ref }} --verbose
-          git add .
-          git commit -m "Dynamic Issue Template.
-
-          Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
-          Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-          git push
+          git commit -m "Dynamic Issue Template Update."
       - name: Create Dynamic Issue
         uses: dacbd/create-issue-action@main
         with:
