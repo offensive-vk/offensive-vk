@@ -21,7 +21,6 @@ jobs:
       - name: Generate Pull Request Template
         run: |
           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
-
           markdown=$(cat <<EOF
           ## Yayy ! This Pull Request Was Automated by [Hamster [bot]](https://github.com/npm-run-test)
 

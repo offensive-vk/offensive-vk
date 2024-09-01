@@ -17,10 +17,13 @@ jobs:
       - uses: actions/checkout@v4
       - name: Generate Issue Template
         run: |
+            timestamp=$(date '+%b %d, %A %I:%M:%S %p')
+            markdown=$(cat <<EOF
+
             ## Information Regarding the Pull Request:
             
             > [!IMPORTANT]
-            > Triggered / What Happened: ${{ github.event_name }} at ${{ github.event_path }} path.
+            > What Happened: ${{ github.event_name }} at ${{ github.event_path }} path.
             > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
             
             - Author: @${{ github.actor }}
@@ -35,6 +38,7 @@ jobs:
             ---
             
             Thanks.
+            $timestamp
             Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
             EOF)
             echo "$markdown" > .github/Auto_Issue_Request.md
@@ -43,7 +47,7 @@ jobs:
         with:
           token: ${{ secrets.BOT_TOKEN }}
           title: |
-            Event : ${{ github.workflow }} during ${{ github.event_name }} Event was Successful - Automated 🤖
+            CI: ${{ github.workflow }} during ${{ github.event_name }} Event was Successful - Hamster 🐹
           assignees: npm-run-test
           labels: automated,bot,hamster,issue
           body: |
