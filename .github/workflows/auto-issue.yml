@@ -48,7 +48,7 @@ jobs:
         with:
           token: ${{ secrets.BOT_TOKEN }}
           title: |
-            ${{ github.workflow }} 🐹
+            ${{ github.workflow }} - ${{ github.head_ref }} branch.
           assignees: npm-run-test
           labels: automated,bot,hamster,issue
           body: |
