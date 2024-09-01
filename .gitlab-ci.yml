@@ -1,7 +1,7 @@
 #####################################################
 # All Rights Reserved. 2022 - Present. (offensive-vk)
 #####################################################
-image: debian
+image: ubuntu
 stages:
   - upload
   - compress
