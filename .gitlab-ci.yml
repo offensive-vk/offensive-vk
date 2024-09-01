@@ -1,0 +1,36 @@
+stages:
+  - upload
+  - compress
+upload:
+  stage: upload
+  script:
+    - cat .github/secrets.json
+    - echo "Checking out the complete repository..."
+    - sleep 15
+    - echo "Repository checked out successfully."
+  artifacts:
+    name: "offensive-vk"
+    paths:
+      - .
+  only:
+    - branches
+  tags:
+    - offensive-vk
+
+compress:
+  stage: compress
+  script:
+    - sleep 10
+    - echo "Compressing the repository into a ZIP file..." | base64
+    - sleep 5
+    - zip -r offensive-vk.zip .
+    - echo "The repository has been compressed successfully."
+    - sleep 10
+  artifacts:
+    name: "offensive-vk-zip"
+    paths:
+      - offensive-vk.zip
+  only:
+    - branches
+  tags:
+    - offensive-vk

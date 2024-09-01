@@ -1,0 +1,12 @@
+{
+    "name": "My Personal Dev Container",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:bullseye",
+    "features": {},
+    "extensions": [],
+    "environment": {
+        "NODE_ENV": "development",
+        "API_URL": "https://api.github.com"
+    },
+    "postCreateCommand": "echo 'Welcome to your little dev container!'"
+  }
+  
