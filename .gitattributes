@@ -3,6 +3,9 @@
 *.yml linguist-language=YAML
 *.yml linguist-detectable=true
 *.yml linguist-documentation=false
+*.yaml linguist-language=YAML
+*.yaml linguist-detectable=true
+*.yaml linguist-documentation=false
 *.md linguist-language=Markdown
 *.md linguist-detectable=true
 *.md linguist-documentation=false

@@ -17,7 +17,7 @@ jobs:
       - name: Adds Activity to Readme.md
         uses: lissy93/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
           COMMIT_MSG: |
             ':zap: Updated Recent Activity in Readme
 
@@ -30,7 +30,7 @@ jobs:
       - name: Adds Latest Activity to File
         uses: lissy93/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
           COMMIT_MSG: |
             ':zap: Updated Recent Activity
 
@@ -39,4 +39,4 @@ jobs:
             Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
         with:
           MAX_LINES: 150
-          TARGET_FILE: 'assets/RECENT.md'
+          TARGET_FILE: './RECENT.md'

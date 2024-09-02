@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: siddharth2016/quote-readme@main
         with:
-          GH_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
           COMMIT_MESSAGE: | 
             :cloud: Updated Daily Quote 
             

@@ -27,7 +27,7 @@ jobs:
       - name: Commit files
         run: |
           git config --global user.email "node_modules@hotmail.com"
-          git config --global user.name "npm-run-test"
+          git config --global user.name "TheHamsterBot"
           git add .
           git commit -m ":snake: Updated Snake Animation
           
@@ -38,5 +38,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.BOT_GH_TOKEN }}
+          github_token: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
           branch: ${{ github.ref }}

@@ -17,13 +17,13 @@ jobs:
         uses: rverst/stargazer@v1.2.0
         with:
           github-user: ${{ github.actor }}
-          github-token: ${{ secrets.BOT_GH_TOKEN }}
+          github-token: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
           list-file: "STARRED.md"
 
       - name: Commit changes
         run: |
           git config --local user.email "node_modules@hotmail.com"
-          git config --local user.name "npm-run-test"
+          git config --local user.name "TheHamsterBot"
           git add .
           git commit -m ":star: Updates Starred Repo List.
           
@@ -34,5 +34,5 @@ jobs:
       - name: Push the Changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.BOT_GH_TOKEN }}
+          github_token: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
           branch: ${{ github.ref }}

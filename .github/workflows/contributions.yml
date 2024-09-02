@@ -6,18 +6,18 @@ on:
 jobs:
   process:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     name: Generate Pattern
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
-          GITHUB_TOKEN: ${{ secrets.BOT_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
           USERNAME: ${{ github.repository_owner || 'offensive-vk' }}
       - name: Commit & Push
         run: |
           git config user.email "node_modules@hotmail.com"
-          git config user.name "npm-run-test"
+          git config user.name "TheHamsterBot"
           git add -A .
           git commit -m ":bowtie: Updated The Contributions Patterns.
           
@@ -25,4 +25,3 @@ jobs:
           Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           git push
-          echo "Job Completed" | base64
