@@ -162,7 +162,7 @@
 </details>
 
 <details>
-    <summary><h4>CI and Workflow Status ✅</h4></summary>
+    <summary><h4>🐹 CI and Workflow Status ✅</h4></summary>
 
 [![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)
 [![🌨️ Docker - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
