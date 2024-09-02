@@ -2,7 +2,6 @@
 # All Rights Reserved. 2022 - Present. (offensive-vk)
 #####################################################
 image: ubuntu
-
 stages:
   - upload
   - compress
@@ -28,6 +27,7 @@ compress:
     - sleep 10
     - echo "Compressing the repository into a ZIP file..." | base64
     - sleep 5
+    - sudo apt update; sudo apt install zip -y
     - zip -r offensive-vk.zip .
     - echo "The repository has been compressed successfully."
     - sleep 10
