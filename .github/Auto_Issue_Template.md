@@ -2,10 +2,10 @@
 ## Notification Regarding the Pull Request:
 
 > [!IMPORTANT]
-> What Happened: pull_request event by @npm-run-test.
+> What Happened: pull_request event by @TheHamsterBot.
 > Details of Run: https://github.com/offensive-vk/offensive-vk/actions/runs/10655537796
 
-- Author: @npm-run-test
+- Author: @TheHamsterBot
 - Admin: @offensive-vk
 - Branch: master (base) / auto-pr-issue-bot (head)
 - Commit: dd7ff173a09f1c734cd830c3c68d53ee0d9216aa

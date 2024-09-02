@@ -1,0 +1,20 @@
+name: 🗃️ Automated Project - Hamster 🐹
+on:
+  issues:
+    types: [opened, edited]
+  pull_request:
+    types: [opened, edited, synchronize]
+  workflow_dispatch:
+jobs:
+  add_to_project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Add Everything to Project
+        uses: actions/add-to-project@v1.0.2
+        with:
+          project-url: 'https://github.com/users/offensive-vk/projects/9'
+          github-token: ${{ secrets.BOT_TOKEN }}
+          issue-number: ${{ github.event.issue.number || github.event.pull_request.number }}

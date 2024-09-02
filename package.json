@@ -3,7 +3,9 @@
   "version": "10.0.1",
   "description": "My Personal Github Repository. (Automated)",
   "main": "README.md",
+  "bot": "https://github.com/TheHamsterBot",
   "scripts": {
+    "source": "https://github.com/offensive-vk/offensive-vk",
     "hello": "sleep 5; echo 'Development is Live !'",
     "dev": "sleep 5; echo 'Development Server Started... A Joke.' ",
     "image": "docker build -t mycontainer .",

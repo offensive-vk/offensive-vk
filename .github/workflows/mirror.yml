@@ -1,4 +1,4 @@
-name: 🦅 Gitlab Mirror Sync
+name: 🦅 Gitlab - Mirror Sync
 on:
   schedule:
     - cron: '0 */2 * * *'
