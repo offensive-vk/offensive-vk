@@ -19,7 +19,7 @@ jobs:
         run: |
           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
           markdown=$(cat <<EOF
-            ## Information Regarding the Pull Request:
+            ## Notification Regarding the Pull Request:
 
             > [!IMPORTANT]
             > What Happened: ${{ github.event_name }} event by @${{ github.actor.login }}.
