@@ -8,7 +8,7 @@ on:
 jobs:
   update_activity:
     runs-on: ubuntu-latest
-    name: Updated Recent Activities.
+    name: Update Recent Activities
 
     steps:
       - name: Checkout
@@ -17,9 +17,10 @@ jobs:
       - name: Adds Activity to Readme.md
         uses: lissy93/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN }}
           COMMIT_MSG: |
             ':zap: Updated Recent Activity in Readme
+
 
             Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
             Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
@@ -29,9 +30,10 @@ jobs:
       - name: Adds Latest Activity to File
         uses: lissy93/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN }}
           COMMIT_MSG: |
             ':zap: Updated Recent Activity
+
 
             Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
             Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'

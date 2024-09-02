@@ -2,7 +2,7 @@ name: 🤖 Automated Issue - Hamster 🐹
 
 on:
   pull_request:
-    types: ["opened", "closed", "synchronize"]
+    types: ["opened", "closed"]
   issue_comment:
     types: ["created"]
   workflow_dispatch:
@@ -19,14 +19,13 @@ jobs:
         run: |
           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
           markdown=$(cat <<EOF
-            ## Information Regarding the Pull Request:
+            ## Notification Regarding the Pull Request:
 
             > [!IMPORTANT]
-            > What Happened: ${{ github.event_name }} event by @${{ github.actor.login }}.
+            > What Happened: ${{ github.event_name }} event by @${{ github.event.issue.user.login }}.
             > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
             - Author: @npm-run-test
-            - Admin: @offensive-vk
             - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
             - Commit: ${{ github.sha }}
             - Workflow Path: ${{ github.workflow_ref }}
@@ -56,11 +55,18 @@ jobs:
 
   close_issue:
     runs-on: ubuntu-latest
-    if: github.event_name == 'issue_comment' && github.event.issue.state == 'open'
+    if: |
+      github.event_name == 'issue_comment' &&
+      github.event.issue.state == 'open' &&
+      contains(github.event.issue.labels[*].name, 'automated') &&
+      github.event.issue.user.login == 'npm-run-test' &&
+      contains(github.event.comment.body, 'hamster /close') &&
+      (github.event.comment.user.login == github.event.repository.owner.login || 
+      github.event.comment.user.login == github.event.issue.user.login)
     steps:
       - name: Close Issue
         uses: peter-evans/close-issue@v2
         with:
           token: ${{ secrets.BOT_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
-          comment: "Hamster [bot] - Issue Closed. At Your Service."
+          comment: "Hamster [bot] - Closed This Issue. (As Requested)"

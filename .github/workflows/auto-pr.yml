@@ -24,18 +24,17 @@ jobs:
           markdown=$(cat <<EOF
           ## This Pull Request Was Automated by My [Hamster [bot]](https://github.com/npm-run-test)
 
-          > [!IMPORTANT]
+          > [!NOTE]
           > What Happened: ${{ github.event_name }} event at ${{ github.head_ref }} branch.
           > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @npm-run-test
-          - Admin: @offensive-vk
           - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
           - Pull Request Number: #${{ github.event.number }}
-          - Pull Request Title: ${{ github.event.pull_request.title }}
-          
+          - Commit Details: ${{ github.event.pusher.name }} <${{ github.event.pusher.email }}>
+         
           ---
           
           Thanks.
@@ -43,13 +42,16 @@ jobs:
           Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
           EOF)
           echo "$markdown" > .github/Auto_Pull_Request.md
+          echo "MARKDOWN_CONTENT<<EOF" >> $GITHUB_ENV
+          echo "$markdown" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
       - name: Commit and Push Changes
         run: |
           git config --global user.name "npm-run-test"
           git config --global user.email "node_modules@hotmail.com"
           git fetch && git pull
           git add .
-          git commit -m "Dynamic Pull Request Template
+          git commit -m "📝 Dynamic Pull Request Template
 
           Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
@@ -60,8 +62,8 @@ jobs:
         with:
           github_token: ${{ secrets.BOT_TOKEN }}
           destination_branch: "master"
-          pr_title: "${{ github.workflow }} - (#${{ github.event.head_commit.id }})"
-          pr_template: ".github/Auto_Pull_Request.md"
+          pr_title: "${{ github.workflow }} - (${{ github.event.head_commit.message }})"
+          pr_body: ${{ env.MARKDOWN_CONTENT }}
           pr_reviewer: "offensive-vk"
           pr_label: "bot,automated,hamster,pull-request"
           pr_assignee: "npm-run-test"
