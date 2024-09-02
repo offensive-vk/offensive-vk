@@ -1,4 +1,4 @@
-## Yayy ! This Pull Request Was Automated by [Hamster [bot]](https://github.com/npm-run-test)
+## This Pull Request Was Automated by [Hamster [bot]](https://github.com/npm-run-test)
 
 > [!IMPORTANT]
 > What Happened: push event at  path.
