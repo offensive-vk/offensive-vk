@@ -4,7 +4,7 @@
 image: ubuntu
 stages:
   - upload
-  - compress
+  - refresh
 
 upload:
   stage: upload
@@ -21,15 +21,15 @@ upload:
     - schedule
     - branches
 
-compress:
-  stage: compress
+refresh:
+  stage: refresh
   script:
     - sleep 10
     - echo "Compressing the repository into a ZIP file..." | base64
     - sleep 5
-    - sudo apt update; sudo apt install zip -y
-    - zip -r offensive-vk.zip .
-    - echo "The repository has been compressed successfully."
+    - apt update; apt install zip tar neofetch -y
+    - neofetch
+    - echo "The repository has been compressed verified."
     - sleep 10
   artifacts:
     name: "offensive-vk-zip"
