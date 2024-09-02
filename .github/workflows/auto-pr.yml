@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Create or Open A PR
-        id: open-pr
+        id: create-pr
         uses: repo-sync/pull-request@v2
         with:
           github_token: ${{ secrets.BOT_TOKEN }}
@@ -31,6 +31,9 @@ jobs:
           pr_assignee: "TheHamsterBot"
           pr_draft: false
 
+      - name: Save PR Number in ENV
+        run: echo "PR_NUMBER=${{ steps.create-pr.outputs.number }}" >> $GITHUB_ENV
+
   update_pr:
     needs: create_pr
     runs-on: ubuntu-latest
@@ -39,7 +42,6 @@ jobs:
       - name: Generate Pull Request Template
         run: |
           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
-          pr_number=$(jq --raw-output .pull_requests[0].number <<<"${{ steps.open-pr.outputs.result }}")
           markdown=$(cat <<EOF
           ## This Pull Request Was Automated by My [Hamster [bot]](https://github.com/TheHamsterBot)
 
@@ -51,7 +53,7 @@ jobs:
           - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
-          - Pull Request Number: #${pr_number}
+          - Pull Request Number: #${{ needs.create_pr.outputs.pr_number }}
           - Commit Details: ${{ github.event.pusher.username }} <${{ github.event.pusher.email }}>
          
           ---
@@ -67,10 +69,10 @@ jobs:
           
       - name: Update Pull Request Body
         run: |
-          pr_number=$(jq --raw-output .pull_requests[0].number <<<"${{ steps.open-pr.outputs.result }}")
-          gh pr edit $pr_number --body "$markdown"
+          gh pr edit $PR_NUMBER --body "$markdown"
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
+
 
 # name: 🤖 Automated Pull Request - Hamster 🐹
 
