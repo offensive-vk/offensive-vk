@@ -8,6 +8,13 @@
      </picture>
    </a>
 </div>
+
+[![🦅 Gitlab Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
+[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
+[![👩‍💻 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
+[![🌄 Morning Maintenance](https://github.com/offensive-vk/offensive-vk/actions/workflows/morning.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/morning.yml)
+[![💬 Update Daily Quote](https://github.com/offensive-vk/offensive-vk/actions/workflows/quote.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/quote.yml)
+[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
 <!--
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
 
