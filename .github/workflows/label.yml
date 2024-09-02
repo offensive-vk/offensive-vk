@@ -32,7 +32,7 @@ jobs:
           const body = issue.body ? issue.body.toLowerCase() : '';
 
           const labelMapping = [
-            {label: 'ci/cd', match: [ci/cd', 'pipeline', 'workflow', '.yml', 'dockerfile', '*.yml', '.github/workflows/*.yml', 'dockerfile', 'compose.yaml']},
+            {label: 'ci/cd', match: ['ci/cd', 'pipeline', 'workflow', '.yml', 'dockerfile', '*.yml', '.github/workflows/*.yml', 'dockerfile', 'compose.yaml']},
             {label: 'template', match: ['.github/auto_pull_request.md', '.github/auto_issue_template.md']},
             {label: 'dotfiles', match: ['.gitlab-ci.yml', '.gitignore', '.gitattributes', '.dockerignore', 'dockerfile', 'license', 'package.json', 'pnpm-lock.yaml']},
             {label: 'markdown', match: ['markdown','**/*.md', './**/*']},
@@ -41,7 +41,7 @@ jobs:
             {label: 'enhancement', match: ['feature', 'improve', 'updated', 'update']},
             {label: 'question', match: ['?', 'question', 'please', 'help']},
             {label: 'schedule', match: ['schedule', 'daily', 'automate', 'hamster', 'ci', 'cd']},
-            {label: 'boss' , match: ['offensive-vk', 'boss', 'admin', 'devops', 'final-boss']},
+            {label: 'boss', match: ['offensive-vk', 'boss', 'admin', 'devops', 'final-boss']},
             {label: 'workflow', match: ['yaml', 'yml', 'config','yaml/**/*', '**/*.yml', '**/*.yaml', '.github/*.yml', '.github/workflows/*.yml']}
           ];
 
@@ -57,7 +57,6 @@ jobs:
             labels.push('unknown');
           }
 
-          // Apply the labels to the issue
           if (labels.length > 0) {
             await github.rest.issues.addLabels({
               owner: context.repo.owner,
