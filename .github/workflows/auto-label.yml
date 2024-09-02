@@ -41,7 +41,7 @@ jobs:
             {label: 'enhancement', match: ['feature', 'improve', 'updated', 'update']},
             {label: 'question', match: ['?', 'question', 'please', 'help']},
             {label: 'schedule', match: ['schedule', 'daily', 'automate', 'hamster', 'ci', 'cd']},
-            {label: 'boss', match: ['offensive-vk', 'boss', 'admin', 'devops', 'final-boss']},
+            {label: 'boss', match: ['og', 'boss', 'admin', 'devops', 'final-boss']},
             {label: 'workflow', match: ['yaml', 'yml', 'config','yaml/**/*', '**/*.yml', '**/*.yaml', '.github/*.yml', '.github/workflows/*.yml']}
           ];
 

@@ -22,7 +22,7 @@ jobs:
             ## Notification Regarding the Pull Request:
 
             > [!IMPORTANT]
-            > What Happened: ${{ github.event_name }} event by @${{ github.event.issue.user.login }}.
+            > What Happened: ${{ github.event_name }} event by ${{ github.event.issue.user.id }}.
             > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
             - Author: @TheHamsterBot
