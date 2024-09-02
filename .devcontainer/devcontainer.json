@@ -1,5 +1,5 @@
 {
-    "name": "My Personal Dev Container",
+    "name": "Personal Dev Container",
     "image": "mcr.microsoft.com/vscode/devcontainers/base:bullseye",
     "features": {},
     "extensions": [],

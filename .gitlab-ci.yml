@@ -2,9 +2,11 @@
 # All Rights Reserved. 2022 - Present. (offensive-vk)
 #####################################################
 image: ubuntu
+
 stages:
   - upload
   - compress
+
 upload:
   stage: upload
   script:
@@ -17,9 +19,8 @@ upload:
     paths:
       - .
   only:
+    - schedule
     - branches
-  tags:
-    - offensive-vk
 
 compress:
   stage: compress
@@ -36,5 +37,4 @@ compress:
       - offensive-vk.zip
   only:
     - branches
-  tags:
-    - offensive-vk
+    - schedule

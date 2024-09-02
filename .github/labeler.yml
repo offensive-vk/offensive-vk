@@ -1,0 +1,40 @@
+# ** DO NOT MODIFY **
+ci/cd:
+  - '*.yml'
+  - '.github/workflows/*.yml'
+  - 'Dockerfile'
+  - 'compose.yaml'
+
+template:
+  - '.github/Auto_Pull_Request.md'
+  - '.github/Auto_Issue_Template.md'
+
+dotfiles:
+  - '.gitlab-ci.yml'
+  - '.gitignore'
+  - '.gitattributes'
+  - '.dockerignore'
+  - '.npmrc'
+  - 'Dockerfile'
+  - 'LICENSE'
+  - 'package.json'
+  - 'pnpm-lock.yaml'
+
+markdown:
+  - '**/*.md'
+  - './**/*'
+
+devcontainer:
+  - '.devcontainer/*'
+
+secrets:
+  - '**/*.mp3'
+  - '**/*.txt'
+
+workflow:
+  - 'YAML/**/*'
+  - '**/*.yml'
+  - '**/*.yaml'
+  - '.github/*.yml'
+  - '.github/workflows/*.yml'
+# ** DO NOT MODIFY **
