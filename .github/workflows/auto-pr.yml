@@ -29,7 +29,6 @@ jobs:
           > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @npm-run-test
-          - Admin: @offensive-vk
           - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
