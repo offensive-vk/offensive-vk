@@ -33,7 +33,7 @@ jobs:
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
           - Pull Request Number: #${{ github.event.number }}
-          - Pusher Detailis : ${{ github.event.pusher }}
+          - Commit Details: ${{ github.event.pusher.name }} <${{ github.event.pusher.email }}>
          
           ---
           
