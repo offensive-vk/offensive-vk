@@ -20,7 +20,7 @@ jobs:
           github-token: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
           list-file: "STARRED.md"
 
-      - name: Commit changes
+      - name: Commit Changes
         run: |
           git config --local user.email "node_modules@hotmail.com"
           git config --local user.name "TheHamsterBot"
