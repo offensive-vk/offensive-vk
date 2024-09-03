@@ -31,6 +31,8 @@ jobs:
             - Workflow Path: ${{ github.workflow_ref }}
             - Pull Request Number: #${{ github.event.number }}
             - Pull Request Title: ${{ github.event.pull_request.title }}
+            - Issue Details: ${{ github.event.issue.id }} - ${{ github.event.issue.number }} 
+            - Current Action Status: ${{ github.action_status }}
 
             ---
 

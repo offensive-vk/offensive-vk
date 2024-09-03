@@ -18,13 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Get Branch Info
-        id: branch-info
-        run: |
-          echo "BASE_REF=$(git rev-parse --abbrev-ref HEAD)" >> $GITHUB_ENV
-          echo "HEAD_REF=$(git rev-parse --abbrev-ref origin/HEAD)" >> $GITHUB_ENV
 
-      - name: Create or Open A PR
+      - name: Create or Update Pull Request
         id: create-pr
         uses: repo-sync/pull-request@v2
         with:
@@ -52,15 +47,15 @@ jobs:
           ## This Pull Request Was Automated by [Hamster [bot]](https://github.com/TheHamsterBot)
 
           > [!NOTE]
-          > Workflow Trigger: ${{ github.event_name }} event at ${{ env.HEAD_REF }} branch.
+          > Workflow Trigger: ${{ github.event_name }} event at ${{ github.action_ref }} .
           > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @TheHamsterBot
-          - Branch: ${{ env.BASE_REF }} (base) / ${{ env.HEAD_REF }} (head)
+          - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
-          - Pull Request Number: #${{ env.PR_NUMBER }}
-          - Pusher Details: ${{ github.event.issue.user.id }} <${{ github.event.pusher.email }}>
+          - Pull Request Number: #${{ github.event.pull_request.number || github.event.number || needs.create_pr.outputs.pr_number}}
+          - Pusher Details: ${{ github.event.pusher.name }} <${{ github.event.pusher.email }}>
          
           ---
           
@@ -154,75 +149,3 @@ jobs:
 #           gh pr edit "$PR_NUMBER" --body "$MARKDOWN_CONTENT"
 #         env:
 #           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
-
-
-# name: 🤖 Automated Pull Request - Hamster 🐹
-
-# on:
-#   push:
-#     branches-ignore:
-#       - "main"
-#       - "master"
-#       - "old"
-#       - "readme-2022"
-#       - "Automation"
-#       - "Best-Readme-Ever"
-#   workflow_dispatch:
-#   schedule:
-#     - cron: '0 */1 * * *' 
-
-# jobs:
-#   create_pr:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v4
-#       - name: Generate Pull Request Template
-#         run: |
-#           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
-#           markdown=$(cat <<EOF
-#           ## This Pull Request Was Automated by My [Hamster [bot]](https://github.com/TheHamsterBot)
-
-#           > [!NOTE]
-#           > What Happened: ${{ github.event_name }} event at ${{ github.head_ref }} branch.
-#           > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
-#           - Author: @TheHamsterBot
-#           - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
-#           - Commit: ${{ github.sha }}
-#           - Workflow Path: ${{ github.workflow }}
-#           - Pull Request Number: #${{ github.event.number }}
-#           - Commit Details: ${{ github.event.pusher.name }} <${{ github.event.pusher.email }}>
-         
-#           ---
-          
-#           Thanks.
-#           $timestamp
-#           Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
-#           EOF)
-#           echo "$markdown" > .github/Auto_Pull_Request.md
-#           echo "MARKDOWN_CONTENT<<EOF" >> $GITHUB_ENV
-#           echo "$markdown" >> $GITHUB_ENV
-#           echo "EOF" >> $GITHUB_ENV
-#       - name: Commit and Push Changes
-#         run: |
-#           git config --global user.name "TheHamsterBot"
-#           git config --global user.email "node_modules@hotmail.com"
-#           git fetch && git pull
-#           git add .
-#           git commit -m "📝 Dynamic Pull Request Template
-
-#           Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
-#           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-  
-#       - name: Create or Open A PR
-#         id: open-pr
-#         uses: repo-sync/pull-request@v2
-#         with:
-#           github_token: ${{ secrets.BOT_TOKEN }}
-#           destination_branch: "master"
-#           pr_title: "${{ github.workflow }} - (${{ github.event.head_commit.message }})"
-#           pr_body: ${{ env.MARKDOWN_CONTENT }}
-#           pr_reviewer: "offensive-vk"
-#           pr_label: "bot,automated,hamster,pull-request"
-#           pr_assignee: "TheHamsterBot"
-#           pr_draft: false
