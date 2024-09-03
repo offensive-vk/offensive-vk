@@ -1,12 +1,12 @@
 {
   "name": "offensive-vk",
   "version": "10.0.1",
-  "description": "My Personal Github Repository. (Automated)",
+  "description": "My Personal Github Repository. (Fully Automated)",
   "main": "README.md",
   "bot": "https://github.com/TheHamsterBot",
   "scripts": {
     "source": "https://github.com/offensive-vk/offensive-vk",
-    "hello": "sleep 5; echo 'Development is Live !'",
+    "hello": "sleep 5; echo 'My Container says Hello !'",
     "dev": "sleep 5; echo 'Development Server Started... A Joke.' ",
     "image": "docker build -t mycontainer .",
     "compose": "docker compose up --build --no-orphans",
@@ -26,7 +26,7 @@
     "url": "https://github.com/offensive-vk/"
   },
   "license": "MIT",
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@9.9.9",
   "repository": {
     "type": "git",
     "url": "https://github.com/offensive-vk/"

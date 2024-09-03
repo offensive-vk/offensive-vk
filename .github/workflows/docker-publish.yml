@@ -3,8 +3,6 @@ name: 🌨️ Docker - Publish Image
 on:
   schedule:
     - cron: '15 0 * * 0'
-  push:
-    branches: [ "master" ]
   workflow_dispatch:
 
 env:

@@ -2,6 +2,7 @@
 # All Rights Reserved. 2022 - Present. (offensive-vk)
 #####################################################
 image: ubuntu
+
 stages:
   - upload
   - refresh
@@ -36,5 +37,4 @@ refresh:
     paths:
       - offensive-vk.zip
   only:
-    - branches
     - schedule
