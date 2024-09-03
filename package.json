@@ -6,7 +6,7 @@
   "bot": "https://github.com/TheHamsterBot",
   "scripts": {
     "source": "https://github.com/offensive-vk/offensive-vk",
-    "hello": "sleep 5; echo 'Development is Live !'",
+    "hello": "sleep 5; echo 'My Container says Hello !'",
     "dev": "sleep 5; echo 'Development Server Started... A Joke.' ",
     "image": "docker build -t mycontainer .",
     "compose": "docker compose up --build --no-orphans",
