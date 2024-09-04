@@ -16,7 +16,7 @@ jobs:
   monitor-workflows:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Get the workflow jobs
@@ -26,8 +26,9 @@ jobs:
 
       - name: Create issue if jobs failed or skipped
         if: env.jobs != ''
-        uses: actions/create-issue@v3
+        uses: dacbd/create-issue-action@main
         with:
+          token: ${{ secrets.BOT_TOKEN }}
           title: Workflow Failure or Skipped Jobs
           body: |
             > [!CAUTION]
