@@ -1,0 +1,88 @@
+name: ⚠️ Report Workflow Failures
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+  workflow_run:
+    workflows: 
+        - "🤖 Automated Issue - Hamster 🐹"
+        - "🏷️ Automated Label - Hamster 🐹"
+        - "🤖 Automated Pull Request - Hamster 🐹"
+        - "🗃️ Automated Project - Hamster 🐹"
+        - "🛫 Auto Update Dependencies"
+    types: [completed]
+
+jobs:
+  monitor-workflows:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Get the workflow jobs
+        id: get-jobs
+        run: |
+          echo "jobs=$(gh run view ${{ github.event.workflow_run.id }} --json jobs --jq '.jobs[] | select(.conclusion == "failure" or .conclusion == "skipped") | .name')" >> $GITHUB_ENV
+
+      - name: Create issue if jobs failed or skipped
+        if: env.jobs != ''
+        uses: actions/create-issue@v3
+        with:
+          title: Workflow Failure or Skipped Jobs
+          body: |
+            > [!CAUTION]
+            > The workflow *${{ github.event.workflow_run.name }}* (ID: ${{ github.event.workflow_run.id }}) failed or had skipped jobs.
+            >
+            
+            *Failed or Skipped jobs:*
+            ${{ env.jobs }}
+
+            *Failure details:*
+            Conclusion: ${{ github.event.workflow_run.conclusion }}
+            Status: ${{ github.event.workflow_run.status }}
+          labels: automated, bot, hamster, issue
+
+# name: Monitor Workflow Failures and Skipped Jobs
+
+# on:
+#   workflow_run:
+#     types: [queued, started, completed]
+
+# jobs:
+#   monitor-workflows:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+
+#       - name: Get failed or skipped jobs
+#         id: get-failed-jobs
+#         uses: actions/workflow@v1
+#         with:
+#           workflow_id: ${{ github.event.workflow_run.workflow_id }}
+#           event: workflow_run
+
+#       - name: Check for failed or skipped jobs
+#         if: ${{ steps.get-failed-jobs.outputs.workflow_run.status == 'failed' || steps.get-failed-jobs.outputs.workflow_run.status == 'skipped' }}
+#         run: |
+#           failed_jobs=$(echo "${{ steps.get-failed-jobs.outputs.workflow_run.jobs }}" | jq '.[] | select(.status == "failed" or .status == "skipped") | .name')
+#           if [ -n "$failed_jobs" ]; then
+#             echo "::set-output name=failed_jobs::$failed_jobs"
+#           fi
+
+#       - name: Create issue if jobs failed or skipped
+#         if: ${{ steps.check-for-failed-jobs.outputs.failed_jobs != '' }}
+#         uses: actions/create-issue@v3
+#         with:
+#           title: Workflow Failure or Skipped Jobs
+#           body: |
+#             > [!CAUTION]
+#             > The workflow *${{ github.event.workflow_run.name }}* (ID: ${{ github.event.workflow_run.id }}) failed or had skipped jobs.
+#             >
+
+#             *Failed jobs:*
+#             ${{ steps.check-for-failed-jobs.outputs.failed_jobs }}
+
+#             *Failure details:*
+#             ${{ github.event.workflow_run.conclusion }}
+#             ${{ github.event.workflow_run.status_message }}
+#           labels: automated, bot, hamster, issue

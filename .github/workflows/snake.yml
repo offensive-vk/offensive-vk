@@ -8,7 +8,7 @@ on:
 jobs:
   snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
@@ -26,13 +26,13 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --global user.email "node_modules@hotmail.com"
+          git config --global user.email "TheHamsterBot@outlook.com"
           git config --global user.name "TheHamsterBot"
           git add .
           git commit -m ":snake: Updated Snake Animation
           
 
-          Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
+          Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
       
       - name: Push changes
