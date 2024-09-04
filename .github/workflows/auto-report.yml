@@ -11,7 +11,7 @@ on:
         - "🗃️ Automated Project - Hamster 🐹"
         - "🛫 Auto Update Dependencies"
     types: [completed]
-
+  workflow_dispatch:
 jobs:
   monitor-workflows:
     runs-on: ubuntu-latest

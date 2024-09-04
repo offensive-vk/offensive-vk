@@ -20,7 +20,6 @@ upload:
       - .
   only:
     - schedule
-    - branches
 
 refresh:
   stage: refresh
