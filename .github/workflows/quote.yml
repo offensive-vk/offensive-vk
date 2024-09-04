@@ -9,7 +9,7 @@ jobs:
   update-quote:
     name: Update Quote
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: siddharth2016/quote-readme@main
         with:
@@ -18,5 +18,5 @@ jobs:
             :cloud: Updated Daily Quote 
             
             
-            Signed-off-by: Hamster [bot] <node_modules@hotmail.com> 
+            Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com> 
             Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>

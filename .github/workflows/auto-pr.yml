@@ -54,7 +54,7 @@ jobs:
           - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
-          - Pull Request Number: #${{ github.event.pull_request.number || github.event.number || needs.create_pr.outputs.pr_number}}
+          - Pull Request Number: #${{ github.event.pull_request.number || needs.create_pr.outputs.pr_number}}
           - Pusher Details: ${{ github.event.pusher.name }} <${{ github.event.pusher.email }}>
          
           ---

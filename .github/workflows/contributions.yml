@@ -16,12 +16,12 @@ jobs:
           USERNAME: ${{ github.repository_owner || 'offensive-vk' }}
       - name: Commit & Push
         run: |
-          git config user.email "node_modules@hotmail.com"
+          git config user.email "TheHamsterBot@outlook.com"
           git config user.name "TheHamsterBot"
           git add -A .
           git commit -m ":bowtie: Updated The Contributions Patterns.
           
           
-          Signed-off-by: Hamster [bot] <node_modules@hotmail.com>
+          Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           git push
