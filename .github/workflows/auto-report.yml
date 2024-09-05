@@ -18,19 +18,24 @@ on:
 jobs:
   monitor-workflows:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Get the workflow jobs
-        id: get-jobs
+      - name: Get failed or skipped jobs
+        id: get-failed-jobs
         run: |
-          echo "jobs=$(gh run view ${{ github.event.workflow_run.id }} --json jobs --jq '.jobs[] | select(.conclusion == "failure" or .conclusion == "skipped") | .name')" >> $GITHUB_ENV
+          jobs=$(curl -s -H "Accept: application/vnd.github+json" \
+              -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+              https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/jobs)
+
+          failed_jobs=$(echo "$jobs" | jq '.jobs[] | select(.conclusion == "failure" or .conclusion == "skipped") | .name')
+          
+          if [ -n "$failed_jobs" ]; then
+            echo "failed_jobs=$failed_jobs" >> $GITHUB_ENV
+          else
+            echo "failed_jobs=" >> $GITHUB_ENV
+          fi
 
       - name: Create issue if jobs failed or skipped
-        if: env.jobs != ''
+        if: ${{ env.failed_jobs != '' }}
         uses: dacbd/create-issue-action@main
         with:
           token: ${{ secrets.BOT_TOKEN }}
@@ -39,13 +44,9 @@ jobs:
             > [!CAUTION]
             > The workflow *${{ github.event.workflow_run.name }}* (ID: ${{ github.event.workflow_run.id }}) failed or had skipped jobs.
             >
-            
-            *Failed or Skipped jobs:*
-            ${{ env.jobs }}
+            > *Failed or Skipped jobs:*
+            > ${{ env.failed_jobs }}
 
-            *Failure details:*
-            Conclusion: ${{ github.event.workflow_run.conclusion }}
-            Status: ${{ github.event.workflow_run.status }}
           labels: automated, bot, hamster, issue
 
 # name: Monitor Workflow Failures and Skipped Jobs
