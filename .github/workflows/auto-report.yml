@@ -35,6 +35,7 @@ jobs:
       - name: Create issue if jobs failed or skipped
         if: ${{ env.failed_jobs != '' }}
         uses: dacbd/create-issue-action@main
+        continue-on-error: true
         with:
           labels: automated, bot, hamster, issue
           token: ${{ secrets.BOT_TOKEN }}
