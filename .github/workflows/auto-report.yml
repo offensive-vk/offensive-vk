@@ -1,8 +1,6 @@
 name: ⚠️ Report Workflow Failures
 
 on:
-  schedule:
-    - cron: '0 */1 * * *'
   workflow_run:
     workflows: 
         - "🤖 Automated Issue - Hamster 🐹"
@@ -19,11 +17,11 @@ jobs:
   monitor-workflows:
     runs-on: ubuntu-latest
     steps:
-      - name: Get failed or skipped jobs
+      - name: Watch for failed or skipped jobs
         id: get-failed-jobs
         run: |
           jobs=$(curl -s -H "Accept: application/vnd.github+json" \
-              -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+              -H "Authorization: Bearer ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}" \
               https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/jobs)
 
           failed_jobs=$(echo "$jobs" | jq '.jobs[] | select(.conclusion == "failure" or .conclusion == "skipped") | .name')
@@ -38,6 +36,7 @@ jobs:
         if: ${{ env.failed_jobs != '' }}
         uses: dacbd/create-issue-action@main
         with:
+          labels: automated, bot, hamster, issue
           token: ${{ secrets.BOT_TOKEN }}
           title: Workflow Failure or Skipped Jobs
           body: |
@@ -46,8 +45,10 @@ jobs:
             >
             > *Failed or Skipped jobs:*
             > ${{ env.failed_jobs }}
+            # *Failure details:*
+            ${{ github.event.workflow_run.conclusion }}
+            ${{ github.event.workflow_run.status_message }}
 
-          labels: automated, bot, hamster, issue
 
 # name: Monitor Workflow Failures and Skipped Jobs
 
