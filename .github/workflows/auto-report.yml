@@ -10,11 +10,16 @@ on:
         - "🤖 Automated Pull Request - Hamster 🐹"
         - "🗃️ Automated Project - Hamster 🐹"
         - "🛫 Auto Update Dependencies"
+        - "⛅ Docker - Build Image"
+        - "🌨️ Docker - Publish Image"
+        - "🦅 Gitlab - Mirror Sync"
     types: [completed]
   workflow_dispatch:
 jobs:
   monitor-workflows:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
