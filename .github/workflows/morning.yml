@@ -39,12 +39,12 @@ jobs:
 
       - name: Say Good Morning
         run: |
-          echo -e "\nGood Morning, General ! \n\nToday is $DATE \n\n$TIME" > GREETINGS.md
+          echo -e "\n# Good Morning, **General** ! \n\nToday is **$DATE** \n\n$`TIME`" > GREETINGS.md
       
       - name: Commit & Push Changes
         run: |
           git config --global user.name "Hamster [bot]"
           git config --global user.email "TheHamsterBot@outlook.com"
           git add GREETINGS.md
-          git commit -m "🤖 Updated GREETINGS.md with Good Morning message for $DATE"
+          git commit -m "Hamster Sends Greeting for $DATE."
           git push
