@@ -24,7 +24,7 @@ jobs:
       - name: Install & Upgrade Dependencies
         run: |
           pnpm install
-          npm run upgrade
+          pnpm update
           pnpm install --lockfile-only
 
       - name: Create Pull Request
@@ -42,7 +42,7 @@ jobs:
             pull-request
           reviewers: offensive-vk
           commit-message: "Update Dependencies - package.json"
-          title: "Upgrade Dependencies To Latest - Automated"
+          title: "Update Dependencies To Latest - Automated"
           body: |
             ## Updated all Dependencies to Latest Versions.
 
