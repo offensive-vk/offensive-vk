@@ -1,4 +1,4 @@
-<!-- Copyright by Vedansh (offensive-vk) 2022 - Present. All Rights Reserved. -->
+<!-- Copyright by Vedansh (offensive-vk) 2020 - Present. All Rights Reserved. -->
 <div align="center">
    <a href="https://github.com/offensive-vk">
       <picture>
@@ -192,4 +192,4 @@
 </details>
 
 <!-- Outer switch end -->
-<!-- Copyright by Vedansh (offensive-vk) 2022 - Present. All Rights Reserved. -->
+<!-- Copyright by Vedansh (offensive-vk) 2020 - Present. All Rights Reserved. -->
