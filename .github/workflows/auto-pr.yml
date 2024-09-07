@@ -26,14 +26,14 @@ jobs:
           github_token: ${{ secrets.BOT_TOKEN }}
           destination_branch: "master"
           pr_title: "${{ github.workflow }} - (${{ github.event.head_commit.message }})"
-          pr_body: "Please Wait.... Information Will be updated in Real time."
+          pr_body: "Please Wait.... Hamster is working really hard here."
           pr_reviewer: "offensive-vk"
           pr_label: "bot,automated,hamster,pull-request"
           pr_assignee: "TheHamsterBot"
           pr_draft: false
 
       - name: Save PR Number in ENV
-        run: echo "PR_NUMBER=${{ steps.create-pr.outputs.number }}" >> $GITHUB_ENV
+        run: echo "PR_NUMBER=${{ steps.create-pr.outputs.number }}" >> $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
 
   update_pr:
     needs: create_pr

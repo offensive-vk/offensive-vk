@@ -22,7 +22,7 @@ jobs:
             ## Notification Regarding the Pull Request:
 
             > [!IMPORTANT]
-            > What Happened: ${{ github.event_name }} event by ${{ github.event.issue.user.id }}.
+            > What Happened: ${{ github.event_name }} event by Hamster [bot].
             > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
             - Author: @TheHamsterBot
@@ -32,7 +32,6 @@ jobs:
             - Pull Request Number: #${{ github.event.number }}
             - Pull Request Title: ${{ github.event.pull_request.title }}
             - Issue Details: ${{ github.event.issue.id }} - ${{ github.event.issue.number }} 
-            - Current Action Status: ${{ github.action_status }}
 
             ---
 
@@ -62,7 +61,7 @@ jobs:
       github.event.issue.state == 'open' &&
       contains(github.event.issue.labels[*].name, 'automated') &&
       github.event.issue.user.login == 'TheHamsterBot' &&
-      contains(github.event.comment.body, 'hamster /close') &&
+      contains(github.event.comment.body, 'hamster --close') &&
       (github.event.comment.user.login == github.event.repository.owner.login || 
       github.event.comment.user.login == github.event.issue.user.login)
     steps:
