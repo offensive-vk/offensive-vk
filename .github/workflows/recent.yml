@@ -2,41 +2,44 @@ name: 👩‍💻 Update Recent Activity
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
   update_activity:
     runs-on: ubuntu-latest
-    name: Update Recent Activities
-
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Adds Activity to Readme.md
-        uses: lissy93/github-activity-readme@master
+      - name: Adds Activity to Readme
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+        with:
+          COMMIT_NAME: Hamster [bot]
+          COMMIT_EMAIL: TheHamsterBot@outlook.com
           COMMIT_MSG: |
             ':zap: Updated Recent Activity in Readme
 
 
             Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
             Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
-        with:
           MAX_LINES: 10
 
       - name: Adds Latest Activity to File
-        uses: lissy93/github-activity-readme@master
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+        with:
+          COMMIT_NAME: Hamster [bot]
+          COMMIT_EMAIL: TheHamsterBot@outlook.com
           COMMIT_MSG: |
             ':zap: Updated Recent Activity
 
 
             Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
             Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
-        with:
           MAX_LINES: 150
           TARGET_FILE: './RECENT.md'

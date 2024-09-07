@@ -2,7 +2,7 @@ name: 🌄 Morning Maintenance
 
 on:
   schedule:
-    - cron: '30 0 * * *'
+    - cron: '30 1 * * *'
 
 jobs:
   maintenance:
@@ -16,11 +16,35 @@ jobs:
 
       - name: Send Greetings
         run: |
-          echo "Howdy Everyone ! What is Up"
+          echo "Howdy Everyone ! Wassup"
           echo "Good morning, contributors and watchers! Have a great day!"
 
       - name: Background Cleanup Job 
         run: | 
           sudo apt update -y; sudo apt install lolcat neofetch -y
           neofetch | lolcat 
-          uname -a; whoami
+          uname -a; whoami; df -T
+  greetings:
+    runs-on: macos-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up current date and time
+        id: date_time
+        run: |
+          echo "DATE=$(date '+%B %d, %Y')" >> $GITHUB_ENV
+          echo "TIME=$(date '+%I:%M %p')" >> $GITHUB_ENV
+
+      - name: Say Good Morning
+        run: |
+          echo -e "\nGood Morning, General ! \n\nToday is $DATE \n\n$TIME" > GREETINGS.md
+      
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "Hamster [bot]"
+          git config --global user.email "TheHamsterBot@outlook.com"
+          git add GREETINGS.md
+          git commit -m "🤖 Updated GREETINGS.md with Good Morning message for $DATE"
+          git push
