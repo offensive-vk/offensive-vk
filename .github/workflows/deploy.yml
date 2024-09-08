@@ -11,7 +11,7 @@ on:
 env:
   USERNAME: offensive-vk
   REGISTRY: ghcr.io
-  IMAGE_NAME: Personal-Edition
+  IMAGE_NAME: Personal
   TOKEN: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
 
 jobs:
