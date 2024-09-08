@@ -21,12 +21,12 @@ jobs:
           COMMIT_NAME: Hamster [bot]
           COMMIT_EMAIL: TheHamsterBot@outlook.com
           COMMIT_MSG: |
-            ":zap: Updated Recent Activity in Readme
+            Updated Recent Activity in Readme
 
 
             Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
-            Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-          MAX_LINES: 10
+            Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          MAX_LINES: 15
 
       - name: Add Latest Activity to File
         uses: jamesgeorge007/github-activity-readme@master
@@ -36,10 +36,10 @@ jobs:
           COMMIT_NAME: Hamster [bot]
           COMMIT_EMAIL: TheHamsterBot@outlook.com
           COMMIT_MSG: |
-            ":zap: Updated Recent Activity
+            Updated Recent Activity
 
 
             Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
-            Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+            Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           MAX_LINES: 150
           TARGET_FILE: './RECENT.md'

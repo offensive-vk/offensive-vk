@@ -3,7 +3,7 @@ name: ⭐ Generate Starred Repo List
 on:
   workflow_dispatch:
   schedule:
-    - cron: '50 23 * * *' # At 11:50 PM every day
+    - cron: '50 23 * * *'
 
 jobs:
   starred:
