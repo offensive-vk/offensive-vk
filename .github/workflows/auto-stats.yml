@@ -15,24 +15,24 @@ jobs:
       - name: Count Characters in Entire Repo
         id: charactercount
         run: |
-          # Initialize variables
+          # Initialize Variables
           total_characters=0
           total_files=0
           biggest_file=""
           smallest_file=""
           biggest_count=0
-          smallest_count=1000000 # Set a high initial value
+          smallest_count=1000000
           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
 
-          # Create STATS File
-          echo "# Repository Character Count STATS" > STATS.md
-          echo "Generated on $(timestamp)" >> STATS.md
+          # Create File
+          echo "# Daily Repository Statistics" > STATS.md
+          echo "Generated on $timestamp\n" >> STATS.md
           echo "" >> STATS.md
 
           # Iterate through all files (excluding hidden files and directories)
           for file in $(find . -type f -not -path '*/\.*'); do
             # Count characters in the file
-            char_count=$(wc -c < "$file") # -c counts the number of bytes (characters)
+            char_count=$(wc -c < "$file")
             file_name=$(basename "$file")
 
             # Add to total character count
@@ -65,8 +65,7 @@ jobs:
 
           # Write final results to the markdown file
           echo "" >> STATS.md
-          echo "## Summary" >> STATS.md
-          echo "---" >> STATS.md
+          echo "## Summary ⛽" >> STATS.md
           echo "- Total files: $total_files" >> STATS.md
           echo "- Total character count: $total_characters" >> STATS.md
           echo "- Average characters per file: $average_characters" >> STATS.md
@@ -79,7 +78,7 @@ jobs:
           git config --local user.name "Hamster [bot]"
           git config --local user.email "TheHamsterBot@outlook.com"
           git add .
-          git commit -m "Updated Daily Stats
+          git commit -m "⚡ Updated Daily Stats
           
           Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           git push
