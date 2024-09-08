@@ -11,7 +11,7 @@ on:
 env:
   USERNAME: offensive-vk
   REGISTRY: ghcr.io
-  IMAGE_NAME: Personal
+  IMAGE_NAME: personal
   TOKEN: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
 
 jobs:
@@ -38,7 +38,7 @@ jobs:
         with:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
 
-      - name: Build and Push Docker image
+      - name: Build and Push Docker Image
         uses: docker/build-push-action@v4
         with:
           context: .
