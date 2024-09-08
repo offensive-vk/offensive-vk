@@ -1,0 +1,47 @@
+name: 🏠 Deploy to GitHub Container Registry
+
+on:
+  push:
+    tags:
+      - '*'
+  schedule:
+      - cron: '10 0 * * *'
+  workflow_dispatch:
+
+env:
+  USERNAME: offensive-vk
+  REGISTRY: ghcr.io
+  IMAGE_NAME: Personal-Edition
+  TOKEN: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
+
+jobs:
+  build-and-push-image:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Log in to the Container registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ env.USERNAME }}
+          password: ${{ env.TOKEN }}
+
+      - name: Extract Metadata (tags, labels) for Docker
+        id: meta
+        uses: docker/metadata-action@v4
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+
+      - name: Build and Push Docker image
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
