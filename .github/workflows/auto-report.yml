@@ -46,7 +46,8 @@ jobs:
             >
             > *Failed or Skipped jobs:*
             > ${{ env.failed_jobs }}
-            # *Failure details:*
+
+            # *Failure Details:*
             ${{ github.event.workflow_run.conclusion }}
             ${{ github.event.workflow_run.status_message }}
 
