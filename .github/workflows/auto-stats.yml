@@ -2,7 +2,7 @@ name: ⛽ Generate Repo Statistics
 
 on:
   schedule:
-    - cron: "5 0 * * *"
+    - cron: "5 */2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Count Characters in Entire Repo
+      - name: Generate Stats for the Entire Repo
         id: charactercount
         run: |
           # Initialize Variables
@@ -26,7 +26,7 @@ jobs:
 
           # Create File
           echo "# Daily Repository Statistics" > STATS.md
-          echo "Generated on $timestamp\n" >> STATS.md
+          echo "Generated on $timestamp  " >> STATS.md
           echo "" >> STATS.md
 
           # Iterate through all files (excluding hidden files and directories)
@@ -50,7 +50,7 @@ jobs:
               smallest_file=$file_name
             fi
 
-            echo "$file_name: $char_count characters" >> STATS.md
+            echo "$file_name: $char_count characters  " >> STATS.md
           done
 
           # Calculate average characters per file
@@ -60,18 +60,18 @@ jobs:
             average_characters=0
           fi
 
-          # Optionally count words too lol
+          # Optionally count words too
           total_words=$(wc -w $(find . -type f -not -path '*/\.*') | tail -n 1 | awk '{print $1}')
 
           # Write final results to the markdown file
           echo "" >> STATS.md
-          echo "## Summary ⛽" >> STATS.md
-          echo "- Total files: $total_files" >> STATS.md
-          echo "- Total character count: $total_characters" >> STATS.md
-          echo "- Average characters per file: $average_characters" >> STATS.md
-          echo "- Largest file: $biggest_file ($biggest_count characters)" >> STATS.md
-          echo "- Smallest file: $smallest_file ($smallest_count characters)" >> STATS.md
-          echo "- Optional: Total word count: $total_words" >> STATS.md
+          echo "## Summary ⛽  " >> STATS.md
+          echo "- Total files: $total_files  " >> STATS.md
+          echo "- Total character count: $total_characters  " >> STATS.md
+          echo "- Average characters per file: $average_characters  " >> STATS.md
+          echo "- Largest file: $biggest_file ($biggest_count characters)  " >> STATS.md
+          echo "- Smallest file: $smallest_file ($smallest_count characters)  " >> STATS.md
+          echo "- Optional: Total word count: $total_words  " >> STATS.md
 
       - name: Commit & Push Changes
         run: |
