@@ -13,7 +13,6 @@ jobs:
       contents: read
       packages: read
       statuses: write
-
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -25,7 +24,7 @@ jobs:
         env:
           DEFAULT_BRANCH: origin/master
           VALIDATE_MARKDOWN: true
-          VALIDATE_YAML: false
+          VALIDATE_YAML: true
           VALIDATE_DOCKERFILE_HADOLINT: true
           VALIDATE_ALL_CODEBASE: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
