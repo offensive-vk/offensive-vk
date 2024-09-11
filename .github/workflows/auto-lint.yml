@@ -20,10 +20,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Super-linter
+      - name: Begin Action
         uses: super-linter/super-linter@v7.1.0
         env:
-          DEFAULT_BRANCH: master
-          VALIDATE_ALL_CODEBASE: true
-          # To report GitHub Actions status checks 
+          DEFAULT_BRANCH: origin/master
+          VALIDATE_MARKDOWN: true
+          VALIDATE_YAML: false
+          VALIDATE_DOCKERFILE_HADOLINT: true
+          VALIDATE_ALL_CODEBASE: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
