@@ -1,6 +1,6 @@
 
 # Good Morning, **General** ! 
 
-Today is **September 10, 2024** 
+Today is **September 11, 2024** 
 
 $
