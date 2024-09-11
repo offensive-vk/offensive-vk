@@ -1,0 +1,29 @@
+name: ✅ Super Linter
+
+on:
+  push: null
+  pull_request: null
+  workflow_dispatch:
+
+jobs:
+  lint:
+    name: Super Linter
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
+      statuses: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Super-linter
+        uses: super-linter/super-linter@v7.1.0
+        env:
+          DEFAULT_BRANCH: master
+          VALIDATE_ALL_CODEBASE: true
+          # To report GitHub Actions status checks 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
