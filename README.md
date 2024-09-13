@@ -107,21 +107,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8256](https://github.com/toeverything/AFFiNE/issues/8256) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-2. 🎉 Merged PR [#70](https://github.com/offensive-vk/AwesomeScripts/pull/70) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-3. 💪 Opened PR [#71](https://github.com/offensive-vk/AwesomeScripts/pull/71) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-4. 💪 Opened PR [#70](https://github.com/offensive-vk/AwesomeScripts/pull/70) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-5. ❌ Closed PR [#7003](https://github.com/kamranahmedse/developer-roadmap/pull/7003) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6. 🗣 Commented on [#217](https://github.com/offensive-vk/UntilEverything/pull/217#issuecomment-2346048954) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-7. 🎉 Merged PR [#220](https://github.com/offensive-vk/UntilEverything/pull/220) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-8. 🎉 Merged PR [#6](https://github.com/offensive-vk/auto-add-project/pull/6) in [offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
-9. 💪 Opened PR [#6](https://github.com/offensive-vk/auto-add-project/pull/6) in [offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
-10. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-add-project/pull/5) in [offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
-11. ❌ Closed PR [#97](https://github.com/offensive-vk/offensive-vk/pull/97) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Merged PR [#18](https://github.com/offensive-vk/TypedScript/pull/18) in [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-13. 💪 Opened PR [#18](https://github.com/offensive-vk/TypedScript/pull/18) in [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-14. 🚀 Published release [v5](https://github.com/offensive-vk/auto-update-quote/releases/tag/v5) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
-15. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-update-quote/pull/2) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+1. 🗣 Commented on [#10](https://github.com/offensive-vk/Roadmap.sh/pull/10#issuecomment-2349237826) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+2. ❌ Closed PR [#10](https://github.com/offensive-vk/Roadmap.sh/pull/10) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+3. ❗ Opened issue [#8256](https://github.com/toeverything/AFFiNE/issues/8256) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+4. 🎉 Merged PR [#70](https://github.com/offensive-vk/AwesomeScripts/pull/70) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+5. 💪 Opened PR [#71](https://github.com/offensive-vk/AwesomeScripts/pull/71) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+6. 💪 Opened PR [#70](https://github.com/offensive-vk/AwesomeScripts/pull/70) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+7. ❌ Closed PR [#7003](https://github.com/kamranahmedse/developer-roadmap/pull/7003) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8. 🗣 Commented on [#217](https://github.com/offensive-vk/UntilEverything/pull/217#issuecomment-2346048954) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9. 🎉 Merged PR [#220](https://github.com/offensive-vk/UntilEverything/pull/220) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 Merged PR [#6](https://github.com/offensive-vk/auto-add-project/pull/6) in [offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
+11. 💪 Opened PR [#6](https://github.com/offensive-vk/auto-add-project/pull/6) in [offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
+12. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-add-project/pull/5) in [offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
+13. ❌ Closed PR [#97](https://github.com/offensive-vk/offensive-vk/pull/97) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 Merged PR [#18](https://github.com/offensive-vk/TypedScript/pull/18) in [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+15. 💪 Opened PR [#18](https://github.com/offensive-vk/TypedScript/pull/18) in [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
 <!--END_SECTION:activity-->
 
 </p>
