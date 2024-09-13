@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: siddharth2016/quote-readme@main
+      - uses: offensive-vk/auto-update-quote@v5
         with:
           GH_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
           COMMIT_MESSAGE: | 
