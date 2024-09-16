@@ -1,4 +1,6 @@
 <!-- Copyright by Vedansh (offensive-vk) 2020 - Present. All Rights Reserved. -->
+<!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
+
 <div align="center">
    <a href="https://github.com/offensive-vk">
       <picture>
@@ -179,6 +181,8 @@
 
 **Wanna See Workflow File?** [Click Here](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
+**Wanna See Repository Stats?** [Click Here](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
+
 </details>
 
 ***
@@ -193,3 +197,4 @@
 
 <!-- Outer switch end -->
 <!-- Copyright by Vedansh (offensive-vk) 2020 - Present. All Rights Reserved. -->
+<!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
