@@ -1,31 +1,28 @@
 name: 🏠 Deploy to GitHub Container Registry
 
 on:
-  push:
-    tags:
-      - '*'
   schedule:
-      - cron: '10 0 * * *'
+      - cron: '0 0 1 * *'
   workflow_dispatch:
 
 env:
-  USERNAME: offensive-vk
+  USERNAME: ${{ github.repository_owner || 'offensive-vk' }}
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
   TOKEN: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
 
 jobs:
-  build-and-push-image:
+  deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: read
       packages: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Log in to the Container registry
+      - name: Login to the Container Registry
         uses: docker/login-action@v3
         with:
           registry: ${{ env.REGISTRY }}
@@ -37,6 +34,11 @@ jobs:
         uses: docker/metadata-action@v4
         with:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+
+      - name: Verify Tags and Labels
+        run: |
+          echo "Tags: ${{ steps.meta.outputs.tags }} "
+          echo "Labels: ${{ steps.meta.outputs.labels }} "
 
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v4
