@@ -1,0 +1,54 @@
+name: ⚒️ Automated GHCR Image 
+
+on: 
+  push:
+    branches:
+      - "**"
+
+jobs:
+  docker-setup:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout your code
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # Install Docker in the environment
+    - name: Set up Docker
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y docker.io
+        sudo systemctl start docker
+        sudo systemctl enable docker
+
+    # Pull a Docker image from GitHub Container Registry (GHCR)
+    - name: Pull image from GHCR
+      run: |
+        docker pull ntsystems/ntsystems
+
+    # Pull a Docker image from Docker Hub
+    - name: Pull image from Docker Hub
+      run: |
+        docker pull ghcr.io/offensive-vk/offensive-vk:master
+
+    # Run a container using the GHCR image
+    - name: Run from GHCR image
+      run: |
+        docker run -it -d --name my-container offensive-vk/offensive-vk:master
+
+    # Run a container using the Docker Hub image
+    - name: Run container from Docker Hub image
+      run: |
+        docker run -it -d --name dev-container -p 8080:80 ntsystems/ntsystems:latest
+
+    # List running containers
+    - name: List running Docker containers
+      run: |
+        docker ps
+
+    # Optionally perform actions
+    - name: Execute command in containers
+      run: |
+        docker exec my-container uname -a
+        docker exec dev-container uname -a
