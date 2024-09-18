@@ -1,0 +1,57 @@
+name: 🚢 Automated Docker Testing
+
+on: 
+  push:
+    branches:
+      - "**"
+
+jobs:
+  docker-in-docker:
+    runs-on: ubuntu-latest
+    services:
+      docker:
+        image: docker:20.10.16-dind
+        options: >-
+          --privileged 
+          --mount type=tmpfs,destination=/var/lib/docker,tmpfs-size=1024m
+        ports:
+          - 2375:2375
+
+    steps:
+    # Checkout your code
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    # Set up Node.js environment
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    # Install pnpm dependencies
+    - name: Install Stuff
+      run: pnpm install; ppnpm i
+
+    # Set up Docker Buildx to allow building images
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v4
+
+    # Run scripts from package.json
+    - name: Exec Docker Hello
+      run: pnpm run hello
+
+    # Run Docker container inside Docker
+    - name: Exec Docker Build
+      run: pnpm run image
+
+    # Run scripts from package.json
+    - name: Exec Docker Spawn
+      run: pnpm run spawn
+
+    # Run Docker container inside Docker
+    - name: Exec Docker Compose
+      run: pnpm run compose
+    
+    # List running stuff
+    - name: List Running Containers
+      run: pnpm run list
