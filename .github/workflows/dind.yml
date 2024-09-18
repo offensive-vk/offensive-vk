@@ -48,10 +48,14 @@ jobs:
     - name: Exec Docker Spawn
       run: pnpm run spawn
 
-    # Run Docker container inside Docker
-    - name: Exec Docker Compose
-      run: pnpm run compose
-    
+    # Get some info lol
+    - name: Exec Docker Sys Details
+      run: pnpm run exec
+
     # List running stuff
     - name: List Running Containers
       run: pnpm run list
+
+    # Remove logs and stuff
+    - name: Exec Docker Prune
+      run: pnpm run reset
