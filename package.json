@@ -11,9 +11,10 @@
     "image": "docker build -t mycontainer .",
     "list": "docker ps -a",
     "pull": "docker pull ghcr.io/offensive-vk/offensive-vk:nightly",
-    "compose": "docker compose up --build --no-orphans",
+    "compose": "docker compose up --build",
     "exec": "docker exec -it --name vedansh-container bash",
-    "spawn": "docker run -it -d --name vedansh-container --rm -p 9999:9999 -v $(pwd):/shared/offensive-vk mycontainer:latest"
+    "spawn": "docker run -it -d --name vedansh-container --rm -p 9999:9999 -v $(pwd):/shared/offensive-vk mycontainer:latest",
+    "reset": "docker system prune -y"
   },
   "keywords": [
     "readme",
