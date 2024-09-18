@@ -109,21 +109,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/offensive-vk/ts-action-starter/pull/2) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-2. 🎉 Merged PR [#1](https://github.com/offensive-vk/ts-action-starter/pull/1) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-3. 🎉 Merged PR [#3](https://github.com/offensive-vk/ts-action-starter/pull/3) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-4. 💪 Opened PR [#3](https://github.com/offensive-vk/ts-action-starter/pull/3) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-5. 🚀 Published release [v5](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v5) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-6. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-repo-sync/pull/2) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-7. 💪 Opened PR [#2](https://github.com/offensive-vk/auto-repo-sync/pull/2) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-8. 🎉 Merged PR [#1](https://github.com/offensive-vk/auto-label/pull/1) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-9. 💪 Opened PR [#1](https://github.com/offensive-vk/auto-label/pull/1) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-10. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-commit-push/pull/2) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
-11. 💪 Opened PR [#2](https://github.com/offensive-vk/auto-commit-push/pull/2) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
-12. 🎉 Merged PR [#4](https://github.com/offensive-vk/auto-stats/pull/4) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-13. 🎉 Merged PR [#3](https://github.com/offensive-vk/auto-stats/pull/3) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-14. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-stats/pull/2) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-15. 💪 Opened PR [#2](https://github.com/offensive-vk/auto-stats/pull/2) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+1. 🎉 Merged PR [#103](https://github.com/offensive-vk/offensive-vk/pull/103) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2. 🎉 Merged PR [#2](https://github.com/offensive-vk/ts-action-starter/pull/2) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+3. 🎉 Merged PR [#1](https://github.com/offensive-vk/ts-action-starter/pull/1) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+4. 🎉 Merged PR [#3](https://github.com/offensive-vk/ts-action-starter/pull/3) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+5. 💪 Opened PR [#3](https://github.com/offensive-vk/ts-action-starter/pull/3) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+6. 🚀 Published release [v5](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v5) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+7. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-repo-sync/pull/2) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+8. 💪 Opened PR [#2](https://github.com/offensive-vk/auto-repo-sync/pull/2) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+9. 🎉 Merged PR [#1](https://github.com/offensive-vk/auto-label/pull/1) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+10. 💪 Opened PR [#1](https://github.com/offensive-vk/auto-label/pull/1) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+11. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-commit-push/pull/2) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
+12. 💪 Opened PR [#2](https://github.com/offensive-vk/auto-commit-push/pull/2) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
+13. 🎉 Merged PR [#4](https://github.com/offensive-vk/auto-stats/pull/4) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+14. 🎉 Merged PR [#3](https://github.com/offensive-vk/auto-stats/pull/3) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+15. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-stats/pull/2) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
 <!--END_SECTION:activity-->
 
 </p>
