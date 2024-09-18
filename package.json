@@ -10,7 +10,7 @@
     "hello": "sleep 5; echo 'My Container says Hello !'",
     "dev": "sleep 5; echo 'Development Server Started... A Joke.' ",
     "image": "docker build -t mycontainer .",
-    "list":"docker ps -a",
+    "list": "docker ps -a",
     "compose": "docker compose up --build --no-orphans",
     "spawn": "docker run -it -d --name vedansh-container --rm --restart always -p 9999:9999 -v $(pwd):/shared/offensive-vk mycontainer:latest"
   },
@@ -37,6 +37,11 @@
     "url": "https://github.com/offensive-vk/issues"
   },
   "homepage": "https://github.com/offensive-vk#readme",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "@octokit/rest": "^21.0.2",
+    "@octokit/types": "^13.5.0",
+    "markdownlint": "^0.35.0",
+    "octokit": "^4.0.2"
+  }
 }
