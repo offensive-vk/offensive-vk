@@ -6,22 +6,22 @@ on:
       - "**"
 
 jobs:
-  docker-setup:
+  test-images:
     runs-on: ubuntu-latest
-
+    services:
+        docker:
+          image: docker:20.10.16-dind
+          options: >-
+            --privileged 
+            --mount type=tmpfs,destination=/var/lib/docker,tmpfs-size=4096m
+          ports:
+            - 2375:2375
     steps:
     # Checkout your code
     - name: Checkout code
       uses: actions/checkout@v4
 
     # Install Docker in the environment
-    - name: Set up Docker
-      run: |
-        sudo apt-get install --fix-broken
-        sudo apt-get update
-        sudo apt-get install -y containerd.io docker.io
-        sudo systemctl start docker
-        sudo systemctl enable docker
 
     # Pull a Docker image from GitHub Container Registry (GHCR)
     - name: Pull image from GHCR

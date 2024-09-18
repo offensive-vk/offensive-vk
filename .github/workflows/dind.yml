@@ -6,14 +6,14 @@ on:
       - "**"
 
 jobs:
-  docker-in-docker:
+  run-docker:
     runs-on: ubuntu-latest
     services:
       docker:
         image: docker:20.10.16-dind
         options: >-
           --privileged 
-          --mount type=tmpfs,destination=/var/lib/docker,tmpfs-size=1024m
+          --mount type=tmpfs,destination=/var/lib/docker,tmpfs-size=4096m
         ports:
           - 2375:2375
 
