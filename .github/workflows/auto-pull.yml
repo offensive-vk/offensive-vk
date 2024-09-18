@@ -45,7 +45,7 @@ jobs:
     # List running containers
     - name: List running Docker containers
       run: |
-        docker ps
+        docker ps -a
 
     # Optionally perform actions
     - name: Execute command in containers
