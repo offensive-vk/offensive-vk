@@ -30,7 +30,7 @@ jobs:
 
     # Install pnpm dependencies
     - name: Install Stuff
-      run: pnpm install; ppnpm i
+      run: npm i -g pnpm@9.0.0; pnpm install; pnpm i
 
     # Set up Docker Buildx to allow building images
     - name: Set up Docker Buildx
