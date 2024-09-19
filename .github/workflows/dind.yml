@@ -1,61 +1,62 @@
 name: 🚢 Automated Docker Testing
 
 on: 
+  workflow_dispatch:
   push:
     branches:
       - "**"
+  schedule:
+    - cron: '0 */2 * * *'
 
 jobs:
   run-docker:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     services:
       docker:
-        image: docker:20.10.16-dind
+        image: docker:dind
         options: >-
           --privileged 
           --mount type=tmpfs,destination=/var/lib/docker,tmpfs-size=4096m
         ports:
           - 2375:2375
 
+    name: Begin Script Testing
     steps:
-    # Checkout your code
     - name: Checkout
       uses: actions/checkout@v4
 
-    # Set up Node.js environment
     - name: Set up Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
 
-    # Install pnpm dependencies
-    - name: Install Stuff
+    - name: Install Dependencies
       run: npm i -g pnpm@9.0.0; pnpm install; pnpm i
 
-    # Set up Docker Buildx to allow building images
     - name: Set up Docker Buildx
       uses: docker/setup-buildx-action@v3
 
-    # Run scripts from package.json
     - name: Exec Docker Dev
       run: pnpm run dev
 
-    # Run Docker container inside Docker
     - name: Exec Docker Build
       run: pnpm run image
 
-    # Run scripts from package.json
     - name: Exec Docker Spawn
       run: pnpm run spawn
 
-    # Get some info lol
     - name: Exec Docker Pull
       run: pnpm run pull
 
-    # List running stuff
     - name: List Running Containers
       run: pnpm run list
 
-    # Remove logs and stuff
     - name: Exec Docker Prune
       run: pnpm run reset
+
+    - name: Get System Details
+      run: |
+        echo "## Runner Details " >> $GITHUB_STEP_SUMMARY
+        uname -a >> $GITHUB_STEP_SUMMARY
+        echo "## Docker Info " >> $GITHUB_STEP_SUMMARY
+        pnpm run info >> $GITHUB_STEP_SUMMARY

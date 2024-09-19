@@ -24,6 +24,7 @@ jobs:
           sudo apt update -y; sudo apt install lolcat neofetch -y
           neofetch | lolcat 
           uname -a; whoami; df -T
+  
   greetings:
     runs-on: macos-latest
     timeout-minutes: 5
@@ -31,7 +32,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up current date and time
+      - name: Setup
         id: date_time
         run: |
           echo "DATE=$(date '+%B %d, %Y')" >> $GITHUB_ENV
@@ -39,12 +40,12 @@ jobs:
 
       - name: Say Good Morning
         run: |
-          echo -e "\n# Good Morning, **General** ! \n\nToday is **$DATE** \n\n$`TIME`" > GREETINGS.md
+          echo -e "\n# Good Morning, **General** ! \n\nToday is **${{ env.DATE }}** \n\n\t *Have a Wonderful Day Ahead.*" > GREETINGS.md
       
       - name: Commit & Push Changes
         run: |
           git config --global user.name "Hamster [bot]"
           git config --global user.email "TheHamsterBot@outlook.com"
           git add GREETINGS.md
-          git commit -m "Hamster Sends Greeting for $DATE."
+          git commit -m "Hamster Sends Greeting of the Day."
           git push

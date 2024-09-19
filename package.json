@@ -7,11 +7,12 @@
   "scripts": {
     "install": "pnpm add @octokit/rest @octokit/core @octokit/types octokit markdownlint",
     "source": "https://github.com/offensive-vk/offensive-vk",
-    "dev": "sleep 5; echo 'Development Server Started... A Joke.' ",
+    "dev": "sleep 5; echo 'Development Server Started...' ",
     "image": "docker build -t vedansh-container .",
     "list": "docker ps -a",
     "pull": "docker pull ghcr.io/offensive-vk/offensive-vk:nightly",
     "compose": "docker compose up --build",
+    "info": "docker system info",
     "exec": "docker exec -it my-container neofetch",
     "spawn": "docker run -it -d --name my-container --rm -p 9999:9999 -v $(pwd):/shared/offensive-vk vedansh-container",
     "reset": "docker system prune -f"
@@ -38,7 +39,7 @@
   "bugs": {
     "url": "https://github.com/offensive-vk/issues"
   },
-  "homepage": "https://github.com/offensive-vk#readme",
+  "homepage": "https://github.com/offensive-vk",
   "dependencies": {
     "@octokit/core": "^6.1.2",
     "@octokit/rest": "^21.0.2",

@@ -1,13 +1,16 @@
-name: ⚒️ Automated GHCR Image 
+name: ⚒️ Automated GHCR Image Testing
 
 on: 
+  workflow_dispatch:
   push:
     branches:
       - "**"
+  schedule:
+    - cron: '0 */2 * * *'
 
 jobs:
   test-images:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     services:
         docker:
           image: docker:dind
@@ -16,38 +19,37 @@ jobs:
             --mount type=tmpfs,destination=/var/lib/docker,tmpfs-size=4096m
           ports:
             - 2375:2375
+
+    name: Begin Image Testing
     steps:
-    # Checkout your code
-    - name: Checkout code
+    - name: Checkout
       uses: actions/checkout@v4
 
-    # Pull a Docker image from GitHub Container Registry (GHCR)
-    - name: Pull image from Docker Hub
+    - name: Pull Image from Docker Hub
       run: |
         docker pull ntsystems/ntsystems:master
 
-    # Pull a Docker image from Docker Hub
-    - name: Pull image from GHRC Hub
+    - name: Pull Image from GHRC Hub
       run: |
         docker pull ghcr.io/offensive-vk/offensive-vk:master
 
-    # Run a container using the GHCR image
-    - name: Run from GHCR image
+    - name: Run Container - GHCR
       run: |
         docker run -it -d --name my-container ghcr.io/offensive-vk/offensive-vk:master
 
-    # Run a container using the Docker Hub image
-    - name: Run from Docker Hub image
+    - name: Run Container - Docker Hub
       run: |
         docker run -it -d --name dev-container ntsystems/ntsystems:master
 
-    # List running containers
-    - name: List running Docker containers
+    - name: List Running Docker Containers
       run: |
         docker ps -a
+        docker ps -a >> $GITHUB_STEP_SUMMARY
 
-    # Optionally perform actions
-    - name: Execute command in containers
+    - name: Get System Details
       run: |
-        docker exec my-container uname -a
-        docker exec dev-container uname -a
+        echo "## Runner Details " >> $GITHUB_STEP_SUMMARY
+        docker exec my-container uname -a >> $GITHUB_STEP_SUMMARY
+        docker exec dev-container uname -a >> $GITHUB_STEP_SUMMARY
+        echo "## Docker Info" >> $GITHUB_STEP_SUMMARY
+        docker system info >> $GITHUB_STEP_SUMMARY
