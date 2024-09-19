@@ -48,6 +48,9 @@ jobs:
     - name: Exec Docker Pull
       run: pnpm run pull
 
+    - name: Exec Docker Compose
+      run: pnpm run compose
+
     - name: List Running Containers
       run: pnpm run list
 
