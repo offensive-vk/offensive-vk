@@ -14,7 +14,7 @@
     "compose": "docker compose up --build",
     "exec": "docker exec -it my-container neofetch",
     "spawn": "docker run -it -d --name my-container --rm -p 9999:9999 -v $(pwd):/shared/offensive-vk vedansh-container",
-    "reset": "docker system prune -y"
+    "reset": "docker system prune -f"
   },
   "keywords": [
     "readme",

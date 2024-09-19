@@ -21,12 +21,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    # Install Docker in the environment
-
     # Pull a Docker image from GitHub Container Registry (GHCR)
     - name: Pull image from GHCR
       run: |
-        docker pull ntsystems/ntsystems:master
+        docker pull ghcr.io/offensive-vk/offensive-vk:nightly
 
     # Pull a Docker image from Docker Hub
     - name: Pull image from Docker Hub
@@ -36,12 +34,12 @@ jobs:
     # Run a container using the GHCR image
     - name: Run from GHCR image
       run: |
-        docker run -it -d --name my-container offensive-vk/offensive-vk:master
+        docker run -it -d --name my-container offensive-vk/offensive-vk:nightly
 
     # Run a container using the Docker Hub image
     - name: Run container from Docker Hub image
       run: |
-        docker run -it -d --name dev-container -p 8080:80 ntsystems/ntsystems:master
+        docker run -it -d --name dev-container -p 8080:8080 ntsystems/ntsystems:master
 
     # List running containers
     - name: List running Docker containers
