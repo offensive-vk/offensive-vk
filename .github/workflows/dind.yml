@@ -49,7 +49,7 @@ jobs:
       run: pnpm run spawn
 
     # Get some info lol
-    - name: Exec Docker Sys Details
+    - name: Exec Docker Pull
       run: pnpm run pull
 
     # List running stuff
