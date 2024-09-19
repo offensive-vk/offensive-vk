@@ -1,4 +1,4 @@
-name: ⚒️ Automated GHCR Image Testing
+name: ⚒️ Automated Image Testing
 
 on: 
   workflow_dispatch:
@@ -43,12 +43,12 @@ jobs:
 
     - name: List Running Docker Containers
       run: |
-        docker ps -a
-        docker ps -a >> $GITHUB_STEP_SUMMARY
+        docker ps -a; echo "## Docker Trust " $GITHUB_STEP_SUMMARY
+        docker trust inspect ntsystems/ntsystems:master --pretty >> $GITHUB_STEP_SUMMARY
 
     - name: Get System Details
       run: |
-        echo "## Runner Details " >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY; echo "## Runner Details " >> $GITHUB_STEP_SUMMARY
         docker exec my-container uname -a >> $GITHUB_STEP_SUMMARY
         docker exec dev-container uname -a >> $GITHUB_STEP_SUMMARY
         echo "## Docker Info" >> $GITHUB_STEP_SUMMARY
