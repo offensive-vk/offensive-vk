@@ -43,8 +43,8 @@ jobs:
 
     - name: List Running Docker Containers
       run: |
-        docker ps -a; echo "## Docker Trust " $GITHUB_STEP_SUMMARY
-        docker trust inspect ntsystems/ntsystems:master --pretty >> $GITHUB_STEP_SUMMARY
+        docker ps -a; echo "## Docker Version " >> $GITHUB_STEP_SUMMARY
+        docker version >> $GITHUB_STEP_SUMMARY
 
     - name: Get System Details
       run: |
