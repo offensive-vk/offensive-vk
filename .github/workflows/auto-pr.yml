@@ -21,7 +21,7 @@ jobs:
 
       - name: Create or Update Pull Request
         id: create-pr
-        uses: offensive-vk/auto-pull-request@v5
+        uses: repo-sync/pull-request@v2
         with:
           github_token: ${{ secrets.BOT_TOKEN }}
           destination_branch: "master"
@@ -57,7 +57,7 @@ jobs:
           - Pull Request Number: #${{ env.PR_NUMBER || needs.create_pr.outputs.pr_number }}
           - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
           - Commit Info: ${{ github.event.head_commit.message }}
-          
+
           ---
           
           Thanks.

@@ -10,7 +10,7 @@ on:
 
 jobs:
   test-images:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     services:
         docker:
           image: docker:dind

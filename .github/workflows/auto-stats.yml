@@ -71,14 +71,14 @@ jobs:
           echo "- Average characters per file: $average_characters  " >> STATS.md
           echo "- Largest file: $biggest_file ($biggest_count characters)  " >> STATS.md
           echo "- Smallest file: $smallest_file ($smallest_count characters)  " >> STATS.md
-          echo "- Optional: Total word count: $total_words  " >> STATS.md
+          echo "- Total word count: $total_words  " >> STATS.md
 
       - name: Commit & Push Changes
         run: |
           git config --local user.name "Hamster [bot]"
           git config --local user.email "TheHamsterBot@outlook.com"
           git add .
-          git commit -m "⚡ Updated Daily Stats
+          git commit -m "⚡ Updated Repo Statistics
           
           Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           git push
