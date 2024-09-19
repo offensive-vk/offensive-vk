@@ -38,7 +38,7 @@ jobs:
 
     # Run scripts from package.json
     - name: Exec Docker Dev
-      run: pnpm run dev; pnpm run pull
+      run: pnpm run dev
 
     # Run Docker container inside Docker
     - name: Exec Docker Build
@@ -50,7 +50,7 @@ jobs:
 
     # Get some info lol
     - name: Exec Docker Sys Details
-      run: pnpm run exec
+      run: pnpm run pull
 
     # List running stuff
     - name: List Running Containers

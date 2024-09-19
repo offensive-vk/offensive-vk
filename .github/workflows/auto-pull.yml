@@ -26,7 +26,7 @@ jobs:
     # Pull a Docker image from GitHub Container Registry (GHCR)
     - name: Pull image from GHCR
       run: |
-        docker pull ntsystems/ntsystems
+        docker pull ntsystems/ntsystems:master
 
     # Pull a Docker image from Docker Hub
     - name: Pull image from Docker Hub
@@ -41,7 +41,7 @@ jobs:
     # Run a container using the Docker Hub image
     - name: Run container from Docker Hub image
       run: |
-        docker run -it -d --name dev-container -p 8080:80 ntsystems/ntsystems:latest
+        docker run -it -d --name dev-container -p 8080:80 ntsystems/ntsystems:master
 
     # List running containers
     - name: List running Docker containers
