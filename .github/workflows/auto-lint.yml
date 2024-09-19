@@ -46,6 +46,7 @@ jobs:
         run: |
           git fetch --all; git pull --verbose
           git checkout -b auto-fix-linter
+          git push --set-upstream origin auto-fix-linter
           git status --porcelain
 
       - name: Commit and Push
@@ -87,9 +88,13 @@ jobs:
         id: super-linter
         uses: super-linter/super-linter/slim@v7
         env:
-          FILTER_REGEX_EXCLUDE: assets/**/*
+          FILTER_REGEX_INCLUDE: \.(yml|yaml)$
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_ALL_CODEBASE: true
+          VALIDATE_YAML: true
+          VALIDATE_YAML_PRETTIER: true
+          VALIDATE_MARKDOWN: false
+          VALIDATE_MARKDOWN_PRETTIER: false
           VALIDATE_JAVASCRIPT_STANDARD: false
           VALIDATE_JSCPD: false
           VALIDATE_TYPESCRIPT_STANDARD: false
