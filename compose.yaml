@@ -36,11 +36,13 @@ services:
         tmpfs:
           size: 4096m
     ports:
-      - "2375:2375"
+      - "2376:2375"
 
   my-container:
     build: .
+    container_name: Vedansh_Dev_Container
+    tty: true
     environment:
-      DOCKER_HOST: tcp://docker-daemon:2375
+      DOCKER_HOST: tcp://docker-daemon:2376
     depends_on:
       - docker-daemon
