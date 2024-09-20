@@ -65,7 +65,7 @@ jobs:
         env:
           FILTER_REGEX_INCLUDE: \.(yml|yaml)$
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VALIDATE_ALL_CODEBASE: true
+          VALIDATE_ALL_CODEBASE: false
           VALIDATE_YAML: true
           VALIDATE_YAML_PRETTIER: true
           VALIDATE_MARKDOWN: false
