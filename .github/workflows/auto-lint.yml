@@ -1,20 +1,19 @@
-name: ✅ Super Linter 
+name: ✅ Super Linter
 
 on:
   schedule:
     - cron: '0 */4 * * *'
   push:
     branches-ignore: ['master', 'dev', 'main', 'prod']
-    branches: ['**']
-  pull-request: 
-    branches: ['master', 'dev']
+  pull-request:
+    branches-ignore: ['master', 'dev']
   workflow_dispatch:
 
 permissions:
   contents: write
   packages: read
   statuses: write
-  
+
 jobs:
   lint:
     name: Lint YAML
@@ -41,7 +40,7 @@ jobs:
           pnpm install
 
       - name: Run Auto Fixer
-        run: | 
+        run: |
           pnpm run fix
 
       - name: Upload Linter Results
@@ -54,19 +53,19 @@ jobs:
       - name: Commit and Push
         uses: offensive-vk/auto-commit-push@master
         with:
-          name: "Hamster [bot]"
-          email: "TheHamsterBot@outlook.com"
-          message: "Publish Linter Changes and Fixes"
-          branch: "auto-fix-linter"
+          name: 'Hamster [bot]'
+          email: 'TheHamsterBot@outlook.com'
+          message: 'Publish Linter Changes and Fixes'
+          branch: 'auto-fix-linter'
           github-token: ${{ secrets.BOT_TOKEN }}
-      
+
       - name: Lint Codebase
         id: super-linter
         uses: super-linter/super-linter/slim@v7
         env:
           FILTER_REGEX_INCLUDE: \.(yml|yaml)$
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VALIDATE_ALL_CODEBASE: false
+          VALIDATE_ALL_CODEBASE: true
           VALIDATE_YAML: true
           VALIDATE_YAML_PRETTIER: true
           VALIDATE_MARKDOWN: false
