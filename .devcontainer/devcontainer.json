@@ -1,6 +1,7 @@
 {
     "name": "Personal Dev Container",
     "image": "mcr.microsoft.com/vscode/devcontainers/base:bullseye",
+    "build": { "dockerfile": "./Dockerfile" },
     "environment": {
         "NODE_ENV": "development",
         "API_URL": "https://api.github.com",

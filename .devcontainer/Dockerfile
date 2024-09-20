@@ -6,9 +6,10 @@
 FROM node:current-bullseye
 
 # The Owner of this environment & this file (The Real OG)
-LABEL owner="Vedansh ⚡ <https://github.com/offensive-vk/>"
+LABEL owner="Vedansh <https://github.com/offensive-vk/>"
 LABEL url="https://github.com/offensive-vk/offensive-vk"
 LABEL maintainer="Hamster [bot] <https://github.com/TheHamsterBot>"
+LABEL devcontainer="true"
 
 # Change default shell to /bin/bash
 SHELL ["/bin/bash", "-c"]
