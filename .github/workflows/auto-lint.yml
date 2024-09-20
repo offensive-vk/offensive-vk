@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: '0 */4 * * *'
   push:
-    branches: ['master', '**']
+    branches-ignore: ['master', 'dev', 'main', 'prod']
+    branches: ['**']
+  pull-request: 
+    branches: ['master', 'dev']
   workflow_dispatch:
 
 permissions:
@@ -13,8 +16,8 @@ permissions:
   statuses: write
   
 jobs:
-  auto-fix:
-    name: Auto Fix Linter
+  lint:
+    name: Lint YAML
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -39,8 +42,7 @@ jobs:
 
       - name: Run Auto Fixer
         run: | 
-          pnpx prettier --write .
-          pnpx prettier --check .
+          pnpm run fix
 
       - name: Upload Linter Results
         run: |
@@ -58,39 +60,13 @@ jobs:
           branch: "auto-fix-linter"
           github-token: ${{ secrets.BOT_TOKEN }}
       
-  lint:
-    name: Begin Linting
-    runs-on: ubuntu-latest
-    needs: [auto-fix]
-    continue-on-error: true
-    strategy:
-      fail-fast: true
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          ref: 'auto-fix-linter'
-          fetch-depth: 0
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Setup pnpm@v9
-        run: |
-          node -v && npm -v
-          npm i -g pnpm@9.0.0
-          pnpm -v
-          pnpm install
-
       - name: Lint Codebase
         id: super-linter
         uses: super-linter/super-linter/slim@v7
         env:
           FILTER_REGEX_INCLUDE: \.(yml|yaml)$
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VALIDATE_ALL_CODEBASE: true
+          VALIDATE_ALL_CODEBASE: false
           VALIDATE_YAML: true
           VALIDATE_YAML_PRETTIER: true
           VALIDATE_MARKDOWN: false

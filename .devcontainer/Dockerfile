@@ -18,7 +18,6 @@ SHELL ["/bin/bash", "-c"]
 RUN apt-get update && apt-get install -y \
     curl \
     wget \
-    vim \
     htop \
     neofetch \
     docker.io \
@@ -29,9 +28,6 @@ RUN apt-get update && apt-get install -y \
 
 # Run some basic system checks
 RUN neofetch; df -T; uname -a
-
-# Set the default command to keep the container running
-CMD ["/bin/bash"]
 
 # Install pnpm
 RUN npm i -g pnpm@9.0.0; pnpm -v
@@ -46,3 +42,6 @@ HEALTHCHECK --interval=30s --timeout=10s \
 # Additional flags
 ENV NODE_ENV=production
 ENV PORT=9999
+
+# Set the default command to keep the container running
+CMD ["/bin/bash"]

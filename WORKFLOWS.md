@@ -13,3 +13,8 @@
 [![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
 [![🤖 Automated Pull Request - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml)
 [![🗃️ Automated Project - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml)
+[![⚒️ Automated Image Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pull.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pull.yml)
+[![⛽ Generate Repo Statistics](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-stats.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-stats.yml)
+[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
+[![🏠 Deploy to GitHub Container Registry](https://github.com/offensive-vk/offensive-vk/actions/workflows/deploy.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/deploy.yml)
+[![🛫 Auto Update Dependencies](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-update.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-update.yml)
