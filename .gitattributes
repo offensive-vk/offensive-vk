@@ -1,5 +1,6 @@
-# =================================
-# == Github Linguistic Library ====
+##################################
+### Github Linguistic Library ####
+##################################
 *.yml linguist-language=YAML
 *.yml linguist-detectable=true
 *.yml linguist-documentation=false
@@ -9,4 +10,11 @@
 *.md linguist-language=Markdown
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-# =================================
+*.svg linguist-detectable=true
+*.gif linguist-language=Binary
+*.svg linguist-language=JSON
+*.json linguist-detectable=true
+*.json linguist-documentation=false
+*.json linguist-language=JSON
+### Github Linguistic Library ####
+##################################

@@ -33,7 +33,7 @@ jobs:
           pr_draft: false
 
       - name: Save PR Number in ENV
-        run: echo "PR_NUMBER=${{ steps.create-pr.outputs.number }}" >> $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
+        run: echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >> $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
 
   update_pr:
     needs: create_pr
@@ -47,15 +47,17 @@ jobs:
           ## This Pull Request Was Automated by [Hamster [bot]](https://github.com/TheHamsterBot)
 
           > [!NOTE]
-          > Workflow Trigger: ${{ github.event_name }} event at ${{ github.api_url }} .
+          > Workflow Trigger: ${{ github.event_name }} event at ${{ github.api_url }}
           > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @TheHamsterBot
-          - Branch: master (base) / ${{ github.head_ref }} (head)
+          - Branch: master (base) / ${{ github.event.head_ref }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
-          - Pusher Details: ${{ github.event.pusher.name }} <${{ github.event.pusher.email }}>
-         
+          - Pull Request Number: #${{ env.PR_NUMBER || needs.create_pr.outputs.pr_number }}
+          - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
+          - Commit Info: ${{ github.event.head_commit.message }}
+
           ---
           
           Thanks.
@@ -73,78 +75,3 @@ jobs:
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
-
-# name: 🤖 Automated Pull Request - Hamster 🐹
-
-# on:
-#   push:
-#     branches-ignore:
-#       - "main"
-#       - "master"
-#       - "old"
-#       - "readme-2022"
-#       - "Automation"
-#       - "Best-Readme-Ever"
-#   workflow_dispatch:
-#   schedule:
-#     - cron: '0 */1 * * *'
-
-# jobs:
-#   create_pr:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v4
-#       - name: Create or Open A PR
-#         id: create-pr
-#         uses: repo-sync/pull-request@v2
-#         with:
-#           github_token: ${{ secrets.BOT_TOKEN }}
-#           destination_branch: "master"
-#           pr_title: "${{ github.workflow }} - (${{ github.event.head_commit.message }})"
-#           pr_body: "Please Wait.... Information Will be updated in Real time."
-#           pr_reviewer: "offensive-vk"
-#           pr_label: "bot,automated,hamster,pull-request"
-#           pr_assignee: "TheHamsterBot"
-#           pr_draft: false
-
-#       - name: Save PR Number in ENV
-#         run: echo "PR_NUMBER=${{ steps.create-pr.outputs.number }}" >> $GITHUB_ENV
-
-#   update_pr:
-#     needs: create_pr
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v4
-#       - name: Generate Pull Request Template
-#         run: |
-#           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
-#           markdown=$(cat <<EOF
-#           ## This Pull Request Was Automated by My [Hamster [bot]](https://github.com/TheHamsterBot)
-
-#           > [!NOTE]
-#           > What Happened: ${{ github.event_name }} event at ${{ github.head_ref }} branch.
-#           > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
-#           - Author: @TheHamsterBot
-#           - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
-#           - Commit: ${{ github.sha }}
-#           - Workflow Path: ${{ github.workflow }}
-#           - Pull Request Number: #${{ needs.create_pr.outputs.pr_number }}
-#           - Commit Details: ${{ github.event.pusher.username }} <${{ github.event.pusher.email }}>
-         
-#           ---
-          
-#           Thanks.
-#           $timestamp
-#           Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
-#           EOF)
-#           echo "$markdown" > .github/Auto_Pull_Request.md
-#           echo "MARKDOWN_CONTENT<<EOF" >> $GITHUB_ENV
-#           echo "$markdown" >> $GITHUB_ENV
-#           echo "EOF" >> $GITHUB_ENV
-          
-#       - name: Update Pull Request Body
-#         run: |
-#           gh pr edit "$PR_NUMBER" --body "$MARKDOWN_CONTENT"
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}

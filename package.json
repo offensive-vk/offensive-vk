@@ -6,13 +6,17 @@
   "bot": "https://github.com/TheHamsterBot",
   "scripts": {
     "install": "pnpm add @octokit/rest @octokit/core @octokit/types octokit markdownlint",
-    "source": "https://github.com/offensive-vk/offensive-vk",
-    "hello": "sleep 5; echo 'My Container says Hello !'",
-    "dev": "sleep 5; echo 'Development Server Started... A Joke.' ",
-    "image": "docker build -t mycontainer .",
+    "source": "git clone https://github.com/offensive-vk/offensive-vk.git",
+    "dev": "sleep 5; echo 'Development Server Started...' ",
+    "image": "docker build -t offensive-vk .",
     "list": "docker ps -a",
-    "compose": "docker compose up --build --no-orphans",
-    "spawn": "docker run -it -d --name vedansh-container --rm --restart always -p 9999:9999 -v $(pwd):/shared/offensive-vk mycontainer:latest"
+    "info": "docker system info",
+    "compose": "docker compose up --build -d",
+    "pull": "docker pull ghcr.io/offensive-vk/offensive-vk:nightly",
+    "exec": "docker exec -it my-container neofetch",
+    "docker": "docker run -it -d --name docker-in-docker -p 9999:9999 --privileged -v /var/run/docker.sock:/var/run/docker.sock docker:dind",
+    "spawn": "docker run -it -d --name my-container --rm -p 9999:9999 -v $(pwd):/shared/offensive-vk offensive-vk",
+    "reset": "docker system prune -f"
   },
   "keywords": [
     "readme",
@@ -36,7 +40,7 @@
   "bugs": {
     "url": "https://github.com/offensive-vk/issues"
   },
-  "homepage": "https://github.com/offensive-vk#readme",
+  "homepage": "https://github.com/offensive-vk",
   "dependencies": {
     "@octokit/core": "^6.1.2",
     "@octokit/rest": "^21.0.2",
