@@ -4,8 +4,8 @@ on:
   schedule:
     - cron: '0 */4 * * *'
   push:
-    branches-ignore: ['master', 'dev', 'main', 'prod']
-  pull-request:
+    branches-ignore: ['master', 'dev']
+  pull_request:
     branches-ignore: ['master', 'dev']
   workflow_dispatch:
 
