@@ -1,10 +1,10 @@
 name: 🚢 Automated Docker Testing
 
-on: 
+on:
   workflow_dispatch:
   push:
     branches:
-      - "**"
+      - '**'
   schedule:
     - cron: '0 */2 * * *'
 
@@ -15,51 +15,51 @@ jobs:
       docker:
         image: docker:dind
         options: >-
-          --privileged 
-          --mount type=tmpfs,destination=/var/lib/docker,tmpfs-size=4096m
+          --privileged  --mount
+          type=tmpfs,destination=/var/lib/docker,tmpfs-size=4096m
         ports:
           - 2375:2375
 
     name: Begin Script Testing
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-    - name: Install Dependencies
-      run: npm i -g pnpm@9.0.0; pnpm install; pnpm i
+      - name: Install Dependencies
+        run: npm i -g pnpm@9.0.0; pnpm install; pnpm i
 
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v3
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
 
-    - name: Exec Docker Dev
-      run: pnpm run dev
+      - name: Exec Docker Dev
+        run: pnpm run dev
 
-    - name: Exec Docker Build
-      run: pnpm run image
+      - name: Exec Docker Build
+        run: pnpm run image
 
-    - name: Exec Docker Spawn
-      run: pnpm run spawn
+      - name: Exec Docker Spawn
+        run: pnpm run spawn
 
-    - name: Exec Docker Pull
-      run: pnpm run pull
+      - name: Exec Docker Pull
+        run: pnpm run pull
 
-    - name: Exec Docker Compose
-      run: pnpm run compose
+      - name: Exec Docker Compose
+        run: pnpm run compose
 
-    - name: List Running Containers
-      run: pnpm run list
+      - name: List Running Containers
+        run: pnpm run list
 
-    - name: Exec Docker Prune
-      run: pnpm run reset
+      - name: Exec Docker Prune
+        run: pnpm run reset
 
-    - name: Get System Details
-      run: |
-        echo "## Runner Details " >> $GITHUB_STEP_SUMMARY
-        uname -a >> $GITHUB_STEP_SUMMARY
-        echo "## Docker Info " >> $GITHUB_STEP_SUMMARY
-        pnpm run info >> $GITHUB_STEP_SUMMARY
+      - name: Get System Details
+        run: |
+          echo "## Runner Details " >> $GITHUB_STEP_SUMMARY
+          uname -a >> $GITHUB_STEP_SUMMARY
+          echo "## Docker Info " >> $GITHUB_STEP_SUMMARY
+          pnpm run info >> $GITHUB_STEP_SUMMARY

@@ -36,7 +36,7 @@ services:
         tmpfs:
           size: 4096m
     ports:
-      - "2376:2375"
+      - '2376:2375'
 
   my-container:
     build: .

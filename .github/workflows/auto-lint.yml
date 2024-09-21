@@ -45,10 +45,12 @@ jobs:
 
       - name: Upload Linter Results
         run: |
+          BRANCH=auto-linter-$(date +%d-%b)
           git fetch --all; git pull --verbose
-          git checkout -b auto-linter-$(date +%d)
-          git push --set-upstream origin auto-linter-$(date +%d)
+          git checkout -b "$branch"
+          git push --set-upstream origin "$BRANCH"
           git status --porcelain
+          echo "$BRANCH" >> $GITHUB_ENV
 
       - name: Commit and Push
         run: |
@@ -72,6 +74,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          ref: ${{env.BRANCH || 'master' }}
           fetch-depth: 0
 
       - name: Lint Codebase

@@ -19,12 +19,12 @@ jobs:
           echo "Howdy Everyone ! Wassup"
           echo "Good morning, contributors and watchers! Have a great day!"
 
-      - name: Background Cleanup Job 
-        run: | 
+      - name: Background Cleanup Job
+        run: |
           sudo apt update -y; sudo apt install lolcat neofetch -y
           neofetch | lolcat 
           uname -a; whoami; df -T
-  
+
   greetings:
     runs-on: macos-latest
     timeout-minutes: 5
@@ -41,7 +41,7 @@ jobs:
       - name: Say Good Morning
         run: |
           echo -e "\n# Good Morning, **General** ! \n\nToday is **${{ env.DATE }}** \n\n *Have a Wonderful Day Ahead.*" > GREETINGS.md
-      
+
       - name: Commit & Push Changes
         run: |
           git config --global user.name "Hamster [bot]"

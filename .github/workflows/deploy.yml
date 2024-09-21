@@ -2,7 +2,7 @@ name: 🏠 Deploy to GitHub Container Registry
 
 on:
   schedule:
-      - cron: '0 0 1 * *'
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 
 env:
@@ -41,7 +41,7 @@ jobs:
           echo "Tags: ${{ steps.meta.outputs.tags }}" >> $GITHUB_STEP_SUMMARY
           echo "Labels: ${{ steps.meta.outputs.labels }} " >> $GITHUB_STEP_SUMMARY
           echo "*** VERIFICATION COMPLETED ***" >> $GITHUB_STEP_SUMMARY
-        
+
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v4
         with:

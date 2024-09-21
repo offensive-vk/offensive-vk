@@ -3,12 +3,12 @@ name: 🤖 Automated Pull Request - Hamster 🐹
 on:
   push:
     branches-ignore:
-      - "main"
-      - "master"
-      - "old"
-      - "readme-2022"
-      - "Automation"
-      - "Best-Readme-Ever"
+      - 'main'
+      - 'master'
+      - 'old'
+      - 'readme-2022'
+      - 'Automation'
+      - 'Best-Readme-Ever'
   workflow_dispatch:
   schedule:
     - cron: '0 */1 * * *'
@@ -24,16 +24,19 @@ jobs:
         uses: repo-sync/pull-request@v2
         with:
           github_token: ${{ secrets.BOT_TOKEN }}
-          destination_branch: "master"
-          pr_title: "${{ github.workflow }} - (${{ github.event.head_commit.message }})"
-          pr_body: "Please Wait.... Hamster is working really hard here."
-          pr_reviewer: "offensive-vk"
-          pr_label: "bot,automated,hamster,pull-request"
-          pr_assignee: "TheHamsterBot"
+          destination_branch: 'master'
+          pr_title:
+            '${{ github.workflow }} - (${{ github.event.head_commit.message }})'
+          pr_body: 'Please Wait.... Hamster is working really hard here.'
+          pr_reviewer: 'offensive-vk'
+          pr_label: 'bot,automated,hamster,pull-request'
+          pr_assignee: 'TheHamsterBot'
           pr_draft: false
 
       - name: Save PR Number in ENV
-        run: echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >> $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
+        run:
+          echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >>
+          $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
 
   update_pr:
     needs: [create_pr]
@@ -59,7 +62,7 @@ jobs:
           - Most Recent Commit: ${{ github.event.head_commit.message }}
 
           ---
-          
+
           Thanks.
           $timestamp
           Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
@@ -68,7 +71,7 @@ jobs:
           echo "MARKDOWN_CONTENT<<EOF" >> $GITHUB_ENV
           echo "$markdown" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
-          
+
       - name: Update Pull Request Body
         run: |
           gh pr edit "$PR_NUMBER" --body "$MARKDOWN_CONTENT"

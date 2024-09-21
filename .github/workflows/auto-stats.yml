@@ -2,7 +2,7 @@ name: ⛽ Generate Repo Statistics
 
 on:
   schedule:
-    - cron: "5 */2 * * *"
+    - cron: '5 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -79,7 +79,7 @@ jobs:
           git config --local user.email "TheHamsterBot@outlook.com"
           git add .
           git commit -m "⚡ Updated Repo Statistics
-          
+
           Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           git push
         env:

@@ -11,14 +11,14 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Create Star List
         id: stargazer
         uses: rverst/stargazer@v1.2.0
         with:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
-          list-file: "STARRED.md"
+          list-file: 'STARRED.md'
 
       - name: Commit Changes
         run: |
@@ -26,7 +26,7 @@ jobs:
           git config --local user.name "TheHamsterBot"
           git add .
           git commit -m ":star: Updates Starred Repo List.
-          
+
 
           Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"

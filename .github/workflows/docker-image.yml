@@ -4,15 +4,15 @@ on:
   schedule:
     - cron: '0 */1 * * *'
   push:
-    branches: [ "master", "**" ]
+    branches: ['master', '**']
   pull_request:
-    branches: [ "master", "**" ]
+    branches: ['master', '**']
   workflow_dispatch:
 
 jobs:
   build_image:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Build the Docker Image
-      run: docker build . --file Dockerfile -t offensive_vk:$(date +%d-%m-%y)
+      - uses: actions/checkout@v4
+      - name: Build the Docker Image
+        run: docker build . --file Dockerfile -t offensive_vk:$(date +%d-%m-%y)

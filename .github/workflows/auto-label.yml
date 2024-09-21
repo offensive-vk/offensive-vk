@@ -1,6 +1,6 @@
 name: 🏷️ Automated Label - Hamster 🐹
 
-on: 
+on:
   schedule:
     - cron: '0 */1 * * *'
   issues:
@@ -17,54 +17,54 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: Label Issues
-      if: github.event_name == 'issues'
-      uses: actions/github-script@v7
-      with:
-        github-token: ${{ secrets.BOT_TOKEN }}
-        script: |
-          const issue = context.payload.issue;
-          const labels = [];
-          const title = issue.title.toLowerCase();
-          const body = issue.body ? issue.body.toLowerCase() : '';
+      - name: Label Issues
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.BOT_TOKEN }}
+          script: |
+            const issue = context.payload.issue;
+            const labels = [];
+            const title = issue.title.toLowerCase();
+            const body = issue.body ? issue.body.toLowerCase() : '';
 
-          const labelMapping = [
-            {label: 'ci/cd', match: ['ci/cd', 'pipeline', 'workflow', '.yml', 'dockerfile', '*.yml', '.github/workflows/*.yml', 'dockerfile', 'compose.yaml']},
-            {label: 'template', match: ['.github/auto_pull_request.md', '.github/auto_issue_template.md']},
-            {label: 'dotfiles', match: ['.gitlab-ci.yml', '.gitignore', '.gitattributes', '.dockerignore', 'dockerfile', 'license', 'package.json', 'pnpm-lock.yaml']},
-            {label: 'markdown', match: ['markdown','**/*.md', './**/*']},
-            {label: 'devcontainer', match: ['.devcontainer/*', '*.json']},
-            {label: 'secrets', match: ['**/*.mp3', '**/*.txt']},
-            {label: 'enhancement', match: ['feature', 'improve', 'updated', 'update']},
-            {label: 'question', match: ['?', 'question', 'please', 'help']},
-            {label: 'schedule', match: ['schedule', 'daily', 'automate', 'hamster', 'ci', 'cd']},
-            {label: 'boss', match: ['og', 'boss', 'admin', 'devops', 'final-boss']},
-            {label: 'workflow', match: ['yaml', 'yml', 'config','yaml/**/*', '**/*.yml', '**/*.yaml', '.github/*.yml', '.github/workflows/*.yml']}
-          ];
+            const labelMapping = [
+              {label: 'ci/cd', match: ['ci/cd', 'pipeline', 'workflow', '.yml', 'dockerfile', '*.yml', '.github/workflows/*.yml', 'dockerfile', 'compose.yaml']},
+              {label: 'template', match: ['.github/auto_pull_request.md', '.github/auto_issue_template.md']},
+              {label: 'dotfiles', match: ['.gitlab-ci.yml', '.gitignore', '.gitattributes', '.dockerignore', 'dockerfile', 'license', 'package.json', 'pnpm-lock.yaml']},
+              {label: 'markdown', match: ['markdown','**/*.md', './**/*']},
+              {label: 'devcontainer', match: ['.devcontainer/*', '*.json']},
+              {label: 'secrets', match: ['**/*.mp3', '**/*.txt']},
+              {label: 'enhancement', match: ['feature', 'improve', 'updated', 'update']},
+              {label: 'question', match: ['?', 'question', 'please', 'help']},
+              {label: 'schedule', match: ['schedule', 'daily', 'automate', 'hamster', 'ci', 'cd']},
+              {label: 'boss', match: ['og', 'boss', 'admin', 'devops', 'final-boss']},
+              {label: 'workflow', match: ['yaml', 'yml', 'config','yaml/**/*', '**/*.yml', '**/*.yaml', '.github/*.yml', '.github/workflows/*.yml']}
+            ];
 
-          let matched = false;
-          labelMapping.forEach(({label, match}) => {
-            if (match.some(keyword => title.includes(keyword) || body.includes(keyword))) {
-              labels.push(label);
-              matched = true;
-            }
-          });
-
-          if (!matched) {
-            labels.push('unknown');
-          }
-
-          if (labels.length > 0) {
-            await github.rest.issues.addLabels({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: issue.number,
-              labels: labels
+            let matched = false;
+            labelMapping.forEach(({label, match}) => {
+              if (match.some(keyword => title.includes(keyword) || body.includes(keyword))) {
+                labels.push(label);
+                matched = true;
+              }
             });
-          }
+
+            if (!matched) {
+              labels.push('unknown');
+            }
+
+            if (labels.length > 0) {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                labels: labels
+              });
+            }
 
   label_pull_requests:
     runs-on: ubuntu-latest
@@ -73,18 +73,19 @@ jobs:
       pull-requests: write
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Label Pull Requests
-      if: github.event_name == 'pull_request'
-      uses: actions/labeler@v4
-      with:
-        repo-token: ${{ secrets.BOT_TOKEN }}
+      - name: Label Pull Requests
+        if: github.event_name == 'pull_request'
+        uses: actions/labeler@v4
+        with:
+          repo-token: ${{ secrets.BOT_TOKEN }}
 
   finish_cleanup:
     runs-on: ubuntu-latest
     needs: [label_issues, label_pull_requests]
     steps:
-    - name: Finish Off & Cleanup
-      run: echo "Successfully labeled all of the open issues and pull requests."
+      - name: Finish Off & Cleanup
+        run:
+          echo "Successfully labeled all of the open issues and pull requests."
