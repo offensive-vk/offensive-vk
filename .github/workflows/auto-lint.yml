@@ -55,14 +55,12 @@ jobs:
           git config --global user.name ${{ env.name }}
           git config --global user.email ${{ env.email }}
           git commit -am "Publish Linter Fixes"
-          git push
         env:
           name: 'Hamster [bot]'
           email: 'TheHamsterBot@outlook.com'
           message: 'Publish Linter Changes and Fixes'
           branch: 'auto-fix-linter'
-          github-token: ${{ secrets.RESERVED }}
-          GITHUB_TOKEN: ${{ secrets.RESERVED }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Lint Codebase
         id: super-linter
