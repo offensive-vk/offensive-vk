@@ -54,6 +54,7 @@ jobs:
           git config --global user.email ${{ env.email }}
           git add -A .
           git commit -m "Automated Linter Fixes"
+          exit 0
         env:
           name: 'Hamster [bot]'
           email: 'TheHamsterBot@outlook.com'
