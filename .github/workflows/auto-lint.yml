@@ -51,13 +51,13 @@ jobs:
           git status --porcelain
 
       - name: Commit and Push
-        uses: offensive-vk/auto-commit-push@master
+        uses: offensive-vk/auto-commit-push@v5
         with:
           name: 'Hamster [bot]'
           email: 'TheHamsterBot@outlook.com'
           message: 'Publish Linter Changes and Fixes'
           branch: 'auto-fix-linter'
-          github-token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.MY_GH_TOKEN }}
+          github-token: ${{ secrets.RESERVED }}
 
       - name: Lint Codebase
         id: super-linter
