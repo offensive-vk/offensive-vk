@@ -48,18 +48,18 @@ jobs:
           git fetch --all; git pull --verbose
           git status --porcelain
 
-      - name: Commit and Push
-        run: |
-          git config --global user.name ${{ env.name }}
-          git config --global user.email ${{ env.email }}
-          git add -A .
-          git commit -m "Automated Linter Fixes"
-          exit 0
-        env:
-          name: 'Hamster [bot]'
-          email: 'TheHamsterBot@outlook.com'
-          MESSAGE: 'Publish Linter Changes and Fixes'
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Commit and Push
+      #   run: |
+      #     git config --global user.name ${{ env.name }}
+      #     git config --global user.email ${{ env.email }}
+      #     git add -A .
+      #     git commit -m "Automated Linter Fixes"
+      #     exit 0
+      #   env:
+      #     name: 'Hamster [bot]'
+      #     email: 'TheHamsterBot@outlook.com'
+      #     MESSAGE: 'Publish Linter Changes and Fixes'
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   super-linter:
     name: Execute Super Linter
