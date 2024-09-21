@@ -47,7 +47,6 @@ jobs:
           BRANCH="auto-linter-$(date +%d-%b)"
           git fetch --all; git pull --verbose
           git status --porcelain
-          echo "$BRANCH" >> $GITHUB_ENV
 
       - name: Commit and Push
         run: |
@@ -58,7 +57,7 @@ jobs:
         env:
           name: 'Hamster [bot]'
           email: 'TheHamsterBot@outlook.com'
-          message: 'Publish Linter Changes and Fixes'
+          MESSAGE: 'Publish Linter Changes and Fixes'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   super-linter:
