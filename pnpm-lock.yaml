@@ -23,6 +23,9 @@ importers:
       octokit:
         specifier: ^4.0.2
         version: 4.0.2
+      pnpm:
+        specifier: 9.0.0
+        version: 9.0.0
 
 packages:
 
@@ -183,6 +186,11 @@ packages:
   octokit@4.0.2:
     resolution: {integrity: sha512-wbqF4uc1YbcldtiBFfkSnquHtECEIpYD78YUXI6ri1Im5OO2NLo6ZVpRdbJpdnpZ05zMrVPssNiEo6JQtea+Qg==}
     engines: {node: '>= 18'}
+
+  pnpm@9.0.0:
+    resolution: {integrity: sha512-tBBnB8ciWxdIthWVlTzL6/+XtUrQXQAqo2NfYzucU81mb3zpuLxEcE8foEi5pJtVNxqy2enWZ9Hv4u8VFLzVEw==}
+    engines: {node: '>=18.12'}
+    hasBin: true
 
   punycode.js@2.3.1:
     resolution: {integrity: sha512-uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA==}
@@ -402,6 +410,8 @@ snapshots:
       '@octokit/plugin-throttling': 9.3.1(@octokit/core@6.1.2)
       '@octokit/request-error': 6.1.4
       '@octokit/types': 13.5.0
+
+  pnpm@9.0.0: {}
 
   punycode.js@2.3.1: {}
 

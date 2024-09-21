@@ -36,7 +36,7 @@ jobs:
         run: echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >> $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
 
   update_pr:
-    needs: create_pr
+    needs: [create_pr]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -47,16 +47,16 @@ jobs:
           ## This Pull Request Was Automated by [Hamster [bot]](https://github.com/TheHamsterBot)
 
           > [!NOTE]
-          > Workflow Trigger: ${{ github.event_name }} event at ${{ github.api_url }}
+          > Workflow Trigger: ${{ github.event_name }} event at ${{ github.event.pull_request.head_ref }}
           > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @TheHamsterBot
-          - Branch: master (base) / ${{ github.event.head_ref }} (head)
+          - Branch: master (base) / ${{ github.event.pull_request.head_ref }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
           - Pull Request Number: #${{ env.PR_NUMBER || needs.create_pr.outputs.pr_number }}
           - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
-          - Commit Info: ${{ github.event.head_commit.message }}
+          - Most Recent Commit: ${{ github.event.head_commit.message }}
 
           ---
           

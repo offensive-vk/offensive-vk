@@ -1,12 +1,18 @@
 {
     "name": "Personal Dev Container",
     "image": "mcr.microsoft.com/vscode/devcontainers/base:bullseye",
-    "features": {},
-    "extensions": [],
+    "build": { "dockerfile": "./Dockerfile" },
     "environment": {
         "NODE_ENV": "development",
-        "API_URL": "https://api.github.com"
+        "API_URL": "https://api.github.com",
+        "PORT": "9999"
     },
-    "postCreateCommand": "echo 'Welcome to your little dev container!'"
-  }
-  
+    "postCreateCommand": "echo 'Welcome to your little dev container!'; npm run install",
+    "postStartCommand": "pnpm run dev",
+    "forwardPorts": [9999],
+    "healthCheck": {
+        "interval": "30s",
+        "timeout": "10s",
+        "shell": ["bash", "-c", "curl -f http://localhost:9999 || exit 1"]
+    }
+}

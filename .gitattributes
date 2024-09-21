@@ -10,9 +10,9 @@
 *.md linguist-language=Markdown
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-*.svg linguist-detectable=true
+*.svg linguist-detectable=false
 *.gif linguist-language=Binary
-*.svg linguist-language=JSON
+*.svg linguist-language=Markdown
 *.json linguist-detectable=true
 *.json linguist-documentation=false
 *.json linguist-language=JSON
