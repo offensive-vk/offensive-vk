@@ -2,7 +2,7 @@ name: 🐍 Generate Snake Contribution GIF
 
 on:
   schedule:
-    - cron: '40 23 * * *' # Runs at 23:40 every day.
+    - cron: '40 13,23 * * *' # Runs at 23:40 every day.
   workflow_dispatch:
 
 jobs:

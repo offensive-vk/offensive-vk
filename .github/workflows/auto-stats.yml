@@ -6,13 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  character_count:
+  generate_stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Stats for the Entire Repo
+      - name: Generate Stats
         id: charactercount
         run: |
           # Initialize Variables

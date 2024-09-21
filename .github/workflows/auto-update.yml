@@ -42,7 +42,7 @@ jobs:
             pull-request
           reviewers: offensive-vk
           commit-message: "Update Dependencies - package.json"
-          title: "Update Dependencies To Latest - Automated"
+          title: "Update Project Dependencies - Automated"
           body: |
             ## Updated all Dependencies to Latest Versions.
 

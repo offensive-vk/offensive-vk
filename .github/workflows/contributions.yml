@@ -1,10 +1,12 @@
 name: ✨ Generate Contribution Pattern
+
 on:
   schedule:
-    - cron: '55 23 * * *' # At 11:55 PM every day
+    - cron: '55 13,23 * * *' # At 11:55 PM every day
   workflow_dispatch:
+
 jobs:
-  process:
+  pattern:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     name: Generate Pattern
@@ -14,6 +16,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
           USERNAME: ${{ github.repository_owner || 'offensive-vk' }}
+
       - name: Commit & Push
         run: |
           git config user.email "TheHamsterBot@outlook.com"

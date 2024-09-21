@@ -2,11 +2,11 @@ name: ⛅ Docker - Build Image
 
 on:
   schedule:
-    - cron: '10 0 * * *'
+    - cron: '0 */1 * * *'
   push:
-    branches: [ "master", "*" ]
+    branches: [ "master", "**" ]
   pull_request:
-    branches: [ "master", "*" ]
+    branches: [ "master", "**" ]
   workflow_dispatch:
 
 jobs:
@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build the Docker Image
-      run: docker build . --file Dockerfile -t offensive_vk:$(date +%s)
+      run: docker build . --file Dockerfile -t offensive_vk:$(date +%d-%m-%y)

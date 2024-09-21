@@ -1,4 +1,4 @@
-name: ✅ Super Linter
+name: ✅ Automated Linter
 
 on:
   schedule:
@@ -15,8 +15,8 @@ permissions:
   statuses: write
 
 jobs:
-  lint:
-    name: Lint YAML
+  prettier_linter:
+    name: Execute Prettier
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -39,7 +39,7 @@ jobs:
           pnpm -v
           pnpm install
 
-      - name: Run Auto Fixer
+      - name: Run Auto Linter
         run: |
           pnpm run fix
 
@@ -59,14 +59,24 @@ jobs:
           name: 'Hamster [bot]'
           email: 'TheHamsterBot@outlook.com'
           message: 'Publish Linter Changes and Fixes'
-          branch: 'auto-fix-linter'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  super-linter:
+    name: Execute Super Linter
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Lint Codebase
         id: super-linter
         uses: super-linter/super-linter/slim@v7
         env:
-          FILTER_REGEX_INCLUDE: \.(yml|yaml)$
+          FILTER_REGEX_INCLUDE: \.(yml|yaml|json)$
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_ALL_CODEBASE: true
           VALIDATE_YAML: true

@@ -40,12 +40,12 @@ jobs:
 
       - name: Say Good Morning
         run: |
-          echo -e "\n# Good Morning, **General** ! \n\nToday is **${{ env.DATE }}** \n\n\t *Have a Wonderful Day Ahead.*" > GREETINGS.md
+          echo -e "\n# Good Morning, **General** ! \n\nToday is **${{ env.DATE }}** \n\n *Have a Wonderful Day Ahead.*" > GREETINGS.md
       
       - name: Commit & Push Changes
         run: |
           git config --global user.name "Hamster [bot]"
           git config --global user.email "TheHamsterBot@outlook.com"
           git add GREETINGS.md
-          git commit -m "Hamster Sends Greeting of the Day."
+          git commit -m "🤖 Hamster Sends Greeting of the Day."
           git push
