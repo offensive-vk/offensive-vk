@@ -12,7 +12,6 @@ on:
 permissions:
   contents: write
   packages: read
-  statuses: write
 
 jobs:
   prettier_linter:
@@ -45,9 +44,9 @@ jobs:
 
       - name: Upload Linter Results
         run: |
-          BRANCH=auto-linter-$(date +%d-%b)
+          BRANCH="auto-linter-$(date +%d-%b)"
           git fetch --all; git pull --verbose
-          git checkout -b "$branch"
+          git checkout -b "$BRANCH"
           git push --set-upstream origin "$BRANCH"
           git status --porcelain
           echo "$BRANCH" >> $GITHUB_ENV
