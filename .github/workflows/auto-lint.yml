@@ -45,7 +45,7 @@ jobs:
       - name: Upload Linter Results
         run: |
           BRANCH="auto-linter-$(date +%d-%b)"
-          git fetch origin --all; git pull origin --verbose
+          git fetch --all; git pull --verbose
           git status --porcelain
           echo "$BRANCH" >> $GITHUB_ENV
 
