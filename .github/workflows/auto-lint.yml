@@ -57,7 +57,10 @@ jobs:
           email: 'TheHamsterBot@outlook.com'
           message: 'Publish Linter Changes and Fixes'
           branch: 'auto-fix-linter'
-          github-token: ${{ secrets.RESERVED }}
+          github-token: ${{ secrets.WORKFLOWS || secrets.GITHUB_TOKEN || secrets.RESERVED }}
+        env:
+          github-token: ${{ secrets.WORKFLOWS || secrets.GITHUB_TOKEN || secrets.RESERVED }}
+          GITHUB_TOKEN: ${{ secrets.WORKFLOWS || secrets.GITHUB_TOKEN || secrets.RESERVED }}
 
       - name: Lint Codebase
         id: super-linter
