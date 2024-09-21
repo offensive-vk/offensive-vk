@@ -71,3 +71,5 @@ jobs:
           VALIDATE_ALL_CODEBASE: true
           VALIDATE_YAML: true
           VALIDATE_YAML_PRETTIER: true
+          VALIDATE_JSON: true
+          VALIDATE_JSON_PRETTIER: true
