@@ -46,7 +46,7 @@ jobs:
           echo "$markdown" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
       - name: Create Dynamic Issue
-        uses: dacbd/create-issue-action@main
+        uses: offensive-vk/auto-issue@v5
         with:
           token: ${{ secrets.BOT_TOKEN }}
           title: |
