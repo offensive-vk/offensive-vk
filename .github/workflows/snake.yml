@@ -2,7 +2,7 @@ name: 🐍 Generate Snake Contribution GIF
 
 on:
   schedule:
-    - cron: '40 23 * * *' # Runs at 23:40 every day.
+    - cron: '40 13,23 * * *' # Runs at 23:40 every day.
   workflow_dispatch:
 
 jobs:
@@ -30,11 +30,11 @@ jobs:
           git config --global user.name "TheHamsterBot"
           git add .
           git commit -m ":snake: Updated Snake Animation
-          
+
 
           Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-      
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

@@ -3,7 +3,7 @@ name: 💬 Update Daily Quote
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
 jobs:
   update-quote:
@@ -14,9 +14,9 @@ jobs:
       - uses: offensive-vk/auto-update-quote@v5
         with:
           GH_TOKEN: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
-          COMMIT_MESSAGE: | 
+          COMMIT_MESSAGE: |
             :cloud: Updated Daily Quote 
-            
-            
+
+
             Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com> 
             Co-Authored-by: Vedansh <superuser.ntsystems@outlook.com>

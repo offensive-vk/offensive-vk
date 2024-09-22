@@ -1,10 +1,10 @@
 {
-    "default": true,
-    "md013": false,
-    "MD033": false,
-    "MD001": false,
-    "MD003": "false",
-    "MD009": "false",
-    "no-hard-tabs": false,
-    "no-inline-html": false
+  "default": true,
+  "md013": false,
+  "MD033": false,
+  "MD001": false,
+  "MD003": "false",
+  "MD009": "false",
+  "no-hard-tabs": false,
+  "no-inline-html": false
 }

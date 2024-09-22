@@ -1,4 +1,4 @@
-name: ✅ Super Linter
+name: ✅ Automated Linter
 
 on:
   schedule:
@@ -12,11 +12,10 @@ on:
 permissions:
   contents: write
   packages: read
-  statuses: write
 
 jobs:
-  lint:
-    name: Lint YAML
+  prettier_linter:
+    name: Execute Prettier
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -39,37 +38,26 @@ jobs:
           pnpm -v
           pnpm install
 
-      - name: Run Auto Fixer
+      - name: Run Auto Linter
         run: |
           pnpm run fix
 
       - name: Upload Linter Results
         run: |
+          BRANCH="auto-linter-$(date +%d-%b)"
           git fetch --all; git pull --verbose
-          git checkout -b auto-fix-linter
-          git push --set-upstream origin auto-fix-linter
           git status --porcelain
 
-      - name: Commit and Push
-        run: |
-          git config --global user.name ${{ env.name }}
-          git config --global user.email ${{ env.email }}
-          git commit -am "Publish Linter Fixes"
-        env:
-          name: 'Hamster [bot]'
-          email: 'TheHamsterBot@outlook.com'
-          message: 'Publish Linter Changes and Fixes'
-          branch: 'auto-fix-linter'
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Lint Codebase
-        id: super-linter
-        uses: super-linter/super-linter/slim@v7
-        env:
-          FILTER_REGEX_INCLUDE: \.(yml|yaml)$
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VALIDATE_ALL_CODEBASE: true
-          VALIDATE_YAML: true
-          VALIDATE_YAML_PRETTIER: true
-          VALIDATE_JSON: true
-          VALIDATE_JSON_PRETTIER: true
+      # - name: Commit and Push
+      #   run: |
+      #     git config --global user.name ${{ env.name }}
+      #     git config --global user.email ${{ env.email }}
+      #     git add -A .
+      #     git commit -m "Automated Linter Fixes"
+      #     exit 0
+      #   env:
+      #     name: 'Hamster [bot]'
+      #     email: 'TheHamsterBot@outlook.com'
+      #     MESSAGE: 'Publish Linter Changes and Fixes'
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      

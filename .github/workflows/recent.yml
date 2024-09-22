@@ -21,7 +21,7 @@ jobs:
           COMMIT_NAME: Hamster [bot]
           COMMIT_EMAIL: TheHamsterBot@outlook.com
           COMMIT_MSG: |
-            Updated Recent Activity in Readme
+            🧑‍💻 Updated Recent Activity in Readme
 
 
             Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
@@ -36,7 +36,7 @@ jobs:
           COMMIT_NAME: Hamster [bot]
           COMMIT_EMAIL: TheHamsterBot@outlook.com
           COMMIT_MSG: |
-            Updated Recent Activity
+            🧑‍💻 Updated Recent Activity
 
 
             Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>

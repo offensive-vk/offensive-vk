@@ -15,7 +15,7 @@ upload:
     - sleep 15
     - echo "Repository checked out successfully."
   artifacts:
-    name: "offensive-vk"
+    name: 'offensive-vk'
     paths:
       - .
   only:
@@ -32,7 +32,7 @@ refresh:
     - echo "The repository has been compressed verified."
     - sleep 10
   artifacts:
-    name: "offensive-vk-zip"
+    name: 'offensive-vk-zip'
     paths:
       - offensive-vk.zip
   only:

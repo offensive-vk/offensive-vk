@@ -2,15 +2,15 @@ name: ⚠️ Report Workflow Failures
 
 on:
   workflow_run:
-    workflows: 
-        - "🤖 Automated Issue - Hamster 🐹"
-        - "🏷️ Automated Label - Hamster 🐹"
-        - "🤖 Automated Pull Request - Hamster 🐹"
-        - "🗃️ Automated Project - Hamster 🐹"
-        - "🛫 Auto Update Dependencies"
-        - "⛅ Docker - Build Image"
-        - "🌨️ Docker - Publish Image"
-        - "🦅 Gitlab - Mirror Sync"
+    workflows:
+      - '🤖 Automated Issue - Hamster 🐹'
+      - '🏷️ Automated Label - Hamster 🐹'
+      - '🤖 Automated Pull Request - Hamster 🐹'
+      - '🗃️ Automated Project - Hamster 🐹'
+      - '🛫 Auto Update Dependencies'
+      - '⛅ Docker - Build Image'
+      - '🌨️ Docker - Publish Image'
+      - '🦅 Gitlab - Mirror Sync'
     types: [completed]
   workflow_dispatch:
 jobs:
@@ -25,7 +25,7 @@ jobs:
               https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.event.workflow_run.id }}/jobs)
 
           failed_jobs=$(echo "$jobs" | jq '.jobs[] | select(.conclusion == "failure" or .conclusion == "skipped") | .name')
-          
+
           if [ -n "$failed_jobs" ]; then
             echo "failed_jobs=$failed_jobs" >> $GITHUB_ENV
           else
@@ -34,7 +34,7 @@ jobs:
 
       - name: Create issue if jobs failed or skipped
         if: ${{ env.failed_jobs != '' }}
-        uses: dacbd/create-issue-action@main
+        uses: offensive-vk/auto-issue@v5
         continue-on-error: true
         with:
           labels: automated, bot, hamster, issue
@@ -50,7 +50,6 @@ jobs:
             # *Failure Details:*
             ${{ github.event.workflow_run.conclusion }}
             ${{ github.event.workflow_run.status_message }}
-
 
 # name: Monitor Workflow Failures and Skipped Jobs
 

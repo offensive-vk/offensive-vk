@@ -1,10 +1,10 @@
 name: ⚒️ Automated Image Testing
 
-on: 
+on:
   workflow_dispatch:
   push:
     branches:
-      - "**"
+      - '**'
   schedule:
     - cron: '0 */2 * * *'
 
@@ -12,44 +12,44 @@ jobs:
   test-images:
     runs-on: ubuntu-latest
     services:
-        docker:
-          image: docker:dind
-          options: >-
-            --privileged 
-            --mount type=tmpfs,destination=/var/lib/docker,tmpfs-size=4096m
-          ports:
-            - 2375:2375
+      docker:
+        image: docker:dind
+        options: >-
+          --privileged  --mount
+          type=tmpfs,destination=/var/lib/docker,tmpfs-size=4096m
+        ports:
+          - 2375:2375
 
     name: Begin Image Testing
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Pull Image from Docker Hub
-      run: |
-        docker pull ntsystems/ntsystems:master
+      - name: Pull Image from Docker Hub
+        run: |
+          docker pull ntsystems/ntsystems:master
 
-    - name: Pull Image from GHRC Hub
-      run: |
-        docker pull ghcr.io/offensive-vk/offensive-vk:master
+      - name: Pull Image from GHRC Hub
+        run: |
+          docker pull ghcr.io/offensive-vk/offensive-vk:master
 
-    - name: Run Container - GHCR
-      run: |
-        docker run -it -d --name my-container ghcr.io/offensive-vk/offensive-vk:master
+      - name: Run Container - GHCR
+        run: |
+          docker run -it -d --name my-container ghcr.io/offensive-vk/offensive-vk:master
 
-    - name: Run Container - Docker Hub
-      run: |
-        docker run -it -d --name dev-container ntsystems/ntsystems:master
+      - name: Run Container - Docker Hub
+        run: |
+          docker run -it -d --name dev-container ntsystems/ntsystems:master
 
-    - name: List Running Docker Containers
-      run: |
-        docker ps -a; echo "## Docker Version " >> $GITHUB_STEP_SUMMARY
-        docker version >> $GITHUB_STEP_SUMMARY
+      - name: List Running Docker Containers
+        run: |
+          docker ps -a; echo "## Docker Version " >> $GITHUB_STEP_SUMMARY
+          docker version >> $GITHUB_STEP_SUMMARY
 
-    - name: Get System Details
-      run: |
-        echo "" >> $GITHUB_STEP_SUMMARY; echo "## Runner Details " >> $GITHUB_STEP_SUMMARY
-        docker exec my-container uname -a >> $GITHUB_STEP_SUMMARY
-        docker exec dev-container uname -a >> $GITHUB_STEP_SUMMARY
-        echo "## Docker Info" >> $GITHUB_STEP_SUMMARY
-        docker system info >> $GITHUB_STEP_SUMMARY
+      - name: Get System Details
+        run: |
+          echo "" >> $GITHUB_STEP_SUMMARY; echo "## Runner Details " >> $GITHUB_STEP_SUMMARY
+          docker exec my-container uname -a >> $GITHUB_STEP_SUMMARY
+          docker exec dev-container uname -a >> $GITHUB_STEP_SUMMARY
+          echo "## Docker Info" >> $GITHUB_STEP_SUMMARY
+          docker system info >> $GITHUB_STEP_SUMMARY
