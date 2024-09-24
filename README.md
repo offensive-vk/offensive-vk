@@ -109,21 +109,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/offensive-vk/offensive-vk/pull/114) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2. 🎉 Merged PR [#12](https://github.com/offensive-vk/ts-action-starter/pull/12) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-3. 🎉 Merged PR [#16](https://github.com/offensive-vk/ts-action-starter/pull/16) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-4. 💪 Opened PR [#16](https://github.com/offensive-vk/ts-action-starter/pull/16) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-5. 🎉 Merged PR [#15](https://github.com/offensive-vk/ts-action-starter/pull/15) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-6. 🎉 Merged PR [#4](https://github.com/offensive-vk/ts-action-starter/pull/4) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-7. 🎉 Merged PR [#112](https://github.com/offensive-vk/offensive-vk/pull/112) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8. 🚀 Published release [v5](https://github.com/offensive-vk/auto-issue/releases/tag/v5) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-9. 🎉 Merged PR [#20](https://github.com/offensive-vk/auto-issue/pull/20) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-10. 💪 Opened PR [#20](https://github.com/offensive-vk/auto-issue/pull/20) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-11. 🚀 Published release [v5](https://github.com/offensive-vk/auto-issue/releases/tag/v5) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-12. 🚀 Published release [v9](https://github.com/offensive-vk/offensive-vk/releases/tag/v9) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🚀 Published release [v10](https://github.com/offensive-vk/offensive-vk/releases/tag/v10) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🗣 Commented on [#234](https://github.com/offensive-vk/UntilEverything/pull/234#issuecomment-2365205807) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 Merged PR [#236](https://github.com/offensive-vk/UntilEverything/pull/236) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1. 🗣 Commented on [#7218](https://github.com/kamranahmedse/developer-roadmap/pull/7218#issuecomment-2371299733) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 🗣 Commented on [#7218](https://github.com/kamranahmedse/developer-roadmap/pull/7218#issuecomment-2371271323) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. 🗣 Commented on [#7218](https://github.com/kamranahmedse/developer-roadmap/pull/7218#issuecomment-2371266212) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 💪 Opened PR [#7218](https://github.com/kamranahmedse/developer-roadmap/pull/7218) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. 🎉 Merged PR [#114](https://github.com/offensive-vk/offensive-vk/pull/114) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6. 🎉 Merged PR [#12](https://github.com/offensive-vk/ts-action-starter/pull/12) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+7. 🎉 Merged PR [#16](https://github.com/offensive-vk/ts-action-starter/pull/16) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+8. 💪 Opened PR [#16](https://github.com/offensive-vk/ts-action-starter/pull/16) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+9. 🎉 Merged PR [#15](https://github.com/offensive-vk/ts-action-starter/pull/15) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+10. 🎉 Merged PR [#4](https://github.com/offensive-vk/ts-action-starter/pull/4) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+11. 🎉 Merged PR [#112](https://github.com/offensive-vk/offensive-vk/pull/112) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🚀 Published release [v5](https://github.com/offensive-vk/auto-issue/releases/tag/v5) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+13. 🎉 Merged PR [#20](https://github.com/offensive-vk/auto-issue/pull/20) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+14. 💪 Opened PR [#20](https://github.com/offensive-vk/auto-issue/pull/20) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+15. 🚀 Published release [v5](https://github.com/offensive-vk/auto-issue/releases/tag/v5) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
 <!--END_SECTION:activity-->
 
 </p>
