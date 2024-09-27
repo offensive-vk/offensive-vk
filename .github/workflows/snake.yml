@@ -25,6 +25,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
 
       - name: Commit files
+        continue-on-error: true
         run: |
           git config --global user.email "TheHamsterBot@outlook.com"
           git config --global user.name "TheHamsterBot"
