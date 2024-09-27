@@ -109,21 +109,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8256](https://github.com/toeverything/AFFiNE/issues/8256#issuecomment-2379004479) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-2. 🎉 Merged PR [#116](https://github.com/offensive-vk/offensive-vk/pull/116) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3. 🎉 Merged PR [#186](https://github.com/offensive-vk/Classics/pull/186) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-4. 🎉 Merged PR [#182](https://github.com/offensive-vk/Classics/pull/182) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-5. 🎉 Merged PR [#175](https://github.com/offensive-vk/Classics/pull/175) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-6. 🎉 Merged PR [#14](https://github.com/offensive-vk/ts-action-starter/pull/14) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-7. 🎉 Merged PR [#115](https://github.com/offensive-vk/offensive-vk/pull/115) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8. 🗣 Commented on [#7236](https://github.com/kamranahmedse/developer-roadmap/pull/7236#issuecomment-2376351215) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9. 🗣 Commented on [#7236](https://github.com/kamranahmedse/developer-roadmap/pull/7236#issuecomment-2376291965) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣 Commented on [#7229](https://github.com/kamranahmedse/developer-roadmap/pull/7229#issuecomment-2376239747) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 Opened PR [#7236](https://github.com/kamranahmedse/developer-roadmap/pull/7236) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🗣 Commented on [#7229](https://github.com/kamranahmedse/developer-roadmap/pull/7229#issuecomment-2376210433) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 🎉 Merged PR [#13](https://github.com/offensive-vk/ts-action-starter/pull/13) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
-14. 🎉 Merged PR [#179](https://github.com/offensive-vk/Classics/pull/179) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-15. 🎉 Merged PR [#177](https://github.com/offensive-vk/Classics/pull/177) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+1. 🚀 Published release [v5](https://github.com/offensive-vk/auto-update-quote/releases/tag/v5) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+2. 🚀 Published release [v5](https://github.com/offensive-vk/auto-update-quote/releases/tag/v5) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+3. 🎉 Merged PR [#3](https://github.com/offensive-vk/auto-update-quote/pull/3) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+4. 💪 Opened PR [#3](https://github.com/offensive-vk/auto-update-quote/pull/3) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+5. 🗣 Commented on [#8256](https://github.com/toeverything/AFFiNE/issues/8256#issuecomment-2379004479) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+6. 🎉 Merged PR [#116](https://github.com/offensive-vk/offensive-vk/pull/116) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7. 🎉 Merged PR [#186](https://github.com/offensive-vk/Classics/pull/186) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+8. 🎉 Merged PR [#182](https://github.com/offensive-vk/Classics/pull/182) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+9. 🎉 Merged PR [#175](https://github.com/offensive-vk/Classics/pull/175) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+10. 🎉 Merged PR [#14](https://github.com/offensive-vk/ts-action-starter/pull/14) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+11. 🎉 Merged PR [#115](https://github.com/offensive-vk/offensive-vk/pull/115) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🗣 Commented on [#7236](https://github.com/kamranahmedse/developer-roadmap/pull/7236#issuecomment-2376351215) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 🗣 Commented on [#7236](https://github.com/kamranahmedse/developer-roadmap/pull/7236#issuecomment-2376291965) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🗣 Commented on [#7229](https://github.com/kamranahmedse/developer-roadmap/pull/7229#issuecomment-2376239747) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 Opened PR [#7236](https://github.com/kamranahmedse/developer-roadmap/pull/7236) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
 
 </p>
