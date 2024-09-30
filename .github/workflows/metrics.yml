@@ -1,7 +1,7 @@
 # All results are in SVG format, and commited to /assets/ in master branch.
-#############################################################
+###########################################################################
 # All Rights Reserved. 2022 - Present. (offensive-vk)
-#############################################################
+###########################################################################
 
 name: 📊 Generates Metrics
 on:
@@ -12,16 +12,16 @@ jobs:
   # Ticket (Issue + PR) Follow Ups
   ticket-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/tickets.svg
           committer_message: '📊 Updated Metrics - Tickets'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_followup: yes
@@ -36,10 +36,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/habits.svg
           committer_message: '📊 Updated Metrics - Habits'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_habits: yes
@@ -59,10 +59,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/stargazers.svg
           committer_message: '📊 Updated Metrics - Stargazers'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_stargazers: yes
@@ -78,10 +78,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/activity.svg
           committer_message: '📊 Updated Metrics - Activity'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_activity: yes
@@ -99,10 +99,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/reactions.svg
           committer_message: '📊 Updated Metrics - Reactions'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_reactions: yes
@@ -121,9 +121,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           committer_message: '📊 Updated Metrics - Peoples'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           filename: assets/people.svg
           user: offensive-vk
           base: ''
@@ -139,10 +139,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/languages.svg
           committer_message: '📊 Updated Metrics - Languages'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_languages: yes
@@ -163,10 +163,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/achievements.svg
           committer_message: '📊 Updated Metrics - Achievements'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_achievements: yes
@@ -182,10 +182,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/notable.svg
           committer_message: '📊 Updated Metrics - Contributions'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_notable: yes
@@ -203,10 +203,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/starlists.svg
           committer_message: '📊 Updated Metrics - Starlists'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_starlists: yes
@@ -223,10 +223,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/intro.svg
           committer_message: '📊 Updated Metrics - Introduction'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_introduction: yes
@@ -240,10 +240,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/topics.svg
           committer_message: '📊 Updated Metrics - Topics'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_topics: yes
@@ -259,10 +259,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.CLASSIC_TOKEN }}
           committer_message: '📊 Updated Metrics - Lines of Code'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           filename: assets/lines-of-code.svg
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
           user: offensive-vk
           base: ''
           plugin_lines: yes
@@ -283,10 +283,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/all.svg
           committer_message: '📊 Updated Metrics - Everything'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           # Options
           user: offensive-vk
           template: classic
@@ -337,10 +337,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.CLASSIC_GH_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN }}
           filename: assets/summary.svg
           committer_message: '📊 Updated Metrics - Quick Summary'
-          committer_token: ${{ secrets.CLASSIC_GH_TOKEN || secrets.BOT_TOKEN }}
+          committer_token: ${{ secrets.BOT_TOKEN }}
           user: offensive-vk
           template: classic
           base: activity, community, repositories
