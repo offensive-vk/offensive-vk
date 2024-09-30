@@ -1,0 +1,36 @@
+name: 🤖 Automated Issue - Hamster🐹
+
+on:
+  workflow_dispatch:
+    inputs:
+      issue_count:
+        description: 'Number of issues to create and close'
+        required: true
+        default: '100'
+
+jobs:
+  create_and_close_issues:
+    runs-on: ubuntu-latest
+    name: Workflow Job
+    steps:
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-get install gh -y
+
+      - name: Create Issues
+        run: |
+          echo "Number of issues to create: ${{ github.event.inputs.issue_count }}"
+          for i in $(seq 1 ${{ github.event.inputs.issue_count }}); do
+            echo "Creating issue #$i"
+
+            # Create the issue
+            issue_number=$(gh issue create --title "Automated Issue $i" --body "This is issue $i, created by Hamster [bot]." --label "automated,bot,hamster,issue" --assignee TheHamsterBot --json number --jq '.number')
+
+            echo "Issue #$issue_number created."
+
+            # Close the issue immediately
+            gh issue close "$issue_number" --comment "Hamster [bot] - Closed This Issue Immediately."
+            echo "Issue #$issue_number closed."
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}

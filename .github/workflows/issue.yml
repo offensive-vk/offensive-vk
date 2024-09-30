@@ -1,0 +1,64 @@
+name: 🤖 Automated Issue - Hamster 🐹
+
+on:
+  workflow_dispatch:
+    inputs:
+      num_issues:
+        description: 'Number of issues to create'
+        required: true
+        default: 1000
+
+jobs:
+  create_and_close_issues:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create and Close Issues
+        run: |
+          num_issues=${{ github.event.inputs.num_issues }}
+          for ((i=0; i<num_issues; i++)); do
+            timestamp=$(date '+%b %d, %A %I:%M:%S %p')
+            markdown=$(cat <<EOF
+              ## Notification Regarding the Pull Request:
+
+              > [!IMPORTANT]
+              > What Happened: ${{ github.event_name }} event by Hamster [bot].
+              > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+              - Author: @TheHamsterBot
+              - Branch: ${{ github.base_ref }} (base) / ${{ github.head_ref }} (head)
+              - Commit: ${{ github.sha }}
+              - Workflow Path: ${{ github.workflow_ref }}
+              - Pull Request Number: #${{ github.event.number }}
+              - Pull Request Title: ${{ github.event.pull_request.title }}
+              - Issue Details: ${{ github.event.issue.id }} - ${{ github.event.issue.number }} 
+
+              ---
+
+              Thanks.
+              $timestamp
+              Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
+            EOF)
+            echo "$markdown" > .github/Auto_Issue_Request.md
+            echo "MARKDOWN_CONTENT<<EOF" >> $GITHUB_ENV
+            echo "$markdown" >> $GITHUB_ENV
+            echo "EOF" >> $GITHUB_ENV
+
+            # Create issue
+            uses: offensive-vk/auto-issue@v6
+            with:
+              github-token: ${{ secrets.BOT_TOKEN }}
+              title: |
+                ${{ github.workflow }} - ${{ github.head_ref }}
+              assignees: TheHamsterBot
+              labels: automated,bot,hamster,issue
+              body: |
+                ${{ env.MARKDOWN_CONTENT }}
+
+            # Close issue
+            uses: peter-evans/close-issue@v2
+            with:
+              token: ${{ secrets.BOT_TOKEN }}
+              issue-number: ${{ github.event.issue.number }}
+              comment: 'Hamster [bot] - Closed This Issue. (As Requested)'
+          done
