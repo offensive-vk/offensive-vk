@@ -78,7 +78,7 @@ jobs:
 
       - name: Label Pull Requests
         if: github.event_name == 'pull_request'
-        uses: actions/labeler@v4
+        uses: actions/labeler@v5
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
 
