@@ -13,6 +13,22 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
+      - name: Import GPG Key
+        id: gpg
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_config_global: true
+          trust_level: 5
+  
+      - name: Verify GPG Key
+        run: |
+          gpg --list-secret-keys --keyid-format LONG
+          git config --global --list
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -39,5 +55,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
+          github_token: ${{ secrets.BOT_TOKEN }}
           branch: ${{ github.ref }}
