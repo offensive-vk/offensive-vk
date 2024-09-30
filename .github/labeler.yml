@@ -1,40 +1,62 @@
 # ** DO NOT MODIFY **
 ci/cd:
-  - '*.yml'
-  - '.github/workflows/*.yml'
-  - 'Dockerfile'
-  - 'compose.yaml'
+  - changed-files:
+      - any-glob-to-any-file:
+        - '*.yml'
+        - '.github/workflows/*.yml'
+        - 'Dockerfile'
+        - 'compose.yaml'
 
 template:
-  - '.github/Auto_Pull_Request.md'
-  - '.github/Auto_Issue_Template.md'
+  - changed-files:
+      - any-glob-to-any-file:
+        - '.github/Auto_Pull_Request.md'
+        - '.github/Auto_Issue_Template.md'
 
 dotfiles:
-  - '.gitlab-ci.yml'
-  - '.gitignore'
-  - '.gitattributes'
-  - '.dockerignore'
-  - '.npmrc'
-  - 'Dockerfile'
-  - 'LICENSE'
-  - 'package.json'
-  - 'pnpm-lock.yaml'
+  - changed-files:
+      - any-glob-to-any-file:
+        - '.gitlab-ci.yml'
+        - '.yaml-lint.yml'
+        - '.prettierrc.json'
+        - '.gitignore'
+        - '.gitattributes'
+        - '.dockerignore'
+        - 'Dockerfile'
+        - 'LICENSE'
+        - 'package.json'
+        - 'pnpm-lock.yaml'
+        - '*/**.json'
 
 markdown:
-  - '**/*.md'
-  - './**/*'
+  - changed-files:
+      - any-glob-to-any-file:
+        - '**/*.md'
+        - './**/*'
 
 devcontainer:
-  - '.devcontainer/*'
+  - changed-files:
+      - any-glob-to-any-file:
+        - '.devcontainer/*'
 
 secrets:
-  - '**/*.mp3'
-  - '**/*.txt'
+  - changed-files:
+      - any-glob-to-any-file:
+        - '**/*.mp3'
+        - '**/*.txt'
 
 workflow:
-  - 'YAML/**/*'
-  - '**/*.yml'
-  - '**/*.yaml'
-  - '.github/*.yml'
-  - '.github/workflows/*.yml'
+  - changed-files:
+      - any-glob-to-any-file:
+        - 'YAML/**/*'
+        - '**/*.yml'
+        - '**/*.yaml'
+        - '.github/*.yml'
+        - '.github/workflows/*.yml'
+
+docker:
+  - changed-files:
+    - any-glob-to-any-file:
+      - 'Dockerfile'
+      - 'compose.yaml'
 # ** DO NOT MODIFY **
