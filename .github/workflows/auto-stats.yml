@@ -73,6 +73,22 @@ jobs:
           echo "- Smallest file: $smallest_file ($smallest_count characters)  " >> STATS.md
           echo "- Total word count: $total_words  " >> STATS.md
 
+      - name: Import GPG Key
+        id: gpg
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_config_global: true
+          trust_level: 5
+
+      - name: Verify GPG Key
+        run: |
+          gpg --list-secret-keys --keyid-format LONG
+          git config --global --list
+
       - name: Commit & Push Changes
         run: |
           git config --local user.name "Hamster [bot]"

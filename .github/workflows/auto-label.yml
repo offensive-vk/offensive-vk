@@ -12,6 +12,7 @@ on:
 jobs:
   label_issues:
     runs-on: ubuntu-latest
+    name: Label Issues
     permissions:
       contents: read
       issues: write
@@ -68,17 +69,18 @@ jobs:
 
   label_pull_requests:
     runs-on: ubuntu-latest
+    name: Label Pull Requests
     permissions:
       contents: read
       pull-requests: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Label Pull Requests
         if: github.event_name == 'pull_request'
-        uses: actions/labeler@v4
+        uses: actions/labeler@v5
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
 
