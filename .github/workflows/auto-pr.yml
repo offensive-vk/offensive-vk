@@ -16,6 +16,7 @@ on:
 jobs:
   create_pr:
     runs-on: ubuntu-latest
+    if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -37,9 +38,9 @@ jobs:
         run:
           echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >>
           $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
-
   update_pr:
     needs: [create_pr]
+    if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -57,7 +58,6 @@ jobs:
           - Branch: master (base) / ${{ github.event.pull_request.head_ref }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow }}
-          - Pull Request Number: #${{ env.PR_NUMBER || needs.create_pr.outputs.pr_number }}
           - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
           - Most Recent Commit: ${{ github.event.head_commit.message }}
 
