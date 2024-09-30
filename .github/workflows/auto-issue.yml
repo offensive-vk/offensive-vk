@@ -46,11 +46,11 @@ jobs:
           echo "$markdown" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
       - name: Create Dynamic Issue
-        uses: offensive-vk/auto-issue@v5
+        uses: dacbd/create-issue-action@main
         with:
-          github-token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.BOT_TOKEN }}
           title: |
-            ${{ github.workflow }} - ${{ github.head_ref }}.
+            ${{ github.workflow }} - ${{ github.head_ref }}
           assignees: TheHamsterBot
           labels: automated,bot,hamster,issue
           body: |
