@@ -1,4 +1,4 @@
-name: 🤖 Automated Issue - Hamster🐹
+name: 🤖 Automated Issue 🐹
 
 on:
   workflow_dispatch:
@@ -24,7 +24,7 @@ jobs:
             echo "Creating issue #$i"
 
             # Create the issue
-            issue_number=$(gh issue create --title "Automated Issue $i" --body "This is issue $i, created by Hamster [bot]." --label "automated,bot,hamster,issue" --assignee TheHamsterBot --json number --jq '.number')
+            issue_number=$(gh issue create --title "Automated Issue $i" --body "This is issue $i, created by Hamster [bot]." --label "automated,bot,hamster,issue" --assignee "TheHamsterBot")
 
             echo "Issue #$issue_number created."
 
