@@ -48,9 +48,9 @@ jobs:
       - name: Create Dynamic Issue
         uses: offensive-vk/auto-issue@v5
         with:
-          token: ${{ secrets.BOT_TOKEN }}
+          github-token: ${{ secrets.BOT_TOKEN }}
           title: |
-            ${{ github.workflow }} - ${{ github.head_ref }} branch.
+            ${{ github.workflow }} - ${{ github.head_ref }}.
           assignees: TheHamsterBot
           labels: automated,bot,hamster,issue
           body: |
