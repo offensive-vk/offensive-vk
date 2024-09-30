@@ -109,21 +109,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v6](https://github.com/offensive-vk/auto-issue/releases/tag/v6) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-2. 🎉 Merged PR [#22](https://github.com/offensive-vk/auto-issue/pull/22) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-3. 🎉 Merged PR [#122](https://github.com/offensive-vk/offensive-vk/pull/122) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4. 🗣 Commented on [#119](https://github.com/offensive-vk/offensive-vk/issues/119#issuecomment-2382096712) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5. 🎉 Merged PR [#120](https://github.com/offensive-vk/offensive-vk/pull/120) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6. 🎉 Merged PR [#46](https://github.com/offensive-vk/AwesomeTesting/pull/46) in [offensive-vk/AwesomeTesting](https://github.com/offensive-vk/AwesomeTesting)
-7. 🎉 Merged PR [#181](https://github.com/offensive-vk/Classics/pull/181) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-8. 🎉 Merged PR [#45](https://github.com/offensive-vk/AwesomeTesting/pull/45) in [offensive-vk/AwesomeTesting](https://github.com/offensive-vk/AwesomeTesting)
-9. 💪 Opened PR [#45](https://github.com/offensive-vk/AwesomeTesting/pull/45) in [offensive-vk/AwesomeTesting](https://github.com/offensive-vk/AwesomeTesting)
-10. 🎉 Merged PR [#72](https://github.com/offensive-vk/AwesomeScripts/pull/72) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-11. 💪 Opened PR [#72](https://github.com/offensive-vk/AwesomeScripts/pull/72) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 🎉 Merged PR [#64](https://github.com/offensive-vk/AwesomeCloud/pull/64) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 Merged PR [#63](https://github.com/offensive-vk/AwesomeCloud/pull/63) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 💪 Opened PR [#63](https://github.com/offensive-vk/AwesomeCloud/pull/63) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-15. ❌ Closed PR [#62](https://github.com/offensive-vk/AwesomeCloud/pull/62) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+1. 🎉 Merged PR [#128](https://github.com/offensive-vk/offensive-vk/pull/128) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2. 🎉 Merged PR [#121](https://github.com/offensive-vk/offensive-vk/pull/121) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3. 🚀 Published release [v6](https://github.com/offensive-vk/auto-issue/releases/tag/v6) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+4. 🎉 Merged PR [#22](https://github.com/offensive-vk/auto-issue/pull/22) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+5. 🎉 Merged PR [#122](https://github.com/offensive-vk/offensive-vk/pull/122) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6. 🗣 Commented on [#119](https://github.com/offensive-vk/offensive-vk/issues/119#issuecomment-2382096712) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7. 🎉 Merged PR [#120](https://github.com/offensive-vk/offensive-vk/pull/120) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8. 🎉 Merged PR [#46](https://github.com/offensive-vk/AwesomeTesting/pull/46) in [offensive-vk/AwesomeTesting](https://github.com/offensive-vk/AwesomeTesting)
+9. 🎉 Merged PR [#181](https://github.com/offensive-vk/Classics/pull/181) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+10. 🎉 Merged PR [#45](https://github.com/offensive-vk/AwesomeTesting/pull/45) in [offensive-vk/AwesomeTesting](https://github.com/offensive-vk/AwesomeTesting)
+11. 💪 Opened PR [#45](https://github.com/offensive-vk/AwesomeTesting/pull/45) in [offensive-vk/AwesomeTesting](https://github.com/offensive-vk/AwesomeTesting)
+12. 🎉 Merged PR [#72](https://github.com/offensive-vk/AwesomeScripts/pull/72) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+13. 💪 Opened PR [#72](https://github.com/offensive-vk/AwesomeScripts/pull/72) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+14. 🎉 Merged PR [#64](https://github.com/offensive-vk/AwesomeCloud/pull/64) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 🎉 Merged PR [#63](https://github.com/offensive-vk/AwesomeCloud/pull/63) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 <!--END_SECTION:activity-->
 
 </p>
