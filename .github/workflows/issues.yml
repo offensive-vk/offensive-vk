@@ -9,7 +9,7 @@ on:
         default: '100'
 
 jobs:
-  create_and_close_issues:
+  create_issue:
     runs-on: ubuntu-latest
     name: Workflow Job
     steps:
@@ -17,19 +17,15 @@ jobs:
         run: |
           sudo apt-get install gh -y
 
+      - uses: actions/checkout@v4
       - name: Create Issues
         run: |
-          echo "Number of issues to create: ${{ github.event.inputs.issue_count }}"
           for i in $(seq 1 ${{ github.event.inputs.issue_count }}); do
             echo "Creating issue #$i"
-
-            # Create the issue
             issue_number=$(gh issue create --title "Automated Issue $i" --body "This is issue $i, created by Hamster [bot]." --label "automated,bot,hamster,issue" --assignee "TheHamsterBot")
-
             echo "Issue #$issue_number created."
-
             # Close the issue immediately
-            gh issue close "$issue_number" --comment "Hamster [bot] - Closed This Issue Immediately."
+            gh issue close "$issue_number" --comment "Hamster [bot] - Closed This Issue."
             echo "Issue #$issue_number closed."
           done
         env:

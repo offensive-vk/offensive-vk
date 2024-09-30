@@ -15,8 +15,8 @@
     "compose": "docker compose up --build -d",
     "pull": "docker pull ghcr.io/offensive-vk/offensive-vk:latest; docker pull ntsystems/ntsystems:latest",
     "exec": "docker exec -it my-container neofetch",
-    "docker": "docker run -it -d --name docker-in-docker -p 9999:9999 --privileged -v /var/run/docker.sock:/var/run/docker.sock docker:dind",
-    "spawn": "docker run -it -d --name my-container --rm -p 9999:9999 -v $(pwd):/shared/offensive-vk offensive-vk",
+    "docker": "docker run -it -d --name docker-in-docker -p 9998:9999 --privileged -v /var/run/docker.sock:/var/run/docker.sock docker:dind",
+    "spawn": "docker run -it -d --name my-container --rm -p 9997:9999 -v $(pwd):/shared/offensive-vk ghcr.io/offensive-vk/offensive-vk:latest",
     "reset": "docker system prune -f",
     "all": "npm i pnpm@9.0.0; pnpm run install; pnpm run dev; pnpm run image; pnpm run info; pnpm run pull; pnpm run compose; pnpm run spawn; pnpm run list; pnpm run exec"
   },
