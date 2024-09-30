@@ -24,9 +24,9 @@ jobs:
             echo "Creating issue #$i"
             issue_number=$(gh issue create --title "Automated Issue $i" --body "This is issue $i, created by Hamster [bot]." --label "automated,bot,hamster,issue" --assignee "TheHamsterBot")
             echo "Issue #$issue_number created."
-            # Close the issue immediately
+            sleep 1
             gh issue close "$issue_number" --comment "Hamster [bot] - Closed This Issue."
             echo "Issue #$issue_number closed."
           done
         env:
-          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
