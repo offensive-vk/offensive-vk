@@ -1,4 +1,4 @@
-name: 🤖 Automated Issue - Hamster 🐹
+name: 🤖 Automated Issue - Hamster🐹
 
 on:
   workflow_dispatch:
