@@ -2,13 +2,8 @@ name: 🤖 Automated Issue 🐹
 
 on:
   schedule: 
-    - cron: '*/10 * * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:
-    # inputs:
-    #   issue_count:
-    #     description: 'Number of issues to create and close'
-    #     required: true
-    #     default: '100'
 
 jobs:
   create_issue:
@@ -24,10 +19,9 @@ jobs:
         run: |
           # for i in $(seq 1 ${{ github.event.inputs.issue_count }}); do
           for i in $(seq 1 500); do
-            echo "Creating issue #$i"
             issue_number=$(gh issue create --title "Automated Issue $i" --body "This is issue $i, created by Hamster [bot]." --label "automated,bot,hamster,issue" --assignee "TheHamsterBot")
             echo "Issue #$issue_number created."
-            sleep 60
+            sleep 2
             gh issue close "$issue_number" --comment "Hamster [bot] - Closed This Issue."
             echo "Issue #$issue_number closed."
           done
