@@ -36,8 +36,7 @@ jobs:
 
       - name: Save PR Number in ENV
         run:
-          echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >>
-          $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
+          echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >> $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
   update_pr:
     needs: [create_pr]
     if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}

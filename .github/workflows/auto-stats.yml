@@ -25,7 +25,7 @@ jobs:
           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
 
           # Create File
-          echo "# Daily Repository Statistics" > STATS.md
+          echo "# Daily Repository Statistics " > STATS.md
           echo "Generated on $timestamp  " >> STATS.md
           echo "" >> STATS.md
 
