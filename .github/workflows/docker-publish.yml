@@ -42,7 +42,7 @@ jobs:
           flavor: |
             latest=true
           labels: |
-            org.opencontainers.image.title=Debian
+            org.opencontainers.image.title=Personal
             org.opencontainers.image.vendor=Vedansh
             
       - name: Install Cosign
@@ -106,7 +106,7 @@ jobs:
 
       - name: Verify Tags and Labels
         run: |
-          echo "## Github Action Summary - Docker CI " >> $GITHUB_STEP_SUMMARY
+          echo "## Action Summary - Docker CI " >> $GITHUB_STEP_SUMMARY
           echo "${{ steps.meta.outputs.tags }}" >> $GITHUB_STEP_SUMMARY
           echo "${{ steps.meta.outputs.labels }} " >> $GITHUB_STEP_SUMMARY
           echo "*** VERIFICATION COMPLETED ***"
