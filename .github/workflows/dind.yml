@@ -32,6 +32,9 @@ jobs:
 
       - name: Install Dependencies
         run: npm i -g pnpm@9.0.0; pnpm install; pnpm i
+  
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
@@ -39,14 +42,11 @@ jobs:
       - name: Exec Docker Dev
         run: pnpm run dev
 
-      - name: Exec Docker Build
-        run: pnpm run image
+      - name: Exec Docker Pull
+        run: pnpm run pull
 
       - name: Exec Docker Spawn
         run: pnpm run spawn
-
-      - name: Exec Docker Pull
-        run: pnpm run pull
 
       - name: Exec Docker Compose
         run: pnpm run compose

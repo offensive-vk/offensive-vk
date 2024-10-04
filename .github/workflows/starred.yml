@@ -30,7 +30,7 @@ jobs:
 
       - name: Create Star List
         id: stargazer
-        uses: rverst/stargazer@v1.2.0
+        uses: rverst/stargazer@v1.2.6
         with:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}

@@ -12,9 +12,7 @@ on:
 jobs:
   create_issue:
     runs-on: ubuntu-latest
-    if:
-      github.event_name == 'pull_request' && github.event.pull_request.state ==
-      'open'
+    if: ${{  github.event_name == 'pull_request' && github.event.pull_request.state == 'open' }}
     steps:
       - uses: actions/checkout@v4
       - name: Generate Issue Template
@@ -68,7 +66,7 @@ jobs:
       github.event.comment.user.login == github.event.issue.user.login)
     steps:
       - name: Close Issue
-        uses: peter-evans/close-issue@v2
+        uses: peter-evans/close-issue@v3
         with:
           token: ${{ secrets.BOT_TOKEN }}
           issue-number: ${{ github.event.issue.number }}

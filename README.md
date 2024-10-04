@@ -26,7 +26,7 @@
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep moving and you'll overcome one day. <br> 📧 _You will find a way to contact me_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
+<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ***
@@ -109,21 +109,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6981](https://github.com/kamranahmedse/developer-roadmap/issues/6981#issuecomment-2382951995) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 🗣 Commented on [#7254](https://github.com/kamranahmedse/developer-roadmap/issues/7254#issuecomment-2382946127) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🗣 Commented on [#7236](https://github.com/kamranahmedse/developer-roadmap/pull/7236#issuecomment-2382886207) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#7236](https://github.com/kamranahmedse/developer-roadmap/pull/7236#issuecomment-2382843709) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. 🎉 Merged PR [#128](https://github.com/offensive-vk/offensive-vk/pull/128) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6. 🎉 Merged PR [#121](https://github.com/offensive-vk/offensive-vk/pull/121) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7. 🚀 Published release [v6](https://github.com/offensive-vk/auto-issue/releases/tag/v6) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-8. 🎉 Merged PR [#22](https://github.com/offensive-vk/auto-issue/pull/22) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-9. 🎉 Merged PR [#122](https://github.com/offensive-vk/offensive-vk/pull/122) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🗣 Commented on [#119](https://github.com/offensive-vk/offensive-vk/issues/119#issuecomment-2382096712) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 Merged PR [#120](https://github.com/offensive-vk/offensive-vk/pull/120) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Merged PR [#46](https://github.com/offensive-vk/AwesomeTesting/pull/46) in [offensive-vk/AwesomeTesting](https://github.com/offensive-vk/AwesomeTesting)
-13. 🎉 Merged PR [#181](https://github.com/offensive-vk/Classics/pull/181) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-14. 🎉 Merged PR [#45](https://github.com/offensive-vk/AwesomeTesting/pull/45) in [offensive-vk/AwesomeTesting](https://github.com/offensive-vk/AwesomeTesting)
-15. 💪 Opened PR [#45](https://github.com/offensive-vk/AwesomeTesting/pull/45) in [offensive-vk/AwesomeTesting](https://github.com/offensive-vk/AwesomeTesting)
+1. 🎉 Merged PR [#241](https://github.com/offensive-vk/UntilEverything/pull/241) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2. 🗣 Commented on [#238](https://github.com/offensive-vk/UntilEverything/pull/238#issuecomment-2391660950) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3. 🎉 Merged PR [#232](https://github.com/offensive-vk/UntilEverything/pull/232) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4. ❌ Closed PR [#233](https://github.com/offensive-vk/UntilEverything/pull/233) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5. 🗣 Commented on [#233](https://github.com/offensive-vk/UntilEverything/pull/233#issuecomment-2391653724) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6. 🗣 Commented on [#240](https://github.com/offensive-vk/UntilEverything/pull/240#issuecomment-2391652174) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7. 🗣 Commented on [#240](https://github.com/offensive-vk/UntilEverything/pull/240#issuecomment-2391650467) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8. 🗣 Commented on [#235](https://github.com/offensive-vk/UntilEverything/pull/235#issuecomment-2391648517) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9. 🗣 Commented on [#235](https://github.com/offensive-vk/UntilEverything/pull/235#issuecomment-2391647614) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 Merged PR [#231](https://github.com/offensive-vk/UntilEverything/pull/231) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣 Commented on [#7302](https://github.com/kamranahmedse/developer-roadmap/issues/7302#issuecomment-2391603606) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🔒 Closed issue [#8256](https://github.com/toeverything/AFFiNE/issues/8256) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+13. 🚀 Published release [v5](https://github.com/offensive-vk/auto-label/releases/tag/v5) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+14. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-label/pull/2) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+15. 💪 Opened PR [#2](https://github.com/offensive-vk/auto-label/pull/2) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 <!--END_SECTION:activity-->
 
 </p>

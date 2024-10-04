@@ -6,7 +6,7 @@ on:
     branches:
       - '**'
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */1 * * *'
 
 jobs:
   test-images:
@@ -27,19 +27,19 @@ jobs:
 
       - name: Pull Image from Docker Hub
         run: |
-          docker pull ntsystems/ntsystems:master
+          docker pull ntsystems/ntsystems:latest
 
       - name: Pull Image from GHRC Hub
         run: |
-          docker pull ghcr.io/offensive-vk/offensive-vk:master
+          docker pull ghcr.io/offensive-vk/offensive-vk:latest
 
       - name: Run Container - GHCR
         run: |
-          docker run -it -d --name my-container ghcr.io/offensive-vk/offensive-vk:master
+          docker run -it -d --name my-container ghcr.io/offensive-vk/offensive-vk:latest
 
       - name: Run Container - Docker Hub
         run: |
-          docker run -it -d --name dev-container ntsystems/ntsystems:master
+          docker run -it -d --name dev-container ntsystems/ntsystems:latest
 
       - name: List Running Docker Containers
         run: |
