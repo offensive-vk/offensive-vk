@@ -13,8 +13,7 @@
 [![🦅 Gitlab - Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
 [![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
 [![👩‍💻 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
-[![🌨️ Docker - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
-[![⭐ Generate Starred Repo List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)
+[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
 [![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
 
 </div>
@@ -67,9 +66,9 @@
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" /> </a>
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" alt="github"/> </a>
         <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" /> </a>
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
     </p>
 
 <!-- Showing Stuff, that i dont care about lol. have fun -->
@@ -168,7 +167,7 @@
     <summary><h4>🐹 CI and Workflow Status ✅</h4></summary>
 
 [![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)
-[![🌨️ Docker - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
+[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
 [![⭐ Generate Starred Repo List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)
 [![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)
 [![🤖 Automated Pull Request - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml)

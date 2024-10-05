@@ -5,7 +5,7 @@
 [![💬 Update Daily Quote](https://github.com/offensive-vk/offensive-vk/actions/workflows/quote.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/quote.yml)
 [![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
 [![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)
-[![🌨️ Docker - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
+[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
 [![⭐ Generate Starred Repo List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)
 [![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 [![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)
