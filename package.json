@@ -34,7 +34,7 @@
     "url": "https://github.com/offensive-vk/"
   },
   "license": "MIT",
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@9.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/offensive-vk/"
