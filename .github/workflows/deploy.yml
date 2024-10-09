@@ -9,7 +9,7 @@ env:
   USERNAME: ${{ github.repository_owner || 'offensive-vk' }}
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
-  PASSWORD: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
+  PASSWORD: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   deploy:
