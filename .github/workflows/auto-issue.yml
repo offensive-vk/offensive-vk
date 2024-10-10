@@ -46,7 +46,7 @@ jobs:
       - name: Create Dynamic Issue
         uses: dacbd/create-issue-action@main
         with:
-          github-token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.BOT_TOKEN }}
           title: |
             ${{ github.workflow }} - ${{ github.head_ref }}
           assignees: TheHamsterBot
