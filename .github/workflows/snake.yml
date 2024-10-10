@@ -40,7 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
 
-      - name: Commit files
+      - name: Commit and Push Changes
         continue-on-error: true
         run: |
           git config --global user.email "TheHamsterBot@outlook.com"
