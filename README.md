@@ -26,7 +26,7 @@
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep moving and you'll overcome one day. <br> 📧 _You will find a way to contact me_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   ❞</i>
+<i>❝The first microprocessor created by Intel was the It was designed for a calculator, and in that time nobody imagined where it would lead.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ***
@@ -109,21 +109,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#249](https://github.com/offensive-vk/UntilEverything/pull/249) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2. ❗ Opened issue [#7410](https://github.com/kamranahmedse/developer-roadmap/issues/7410) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🗣 Commented on [#7381](https://github.com/kamranahmedse/developer-roadmap/issues/7381#issuecomment-2402533834) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#7408](https://github.com/kamranahmedse/developer-roadmap/issues/7408#issuecomment-2402524049) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. 🎉 Merged PR [#247](https://github.com/offensive-vk/UntilEverything/pull/247) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6. 🎉 Merged PR [#245](https://github.com/offensive-vk/UntilEverything/pull/245) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-7. 💪 Opened PR [#7403](https://github.com/kamranahmedse/developer-roadmap/pull/7403) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8. 💪 Opened PR [#7401](https://github.com/kamranahmedse/developer-roadmap/pull/7401) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9. 💪 Opened PR [#7400](https://github.com/kamranahmedse/developer-roadmap/pull/7400) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣 Commented on [#7398](https://github.com/kamranahmedse/developer-roadmap/pull/7398#issuecomment-2401799367) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 Opened PR [#7399](https://github.com/kamranahmedse/developer-roadmap/pull/7399) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🎉 Merged PR [#191](https://github.com/offensive-vk/Classics/pull/191) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-13. 🗣 Commented on [#833](https://github.com/torvalds/linux/pull/833#issuecomment-2395275611) in [torvalds/linux](https://github.com/torvalds/linux)
-14. ❗ Opened issue [#7355](https://github.com/kamranahmedse/developer-roadmap/issues/7355) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 🎉 Merged PR [#73](https://github.com/offensive-vk/AwesomeScripts/pull/73) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+1. 🎉 Merged PR [#13529](https://github.com/offensive-vk/offensive-vk/pull/13529) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2. 🎉 Merged PR [#250](https://github.com/offensive-vk/UntilEverything/pull/250) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3. 🚀 Published release [v1](https://github.com/offensive-vk/ts-action-starter/releases/tag/v1) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+4. 🎉 Merged PR [#17](https://github.com/offensive-vk/ts-action-starter/pull/17) in [offensive-vk/ts-action-starter](https://github.com/offensive-vk/ts-action-starter)
+5. 🎉 Merged PR [#13528](https://github.com/offensive-vk/offensive-vk/pull/13528) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6. 🗣 Commented on [#7407](https://github.com/kamranahmedse/developer-roadmap/issues/7407#issuecomment-2404207920) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7. 🚀 Published release [v6](https://github.com/offensive-vk/auto-update-quote/releases/tag/v6) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+8. 🎉 Merged PR [#4](https://github.com/offensive-vk/auto-update-quote/pull/4) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+9. 💪 Opened PR [#4](https://github.com/offensive-vk/auto-update-quote/pull/4) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+10. 🗣 Commented on [#7381](https://github.com/kamranahmedse/developer-roadmap/issues/7381#issuecomment-2403853632) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 🎉 Merged PR [#249](https://github.com/offensive-vk/UntilEverything/pull/249) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. ❗ Opened issue [#7410](https://github.com/kamranahmedse/developer-roadmap/issues/7410) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 🗣 Commented on [#7381](https://github.com/kamranahmedse/developer-roadmap/issues/7381#issuecomment-2402533834) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🗣 Commented on [#7408](https://github.com/kamranahmedse/developer-roadmap/issues/7408#issuecomment-2402524049) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 🎉 Merged PR [#247](https://github.com/offensive-vk/UntilEverything/pull/247) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
 
 </p>
