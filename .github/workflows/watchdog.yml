@@ -45,20 +45,22 @@ jobs:
               pull_number: pr.number,
             });
 
-            const committer = '${{ steps.get-commit-info.outputs.committer }}';
-            const author = '${{ steps.get-commit-info.outputs.author }}';
+            const committer = steps['get-commit-info'].outputs.committer;
+            const author = steps['get-commit-info'].outputs.author;
 
-            const modifiedSensitiveFiles = files.some(file =>
+            let modifiedSensitiveFiles = files.some(file =>
               file.filename.startsWith('.github/') ||
               file.filename.startsWith('.devcontainer/') ||
               file.filename.startsWith('.github/workflows/') ||
-              file.filename.startsWith('**/*.yml') ||
-              file.filename.startsWith('**/*.yaml') ||
-              file.filename.startsWith('Dockerfile') ||              
+              file.filename.endsWith('.yml') ||
+              file.filename.endsWith('.yaml') ||
+              file.filename === 'Dockerfile'
             );
 
             const isDependabot = (user) => user === 'dependabot[bot]';
             const isRepoOwner = (user) => user === owner;
+
+            let shouldFail = false;
 
             const isAuthorized =
               (isDependabot(committer) && isDependabot(author)) ||
@@ -67,7 +69,7 @@ jobs:
               (isRepoOwner(author) && committer !== owner);
 
             if (modifiedSensitiveFiles && !isAuthorized) {
-              core.setOutput('should_fail', true);
+              shouldFail = true;
 
               const warningMessage = `⚠️ @${committer}, your attempt to modify sensitive files was **unauthorized**!  
               Only the repo owner or dependabot can modify the following directories:  
@@ -95,10 +97,12 @@ jobs:
                 issue_number: pr.number,
                 body: successMessage,
               });
-
-              core.setOutput('should_fail', false);
             }
+
+            core.setOutput('should_fail', shouldFail);
 
       - name: Fail if Unauthorized Changes Detected
         if: ${{ steps.check-modified-files.outputs.should_fail == 'true' }}
-        run: exit 1
+        run: |
+          echo "Oops ! Unauthorized changes detected."
+          exit 1
