@@ -28,7 +28,6 @@ jobs:
             const committer = commit.committer.login || commit.commit.committer.name;
             const author = commit.commit.author.name;
 
-            // Set outputs for later use
             return { committer, author };
 
       - name: Check Modified Files in Specific Directories
@@ -45,32 +44,28 @@ jobs:
               pull_number: pr.number,
             });
 
-            // Use the returned outputs from the previous step
             const { committer, author } = await steps.get-commit-info.outputs;
 
-            let modifiedSensitiveFiles = files.some(file =>
-              file.filename.startsWith('.github/') ||
-              file.filename.startsWith('.devcontainer/') ||
-              file.filename.startsWith('.github/workflows/') ||
-              file.filename.endsWith('.yml') ||
-              file.filename.endsWith('.yaml') ||
-              file.filename === 'Dockerfile'
+            // Check if all files meet the conditions
+            const allFilesAreAuthorized = files.every(file =>
+              !file.filename.startsWith('.github/') &&
+              !file.filename.startsWith('.devcontainer/') &&
+              !file.filename.startsWith('.github/workflows/') &&
+              !file.filename.endsWith('.yml') &&
+              !file.filename.endsWith('.yaml') &&
+              file.filename !== 'Dockerfile'
             );
 
             const isDependabot = (user) => user === 'dependabot[bot]';
             const isRepoOwner = (user) => user === owner;
 
-            let shouldFail = false;
+            let shouldFail = !allFilesAreAuthorized &&
+              !(isDependabot(committer) && isDependabot(author)) &&
+              !(isRepoOwner(committer) && isRepoOwner(author)) &&
+              !(isRepoOwner(committer) && author !== owner) &&
+              !(isRepoOwner(author) && committer !== owner);
 
-            const isAuthorized =
-              (isDependabot(committer) && isDependabot(author)) ||
-              (isRepoOwner(committer) && isRepoOwner(author)) ||
-              (isRepoOwner(committer) && author !== owner) ||
-              (isRepoOwner(author) && committer !== owner);
-
-            if (modifiedSensitiveFiles && !isAuthorized) {
-              shouldFail = true;
-
+            if (shouldFail) {
               const warningMessage = `⚠️ @${committer}, your attempt to modify sensitive files was **unauthorized**!  
               Only the repo owner or dependabot can modify the following directories:  
               - \`.github/*\`  
@@ -85,11 +80,10 @@ jobs:
               });
 
               throw new Error('Unauthorized modification detected.');
-            } else if (modifiedSensitiveFiles) {
+            } else {
               const successMessage = `✅ **Authorization Succeeded!**  
               **Committer**: ${committer}  
-              **Author**: ${author}  
-              Sensitive files were modified, and you have permission to do so.`;
+              **Author**: ${author}`;
 
               await github.rest.issues.createComment({
                 owner: owner,
@@ -99,10 +93,9 @@ jobs:
               });
             }
 
-            // Set output indicating whether the job should fail
             return { shouldFail };
 
-      - name: Fail if Unauthorized Changes Detected
+      - name: Fail if Un auth Changes Detected
         if: ${{ steps.check-modified-files.outputs.shouldFail == 'true' }}
         run: |
           echo "Unauthorized changes detected."
