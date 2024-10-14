@@ -70,10 +70,10 @@ jobs:
 
             // Determine if the changes should cause failure
             let shouldFail = !allFilesAreAuthorized &&
-              !(isDependabot(committer) && isDependabot(author)) &&
-              !(isRepoOwner(committer) && isRepoOwner(author)) &&
-              !(isRepoOwner(committer) && author !== owner) &&
-              !(isRepoOwner(author) && committer !== owner);
+              !(isDependabot(committer) || isDependabot(author)) ||
+              !(isRepoOwner(committer) || isRepoOwner(author)) ||
+              !(isRepoOwner(committer) || author !== owner) ||
+              !(isRepoOwner(author) || committer !== owner);
 
             // Post comments based on authorization status
             if (shouldFail) {
