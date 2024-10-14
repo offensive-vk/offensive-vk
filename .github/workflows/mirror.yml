@@ -1,14 +1,16 @@
 name: 🦅 Mirror Sync
+
 on:
   schedule:
     - cron: '0 */1 * * *'
   push:
     branches: ['**']
   workflow_dispatch:
+
 jobs:
   sync:
     runs-on: ubuntu-latest
-    name: Repo Sync
+    name: Ping Repos
     steps:
       - uses: actions/checkout@v4
         with:
@@ -16,5 +18,5 @@ jobs:
       - uses: wangchucheng/git-repo-sync@v0.1.0
         with:
           target-url: ${{ secrets.TARGET_URL }}
-          target-username: ${{ secrets.TARGET_USERNAME }}
+          target-username: ${{ secrets.TARGET_USER }}
           target-token: ${{ secrets.TARGET_TOKEN }}

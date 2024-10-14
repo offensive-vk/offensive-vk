@@ -7,6 +7,7 @@ on:
 
 jobs:
   starred:
+    name: Generate Repo List
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -46,9 +47,4 @@ jobs:
 
           Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-
-      - name: Push the Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git push

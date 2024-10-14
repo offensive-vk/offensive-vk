@@ -1,8 +1,8 @@
-name: ⛅ Docker - Build Image
+name: ⛅ Docker
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */4 * * *'
   push:
     branches: ['master', '**']
   pull_request:
@@ -11,8 +11,9 @@ on:
 
 jobs:
   build_image:
+    name: Build Image
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build the Docker Image
+      - name: Build
         run: docker build . --file Dockerfile -t offensive_vk:$(date +%d-%m-%y)

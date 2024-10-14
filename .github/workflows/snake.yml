@@ -2,11 +2,12 @@ name: 🐍 Generate Snake Contribution GIF
 
 on:
   schedule:
-    - cron: '40 13,23 * * *' # Runs at 23:40 every day.
+    - cron: '40 13,23 * * *'
   workflow_dispatch:
 
 jobs:
   snake:
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -37,8 +38,9 @@ jobs:
             assets/github-snake.gif
             assets/github-snake-light.svg
             assets/github-snake-dark.svg?palette=github-dark
+          github_token: ${{ secrets.BOT_TOKEN }}
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
 
       - name: Commit and Push Changes
         continue-on-error: true
@@ -51,9 +53,4 @@ jobs:
 
           Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.BOT_TOKEN }}
-          branch: ${{ github.ref }}
+          git push

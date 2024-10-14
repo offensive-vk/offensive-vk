@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 jobs:
   maintenance:
+    name: Maintenance
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -26,6 +27,7 @@ jobs:
           uname -a; whoami; df -T
 
   greetings:
+    name: Greetings
     runs-on: macos-latest
     timeout-minutes: 5
     steps:
@@ -40,7 +42,11 @@ jobs:
 
       - name: Say Good Morning
         run: |
-          echo -e "\n# Good Morning, **General** ! \n\nToday is **${{ env.DATE }}** \n\n *Have a Wonderful Day Ahead.*" > GREETINGS.md
+          echo "" > GREETINGS.md
+          echo -e "# ✨✨✨✨✨✨✨\n" >> GREETINGS.md
+          echo -e "\n# Good Morning, **General** ! \n\nToday is **${{ env.DATE }}** \n\n *Have a Wonderful Day Ahead.*" >> GREETINGS.md
+          echo -e "# ✨✨✨✨✨✨✨\n" >> GREETINGS.md
+  
         
       - name: Import GPG Key
         id: gpg
