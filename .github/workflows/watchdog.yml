@@ -8,28 +8,32 @@ jobs:
   check-sensitive-files:
     name: Check Sensitive Files
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout the code
       - name: Checkout Code
         uses: actions/checkout@v4
 
+      # Step 2: Retrieve committer and author information
       - name: Get Commit Info
         id: get-commit-info
         uses: actions/github-script@v7
         with:
           script: |
             const pr = context.payload.pull_request;
-
             const { data: commit } = await github.rest.repos.getCommit({
               owner: context.repo.owner,
               repo: context.repo.repo,
               ref: pr.head.sha,
             });
 
-            const committer = commit.committer.login || commit.commit.committer.name;
-            const author = commit.commit.author.name;
+            const committer = commit.committer?.login || commit.commit.committer.name || 'unknown';
+            const author = commit.commit.author.name || 'unknown';
 
-            return { committer, author };
+            core.setOutput('committer', committer);
+            core.setOutput('author', author);
 
+      # Step 3: List and check modified files
       - name: Check Modified Files in Specific Directories
         id: check-modified-files
         uses: actions/github-script@v7
@@ -38,33 +42,40 @@ jobs:
             const owner = context.repo.owner;
             const pr = context.payload.pull_request;
 
+            // Get the list of files modified in the PR
             const { data: files } = await github.rest.pulls.listFiles({
               owner: owner,
               repo: context.repo.repo,
               pull_number: pr.number,
             });
 
-            const { committer, author } = await steps.get-commit-info.outputs;
+            const committer = core.getInput('committer');
+            const author = core.getInput('author');
 
-            // Check if all files meet the conditions
+            // Define sensitive paths and files
+            const sensitivePaths = ['.github/', '.devcontainer/', '.github/workflows/'];
+            const sensitiveExtensions = ['.yml', '.yaml'];
+            const restrictedFiles = ['Dockerfile'];
+
+            // Check if any modified file is sensitive
             const allFilesAreAuthorized = files.every(file =>
-              !file.filename.startsWith('.github/') &&
-              !file.filename.startsWith('.devcontainer/') &&
-              !file.filename.startsWith('.github/workflows/') &&
-              !file.filename.endsWith('.yml') &&
-              !file.filename.endsWith('.yaml') &&
-              file.filename !== 'Dockerfile'
+              !sensitivePaths.some(path => file.filename.startsWith(path)) &&
+              !sensitiveExtensions.some(ext => file.filename.endsWith(ext)) &&
+              !restrictedFiles.includes(file.filename)
             );
 
+            // Define authorized users
             const isDependabot = (user) => user === 'dependabot[bot]';
             const isRepoOwner = (user) => user === owner;
 
+            // Determine if the changes should cause failure
             let shouldFail = !allFilesAreAuthorized &&
               !(isDependabot(committer) && isDependabot(author)) &&
               !(isRepoOwner(committer) && isRepoOwner(author)) &&
               !(isRepoOwner(committer) && author !== owner) &&
               !(isRepoOwner(author) && committer !== owner);
 
+            // Post comments based on authorization status
             if (shouldFail) {
               const warningMessage = `⚠️ @${committer}, your attempt to modify sensitive files was **unauthorized**!  
               Only the repo owner or dependabot can modify the following directories:  
@@ -79,7 +90,7 @@ jobs:
                 body: warningMessage,
               });
 
-              throw new Error('Unauthorized modification detected.');
+              core.setOutput('shouldFail', 'true');
             } else {
               const successMessage = `✅ **Authorization Succeeded!**  
               **Committer**: ${committer}  
@@ -91,11 +102,12 @@ jobs:
                 issue_number: pr.number,
                 body: successMessage,
               });
+
+              core.setOutput('shouldFail', 'false');
             }
 
-            return { shouldFail };
-
-      - name: Fail if Un auth Changes Detected
+      # Step 4: Fail if unauthorized changes are detected
+      - name: Fail if Unauthorized Changes Detected
         if: ${{ steps.check-modified-files.outputs.shouldFail == 'true' }}
         run: |
           echo "Unauthorized changes detected."
