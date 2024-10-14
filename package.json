@@ -4,6 +4,7 @@
   "description": "My Personal Github Repository. (Fully Automated). MIT Licensed 2020 - Present",
   "main": "README.md",
   "bot": "https://github.com/TheHamsterBot",
+  "url": "https://github.com/offensive-vk/offensive-vk",
   "scripts": {
     "install": "npx pnpm add @octokit/rest @octokit/core @octokit/types octokit markdownlint pnpm",
     "source": "git clone https://github.com/offensive-vk/offensive-vk.git",

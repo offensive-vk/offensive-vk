@@ -7,9 +7,9 @@ on:
 
 jobs:
   pattern:
+    name: Generate Pattern
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    name: Generate Pattern
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -46,3 +46,6 @@ jobs:
           Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           git push
+
+      - name: Complete Job
+        run: echo "Job Finished ! - Signing Off."

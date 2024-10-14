@@ -2,6 +2,7 @@
 ci/cd:
   - changed-files:
       - any-glob-to-any-file:
+        - '.devcontainer/*'
         - '*.yml'
         - '.github/workflows/*.yml'
         - 'Dockerfile'
@@ -18,7 +19,9 @@ dotfiles:
       - any-glob-to-any-file:
         - '.gitlab-ci.yml'
         - '.yaml-lint.yml'
+        - '.mailmap'
         - '.prettierrc.json'
+        - '.prettierignore''
         - '.gitignore'
         - '.gitattributes'
         - '.dockerignore'

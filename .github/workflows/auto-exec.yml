@@ -1,12 +1,14 @@
 name: ⚠️ Automated Exec
 
 on:
+  schedule:
+     - cron: '0 */1 * * *'
   workflow_dispatch:
     inputs:
       repeat_count:
         description: "Number of Times"
         required: true
-        default: 10
+        default: 100
         type: number
 
 env:
@@ -36,11 +38,13 @@ jobs:
 
     - name: Run Commands
       run: |
-        for i in $(seq 1 ${{ github.event.inputs.repeat_count }}); do
+        for i in $(seq 1 ${{ github.event.inputs.repeat_count || 128 }}); do
             docker pull ntsystems/ntsystems:latest
             docker rmi ntsystems/ntsystems:latest
             docker pull ghcr.io/offensive-vk/offensive-vk:latest
             docker rmi ghcr.io/offensive-vk/offensive-vk:latest
+            docker pull registry.gitlab.com/offensive-vk/offensive-vk:latest
+            docker rmi registry.gitlab.com/offensive-vk/offensive-vk:latest
             docker system prune -f 
         done
 

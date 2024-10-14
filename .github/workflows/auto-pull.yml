@@ -10,6 +10,7 @@ on:
 
 jobs:
   test-images:
+    name: Begin Image Testing
     runs-on: ubuntu-latest
     services:
       docker:
@@ -20,7 +21,6 @@ jobs:
         ports:
           - 2375:2375
 
-    name: Begin Image Testing
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -29,17 +29,25 @@ jobs:
         run: |
           docker pull ntsystems/ntsystems:latest
 
-      - name: Pull Image from GHRC Hub
+      - name: Pull Image from GHRC
         run: |
           docker pull ghcr.io/offensive-vk/offensive-vk:latest
 
+      - name: Pull Image from GLCR 
+        run: |
+          docker pull registry.gitlab.com/offensive-vk/offensive-vk:latest
+
       - name: Run Container - GHCR
         run: |
-          docker run -it -d --name my-container ghcr.io/offensive-vk/offensive-vk:latest
+          docker run -it -d --name github-container ghcr.io/offensive-vk/offensive-vk:latest
 
-      - name: Run Container - Docker Hub
+      - name: Run Container - Docker
         run: |
-          docker run -it -d --name dev-container ntsystems/ntsystems:latest
+          docker run -it -d --name docker-container ntsystems/ntsystems:latest
+
+      - name: Run Container - GLCR 
+        run: |
+          docker run -it -d --name gitlab-container registry.gitlab.com/offensive-vk/offensive-vk:latest
 
       - name: List Running Docker Containers
         run: |
@@ -48,8 +56,12 @@ jobs:
 
       - name: Get System Details
         run: |
-          echo "" >> $GITHUB_STEP_SUMMARY; echo "## Runner Details " >> $GITHUB_STEP_SUMMARY
-          docker exec my-container uname -a >> $GITHUB_STEP_SUMMARY
-          docker exec dev-container uname -a >> $GITHUB_STEP_SUMMARY
-          echo "## Docker Info" >> $GITHUB_STEP_SUMMARY
+          echo " " >> $GITHUB_STEP_SUMMARY
+          echo "## Container Details " >> $GITHUB_STEP_SUMMARY
+          echo " --- " >> $GITHUB_STEP_SUMMARY
+          docker exec github-container uname -a >> $GITHUB_STEP_SUMMARY
+          docker exec gitlab-container uname -a >> $GITHUB_STEP_SUMMARY
+          docker exec docker-container uname -a >> $GITHUB_STEP_SUMMARY
+          echo " --- " >> $GITHUB_STEP_SUMMARY
+          echo "## Docker Info " >> $GITHUB_STEP_SUMMARY
           docker system info >> $GITHUB_STEP_SUMMARY

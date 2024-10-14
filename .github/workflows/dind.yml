@@ -10,6 +10,7 @@ on:
 
 jobs:
   run-docker:
+    name: Begin Script Testing
     runs-on: ubuntu-latest
     services:
       docker:
@@ -20,7 +21,6 @@ jobs:
         ports:
           - 2375:2375
 
-    name: Begin Script Testing
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -31,7 +31,10 @@ jobs:
           node-version: '20'
 
       - name: Install Dependencies
-        run: npm i -g pnpm@9.0.0; pnpm install; pnpm i
+        run: |
+          npm i -g pnpm@9.0.0
+          pnpm install
+          pnpm i
   
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3

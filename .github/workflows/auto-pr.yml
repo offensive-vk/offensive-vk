@@ -10,11 +10,10 @@ on:
       - 'Automation'
       - 'Best-Readme-Ever'
   workflow_dispatch:
-  schedule:
-    - cron: '0 */1 * * *'
 
 jobs:
   create_pr:
+    name: Create Pull Request
     runs-on: ubuntu-latest
     if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
     steps:
@@ -38,6 +37,7 @@ jobs:
         run:
           echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >> $GITHUB_ENV; echo "${{ env.PR_NUMBER }}"
   update_pr:
+    name: Update PR Data
     needs: [create_pr]
     if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
     runs-on: ubuntu-latest

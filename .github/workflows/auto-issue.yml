@@ -4,13 +4,12 @@ on:
   pull_request:
     types: ['opened', 'closed']
   issue_comment:
-    types: ['created']
+    types: ['created', 'deleted']
   workflow_dispatch:
-  schedule:
-    - cron: '0 */1 * * *'
 
 jobs:
   create_issue:
+    name: Create Issue
     runs-on: ubuntu-latest
     if: ${{  github.event_name == 'pull_request' && github.event.pull_request.state == 'open' }}
     steps:
@@ -55,6 +54,7 @@ jobs:
             ${{ env.MARKDOWN_CONTENT }}
 
   close_issue:
+    name: Close Issue
     runs-on: ubuntu-latest
     if: |
       github.event_name == 'issue_comment' &&
