@@ -1,0 +1,5 @@
+{
+  "id": "patch-conda",
+  "name": "Patch Conda Packages",
+  "installsAfter": ["ghcr.io/devcontainers/features/conda"]
+}

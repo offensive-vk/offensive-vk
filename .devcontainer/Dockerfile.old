@@ -6,7 +6,7 @@
 FROM node:current-bullseye
 
 # The Owner of this environment & this file (The Real OG)
-LABEL owner="Vedansh ⚡ <https://github.com/offensive-vk/>"
+LABEL owner="Vedansh <https://github.com/offensive-vk/>"
 LABEL url="https://github.com/offensive-vk/offensive-vk"
 LABEL maintainer="Hamster [bot] <https://github.com/TheHamsterBot>"
 LABEL devcontainer="true"
@@ -39,12 +39,9 @@ EXPOSE 9999
 HEALTHCHECK --interval=30s --timeout=10s \
   CMD curl -f http://localhost:9999 || exit 1
 
-# setup envs
+# Additional flags
 ENV NODE_ENV=production
 ENV PORT=9999
-
-# Set the default Docker host
-ENV DOCKER_HOST=tcp://docker-daemon:2375
 
 # Set the default command to keep the container running
 CMD ["/bin/bash"]

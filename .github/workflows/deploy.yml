@@ -6,13 +6,14 @@ on:
   workflow_dispatch:
 
 env:
-  USERNAME: ${{ github.repository_owner || 'offensive-vk' }}
+  USERNAME: ${{ github.repository_owner }}
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
   PASSWORD: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   deploy:
+    name: Deploy Images
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -49,3 +50,4 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+          platforms: linux/arm64,linux/amd64,linux/amd64/v2

@@ -3,10 +3,11 @@ name: 🛫 Auto Update Dependencies
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 0 * * 0'
 
 jobs:
   upgrade-deps:
+    name: Update Dependencies
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
@@ -37,7 +38,7 @@ jobs:
           git_commit_gpgsign: true
           git_config_global: true
           trust_level: 5
-  
+
       - name: Verify GPG Key
         run: |
           gpg --list-secret-keys --keyid-format LONG
@@ -47,7 +48,7 @@ jobs:
         uses: peter-evans/create-pull-request@v7
         with:
           delete-branch: true
-          github-token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
           branch: 'update-dependencies'
           base: 'master'
           labels: |
