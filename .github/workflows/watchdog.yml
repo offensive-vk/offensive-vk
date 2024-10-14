@@ -51,17 +51,26 @@ jobs:
             const modifiedSensitiveFiles = files.some(file =>
               file.filename.startsWith('.github/') ||
               file.filename.startsWith('.devcontainer/') ||
-              file.filename.startsWith('.github/workflows/')
+              file.filename.startsWith('.github/workflows/') ||
+              file.filename.startsWith('**/*.yml') ||
+              file.filename.startsWith('**/*.yaml') ||
+              file.filename.startsWith('Dockerfile') ||              
             );
 
+            const isDependabot = (user) => user === 'dependabot[bot]';
+            const isRepoOwner = (user) => user === owner;
+
             const isAuthorized =
-              (committer === owner || committer === 'dependabot[bot]') &&
-              (author === owner || author === 'dependabot[bot]');
+              (isDependabot(committer) && isDependabot(author)) ||
+              (isRepoOwner(committer) && isRepoOwner(author)) ||
+              (isRepoOwner(committer) && author !== owner) ||
+              (isRepoOwner(author) && committer !== owner);
 
             if (modifiedSensitiveFiles && !isAuthorized) {
               core.setOutput('should_fail', true);
 
-              const message = `⚠️ Committer or author not authorized to modify sensitive files:  
+              const warningMessage = `⚠️ @${committer}, your attempt to modify sensitive files was **unauthorized**!  
+              Only the repo owner or dependabot can modify the following directories:  
               - \`.github/*\`  
               - \`.devcontainer/*\`  
               - \`.github/workflows/*\``;
@@ -70,15 +79,16 @@ jobs:
                 owner: owner,
                 repo: context.repo.repo,
                 issue_number: pr.number,
-                body: message,
+                body: warningMessage,
               });
 
               throw new Error('Unauthorized modification detected.');
             } else if (modifiedSensitiveFiles) {
-              const successMessage = `✅ Sensitive files were modified, but authorization succeeded.  
+              const successMessage = `✅ **Authorization Succeeded!**  
               **Committer**: ${committer}  
-              **Author**: ${author}`;
-              
+              **Author**: ${author}  
+              Sensitive files were modified, and you have permission to do so.`;
+
               await github.rest.issues.createComment({
                 owner: owner,
                 repo: context.repo.repo,

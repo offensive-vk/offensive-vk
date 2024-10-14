@@ -47,7 +47,7 @@ ENV PORT=9999
 ENV DOCKER_HOST=tcp://docker-daemon:2375
 
 # Run a command to test the Docker daemon
-RUN ["docker", "info"]
+RUN docker info
 
 # Set the default command to keep the container running
 CMD ["/bin/bash"]
