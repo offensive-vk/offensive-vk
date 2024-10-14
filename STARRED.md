@@ -1,7 +1,7 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `33`
+Total starred repositories: `36`
 ## Contents
 
   - [Batchfile](#batchfile)
@@ -22,11 +22,11 @@ Total starred repositories: `33`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️98920)
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️99004)
 
 ## C
 
-  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool. \[*MIT License*\] (⭐️10143)
+  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool. \[*MIT License*\] (⭐️10151)
 
 ## C++
 
@@ -56,36 +56,39 @@ Total starred repositories: `33`
 ## Python
 
   - [offensive-vk/Learn-Python](https://github.com/offensive-vk/Learn-Python) - Cool Python Scripts and Programs | Various Examples and References. \[*GNU GPLv2*\] (⭐️1)
-  - [python/cpython](https://github.com/python/cpython) - The Python programming language (⭐️62938)
-  - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (⭐️18322)
+  - [python/cpython](https://github.com/python/cpython) - The Python programming language (⭐️62956)
+  - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (⭐️18324)
 
 ## QML
 
-  - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (⭐️22246)
+  - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (⭐️22250)
 
 ## SCSS
 
-  - [offensive-vk/Icons](https://github.com/offensive-vk/Icons) - Free SVGs and Icons For Most Programming Languages / Frameworks / Tools / Tech Related. Leave a ⭐ to help grow this project. \[*Creative Commons Zero v1.0 Universal*\] (⭐️3)
+  - [offensive-vk/Icons](https://github.com/offensive-vk/Icons) - Free SVGs and Icons For Most Programming Languages / Frameworks / Tools / Tech Related. Leave a ⭐ to help grow this project. (⭐️3)
 
 ## TypeScript
 
+  - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js \[*MIT License*\] (⭐️3884)
+  - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. \[*MIT License*\] (⭐️4956)
   - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning \[*MIT License*\] (⭐️1998)
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️294292)
-  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️22130)
-  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️163383)
+  - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx \[*Apache License 2.0*\] (⭐️4324)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️294362)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️22140)
+  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️163402)
   - [offensive-vk/Collection](https://github.com/offensive-vk/Collection) - Some Practical and Curated Interview Coding Questions + Exercises. In 5 Most Popular High Level Programming Languages. Leave a ⭐ if you found it helpful. \[*GNU GPLv3*\] (⭐️2)
   - [offensive-vk/override.ps1](https://github.com/offensive-vk/override.ps1) - Curated Collection of Cool Functions. For Enhanced Unit Testing & NPM Registry @ <https://registry.npmjs.org> \[*MIT License*\] (⭐️1)
   - [offensive-vk/Radioactive](https://github.com/offensive-vk/Radioactive) - Yet Another Goofy Repo (cursed). More Like Personal Project. (⭐️1)
   - [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️1)
   - [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript) - TypedScript - A Static Repository for Hosting My Personal *TypeScript* :bowtie: Programs. ~ TypeScript is also known as JavaScript with Static Types. \[*MIT License*\] (⭐️1)
-  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️24514)
+  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️24517)
 
 ## Unknown
 
-  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers \[*Creative Commons Zero v1.0 Universal*\] (⭐️83830)
-  - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns (⭐️45198)
-  - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐   \[*Creative Commons Zero v1.0 Universal*\] (⭐️11047)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️328500)
+  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers \[*Creative Commons Zero v1.0 Universal*\] (⭐️83859)
+  - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns (⭐️45216)
+  - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐   \[*Creative Commons Zero v1.0 Universal*\] (⭐️11048)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️328583)
 
 ## YAML
 
