@@ -21,7 +21,7 @@ dotfiles:
         - '.yaml-lint.yml'
         - '.mailmap'
         - '.prettierrc.json'
-        - '.prettierignore''
+        - '.prettierignore'
         - '.gitignore'
         - '.gitattributes'
         - '.dockerignore'
@@ -35,12 +35,12 @@ markdown:
   - changed-files:
       - any-glob-to-any-file:
         - '**/*.md'
-        - './**/*'
+        - './**/*.md'
 
 devcontainer:
   - changed-files:
       - any-glob-to-any-file:
-        - '.devcontainer/*'
+        - '.devcontainer/**/*'
 
 secrets:
   - changed-files:
