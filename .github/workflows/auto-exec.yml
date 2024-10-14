@@ -1,12 +1,14 @@
 name: ⚠️ Automated Exec
 
 on:
+  schedule:
+    - cron: '0 */1 * * *'
   workflow_dispatch:
     inputs:
       repeat_count:
-        description: "Number of Times"
+        description: 'Number of Times'
         required: true
-        default: 10
+        default: 100
         type: number
 
 env:
@@ -25,29 +27,31 @@ jobs:
         ports:
           - 2375:2375
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: Set up QEMU
-      uses: docker/setup-qemu-action@v3
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
 
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v3.7.1
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3.7.1
 
-    - name: Run Commands
-      run: |
-        for i in $(seq 1 ${{ github.event.inputs.repeat_count }}); do
-            docker pull ntsystems/ntsystems:latest
-            docker rmi ntsystems/ntsystems:latest
-            docker pull ghcr.io/offensive-vk/offensive-vk:latest
-            docker rmi ghcr.io/offensive-vk/offensive-vk:latest
-            docker system prune -f 
-        done
+      - name: Run Commands
+        run: |
+          for i in $(seq 1 ${{ github.event.inputs.repeat_count || 128 }}); do
+              docker pull ntsystems/ntsystems:latest
+              docker rmi ntsystems/ntsystems:latest
+              docker pull ghcr.io/offensive-vk/offensive-vk:latest
+              docker rmi ghcr.io/offensive-vk/offensive-vk:latest
+              docker pull registry.gitlab.com/offensive-vk/offensive-vk:latest
+              docker rmi registry.gitlab.com/offensive-vk/offensive-vk:latest
+              docker system prune -f 
+          done
 
-    - name: Inspect Images
-      if: github.event_name != 'pull_request'
-      run: |
-        docker pull ${{ env.DOCKERHUB }}
-        docker image inspect ${{ env.DOCKERHUB }}
-        docker pull ${{ env.GHCR }}
-        docker image inspect ${{ env.GHCR }}
+      - name: Inspect Images
+        if: github.event_name != 'pull_request'
+        run: |
+          docker pull ${{ env.DOCKERHUB }}
+          docker image inspect ${{ env.DOCKERHUB }}
+          docker pull ${{ env.GHCR }}
+          docker image inspect ${{ env.GHCR }}

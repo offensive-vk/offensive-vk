@@ -1,9 +1,9 @@
-name: 💬 Update Daily Quote
+name: 💬 Auto Update Daily Quote
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 0 * * *'
 
 jobs:
   update-quote:
@@ -24,7 +24,7 @@ jobs:
           git_commit_gpgsign: true
           git_config_global: true
           trust_level: 5
-  
+
       - name: Verify GPG Key
         run: |
           gpg --list-secret-keys --keyid-format LONG

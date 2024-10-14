@@ -8,8 +8,8 @@ on:
   workflow_dispatch:
 jobs:
   add_to_project:
-    runs-on: ubuntu-latest
     name: Add Everything to Project
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4

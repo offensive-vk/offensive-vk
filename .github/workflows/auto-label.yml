@@ -34,7 +34,7 @@ jobs:
 
             const labelMapping = [
               {label: 'ci/cd', match: ['ci/cd', 'pipeline', 'workflow', '.yml', 'dockerfile', '*.yml', '.github/workflows/*.yml', 'dockerfile', 'compose.yaml']},
-              {label: 'template', match: ['.github/auto_pull_request.md', '.github/auto_issue_template.md']},
+              {label: 'template', match: ['.github/Auto_Pull_Request.md', '.github/Auto_Issue_Template.md', '.github/ISSUE_TEMPLATE.md', '.github/PULL_REQUEST_TEMPLATE.md']},
               {label: 'dotfiles', match: ['.gitlab-ci.yml', '.gitignore', '.gitattributes', '.dockerignore', 'dockerfile', 'license', 'package.json', 'pnpm-lock.yaml']},
               {label: 'markdown', match: ['markdown','**/*.md', './**/*']},
               {label: 'devcontainer', match: ['.devcontainer/*', '*.json']},

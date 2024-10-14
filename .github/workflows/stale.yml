@@ -7,6 +7,7 @@ on:
 
 jobs:
   stale:
+    name: Stale Issues and PRs
     runs-on: macos-latest
     permissions:
       issues: write
@@ -16,16 +17,20 @@ jobs:
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
           stale-issue-message: |
-            This issue has been automatically marked as stale due to inactivity for the past 7 days. 
+            Hello ⚡!, Hamster Here,This issue has been automatically marked as stale due to inactivity for the past 7 days. 
             If this issue is still relevant, please provide an update or additional information. 
-            If no updates are made, this issue will be closed in 3 days. Thank you for your contributions.
+            If no updates are made, this issue will be closed in 14 days. Thank you for your contributions.
+
+            Thankyou!
           stale-pr-message: |
-            This pull request has been automatically marked as stale due to inactivity for the past 7 days. 
+            Hello ⚡!, Hamster Here, This pull request has been automatically marked as stale due to inactivity for the past 7 days. 
             If this pull request is still in progress, please provide an update or additional information. 
-            If no updates are made, this pull request will be closed in 3 days. Thank you for your contributions.
+            If no updates are made, this pull request will be closed in 14 days. Thank you for your contributions.
+
+            Thankyou!
           stale-issue-label: 'no-activity'
           stale-pr-label: 'no-activity'
           days-before-pr-stale: 3
           days-before-issue-stale: 3
-          days-before-close: 7
+          days-before-close: 14
           operations-per-run: 100
