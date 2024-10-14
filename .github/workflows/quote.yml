@@ -31,7 +31,7 @@ jobs:
           git config --global --list
 
       - name: Update Quote
-        uses: offensive-vk/auto-update-quote@v5
+        uses: offensive-vk/auto-update-quote@v6
         with:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
           COMMIT_MESSAGE: |
