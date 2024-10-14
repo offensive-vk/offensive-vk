@@ -26,7 +26,7 @@ jobs:
             Hello ⚡!, Hamster Here, This pull request has been automatically marked as stale due to inactivity for the past 7 days. 
             If this pull request is still in progress, please provide an update or additional information. 
             If no updates are made, this pull request will be closed in 14 days. Thank you for your contributions.
-            
+
             Thankyou!
           stale-issue-label: 'no-activity'
           stale-pr-label: 'no-activity'

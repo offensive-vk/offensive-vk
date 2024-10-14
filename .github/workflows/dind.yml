@@ -35,7 +35,7 @@ jobs:
           npm i -g pnpm@9.0.0
           pnpm install
           pnpm i
-  
+
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
 

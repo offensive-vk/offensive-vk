@@ -60,4 +60,3 @@ jobs:
       #     email: 'TheHamsterBot@outlook.com'
       #     MESSAGE: 'Publish Linter Changes and Fixes'
       #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      

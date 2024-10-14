@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
+
       - name: Import GPG Key
         id: gpg
         uses: crazy-max/ghaction-import-gpg@v6
@@ -24,7 +24,7 @@ jobs:
           git_commit_gpgsign: true
           git_config_global: true
           trust_level: 5
-  
+
       - name: Verify GPG Key
         run: |
           gpg --list-secret-keys --keyid-format LONG

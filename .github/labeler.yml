@@ -2,64 +2,64 @@
 ci/cd:
   - changed-files:
       - any-glob-to-any-file:
-        - '.devcontainer/*'
-        - '*.yml'
-        - '.github/workflows/*.yml'
-        - 'Dockerfile'
-        - 'compose.yaml'
+          - '.devcontainer/*'
+          - '*.yml'
+          - '.github/workflows/*.yml'
+          - 'Dockerfile'
+          - 'compose.yaml'
 
 template:
   - changed-files:
       - any-glob-to-any-file:
-        - '.github/Auto_Pull_Request.md'
-        - '.github/Auto_Issue_Template.md'
+          - '.github/Auto_Pull_Request.md'
+          - '.github/Auto_Issue_Template.md'
 
 dotfiles:
   - changed-files:
       - any-glob-to-any-file:
-        - '.gitlab-ci.yml'
-        - '.yaml-lint.yml'
-        - '.mailmap'
-        - '.prettierrc.json'
-        - '.prettierignore'
-        - '.gitignore'
-        - '.gitattributes'
-        - '.dockerignore'
-        - 'Dockerfile'
-        - 'LICENSE'
-        - 'package.json'
-        - 'pnpm-lock.yaml'
-        - '*/**.json'
+          - '.gitlab-ci.yml'
+          - '.yaml-lint.yml'
+          - '.mailmap'
+          - '.prettierrc.json'
+          - '.prettierignore'
+          - '.gitignore'
+          - '.gitattributes'
+          - '.dockerignore'
+          - 'Dockerfile'
+          - 'LICENSE'
+          - 'package.json'
+          - 'pnpm-lock.yaml'
+          - '*/**.json'
 
 markdown:
   - changed-files:
       - any-glob-to-any-file:
-        - '**/*.md'
-        - './**/*.md'
+          - '**/*.md'
+          - './**/*.md'
 
 devcontainer:
   - changed-files:
       - any-glob-to-any-file:
-        - '.devcontainer/**/*'
+          - '.devcontainer/**/*'
 
 secrets:
   - changed-files:
       - any-glob-to-any-file:
-        - '**/*.mp3'
-        - '**/*.txt'
+          - '**/*.mp3'
+          - '**/*.txt'
 
 workflow:
   - changed-files:
       - any-glob-to-any-file:
-        - 'YAML/**/*'
-        - '**/*.yml'
-        - '**/*.yaml'
-        - '.github/*.yml'
-        - '.github/workflows/*.yml'
+          - 'YAML/**/*'
+          - '**/*.yml'
+          - '**/*.yaml'
+          - '.github/*.yml'
+          - '.github/workflows/*.yml'
 
 docker:
   - changed-files:
-    - any-glob-to-any-file:
-      - 'Dockerfile'
-      - 'compose.yaml'
+      - any-glob-to-any-file:
+          - 'Dockerfile'
+          - 'compose.yaml'
 # ** DO NOT MODIFY **
