@@ -28,8 +28,8 @@ jobs:
             const committer = commit.committer.login || commit.commit.committer.name;
             const author = commit.commit.author.name;
 
-            core.setOutput('committer', committer);
-            core.setOutput('author', author);
+            // Set outputs for later use
+            return { committer, author };
 
       - name: Check Modified Files in Specific Directories
         id: check-modified-files
@@ -45,8 +45,8 @@ jobs:
               pull_number: pr.number,
             });
 
-            const committer = steps['get-commit-info'].outputs.committer;
-            const author = steps['get-commit-info'].outputs.author;
+            // Use the returned outputs from the previous step
+            const { committer, author } = await steps.get-commit-info.outputs;
 
             let modifiedSensitiveFiles = files.some(file =>
               file.filename.startsWith('.github/') ||
@@ -99,10 +99,11 @@ jobs:
               });
             }
 
-            core.setOutput('should_fail', shouldFail);
+            // Set output indicating whether the job should fail
+            return { shouldFail };
 
       - name: Fail if Unauthorized Changes Detected
-        if: ${{ steps.check-modified-files.outputs.should_fail == 'true' }}
+        if: ${{ steps.check-modified-files.outputs.shouldFail == 'true' }}
         run: |
-          echo "Oops ! Unauthorized changes detected."
+          echo "Unauthorized changes detected."
           exit 1
