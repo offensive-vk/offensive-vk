@@ -33,7 +33,7 @@ jobs:
         run: |
           docker pull ghcr.io/offensive-vk/offensive-vk:latest
 
-      - name: Pull Image from GLCR 
+      - name: Pull Image from GLCR
         run: |
           docker pull registry.gitlab.com/offensive-vk/offensive-vk:latest
 
@@ -45,7 +45,7 @@ jobs:
         run: |
           docker run -it -d --name docker-container ntsystems/ntsystems:latest
 
-      - name: Run Container - GLCR 
+      - name: Run Container - GLCR
         run: |
           docker run -it -d --name gitlab-container registry.gitlab.com/offensive-vk/offensive-vk:latest
 

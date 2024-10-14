@@ -46,8 +46,7 @@ jobs:
           echo -e "# ✨✨✨✨✨✨✨\n" >> GREETINGS.md
           echo -e "\n# Good Morning, **General** ! \n\nToday is **${{ env.DATE }}** \n\n *Have a Wonderful Day Ahead.*" >> GREETINGS.md
           echo -e "# ✨✨✨✨✨✨✨\n" >> GREETINGS.md
-  
-        
+
       - name: Import GPG Key
         id: gpg
         uses: crazy-max/ghaction-import-gpg@v6
@@ -58,7 +57,7 @@ jobs:
           git_commit_gpgsign: true
           git_config_global: true
           trust_level: 5
-  
+
       - name: Verify GPG Key
         run: |
           gpg --list-secret-keys --keyid-format LONG

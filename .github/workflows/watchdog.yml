@@ -1,0 +1,58 @@
+name: 🔒 Check Modified Files
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  check-sensitive-files:
+    name: Check Sensitive Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Check Modified Files in Specific Directories
+        id: check-modified-files
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const owner = context.repo.owner;
+            const pr = context.payload.pull_request;
+            const author = pr.user.login;
+
+            const { data: files } = await github.rest.pulls.listFiles({
+              owner: owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            });
+
+            const modifiedSensitiveFiles = files.some(file =>
+              file.filename.startsWith('.github/') ||
+              file.filename.startsWith('.devcontainer/') ||
+              file.filename.startsWith('.github/workflows/')
+            );
+
+            if (modifiedSensitiveFiles && author !== owner && author !== 'dependabot[bot]') {
+              core.setOutput('should_fail', true);
+
+              const message = `⚠️ @${author}, you are not authorized to modify files in these sensitive directories:  
+              - \`.github/*\`  
+              - \`.devcontainer/*\`  
+              - \`.github/workflows/*\``;
+
+              await github.rest.issues.createComment({
+                owner: owner,
+                repo: context.repo.repo,
+                issue_number: pr.number,
+                body: message,
+              });
+
+              throw new Error('Unauthorized modification detected.');
+            } else {
+              core.setOutput('should_fail', false);
+            }
+
+      - name: Fail if Unauthorized Changes Detected
+        if: ${{ steps.check-modified-files.outputs.should_fail == 'true' }}
+        run: exit 1
