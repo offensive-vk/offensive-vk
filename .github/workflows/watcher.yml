@@ -38,8 +38,7 @@ jobs:
             *.yml
             *.yaml
             Dockerfile
-            EOF
-          )
+          EOF)
 
           # Load committer from environment
           committer=$committer
