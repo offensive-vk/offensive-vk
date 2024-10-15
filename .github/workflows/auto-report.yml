@@ -6,6 +6,7 @@ on:
       - '🛫 Auto Update Dependencies'
       - '⛽ Automated Repo Statistics'
       - '⚒️ Automated Image Testing'
+      - '✅ Automated Linter'
       - '🤖 Automated Issue - Hamster 🐹'
       - '🏷️ Automated Label - Hamster 🐹'
       - '🤖 Automated Pull Request - Hamster 🐹'
@@ -13,6 +14,7 @@ on:
       - '⛅ Docker - Build Image'
       - '🦅 Gitlab - Mirror Sync'
       - '🐍 Generate Snake Contribution GIF'
+      - '✨ Generate Contribution Pattern'
       - '⭐ Generate Starred Repo List'
       - '🌨️ Publish Multi Platform Docker Images'
     types: [completed]
@@ -22,57 +24,44 @@ jobs:
   monitor-workflows:
     name: Monitor Workflows
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      github-token: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - name: Fetch Failed or Skipped Jobs
+      # Step 1: Fetch Failed or Skipped Jobs
+      - name: Get Failed or Skipped Jobs
         id: get-failed-jobs
-        uses: actions/github-script@v7
+        run: |
+          run_id=${{ github.event.workflow_run.id }}
+          failed_jobs=$(gh api repos/${{ github.repository }}/actions/runs/$run_id/jobs --jq \
+            '.jobs | map(select(.conclusion == "failure" or .conclusion == "skipped") | .name) | join(", ")')
+
+          echo "failed_jobs=$failed_jobs" >> $GITHUB_ENV
+
+      # Step 2: Create Issue if Jobs Failed or Skipped
+      - name: Create Issue for Failed Jobs
+        if: ${{ env.failed_jobs != '' }}
+        uses: dacbd/create-issue-action@main
         with:
-          script: |
-            const runId = context.payload.workflow_run.id;
-            const { data: jobs } = await github.rest.actions.listJobsForWorkflowRun({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              run_id: runId,
-            });
+          token: ${{ secrets.BOT_TOKEN }}
+          title: |
+            ${{ github.workflow }} is reporting errors.
+          assignees: TheHamsterBot
+          labels: automated,bot,hamster,issue
+          body: |
+            > [!CAUTION]  
+            > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) failed or had skipped jobs.  
+              
+            **Failed or Skipped Jobs:**  
+            - ${{ env.failed_jobs }}  
+              
+            **Failure Details:**  
+            - Conclusion: ${{ github.event.workflow_run.conclusion }}  
+            - Status Message: ${{ github.event.workflow_run.status_message || 'N/A' }}  
 
-            const failedJobs = jobs.jobs
-              .filter(job => ['failure', 'skipped'].includes(job.conclusion))
-              .map(job => job.name);
-
-            if (failedJobs.length > 0) {
-              core.setOutput('failed_jobs', failedJobs.join(', '));
-            } else {
-              core.setOutput('failed_jobs', '');
-            }
-
-      - name: Create Issue if Jobs Failed or Skipped
-        if: ${{ steps.get-failed-jobs.outputs.failed_jobs != '' }}
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const token = process.env.BOT_TOKEN;
-            const octokit = github.getOctokit(token);
-
-            const run = context.payload.workflow_run;
-            const issueTitle = `Workflow Failure or Skipped Jobs: ${run.name}`;
-            const issueBody = `
-              > [!CAUTION]  
-              > The workflow **${run.name}** (ID: ${run.id}) failed or had skipped jobs.  
-              >
-              > **Failed or Skipped Jobs:**  
-              > ${steps.get-failed-jobs.outputs.failed_jobs}  
-              >
-              > **Failure Details:**  
-              Conclusion: ${run.conclusion}  
-              Status Message: ${run.status_message || 'N/A'}  
-            `;
-
-            await octokit.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: issueTitle,
-              body: issueBody,
-              labels: ['automated', 'bot', 'hamster', 'issue'],
-            });
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      # Optional: Fail the workflow if there are failures
+      - name: Fail if Issues Detected
+        if: ${{ env.failed_jobs != '' }}
+        run: |
+          echo "Workflow has failed or skipped jobs."
+          exit 0
