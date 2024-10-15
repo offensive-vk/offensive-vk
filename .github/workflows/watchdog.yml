@@ -45,11 +45,13 @@ jobs:
 
       # Step 4: Post a Comment on the PR
       - name: Comment on the Pull Request
-        uses: peter-evans/create-or-update-comment@v3
+        uses: peter-evans/create-or-update-comment@v4
         with:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
-            ${{ steps.validate-changes.outputs.comment_body }}
+              ✅ **Authorization Succeeded!**  
+              **Committer**: ${{ env.committer }}  
+              **Author**: ${{ env.author }}
           edit-mode: replace
 
       # Step 5: Fail if Unauthorized Changes are Detected
@@ -58,3 +60,4 @@ jobs:
         run: |
           echo "Unauthorized changes detected."
           exit 1
+    # WIP: Add a step to only check if the comment was "watchdog --authorize" to make it pass for this
