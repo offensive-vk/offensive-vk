@@ -1,8 +1,14 @@
-name: 🔒 Check Modified Files
+name: 🔒 Check Modified Files - Watchdog
 
 on:
-  pull_request:
-    types: [opened, synchronize]
+  pull_request_target:
+    paths:
+      - ".github/**"
+      - ".devcontainer/**"
+      - ".github/workflows/**"
+      - "*.yml"
+      - "*.yaml"
+      - "Dockerfile"
 
 jobs:
   check-sensitive-files:
@@ -11,105 +17,44 @@ jobs:
 
     steps:
       # Step 1: Checkout the code
-      - name: Checkout Code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      # Step 2: Retrieve committer and author information
-      - name: Get Commit Info
-        id: get-commit-info
-        uses: actions/github-script@v7
+      # Step 2: Retrieve Committer and Author Information
+      - name: Get Committer and Author Info
+        id: commit-info
+        run: |
+          echo "committer=${{ github.event.pull_request.head.user.login }}" >> $GITHUB_ENV
+          echo "author=${{ github.event.pull_request.user.login }}" >> $GITHUB_ENV
+
+      # Step 3: Validate the Modified Files and Users
+      - name: Validate Changes
+        id: validate-changes
+        run: |
+          # Authorized users
+          committer="${{ env.committer }}"
+          author="${{ env.author }}"
+          repo_owner="${{ github.repository_owner }}"
+
+          # Conditions for sensitive file modification
+          if [[ "$committer" != "$repo_owner" && "$committer" != "dependabot[bot]" && "$author" != "$repo_owner" ]]; then
+            echo "should_fail=true" >> $GITHUB_ENV
+          else
+            echo "should_fail=false" >> $GITHUB_ENV
+          fi
+
+      # Step 4: Post a Comment on the PR
+      - name: Comment on the Pull Request
+        uses: peter-evans/create-or-update-comment@v3
         with:
-          script: |
-            const owner = context.repo.owner;
-            const pr = context.payload.pull_request;
-            const { data: commit } = await github.rest.repos.getCommit({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              ref: pr.head.sha,
-            });
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            ${{ steps.validate-changes.outputs.comment_body }}
+          edit-mode: replace
 
-            const committer = commit.committer?.login || commit.commit.committer.name || 'unknown';
-            const author = pr.head_commit.committer.name || commit.commit.author.name || 'unknown';
-
-            core.setOutput('committer', committer);
-            core.setOutput('author', author);
-
-      # Step 3: List and check modified files
-      - name: Check Modified Files in Specific Directories
-        id: check-modified-files
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const owner = context.repo.owner;
-            const pr = context.payload.pull_request;
-
-            // Get the list of files modified in the PR
-            const { data: files } = await github.rest.pulls.listFiles({
-              owner: owner,
-              repo: context.repo.repo,
-              pull_number: pr.number,
-            });
-
-            const committer = core.getInput('committer');
-            const author = core.getInput('author');
-
-            // Define sensitive paths and files
-            const sensitivePaths = ['.github/', '.devcontainer/', '.github/workflows/'];
-            const sensitiveExtensions = ['.yml', '.yaml'];
-            const restrictedFiles = ['Dockerfile'];
-
-            // Check if any modified file is sensitive
-            const allFilesAreAuthorized = files.every(file =>
-              !sensitivePaths.some(path => file.filename.startsWith(path)) &&
-              !sensitiveExtensions.some(ext => file.filename.endsWith(ext)) &&
-              !restrictedFiles.includes(file.filename)
-            );
-
-            // Define authorized users
-            const isDependabot = (user) => user === 'dependabot[bot]';
-            const isRepoOwner = (user) => user === owner;
-
-            // Determine if the changes should cause failure
-            let shouldFail = !allFilesAreAuthorized &&
-              !(isDependabot(committer) || isDependabot(author)) ||
-              !(isRepoOwner(committer) || isRepoOwner(author)) ||
-              !(isRepoOwner(committer) || author !== owner) ||
-              !(isRepoOwner(author) || committer !== owner);
-
-            // Post comments based on authorization status
-            if (shouldFail) {
-              const warningMessage = `⚠️ @${committer}, your attempt to modify sensitive files was **unauthorized**!  
-              Only the repo owner or dependabot can modify the following directories:  
-              - \`.github/*\`  
-              - \`.devcontainer/*\`  
-              - \`.github/workflows/*\``;
-
-              await github.rest.issues.createComment({
-                owner: owner,
-                repo: context.repo.repo,
-                issue_number: pr.number,
-                body: warningMessage,
-              });
-
-              core.setOutput('shouldFail', 'true');
-            } else {
-              const successMessage = `✅ **Authorization Succeeded!**  
-              **Committer**: ${committer}  
-              **Author**: ${author}`;
-
-              await github.rest.issues.createComment({
-                owner: owner,
-                repo: context.repo.repo,
-                issue_number: pr.number,
-                body: successMessage,
-              });
-
-              core.setOutput('shouldFail', 'false');
-            }
-
-      # Step 4: Fail if unauthorized changes are detected
-      - name: Fail if Unauthorized Changes Detected
-        if: ${{ steps.check-modified-files.outputs.shouldFail == 'true' }}
+      # Step 5: Fail if Unauthorized Changes are Detected
+      - name: Fail if Unauthorized Changes
+        if: ${{ env.should_fail == 'true' }}
         run: |
           echo "Unauthorized changes detected."
           exit 1
