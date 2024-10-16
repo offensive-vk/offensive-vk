@@ -26,7 +26,7 @@
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep moving and you'll overcome one day. <br> 📧 _You will find a way to contact me_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
+<i>❝It took Pixar 29 hours to render a single frame from Monster’s University. If done on a single CPU it would have taken 10,000 years to finish.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ***
