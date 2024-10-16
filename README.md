@@ -109,21 +109,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v6-alpha](https://github.com/offensive-vk/auto-stats/releases/tag/v6-alpha) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-2. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-stats/pull/5) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-3. 💪 Opened PR [#5](https://github.com/offensive-vk/auto-stats/pull/5) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-4. 🎉 Merged PR [#74](https://github.com/offensive-vk/AwesomeScripts/pull/74) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-5. 💪 Opened PR [#74](https://github.com/offensive-vk/AwesomeScripts/pull/74) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-6. 🎉 Merged PR [#19994](https://github.com/offensive-vk/offensive-vk/pull/19994) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7. 🎉 Merged PR [#19992](https://github.com/offensive-vk/offensive-vk/pull/19992) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8. 🗣 Commented on [#7410](https://github.com/kamranahmedse/developer-roadmap/issues/7410#issuecomment-2413994116) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9. 🔒 Closed issue [#7410](https://github.com/kamranahmedse/developer-roadmap/issues/7410) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🔒 Closed issue [#4](https://github.com/kamranahmedse/awesome-minimal-sites/issues/4) in [kamranahmedse/awesome-minimal-sites](https://github.com/kamranahmedse/awesome-minimal-sites)
-11. 🗣 Commented on [#7407](https://github.com/kamranahmedse/developer-roadmap/issues/7407#issuecomment-2413048370) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🔒 Closed issue [#19512](https://github.com/offensive-vk/offensive-vk/issues/19512) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. ❌ Closed PR [#19515](https://github.com/offensive-vk/offensive-vk/pull/19515) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 Merged PR [#19260](https://github.com/offensive-vk/offensive-vk/pull/19260) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Merged PR [#19513](https://github.com/offensive-vk/offensive-vk/pull/19513) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1. 🚀 Published release [v6](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v6) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+2. 🚀 Published release [v6-beta](https://github.com/offensive-vk/auto-stats/releases/tag/v6-beta) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+3. 🚀 Published release [v6-alpha](https://github.com/offensive-vk/auto-stats/releases/tag/v6-alpha) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+4. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-stats/pull/5) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+5. 💪 Opened PR [#5](https://github.com/offensive-vk/auto-stats/pull/5) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+6. 🎉 Merged PR [#74](https://github.com/offensive-vk/AwesomeScripts/pull/74) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+7. 💪 Opened PR [#74](https://github.com/offensive-vk/AwesomeScripts/pull/74) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+8. 🎉 Merged PR [#19994](https://github.com/offensive-vk/offensive-vk/pull/19994) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9. 🎉 Merged PR [#19992](https://github.com/offensive-vk/offensive-vk/pull/19992) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🗣 Commented on [#7410](https://github.com/kamranahmedse/developer-roadmap/issues/7410#issuecomment-2413994116) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 🔒 Closed issue [#7410](https://github.com/kamranahmedse/developer-roadmap/issues/7410) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🔒 Closed issue [#4](https://github.com/kamranahmedse/awesome-minimal-sites/issues/4) in [kamranahmedse/awesome-minimal-sites](https://github.com/kamranahmedse/awesome-minimal-sites)
+13. 🗣 Commented on [#7407](https://github.com/kamranahmedse/developer-roadmap/issues/7407#issuecomment-2413048370) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🔒 Closed issue [#19512](https://github.com/offensive-vk/offensive-vk/issues/19512) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. ❌ Closed PR [#19515](https://github.com/offensive-vk/offensive-vk/pull/19515) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
 
 </p>
