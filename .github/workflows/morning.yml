@@ -1,53 +1,69 @@
-name: 🌄 Morning Maintenance
+name: 🌅 Morning Glory Maintenance
 
 on:
   schedule:
     - cron: '30 1 * * *'
   workflow_dispatch:
+
 jobs:
   maintenance:
-    name: Maintenance
+    name: 🌠 System Tune-Up
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: 🔍 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fetch Latest Updates
-        run: git fetch --all; git pull --verbose
-
-      - name: Send Greetings
+      - name: ⬆️ Fetch Latest Updates
         run: |
-          echo "Howdy Everyone ! Wassup"
-          echo "Good morning, contributors and watchers! Have a great day!"
+          git fetch --all; git pull --verbose
 
-      - name: Background Cleanup Job
+      - name: 🎉 Greet Contributors with a Fun Message
+        run: |
+          echo "💬 'Top of the morning to ya!' – Hamster 🐹"
+          echo "🌻 Hello, developers! It's another day to code with passion. 🚀"
+
+      - name: 🧹 Background Cleanup Job with a Touch of Color
         run: |
           sudo apt update -y; sudo apt install lolcat neofetch -y
           neofetch | lolcat 
-          uname -a; whoami; df -T
+          uname -a | lolcat
+          echo "💾 Disk Usage:"; df -T | lolcat
 
   greetings:
-    name: Greetings
+    name: 🌞 Morning Greetings 
     runs-on: macos-latest
     timeout-minutes: 5
     steps:
-      - name: Checkout Repository
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup
+      - name: 🛠️ Setup Date and Time
         id: date_time
         run: |
           echo "DATE=$(date '+%B %d, %Y')" >> $GITHUB_ENV
           echo "TIME=$(date '+%I:%M %p')" >> $GITHUB_ENV
 
-      - name: Say Good Morning
+      - name: 🌺 Write Greetings of the Day
         run: |
-          echo "" > GREETINGS.md
-          echo -e "# ✨✨✨✨✨✨✨\n" >> GREETINGS.md
-          echo -e "\n# Good Morning, **General** ! \n\nToday is **${{ env.DATE }}** \n\n *Have a Wonderful Day Ahead.*" >> GREETINGS.md
-          echo -e "# ✨✨✨✨✨✨✨\n" >> GREETINGS.md
+          cat << 'EOF' > GREETINGS.md
+          # ✨✨✨ Good Morning, General! ✨✨✨
 
-      - name: Import GPG Key
+          **📅 Date:** ${{ env.DATE }}  
+          **⏰ Time:** ${{ env.TIME }}  
+
+          🌅 "The sun rises for those who dare to dream big."  
+
+          🐹 Hamster’s Tip: _Make it count!_ 💪  
+
+          ```
+          🚀 Keep learning, keep improving.  
+          🧑‍💻 Every commit takes you closer to greatness!  
+          ```
+          
+          ✨ *Have a Fantastic Day!* ✨  
+          EOF
+
+      - name: 🔑 Import GPG Key for a Secure Commit
         id: gpg
         uses: crazy-max/ghaction-import-gpg@v6
         with:
@@ -58,15 +74,18 @@ jobs:
           git_config_global: true
           trust_level: 5
 
-      - name: Verify GPG Key
+      - name: 🕵️ Verify GPG Configuration
         run: |
           gpg --list-secret-keys --keyid-format LONG
           git config --global --list
 
-      - name: Commit & Push Changes
+      - name: 🚀 Commit & Push the Greeting
         run: |
-          git config --global user.name "Hamster [bot]"
-          git config --global user.email "TheHamsterBot@outlook.com"
+          git config --local user.name "Hamster [bot]"
+          git config --local user.email "TheHamsterBot@outlook.com"
           git add GREETINGS.md
-          git commit -m "🤖 Hamster Sends Greeting of the Day."
+          git commit -m "🌅 Morning Greeting: Rise and Shine! ☀️"
           git push
+          echo GREETINGS.md >> $GITHUB_STEP_SUMMARY
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}

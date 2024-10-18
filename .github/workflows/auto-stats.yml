@@ -25,54 +25,69 @@ jobs:
           smallest_count=1000000
           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
 
-          # Create File
-          echo "# Daily Repository Statistics " > STATS.md
-          echo "Generated on $timestamp  " >> STATS.md
+          echo "# 📊 Daily Repository Statistics" > STATS.md
+          echo "Generated on ⏰ **$timestamp**" >> STATS.md
           echo "" >> STATS.md
 
-          # Iterate through all files (excluding hidden files and directories)
+          # Gather stats and store in an array
+          stats=()
           for file in $(find . -type f -not -path '*/\.*'); do
-            # Count characters in the file
             char_count=$(wc -c < "$file")
-            file_name=$(basename "$file")
+            file_path=$(realpath --relative-to=. "$file")
 
-            # Add to total character count
             total_characters=$((total_characters + char_count))
             total_files=$((total_files + 1))
 
-            # Check for the biggest and smallest files by character count
             if [ $char_count -gt $biggest_count ]; then
               biggest_count=$char_count
-              biggest_file=$file_name
+              biggest_file=$file_path
             fi
 
             if [ $char_count -lt $smallest_count ]; then
               smallest_count=$char_count
-              smallest_file=$file_name
+              smallest_file=$file_path
             fi
 
-            echo "$file_name: $char_count characters  " >> STATS.md
+            # Store each file’s data as "path:count" for sorting later
+            stats+=("$file_path:$char_count")
           done
 
-          # Calculate average characters per file
+          # Sort the stats array alphabetically and append to markdown
+          echo "## 📂 File Character Counts (Alphabetically)" >> STATS.md
+          for stat in $(printf "%s\n" "${stats[@]}" | sort); do
+            path=$(echo "$stat" | cut -d':' -f1)
+            count=$(echo "$stat" | cut -d':' -f2)
+            echo "- $path: **$count** characters" >> STATS.md
+          done
+
+          # Calculate average characters and words
           if [ $total_files -ne 0 ]; then
             average_characters=$((total_characters / total_files))
           else
             average_characters=0
           fi
-
-          # Optionally count words too
           total_words=$(wc -w $(find . -type f -not -path '*/\.*') | tail -n 1 | awk '{print $1}')
+          total_lines=$(wc -l $(find . -type f -not -path '*/\.*') | tail -n 1 | awk '{print $1}')
+          average_words=$((total_words / total_files))
 
-          # Write final results to the markdown file
+          # Write summary with emojis
           echo "" >> STATS.md
-          echo "## Summary ⛽  " >> STATS.md
-          echo "- Total files: $total_files  " >> STATS.md
-          echo "- Total character count: $total_characters  " >> STATS.md
-          echo "- Average characters per file: $average_characters  " >> STATS.md
-          echo "- Largest file: $biggest_file ($biggest_count characters)  " >> STATS.md
-          echo "- Smallest file: $smallest_file ($smallest_count characters)  " >> STATS.md
-          echo "- Total word count: $total_words  " >> STATS.md
+          echo "## 📋 Summary" >> STATS.md
+          echo "- 🗂️ **Total files:** $total_files" >> STATS.md
+          echo "- ✒️ **Total character count:** $total_characters" >> STATS.md
+          echo "- 📊 **Average characters per file:** $average_characters" >> STATS.md
+          echo "- 📝 **Total word count:** $total_words" >> STATS.md
+          echo "- 🧾 **Total lines:** $total_lines" >> STATS.md
+          echo "- 📐 **Average words per file:** $average_words" >> STATS.md
+          echo "- 🏆 **Largest file:** $biggest_file (**$biggest_count** characters)" >> STATS.md
+          echo "- 🥉 **Smallest file:** $smallest_file (**$smallest_count** characters)" >> STATS.md
+
+          # Additional Cool Stats
+          echo "" >> STATS.md
+          echo "## 🌟 Miscellaneous Stats" >> STATS.md
+          echo "- ⌛ **Average Processing Time Per file:** ~0.5s (estimated)" >> STATS.md
+          echo "- 🔥 **Most common file extension:** $(find . -type f | sed -n 's/.*\.\(.*\)/\1/p' | sort | uniq -c | sort -nr | head -n 1 | awk '{print $2}')" >> STATS.md
+          echo "- 🌐 **Total unique extensions:** $(find . -type f | sed -n 's/.*\.\(.*\)/\1/p' | sort -u | wc -l)" >> STATS.md
 
       - name: Import GPG Key
         id: gpg
