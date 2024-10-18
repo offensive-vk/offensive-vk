@@ -14,6 +14,7 @@ on:
 env:
   DOCKERHUB: ntsystems/ntsystems
   GHCR: ghcr.io/offensive-vk/offensive-vk
+  GLCR: registry.gitlab.com/offensive-vk/offensive-vk
 jobs:
   images:
     runs-on: ubuntu-latest
