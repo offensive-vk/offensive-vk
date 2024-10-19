@@ -1,0 +1,69 @@
+name: 📦 Automated Monthly Release
+
+on:
+  schedule:
+    - cron: "0 0 28-31 * *"  
+  workflow_dispatch:
+
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+    name: Create Release
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get Date
+        id: date
+        run: |
+          month=$(date +'%B')
+          year=$(date +'%Y')
+          tag="${year}-$(date +'%m')"
+          title="${month}-${year}"
+          echo "::set-output name=tag::${tag}"
+          echo "::set-output name=title::${title}"
+
+      - name: Check if Tag Already Exists
+        id: tag_check
+        run: |
+          if gh release view "${{ steps.date.outputs.tag }}" > /dev/null 2>&1; then
+            echo "Release tag already exists. Skipping release."
+            exit 1
+          fi
+        continue-on-error: true
+
+      - name: Create Release Notes
+        id: release_notes
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api \
+            -X POST /repos/${{ github.repository }}/releases/generate-notes \
+            -f tag_name="${{ steps.date.outputs.tag }}" > release_notes.json
+          jq -r .body release_notes.json > release_notes.txt
+          cat release_notes.txt
+
+      - name: Upload Release Notes as Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Release Notes
+          path: release_notes.txt
+
+      - name: Publish Release
+        if: ${{ success() }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ steps.date.outputs.tag }}" \
+            --title "${{ steps.date.outputs.title }}" \
+            --notes-file release_notes.txt \
+            --target $(git rev-parse HEAD)
+
+      - name: Log Success
+        if: ${{ success() }}
+        run: |
+          echo "" >> $GITHUB_STEP_SUMMARY;
+          echo "## Release Notes: ${release_notes.txt}" >> $GITHUB_STEP_SUMMARY;
+          echo "" >> $GITHUB_STEP_SUMMARY;
+          echo "## Monthly Release Created Successfully ⚒️: ${{ steps.date.outputs.tag }}" >> $GITHUB_STEP_SUMMARY;
+          echo "" >> $GITHUB_STEP_SUMMARY;

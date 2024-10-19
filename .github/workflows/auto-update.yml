@@ -1,4 +1,4 @@
-name: 🛫 Auto Update Dependencies
+name: 🛫 Automated Dependency Updates
 
 on:
   workflow_dispatch:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node.js Version 20 (LTS)
+      - name: Setup Node.js Version 20
         uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -58,8 +58,8 @@ jobs:
             automated
             pull-request
           reviewers: offensive-vk
-          commit-message: 'Update Dependencies - package.json'
-          title: 'Update Project Dependencies - Automated'
+          commit-message: 'Dependencies - package.json'
+          title: 'Update Project Dependencies - Hamster 🐹'
           body: |
             ## Updated all Dependencies to Latest Versions.
 
@@ -67,6 +67,15 @@ jobs:
             > This PR Updates the Dependencies to the Latest Versions.
             >
             > Commit: ${{ github.sha }}
+            > Workflow Name: ${{ github.workflow }}
             > Workflow Path: ${{ github.workflow_ref }}
+            
+            - Author: @TheHamsterBot
+            - Commit: ${{ github.sha }}
+            - Workflow Path: ${{ github.workflow_ref }}
 
-            **Please Review the Changes and Merge the PR if everything is fine.**
+            ---
+
+            Thanks.
+            $timestamp
+            Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
