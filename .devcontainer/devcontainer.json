@@ -7,7 +7,7 @@
     "PORT": "9999"
   },
   "postCreateCommand": "echo 'Welcome to your little dev container!'; npm run install",
-  "postStartCommand": "pnpm run dev",
+  "postStartCommand": "pnpm run dev; cat /usr/local/etc/vedansh-dev-container/hello-world.txt",
   "forwardPorts": [9999],
   "healthCheck": {
     "interval": "30s",
@@ -16,7 +16,7 @@
   },
   "features": {
     "ghcr.io/devcontainers/features/common-utils:2": {
-      "username": "codespace",
+      "username": "offensive",
       "userUid": "1000",
       "userGid": "1000"
     },
