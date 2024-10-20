@@ -95,9 +95,6 @@ VOLUME [ "/var/lib/docker" ]
 # Run some basic system checks
 RUN neofetch; df -T; uname -a
 
-# Install pnpm
-RUN npm i -g pnpm@9.0.0; pnpm -v
-
 # Expose the container port
 EXPOSE 9999
 
