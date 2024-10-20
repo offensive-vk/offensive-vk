@@ -6,42 +6,82 @@ on:
     tags: ['**']
   pull_request:
     branches: ['**']
-  release:
-    types: [published, created, edited, deleted]
   workflow_dispatch:
-  workflow_run:
-    workflows: ["*"]
-    types: [completed]
+
+env:
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  job:
-    name: Fetch Workflows
+  fetch-workflows:
+    name: 🌐 Fetch Workflows
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: 🤖 Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Fetch Statuses
-        env:
-            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 📊 Fetch Workflow Statuses
+        id: fetch-status
         run: |
-          # Fetch workflows using gh CLI
-          gh workflow list --json name,state > workflows.json
+          # Fetch all workflows using gh CLI
+          gh workflow list --all --json name,id,state,createdAt,updatedAt > workflows.json
 
-          # Parse workflows and count total and running workflows
+          # Parse counts
           total=$(jq '. | length' workflows.json)
-          running=$(jq '[.[] | select(.state=="in_progress")] | length' workflows.json)
-          successful=$(jq '[.[] | select(.state=="completed")] | length' workflows.json)
+          running=$(jq '[.[] | select(.state == "in_progress")] | length' workflows.json)
+          successful=$(jq '[.[] | select(.state == "completed")] | length' workflows.json)
 
-          # Report status as a GitHub notice
+          # Output all the workflows
+          workflows=$(cat workflows.json)
+
           echo "::notice::There are total $total workflows, $running running, and $successful completed."
 
-          # Save the summary to GITHUB_STEP_SUMMARY
-          echo "### Workflow Status Summary" >> $GITHUB_STEP_SUMMARY
-          echo "- **Total Workflows:** $total" >> $GITHUB_STEP_SUMMARY
-          echo "- **Running Workflows:** $running" >> $GITHUB_STEP_SUMMARY
-          echo "- **Successful Workflows:** $successful" >> $GITHUB_STEP_SUMMARY
-          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
-          cat workflows.json >> $GITHUB_STEP_SUMMARY
-          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
-          gh workflow list >> $GITHUB_STEP_SUMMARY
+          # Export workflow counts as environment variables
+          echo "TOTAL_WORKFLOWS=$total" >> $GITHUB_ENV
+          echo "RUNNING_WORKFLOWS=$running" >> $GITHUB_ENV
+          echo "SUCCESSFUL_WORKFLOWS=$successful" >> $GITHUB_ENV
+          echo "WORKFLOWS_OUTPUT=$workflows" >> $GITHUB_ENV
+
+  comment-pr:
+    name: 💬 Comment on Pull Request
+    needs: fetch-workflows
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🗣️ Add PR Comment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            ### 📝 PR Comment
+            Hi there! Here's the current status of the workflows:
+            - **Total Workflows:** ${{ env.TOTAL_WORKFLOWS }}
+            - **Running Workflows:** ${{ env.RUNNING_WORKFLOWS }}
+            - **Successful Workflows:** ${{ env.SUCCESSFUL_WORKFLOWS }}
+
+            ### 🔗 All Workflows
+            ```
+            ${{ env.WORKFLOWS_OUTPUT }}
+            ```
+
+  comment-issue:
+    name: 💬 Comment on Issue
+    needs: fetch-workflows
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🗣️ Add Issue Comment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            ### 📝 Issue Comment
+            Hello! Here’s the latest workflow status:
+            - **Total Workflows:** ${{ env.TOTAL_WORKFLOWS }}
+            - **Running Workflows:** ${{ env.RUNNING_WORKFLOWS }}
+            - **Successful Workflows:** ${{ env.SUCCESSFUL_WORKFLOWS }}
+
+            ### 🔗 All Workflows
+            ```
+            ${{ env.WORKFLOWS_OUTPUT }}
+            ```
