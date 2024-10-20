@@ -1,0 +1,72 @@
+name: 📚 Automated Translation
+
+on:
+  schedule:
+    - cron: '30 0 * * 0'
+  push:
+    branches: ['master'] 
+  workflow_dispatch:
+jobs:
+  translate:
+    name: Translate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+
+      - name: Translate Chinese
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: zh-CN
+
+      - name: Translate German
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: de
+
+      - name: Translate Arabic
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ar
+
+      - name: Translate French
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: fr
+
+      - name: Translate Spanish
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: es
+
+      - name: Import GPG Key
+        id: gpg
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_config_global: true
+          trust_level: 5
+
+      - name: Verify GPG Key
+        run: |
+          gpg --list-secret-keys --keyid-format LONG
+          git config --global --list
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.name "Hamster [bot]"
+          git config --local user.email "TheHamsterBot@outlook.com"
+          git add .
+          git commit -m "📚 Updated Automated Translations
+
+          Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
