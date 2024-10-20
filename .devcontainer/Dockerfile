@@ -69,16 +69,12 @@ RUN apt-get update \
 # Verify expected build and debug tools are present
 RUN apt-get update \
     && apt-get -y install build-essential cmake cppcheck valgrind clang lldb llvm gdb python3-dev \
-    # Install tools and shells not in common script
     && apt-get install -yq vim vim-doc xtail software-properties-common libsecret-1-dev \
-    # Install additional tools (useful for 'puppeteer' project)
     && apt-get install -y --no-install-recommends libnss3 libnspr4 libatk-bridge2.0-0 libatk1.0-0 libx11-6 libpangocairo-1.0-0 \
     libx11-xcb1 libcups2 libxcomposite1 libxdamage1 libxfixes3 libpango-1.0-0 libgbm1 libgtk-3-0 \
-    # Clean up
     && apt-get autoremove -y && apt-get clean -y \
-    # Move first run notice to right spot
-    && mkdir -p "/usr/local/etc/vscode-dev-containers/" \
-    && mv -f /tmp/scripts/first-run-notice.txt /usr/local/etc/vscode-dev-containers/
+    && mkdir -p "/usr/local/etc/vedansh-dev-container/" \
+    && mv -f /tmp/scripts/hello-world.txt /usr/local/etc/vedansh-dev-container/
 
 # Default to bash shell (other shells available at /usr/bin/fish and /usr/bin/zsh)
 ENV SHELL=/bin/bash \
