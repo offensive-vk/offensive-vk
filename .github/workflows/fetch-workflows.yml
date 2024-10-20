@@ -1,0 +1,44 @@
+name: 🛜 Status - Workflows
+
+on:
+  push:
+    branches: ['**']
+    tags: ['**']
+  pull_request:
+    branches: ['**']
+  release:
+    types: [published, created, edited, deleted]
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["*"]
+    types: [completed]
+
+jobs:
+  job:
+    name: Fetch Workflows
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Statuses
+        run: |
+          # Fetch workflows using gh CLI
+          gh workflow list --json name,state > workflows.json
+
+          # Parse workflows and count total and running workflows
+          total=$(jq '. | length' workflows.json)
+          running=$(jq '[.[] | select(.state=="in_progress")] | length' workflows.json)
+          successful=$(jq '[.[] | select(.state=="completed")] | length' workflows.json)
+
+          # Report status as a GitHub notice
+          echo "::notice:: There are total $total workflows, $running running, and $successful completed."
+
+          # Save the summary to GITHUB_STEP_SUMMARY
+          echo "### Workflow Status Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- **Total Workflows:** $total" >> $GITHUB_STEP_SUMMARY
+          echo "- **Running Workflows:** $running" >> $GITHUB_STEP_SUMMARY
+          echo "- **Successful Workflows:** $successful" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          cat workflows.json >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
