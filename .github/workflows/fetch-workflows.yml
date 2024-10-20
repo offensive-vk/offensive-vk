@@ -34,7 +34,7 @@ jobs:
           successful=$(jq '[.[] | select(.state=="completed")] | length' workflows.json)
 
           # Report status as a GitHub notice
-          echo "::notice:: There are total $total workflows, $running running, and $successful completed."
+          echo "::notice::There are total $total workflows, $running running, and $successful completed."
 
           # Save the summary to GITHUB_STEP_SUMMARY
           echo "### Workflow Status Summary" >> $GITHUB_STEP_SUMMARY
@@ -44,3 +44,4 @@ jobs:
           echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
           cat workflows.json >> $GITHUB_STEP_SUMMARY
           echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          gh workflow list >> $GITHUB_STEP_SUMMARY
