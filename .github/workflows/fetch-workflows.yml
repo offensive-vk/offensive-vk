@@ -17,14 +17,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🤖 Checkout Repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: 📊 Fetch Workflow Statuses
         id: fetch-status
         run: |
           # Fetch all workflows using gh CLI
-          gh workflow list --all --json name,id,state,createdAt,updatedAt > workflows.json
+          gh workflow list --all --json name,id,state > workflows.json
 
           # Parse counts
           total=$(jq '. | length' workflows.json)
@@ -51,6 +51,7 @@ jobs:
       - name: 🗣️ Add PR Comment
         uses: peter-evans/create-or-update-comment@v4
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.pull_request.number }}
           body: |
             ### 📝 PR Comment
@@ -73,6 +74,7 @@ jobs:
       - name: 🗣️ Add Issue Comment
         uses: peter-evans/create-or-update-comment@v4
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
           body: |
             ### 📝 Issue Comment
