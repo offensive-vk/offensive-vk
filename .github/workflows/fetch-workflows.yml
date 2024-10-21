@@ -1,9 +1,12 @@
 name: 🛜 Status - Workflows
 
 on:
-  push:
-    branches: ['**']
-    tags: ['**']
+  issues:
+    types:
+      - opened
+      - edited
+      - labeled
+      - closed
   pull_request:
     branches: ['**']
   workflow_dispatch:
