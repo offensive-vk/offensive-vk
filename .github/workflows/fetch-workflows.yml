@@ -42,8 +42,8 @@ jobs:
           echo "SUCCESSFUL_WORKFLOWS=$successful" >> $GITHUB_ENV
           echo "WORKFLOWS_OUTPUT=$workflows" >> $GITHUB_ENV
 
-  comment-pr:
-    name: 💬 Comment on Pull Request
+  comment:
+    name: 💬 Comment on Issue/PR
     needs: fetch-workflows
     runs-on: ubuntu-latest
 
@@ -51,34 +51,11 @@ jobs:
       - name: 🗣️ Add PR Comment
         uses: peter-evans/create-or-update-comment@v4
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-number: ${{ github.event.pull_request.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.pull_request.number || github.event.issue.number }}
           body: |
-            ### 📝 PR Comment
+            ### 📝 Workflow Status Update
             Hi there! Here's the current status of the workflows:
-            - **Total Workflows:** ${{ env.TOTAL_WORKFLOWS }}
-            - **Running Workflows:** ${{ env.RUNNING_WORKFLOWS }}
-            - **Successful Workflows:** ${{ env.SUCCESSFUL_WORKFLOWS }}
-
-            ### 🔗 All Workflows
-            ```
-            ${{ env.WORKFLOWS_OUTPUT }}
-            ```
-
-  comment-issue:
-    name: 💬 Comment on Issue
-    needs: fetch-workflows
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: 🗣️ Add Issue Comment
-        uses: peter-evans/create-or-update-comment@v4
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-number: ${{ github.event.issue.number }}
-          body: |
-            ### 📝 Issue Comment
-            Hello! Here’s the latest workflow status:
             - **Total Workflows:** ${{ env.TOTAL_WORKFLOWS }}
             - **Running Workflows:** ${{ env.RUNNING_WORKFLOWS }}
             - **Successful Workflows:** ${{ env.SUCCESSFUL_WORKFLOWS }}
