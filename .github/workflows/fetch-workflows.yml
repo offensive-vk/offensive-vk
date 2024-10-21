@@ -33,9 +33,7 @@ jobs:
           total=$(jq '. | length' workflows.json)
           running=$(jq '[.[] | select(.state == "in_progress")] | length' workflows.json)
           successful=$(jq '[.[] | select(.state == "completed")] | length' workflows.json)
-
-          # Output all the workflows
-          workflows=$(cat workflows.json)
+          output=gh workflow list --all
 
           echo "::notice::There are total $total workflows, $running running, and $successful completed."
 
@@ -44,6 +42,8 @@ jobs:
           echo "RUNNING_WORKFLOWS=$running" >> $GITHUB_ENV
           echo "SUCCESSFUL_WORKFLOWS=$successful" >> $GITHUB_ENV
           echo "WORKFLOWS_OUTPUT=$workflows" >> $GITHUB_ENV
+          echo "OUTPUT=$output" >> $GITHUB_ENV
+          gh workflow list --all >> $GITHUB_STEP_SUMMARY
 
   comment:
     name: 💬 Comment on Issue/PR
@@ -59,11 +59,12 @@ jobs:
           body: |
             ### 📝 Workflow Status Update
             Hi there! Here's the current status of the workflows:
+              
             - **Total Workflows:** ${{ env.TOTAL_WORKFLOWS }}
             - **Running Workflows:** ${{ env.RUNNING_WORKFLOWS }}
             - **Successful Workflows:** ${{ env.SUCCESSFUL_WORKFLOWS }}
 
             ### 🔗 All Workflows
             ```
-            ${{ env.WORKFLOWS_OUTPUT }}
+            ${{ env.OUTPUT }}
             ```
