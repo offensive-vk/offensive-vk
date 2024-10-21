@@ -44,7 +44,7 @@ jobs:
           cat release_notes.txt
 
       - name: Upload Release Notes as Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Release Notes
           path: release_notes.txt
