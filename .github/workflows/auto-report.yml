@@ -34,7 +34,7 @@ jobs:
         run: |
           run_id=${{ github.event.workflow_run.id }}
           failed_jobs=$(gh api repos/${{ github.repository }}/actions/runs/$run_id/jobs --jq \
-            '.jobs | map(select(.conclusion == "failure" or .conclusion == "skipped") | .name) | join(", ")')
+            '.jobs | map(select(.conclusion == "failure") | .name) | join(", ")')
 
           echo "failed_jobs=$failed_jobs" >> $GITHUB_ENV
 
@@ -52,10 +52,10 @@ jobs:
             > [!CAUTION]  
             > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) failed or had skipped jobs.  
               
-            **Failed or Skipped Jobs:**  
+            ## **Failed or Skipped Jobs:**  
             - ${{ env.failed_jobs }}  
               
-            **Failure Details:**  
+            ## **Failure Details:**  
             - Conclusion: ${{ github.event.workflow_run.conclusion }}  
             - Status Message: ${{ github.event.workflow_run.status_message || 'N/A' }}  
 

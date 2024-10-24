@@ -4,9 +4,24 @@
 image: ubuntu
 
 stages:
+  - health_check
   - upload
   - refresh
+  - visualize_metrics
+  - celebrate
 
+# Stage 1: Health Check
+health_check:
+  stage: health_check
+  script:
+    - echo "Performing health check on the environment..."
+    - apt update && apt install curl -y
+    - curl -I https://gitlab.com | head -n 1
+    - echo "Health check completed."
+  only:
+    - schedule
+
+# Stage 2: Upload Repository
 upload:
   stage: upload
   script:
@@ -21,6 +36,7 @@ upload:
   only:
     - schedule
 
+# Stage 3: Refresh Repository
 refresh:
   stage: refresh
   script:
@@ -29,7 +45,8 @@ refresh:
     - sleep 5
     - apt update; apt install zip tar neofetch -y
     - neofetch
-    - echo "The repository has been compressed verified."
+    - echo "The repository has been compressed and verified."
+    - zip -r offensive-vk.zip ./
     - sleep 10
   artifacts:
     name: 'offensive-vk-zip'
@@ -37,6 +54,28 @@ refresh:
       - offensive-vk.zip
   only:
     - schedule
+
+# Stage 4: Visualize Metrics
+visualize_metrics:
+  stage: visualize_metrics
+  script:
+    - echo "Generating system metrics and stats..."
+    - df -h
+    - free -m
+    - top -b -n 1 | head -15
+    - echo "Metrics visualization completed."
+
+# Stage 5: Celebrate Success
+celebrate:
+  stage: celebrate
+  script:
+    - echo "🎉 Congrats! The pipeline executed successfully. 🎉"
+    - echo "Playing a victory sound!"
+    - apt install -y sox
+    - play -n synth 0.5 sin 880
+  only:
+    - schedule
+
 #####################################################
 # All Rights Reserved. 2020 - Present. (offensive-vk)
 #####################################################
