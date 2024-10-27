@@ -26,7 +26,7 @@
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep moving and you'll overcome one day. <br> 📧 _You will find a way to contact me_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
+<i>❝A programmer developed an operating system called TempleOS in Hospitalized for mental health problems, he believes that TempleOS is literally the Third Temple as biblically prophesied. Per God’s “instructions,” the OS uses a 640×480, 16 color display, and uses the language HolyC.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ***
