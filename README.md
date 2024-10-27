@@ -109,21 +109,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/offensive-vk/auto-commit-push/pull/6) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
-2. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-commit-push/pull/5) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
-3. 🎉 Merged PR [#2](https://github.com/offensive-vk/AngularMiniStore/pull/2) in [offensive-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
-4. 💪 Opened PR [#2](https://github.com/offensive-vk/AngularMiniStore/pull/2) in [offensive-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
-5. 🎉 Merged PR [#1](https://github.com/offensive-vk/AngularMiniStore/pull/1) in [offensive-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
-6. 🚀 Published release [v2](https://github.com/offensive-vk/develop-actions/releases/tag/v2) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-7. 🎉 Merged PR [#20](https://github.com/offensive-vk/develop-actions/pull/20) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-8. 💪 Opened PR [#20](https://github.com/offensive-vk/develop-actions/pull/20) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-9. 🗣 Commented on [#7561](https://github.com/kamranahmedse/developer-roadmap/pull/7561#issuecomment-2438164172) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🚀 Published release [v7-alpha-1](https://github.com/offensive-vk/auto-update-quote/releases/tag/v7-alpha-1) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
-11. 🚀 Published release [v7-alpha](https://github.com/offensive-vk/auto-update-quote/releases/tag/v7-alpha) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
-12. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-update-quote/pull/5) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
-13. 💪 Opened PR [#5](https://github.com/offensive-vk/auto-update-quote/pull/5) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
-14. 🎉 Merged PR [#27038](https://github.com/offensive-vk/offensive-vk/pull/27038) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🗣 Commented on [#7557](https://github.com/kamranahmedse/developer-roadmap/pull/7557#issuecomment-2435209202) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. 🔒 Closed issue [#23](https://github.com/offensive-vk/auto-issue/issues/23) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+2. 🔒 Closed issue [#21](https://github.com/offensive-vk/auto-issue/issues/21) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+3. 🔒 Closed issue [#19](https://github.com/offensive-vk/auto-issue/issues/19) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+4. 🔒 Closed issue [#17](https://github.com/offensive-vk/auto-issue/issues/17) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+5. 🔒 Closed issue [#25](https://github.com/offensive-vk/auto-issue/issues/25) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+6. 🎉 Merged PR [#6](https://github.com/offensive-vk/auto-commit-push/pull/6) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
+7. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-commit-push/pull/5) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
+8. 🎉 Merged PR [#2](https://github.com/offensive-vk/AngularMiniStore/pull/2) in [offensive-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
+9. 💪 Opened PR [#2](https://github.com/offensive-vk/AngularMiniStore/pull/2) in [offensive-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
+10. 🎉 Merged PR [#1](https://github.com/offensive-vk/AngularMiniStore/pull/1) in [offensive-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
+11. 🚀 Published release [v2](https://github.com/offensive-vk/develop-actions/releases/tag/v2) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+12. 🎉 Merged PR [#20](https://github.com/offensive-vk/develop-actions/pull/20) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+13. 💪 Opened PR [#20](https://github.com/offensive-vk/develop-actions/pull/20) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+14. 🗣 Commented on [#7561](https://github.com/kamranahmedse/developer-roadmap/pull/7561#issuecomment-2438164172) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 🚀 Published release [v7-alpha-1](https://github.com/offensive-vk/auto-update-quote/releases/tag/v7-alpha-1) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
 <!--END_SECTION:activity-->
 
 </p>
