@@ -30,7 +30,7 @@ jobs:
           username: ${{ env.USERNAME }}
           password: ${{ env.PASSWORD }}
 
-      - name: Extract Metadata (tags, labels) for Docker
+      - name: Extract Metadata for Docker
         id: meta
         uses: docker/metadata-action@v5
         with:

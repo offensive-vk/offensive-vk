@@ -3,20 +3,21 @@ name: ⚠️ Report Workflow Failures
 on:
   workflow_run:
     workflows:
-      - '🛫 Auto Update Dependencies'
-      - '⛽ Automated Repo Statistics'
-      - '⚒️ Automated Image Testing'
-      - '✅ Automated Linter'
-      - '🤖 Automated Issue - Hamster 🐹'
-      - '🏷️ Automated Label - Hamster 🐹'
-      - '🤖 Automated Pull Request - Hamster 🐹'
-      - '🗃️ Automated Project - Hamster 🐹'
-      - '⛅ Docker - Build Image'
-      - '🦅 Gitlab - Mirror Sync'
-      - '🐍 Generate Snake Contribution GIF'
-      - '✨ Generate Contribution Pattern'
-      - '⭐ Generate Starred Repo List'
-      - '🌨️ Publish Multi Platform Docker Images'
+      - '**'
+      # - '🛫 Auto Update Dependencies'
+      # - '⛽ Automated Repo Statistics'
+      # - '⚒️ Automated Image Testing'
+      # - '✅ Automated Linter'
+      # - '🤖 Automated Issue - Hamster 🐹'
+      # - '🏷️ Automated Label - Hamster 🐹'
+      # - '🤖 Automated Pull Request - Hamster 🐹'
+      # - '🗃️ Automated Project - Hamster 🐹'
+      # - '⛅ Docker - Build Image'
+      # - '🦅 Gitlab - Mirror Sync'
+      # - '🐍 Generate Snake Contribution GIF'
+      # - '✨ Generate Contribution Pattern'
+      # - '⭐ Generate Starred Repo List'
+      # - '🌨️ Publish Multi Platform Docker Images'
     types: [completed]
   workflow_dispatch:
 
@@ -28,8 +29,7 @@ jobs:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       github-token: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      # Step 1: Fetch Failed or Skipped Jobs
-      - name: Get Failed or Skipped Jobs
+      - name: Get Failed Jobs
         id: get-failed-jobs
         run: |
           run_id=${{ github.event.workflow_run.id }}
@@ -38,30 +38,27 @@ jobs:
 
           echo "failed_jobs=$failed_jobs" >> $GITHUB_ENV
 
-      # Step 2: Create Issue if Jobs Failed or Skipped
       - name: Create Issue for Failed Jobs
         if: ${{ env.failed_jobs != '' }}
         uses: dacbd/create-issue-action@main
         with:
           token: ${{ secrets.BOT_TOKEN }}
           title: |
-            ${{ github.workflow }} is reporting errors.
+            ${{ github.event.workflow.name }} is reporting errors.
           assignees: TheHamsterBot
-          labels: automated,bot,hamster,issue
+          labels: automated,bot,hamster,issue,github-action,reporter
           body: |
             > [!CAUTION]  
-            > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) failed or had skipped jobs.  
+            > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) had failed jobs.  
               
-            ## **Failed or Skipped Jobs:**  
-            - ${{ env.failed_jobs }}  
-              
-            ## **Failure Details:**  
+            ## **Failed Jobs:**  
+            - ${{ env.failed_jobs }}
+            
+            ## **Failure Details:**
+            - Workflow Path: ${{ github.workflow_ref }}
             - Conclusion: ${{ github.event.workflow_run.conclusion }}  
-            - Status Message: ${{ github.event.workflow_run.status_message || 'N/A' }}  
+            - Status Message: ${{ github.event.workflow_run.status_message || 'N/A' }}
 
-      # Optional: Fail the workflow if there are failures
-      - name: Fail if Issues Detected
-        if: ${{ env.failed_jobs != '' }}
-        run: |
-          echo "Workflow has failed or skipped jobs."
-          exit 0
+            Thanks.
+            $timestamp
+            Your Hamster 🐹 <code>PF78VAPPKLZ2</code>

@@ -11,7 +11,7 @@ on:
       number:
         description: 'Issue or PR Number to Execute Workflow'
         required: true
-        default: '28000'
+        default: '30000'
 
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -48,12 +48,12 @@ jobs:
           echo "workflows_table<<EOF" >> $GITHUB_ENV
           cat workflows_table.md >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
+          cat "${{ env.workflow_table }}"
 
   comment:
     name: 💬 Comment on Issue/PR
     needs: [fetch-workflows]
     runs-on: ubuntu-latest
-
     steps:
       - name: 🗣️ Add Status Comment
         uses: peter-evans/create-or-update-comment@v4
@@ -61,22 +61,19 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number }}
           body: |
-            > [!TIP]
-            > 
-            ### 📝 Workflow Status Update
+            > [!NOTE]
+            > ### 📝 Workflow Status Update
 
-            - **Manual Dispatch Issue/PR Number:** ${{ github.event.inputs.number }}
+            - **Manual Dispatch Number:** ${{ github.event.inputs.number }}
             - **Total Workflows:** ${{ env.TOTAL_WORKFLOWS }}
             - **Running Workflows:** ${{ env.RUNNING_WORKFLOWS }}
             - **Successful Workflows:** ${{ env.SUCCESSFUL_WORKFLOWS }}
 
             ### 🔗 All Workflows
-            ```text
             ${{ env.WORKFLOWS_OUTPUT }}
-            ```
 
             ### 📋 Workflows Summary
             ${{ env.workflows_table }}
 
-            ---
-            Your Hamster [bot]
+            Thankyou
+            Your Hamster 🐹 <code>PF78VAPPKLZ2</code>

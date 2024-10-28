@@ -1,8 +1,6 @@
 name: ✅ Automated Linter
 
 on:
-  schedule:
-    - cron: '0 */4 * * *'
   push:
     branches-ignore: ['master', 'dev']
   pull_request:

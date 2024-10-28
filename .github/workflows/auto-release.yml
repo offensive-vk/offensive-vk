@@ -71,5 +71,5 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY;
           echo "## Release Notes: ${{ env.RELEASE_NOTES }}" >> $GITHUB_STEP_SUMMARY;
           echo "" >> $GITHUB_STEP_SUMMARY;
-          echo "## Monthly Release Created Successfully ⚒️: ${{ env.TAG }}" >> $GITHUB_STEP_SUMMARY;
+          echo "## Monthly Release Successfully ⚒️: ${{ env.TAG }}" >> $GITHUB_STEP_SUMMARY;
           echo "" >> $GITHUB_STEP_SUMMARY;
