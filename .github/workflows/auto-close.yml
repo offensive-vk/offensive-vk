@@ -1,0 +1,41 @@
+name: 🤖 Close Issue - Hamster 🐹
+
+on:
+  issue_comment:
+    types: ['created', 'edited', 'deleted']
+  pull_request_review_comment:
+    types: ['created', 'edited', 'deleted']
+
+jobs:
+  close_issue:
+    name: Close Issue
+    runs-on: ubuntu-latest
+    if: |
+        github.event_name == 'issue_comment' &&
+        github.event.issue.state == 'open' &&
+        contains(github.event.comment.body, 'hamster --close') &&
+        (github.event.comment.user.login == github.event.repository.owner.login || 
+        github.event.comment.user.login == github.event.issue.user.login)
+    steps:
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          comment: 'Hamster [bot] - Closed This Issue. (As Requested). Good Day 🐹'
+  close_pr:
+    name: Close Pull Request
+    runs-on: ubuntu-latest
+    if: |
+        github.event_name == 'pull_request_review_comment' &&
+        github.event.pull_request.state == 'open' &&
+        contains(github.event.comment.body, 'hamster --close') &&
+        (github.event.comment.user.login == github.event.repository.owner.login || 
+        github.event.comment.user.login == github.event.pull_request.user.login)
+    steps:
+      - name: Close Pull Request
+        uses: peter-evans/close-pull@v3
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+          pull-request-number: ${{ github.event.pull_request.number }}
+          comment: 'Hamster [bot] - Closed This Pull Request. (As Requested). Good Day 🐹'

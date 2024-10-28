@@ -1,8 +1,6 @@
 name: 🏷️ Automated Label - Hamster 🐹
 
 on:
-  schedule:
-    - cron: '0 */1 * * *'
   issues:
     types: [opened, edited]
   pull_request:

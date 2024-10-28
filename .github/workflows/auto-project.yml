@@ -2,7 +2,7 @@ name: 🗃️ Automated Project - Hamster 🐹
 
 on:
   issues:
-    types: [opened, edited, closed]
+    types: [opened, edited, closed, assigned]
   pull_request:
     types: [opened, edited, synchronize, closed]
   workflow_dispatch:
