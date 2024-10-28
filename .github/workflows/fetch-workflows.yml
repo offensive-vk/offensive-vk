@@ -7,7 +7,11 @@ on:
     types: [opened, closed, synchronize]
     branches: ['**']
   workflow_dispatch:
-
+    inputs:
+      number:
+        description: 'Issue or PR Number to Execute Workflow'
+        required: true
+        default: '${{ github.event.pull_request.number || github.event.issue.number }}'
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,7 +39,12 @@ jobs:
           echo "| Name | ID | State |" > workflows_table.md
           echo "|------|----|-------|" >> workflows_table.md
           jq -r '.[] | "| \(.name) | \(.id) | \(.state) |"' workflows.json >> workflows_table.md
-
+          {
+            echo "TABLE<<EOF"
+            cat workflows_table.md 
+            echo "EOF"
+          } >> $GITHUB_ENV;
+          
           # Save workflow output to environment variables and summary
           gh workflow list --all > workflows_output.txt
           cat workflows_output.txt >> $GITHUB_STEP_SUMMARY
@@ -59,13 +68,13 @@ jobs:
         uses: peter-evans/create-or-update-comment@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          issue-number: ${{ github.event.pull_request.number || github.event.issue.number }}
+          issue-number: ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number }}
           body: |
             > [!TIP]
             > 
             ### 📝 Workflow Status Update
-            Hi there! Here's the current status of the workflows:
 
+            - **Manual Dispatch Issue/PR Number:** ${{ github.event.inputs.number }}
             - **Total Workflows:** ${{ env.TOTAL_WORKFLOWS }}
             - **Running Workflows:** ${{ env.RUNNING_WORKFLOWS }}
             - **Successful Workflows:** ${{ env.SUCCESSFUL_WORKFLOWS }}
@@ -75,7 +84,10 @@ jobs:
             ${{ env.WORKFLOWS_OUTPUT }}
             ```
 
-            ### 📋 Workflows Summary Table
+            ### 📋 Workflows Summary
             | Name | ID | State |
             |------|----|-------|
-            ${{ steps.fetch-status.outputs.workflows_table }}
+            ${{ steps.fetch-status.outputs.workflows_table || needs.fetch-status.outputs.workflows_table || env.TABLE }}
+
+            ---
+            Your Hamster [bot]
