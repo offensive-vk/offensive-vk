@@ -8,6 +8,10 @@ on:
       - labeled
       - closed
   pull_request:
+    types:
+      - opened
+      - closed
+      - synchronize
     branches: ['**']
   workflow_dispatch:
 
@@ -49,16 +53,18 @@ jobs:
 
   comment:
     name: 💬 Comment on Issue/PR
-    needs: fetch-workflows
+    needs: [fetch-workflows]
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🗣️ Add PR Comment
+      - name: 🗣️ Add Status Comment
         uses: peter-evans/create-or-update-comment@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.pull_request.number || github.event.issue.number }}
           body: |
+            > [!TIP]
+            > 
             ### 📝 Workflow Status Update
             Hi there! Here's the current status of the workflows:
 
