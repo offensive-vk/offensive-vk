@@ -2,7 +2,7 @@ name: 🛜 Status - Workflows
 
 on:
   issues:
-    types: [opened, edited, labeled, closed]
+    types: [opened, edited, closed]
   pull_request:
     types: [opened, closed, synchronize]
     branches: ['**']
@@ -11,7 +11,8 @@ on:
       number:
         description: 'Issue or PR Number to Execute Workflow'
         required: true
-        default: '27000'
+        default: '28000'
+
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,23 +40,13 @@ jobs:
           echo "| Name | ID | State |" > workflows_table.md
           echo "|------|----|-------|" >> workflows_table.md
           jq -r '.[] | "| \(.name) | \(.id) | \(.state) |"' workflows.json >> workflows_table.md
-          {
-            echo "TABLE<<EOF"
-            cat workflows_table.md 
-            echo "EOF"
-          } >> $GITHUB_ENV;
-          
-          # Save workflow output to environment variables and summary
-          gh workflow list --all > workflows_output.txt
-          cat workflows_output.txt >> $GITHUB_STEP_SUMMARY
-          echo " " >> $GITHUB_STEP_SUMMARY
 
-          # Export environment variables
-          echo "TOTAL_WORKFLOWS=$total" >> $GITHUB_ENV
-          echo "RUNNING_WORKFLOWS=$running" >> $GITHUB_ENV
-          echo "SUCCESSFUL_WORKFLOWS=$successful" >> $GITHUB_ENV
-          echo "WORKFLOWS_OUTPUT<<EOF" >> $GITHUB_ENV
-          cat workflows_output.txt >> $GITHUB_ENV
+          # Save outputs to step outputs
+          echo "total_workflows=$total" >> $GITHUB_ENV
+          echo "running_workflows=$running" >> $GITHUB_ENV
+          echo "successful_workflows=$successful" >> $GITHUB_ENV
+          echo "workflows_table<<EOF" >> $GITHUB_ENV
+          cat workflows_table.md >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
 
   comment:
@@ -85,9 +76,7 @@ jobs:
             ```
 
             ### 📋 Workflows Summary
-            | Name | ID | State |
-            |------|----|-------|
-            ${{ steps.fetch-status.outputs.workflows_table || needs.fetch-status.outputs.workflows_table || env.TABLE }}
+            ${{ env.workflows_table }}
 
             ---
             Your Hamster [bot]
