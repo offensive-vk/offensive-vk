@@ -20,13 +20,13 @@ jobs:
           year=$(date +'%Y')
           tag="${year}-$(date +'%m')"
           title="${month}-${year}"
-          echo "::set-output name=tag::${tag}"
-          echo "::set-output name=title::${title}"
+          echo "TAG=$tag" >> $GITHUB_ENV
+          echo "TITLE=$title" >> $GITHUB_ENV
 
       - name: Check if Tag Already Exists
         id: tag_check
         run: |
-          if gh release view "${{ steps.date.outputs.tag }}" > /dev/null 2>&1; then
+          if gh release view "${{ env.TAG }}" > /dev/null 2>&1; then
             echo "Release tag already exists. Skipping release."
             exit 1
           fi
@@ -39,9 +39,11 @@ jobs:
         run: |
           gh api \
             -X POST /repos/${{ github.repository }}/releases/generate-notes \
-            -f tag_name="${{ steps.date.outputs.tag }}" > release_notes.json
+            -f tag_name="${{ env.TAG }}" > release_notes.json
           jq -r .body release_notes.json > release_notes.txt
           cat release_notes.txt
+          echo "RELEASE_NOTES=$(cat release_notes.txt)" >> $GITHUB_ENV
+
 
       - name: Upload Release Notes as Artifact
         uses: actions/upload-artifact@v4
@@ -54,8 +56,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
-          gh release create "${{ steps.date.outputs.tag }}" \
-            --title "${{ steps.date.outputs.title }}" \
+          gh release create "${{ env.TAG }}" \
+            --title "${{ env.TITLE }}" \
             --notes-file release_notes.txt \
             --target $(git rev-parse HEAD)
 
@@ -63,7 +65,7 @@ jobs:
         if: ${{ success() }}
         run: |
           echo "" >> $GITHUB_STEP_SUMMARY;
-          echo "## Release Notes: ${release_notes.txt}" >> $GITHUB_STEP_SUMMARY;
+          echo "## Release Notes: ${{ env.RELEASE_NOTES }}" >> $GITHUB_STEP_SUMMARY;
           echo "" >> $GITHUB_STEP_SUMMARY;
-          echo "## Monthly Release Created Successfully ⚒️: ${{ steps.date.outputs.tag }}" >> $GITHUB_STEP_SUMMARY;
+          echo "## Monthly Release Created Successfully ⚒️: ${{ env.TAG }}" >> $GITHUB_STEP_SUMMARY;
           echo "" >> $GITHUB_STEP_SUMMARY;
