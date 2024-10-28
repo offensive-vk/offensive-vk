@@ -2,16 +2,9 @@ name: 🛜 Status - Workflows
 
 on:
   issues:
-    types:
-      - opened
-      - edited
-      - labeled
-      - closed
+    types: [opened, edited, labeled, closed]
   pull_request:
-    types:
-      - opened
-      - closed
-      - synchronize
+    types: [opened, closed, synchronize]
     branches: ['**']
   workflow_dispatch:
 
@@ -37,19 +30,24 @@ jobs:
           total=$(jq '. | length' workflows.json)
           running=$(jq '[.[] | select(.state == "in_progress")] | length' workflows.json)
           successful=$(jq '[.[] | select(.state == "completed")] | length' workflows.json)
-          output=$(gh workflow list --all)
 
-          echo "::notice::There are total $total workflows, $running running, and $successful completed."
+          # Generate Markdown Table for Workflows
+          echo "| Name | ID | State |" > workflows_table.md
+          echo "|------|----|-------|" >> workflows_table.md
+          jq -r '.[] | "| \(.name) | \(.id) | \(.state) |"' workflows.json >> workflows_table.md
 
-          # Export workflow counts as environment variables
+          # Save workflow output to environment variables and summary
+          gh workflow list --all > workflows_output.txt
+          cat workflows_output.txt >> $GITHUB_STEP_SUMMARY
+          echo " " >> $GITHUB_STEP_SUMMARY
+
+          # Export environment variables
           echo "TOTAL_WORKFLOWS=$total" >> $GITHUB_ENV
           echo "RUNNING_WORKFLOWS=$running" >> $GITHUB_ENV
           echo "SUCCESSFUL_WORKFLOWS=$successful" >> $GITHUB_ENV
-          echo "WORKFLOWS_OUTPUT=$workflows" >> $GITHUB_ENV
-          echo "OUTPUT=$output" >> $GITHUB_ENV
-          echo " " >> $GITHUB_STEP_SUMMARY
-          gh workflow list --all >> $GITHUB_STEP_SUMMARY
-          echo " " >> $GITHUB_STEP_SUMMARY
+          echo "WORKFLOWS_OUTPUT<<EOF" >> $GITHUB_ENV
+          cat workflows_output.txt >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
 
   comment:
     name: 💬 Comment on Issue/PR
@@ -73,6 +71,11 @@ jobs:
             - **Successful Workflows:** ${{ env.SUCCESSFUL_WORKFLOWS }}
 
             ### 🔗 All Workflows
+            ```text
+            ${{ env.WORKFLOWS_OUTPUT }}
             ```
-            ${{ env.OUTPUT }}
-            ```
+
+            ### 📋 Workflows Summary Table
+            | Name | ID | State |
+            |------|----|-------|
+            ${{ steps.fetch-status.outputs.workflows_table }}
