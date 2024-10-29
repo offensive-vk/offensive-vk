@@ -36,11 +36,9 @@ jobs:
             Thanks to me !
           stale-issue-label: 'no-activity'
           stale-pr-label: 'no-activity'
+          close-issue-label: 'closed'
           days-before-pr-stale: 3
           days-before-issue-stale: 3
           days-before-issue-close: 3
           days-before-pr-close: 7
-          days-before-close: 14
-          close-issue-reason: completed
-          close-issue-label: 'no-activity'
           operations-per-run: 100
