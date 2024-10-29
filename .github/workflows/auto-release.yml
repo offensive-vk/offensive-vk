@@ -2,7 +2,7 @@ name: 📦 Automated Monthly Release
 
 on:
   schedule:
-    - cron: "0 0 28-31 * *"  
+    - cron: "0 0 28 * *"  
   workflow_dispatch:
 
 jobs:

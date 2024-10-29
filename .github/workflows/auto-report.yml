@@ -60,5 +60,4 @@ jobs:
             - Status Message: ${{ github.event.workflow_run.status_message || 'N/A' }}
 
             Thanks.
-            $timestamp
             Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
