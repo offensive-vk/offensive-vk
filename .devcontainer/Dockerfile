@@ -10,7 +10,9 @@ LABEL owner="Vedansh <https://github.com/offensive-vk/>"
 LABEL url="https://github.com/offensive-vk/offensive-vk"
 LABEL maintainer="Hamster [bot] <https://github.com/TheHamsterBot>"
 LABEL devcontainer="true"
+LABEL baseimage="ubuntu:focal"
 
+# Copy requrired scripts
 COPY ./hello-world.txt /tmp/scripts/
 
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
@@ -108,6 +110,9 @@ ENV PORT=9999
 
 # Fire Docker/Moby script if needed
 ENTRYPOINT [ "/usr/local/share/docker-init.sh", "/usr/local/share/ssh-init.sh"]
+
+# Show Message
+RUN cat /usr/local/etc/vedansh-dev-container/hello-world.txt ; sleep 2
 
 # Keep stdin open for commands
 CMD [ "sleep", "infinity" ]

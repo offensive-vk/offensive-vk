@@ -2,10 +2,11 @@ name: ⚠️ Report Workflow Failures
 
 on:
   workflow_run:
-    workflows:
+    workflows: 
       - '**'
+      # Uncomment any specific workflows you want to monitor:
       # - '🛫 Auto Update Dependencies'
-      # - '⛽ Automated Repo Statistics'
+      # - '⛪ Automated Repo Statistics'
       # - '⚒️ Automated Image Testing'
       # - '✅ Automated Linter'
       # - '🤖 Automated Issue - Hamster 🐹'
@@ -28,36 +29,42 @@ jobs:
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       github-token: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
       - name: Get Failed Jobs
         id: get-failed-jobs
         run: |
           run_id=${{ github.event.workflow_run.id }}
-          failed_jobs=$(gh api repos/${{ github.repository }}/actions/runs/$run_id/jobs --jq \
-            '.jobs | map(select(.conclusion == "failure") | .name) | join(", ")')
+          response=$(gh api repos/${{ github.repository }}/actions/runs/$run_id/jobs --jq '.jobs')
+          
+          if [ -z "$response" ]; then
+            echo "Failed to fetch jobs data. Please verify the token or permissions." >&2
+            exit 1
+          fi
 
+          failed_jobs=$(echo "$response" | jq -r '[.[] | select(.conclusion == "failure") | .name] | join(", ")')
           echo "failed_jobs=$failed_jobs" >> $GITHUB_ENV
 
       - name: Create Issue for Failed Jobs
-        if: ${{ env.failed_jobs != '' }}
+        if: env.failed_jobs != ''
         uses: dacbd/create-issue-action@main
         with:
           token: ${{ secrets.BOT_TOKEN }}
           title: |
-            ${{ github.event.workflow.name }} is reporting errors.
+            🚨 Workflow Failure: ${{ github.event.workflow.name }}
           assignees: TheHamsterBot
           labels: automated,bot,hamster,issue,github-action,reporter
           body: |
             > [!CAUTION]  
-            > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) had failed jobs.  
+            > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) encountered failed jobs.
               
             ## **Failed Jobs:**  
             - ${{ env.failed_jobs }}
-            
-            ## **Failure Details:**
-            - Workflow Path: ${{ github.workflow_ref }}
-            - Conclusion: ${{ github.event.workflow_run.conclusion }}  
-            - Status Message: ${{ github.event.workflow_run.status_message || 'N/A' }}
 
-            Thanks.
-            Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
+            ## **Failure Details:**
+            - **Workflow Path**: `{{ github.workflow_ref }}`
+            - **Conclusion**: `${{ github.event.workflow_run.conclusion }}`
+            - **Status Message**: `${{ github.event.workflow_run.status_message || 'N/A' }}`
+
+            Thanks.  
+            **Your Hamster** 🐹 `<code>PF78VAPPKLZ2</code>`
