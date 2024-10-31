@@ -23,7 +23,7 @@
                         <span class="name">@microsoft/vscode</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.0017752117843846111 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.0017745511032961343 329"/>
                             <text x="15" y="15" dominant-baseline="central">1</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -48,7 +48,7 @@
                         <span class="name">@refined-github/refined-github</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.07901056676272815 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.07899159663865546 329"/>
                             <text x="15" y="15" dominant-baseline="central">1</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -61,7 +61,7 @@
                         <span class="name">@docker/docs</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.04508702206386186 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.04506849315068493 329"/>
                             <text x="15" y="15" dominant-baseline="central">1</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
