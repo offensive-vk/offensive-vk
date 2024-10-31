@@ -109,21 +109,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10008](https://github.com/offensive-vk/Classics/issues/10008) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-2. 🎉 Merged PR [#257](https://github.com/offensive-vk/UntilEverything/pull/257) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3. 🎉 Merged PR [#255](https://github.com/offensive-vk/UntilEverything/pull/255) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4. 🎉 Merged PR [#29](https://github.com/offensive-vk/Icons/pull/29) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
-5. 💪 Opened PR [#29](https://github.com/offensive-vk/Icons/pull/29) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
-6. 🎉 Merged PR [#246](https://github.com/offensive-vk/UntilEverything/pull/246) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-7. 🎉 Merged PR [#27052](https://github.com/offensive-vk/offensive-vk/pull/27052) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8. 🎉 Merged PR [#27048](https://github.com/offensive-vk/offensive-vk/pull/27048) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9. 🎉 Merged PR [#254](https://github.com/offensive-vk/UntilEverything/pull/254) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 Merged PR [#27046](https://github.com/offensive-vk/offensive-vk/pull/27046) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 Merged PR [#10007](https://github.com/offensive-vk/Classics/pull/10007) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-12. 🎉 Merged PR [#27041](https://github.com/offensive-vk/offensive-vk/pull/27041) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Merged PR [#3](https://github.com/offensive-vk/auto-label/pull/3) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-14. 🎉 Merged PR [#31](https://github.com/offensive-vk/auto-issue/pull/31) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-15. 🔒 Closed issue [#23](https://github.com/offensive-vk/auto-issue/issues/23) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+1. 🎉 Merged PR [#65](https://github.com/offensive-vk/AwesomeCloud/pull/65) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2. 🎉 Merged PR [#71](https://github.com/offensive-vk/AwesomeCloud/pull/71) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+3. 🎉 Merged PR [#70](https://github.com/offensive-vk/AwesomeCloud/pull/70) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+4. 🔒 Closed issue [#26006](https://github.com/offensive-vk/offensive-vk/issues/26006) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5. 🔒 Closed issue [#27057](https://github.com/offensive-vk/offensive-vk/issues/27057) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6. 🔒 Closed issue [#27056](https://github.com/offensive-vk/offensive-vk/issues/27056) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7. 🔒 Closed issue [#27055](https://github.com/offensive-vk/offensive-vk/issues/27055) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8. 🔒 Closed issue [#27054](https://github.com/offensive-vk/offensive-vk/issues/27054) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9. 🔒 Closed issue [#27053](https://github.com/offensive-vk/offensive-vk/issues/27053) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Closed issue [#27051](https://github.com/offensive-vk/offensive-vk/issues/27051) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Closed issue [#27050](https://github.com/offensive-vk/offensive-vk/issues/27050) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Closed issue [#26003](https://github.com/offensive-vk/offensive-vk/issues/26003) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Closed issue [#26001](https://github.com/offensive-vk/offensive-vk/issues/26001) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Closed issue [#25997](https://github.com/offensive-vk/offensive-vk/issues/25997) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Closed issue [#24515](https://github.com/offensive-vk/offensive-vk/issues/24515) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
 
 </p>
