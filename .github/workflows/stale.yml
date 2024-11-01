@@ -17,14 +17,14 @@ jobs:
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
           stale-issue-message: |
-            Hello ⚡!, Hamster Here, This issue has been automatically marked as stale due to inactivity for the past 7 days. 
+            Hello ⚡! Hamster Here, This issue has been automatically marked as stale due to inactivity for the past 7 days. 
             If this issue is still relevant, please provide an update or additional information. 
             If no updates are made, this issue will be closed in **3** days. Thank you for your contributions.
 
             Thankyou!
             Keep committing!
           stale-pr-message: |
-            Hello ⚡!, Hamster Here, This pull request has been automatically marked as stale due to inactivity for the past 7 days. 
+            Hello ⚡! Hamster Here, This pull request has been automatically marked as stale due to inactivity for the past 7 days. 
             If this pull request is still in progress, please provide an update or additional information. 
             If no updates are made, this pull request will be closed in **7** days. Thank you for your contributions.
 
