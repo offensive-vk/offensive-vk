@@ -1,8 +1,6 @@
 name: ⛅ Docker
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'
   push:
     branches: ['master', '**']
   pull_request:

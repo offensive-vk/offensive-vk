@@ -57,10 +57,11 @@ jobs:
           flavor: |
             latest=true
           labels: |
+            org.opencontainers.image.base=Debian Bullseye
             org.opencontainers.image.title=Personal
             org.opencontainers.image.vendor=Vedansh
             org.opencontainers.image.multi-platform=true
-            org.opencontainers.image.source=https://github.com/offensive-vk/offensive-vk
+            org.opencontainers.image.source=https://github.com/offensive-vk/offensive-vk.git
 
       - name: Install Cosign
         if: github.event_name != 'pull_request'
@@ -119,17 +120,9 @@ jobs:
           docker pull ${{ env.GLCR }}:${{ steps.meta.outputs.version }}
           docker image inspect ${{ env.GLCR }}:${{ steps.meta.outputs.version }}
 
-      - name: Sign the Published Images
-        if: ${{ github.event_name != 'pull_request' }}
-        env:
-          TAGS: ${{ steps.meta.outputs.tags }}
-          DIGEST: ${{ steps.build-and-push.outputs.digest }}
-        run: echo "Image with ${{ env.TAGS }} tags has been sucessfully Signed."
-
       - name: Verify Tags and Labels
         run: |
           echo -e "\n \t *** VERIFICATION STARTED ***"
           echo "## Action Summary - Docker CI " >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
           echo "${{ steps.meta.outputs.labels }} " >> $GITHUB_STEP_SUMMARY
-          echo "--- " >> $GITHUB_STEP_SUMMARY
-          echo -e "\n \t *** VERIFICATION COMPLETED ***"

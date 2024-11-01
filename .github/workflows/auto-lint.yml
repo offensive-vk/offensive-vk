@@ -2,9 +2,11 @@ name: ✅ Automated Linter
 
 on:
   push:
-    branches-ignore: ['master', 'dev']
+    branches-ignore: ['master']
+    paths-ignore: ['**/*.md', '*.md', '**/*.svg']
   pull_request:
-    branches-ignore: ['master', 'dev']
+    branches-ignore: ['master']
+    paths-ignore: ['**/*.md', '*.md', '**/*.svg']
   workflow_dispatch:
 
 permissions:

@@ -5,7 +5,12 @@ on:
     types: ['created', 'edited', 'deleted']
   pull_request_review_comment:
     types: ['created', 'edited', 'deleted']
-
+  workflow_dispatch:
+    inputs:
+      number:
+        description: 'The Issue / PR Number to Close'
+        required: true
+        default: '30000'
 jobs:
   close_issue:
     name: Close Issue
@@ -21,7 +26,7 @@ jobs:
         uses: peter-evans/close-issue@v3
         with:
           token: ${{ secrets.BOT_TOKEN }}
-          issue-number: ${{ github.event.issue.number }}
+          issue-number: ${{ github.event.issue.number || github.event.inputs.number }}
           comment: 'Hamster [bot] - Closed This Issue. (As Requested). Good Day 🐹'
   close_pr:
     name: Close Pull Request
@@ -37,5 +42,5 @@ jobs:
         uses: peter-evans/close-pull@v3
         with:
           token: ${{ secrets.BOT_TOKEN }}
-          pull-request-number: ${{ github.event.pull_request.number }}
+          pull-request-number: ${{ github.event.pull_request.number || github.event.inputs.number }}
           comment: 'Hamster [bot] - Closed This Pull Request. (As Requested). Good Day 🐹'

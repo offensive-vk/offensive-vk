@@ -18,7 +18,7 @@ env:
 
 jobs:
   fetch-workflows:
-    name: 🌐 Fetch Workflows
+    name: Fetch Workflows
     runs-on: ubuntu-latest
 
     steps:
@@ -47,10 +47,11 @@ jobs:
           echo "successful_workflows=$successful" >> $GITHUB_ENV
           echo "workflows_table<<EOF" >> $GITHUB_ENV
           cat workflows_table.md >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
 
   comment:
-    name: 💬 Comment on Issue/PR
+    name: Comment on Issue/PR
     needs: [fetch-workflows]
     runs-on: ubuntu-latest
     steps:
