@@ -14,7 +14,7 @@ env:
   GITHUB: ghcr.io
   GITLAB: registry.gitlab.com
   DOCKERFILE: ./Dockerfile
-  DEVCONTAINER: .devcontainer
+  DEVCONTAINER: ./devcontainer
   MULTI_ARCH: true
   OWNER: ${{ github.repository_owner }}
   GLCR: ${{ secrets.GLCR_SLUG }}
@@ -57,7 +57,7 @@ jobs:
           flavor: |
             latest=true
           labels: |
-            org.opencontainers.image.base=Debian Bullseye
+            org.opencontainers.image.base=Debian-Bullseye
             org.opencontainers.image.title=Personal
             org.opencontainers.image.vendor=Vedansh
             org.opencontainers.image.multi-platform=true
@@ -123,6 +123,6 @@ jobs:
       - name: Verify Tags and Labels
         run: |
           echo -e "\n \t *** VERIFICATION STARTED ***"
-          echo "## Action Summary - Docker CI " >> $GITHUB_STEP_SUMMARY
+          echo "## Docker Publish Summary " >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "${{ steps.meta.outputs.labels }} " >> $GITHUB_STEP_SUMMARY

@@ -7,7 +7,7 @@ on:
 
 jobs:
   starred:
-    name: Generate Repo List
+    name: Generate List
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:

@@ -36,13 +36,6 @@ jobs:
         with:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
 
-      - name: Verify Tags and Labels
-        run: |
-          echo "## Github Action Summary - GHCR " >> $GITHUB_STEP_SUMMARY
-          echo "${{ steps.meta.outputs.tags }} " >> $GITHUB_STEP_SUMMARY
-          echo "${{ steps.meta.outputs.labels }} " >> $GITHUB_STEP_SUMMARY
-          echo "*** VERIFICATION COMPLETED ***"
-
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v6
         with:

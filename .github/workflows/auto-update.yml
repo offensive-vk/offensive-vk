@@ -55,7 +55,6 @@ jobs:
             hamster
             bot
             dependencies
-            automated
             pull-request
           reviewers: offensive-vk
           commit-message: 'Dependencies - package.json'
@@ -77,5 +76,4 @@ jobs:
             ---
 
             Thanks.
-            $timestamp
             Your Hamster 🐹 <code>PF78VAPPKLZ2</code>

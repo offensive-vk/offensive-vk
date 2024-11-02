@@ -4,21 +4,6 @@ on:
   workflow_run:
     workflows: 
       - '**'
-      # Uncomment any specific workflows you want to monitor:
-      # - '🛫 Auto Update Dependencies'
-      # - '⛪ Automated Repo Statistics'
-      # - '⚒️ Automated Image Testing'
-      # - '✅ Automated Linter'
-      # - '🤖 Automated Issue - Hamster 🐹'
-      # - '🏷️ Automated Label - Hamster 🐹'
-      # - '🤖 Automated Pull Request - Hamster 🐹'
-      # - '🗃️ Automated Project - Hamster 🐹'
-      # - '⛅ Docker - Build Image'
-      # - '🦅 Gitlab - Mirror Sync'
-      # - '🐍 Generate Snake Contribution GIF'
-      # - '✨ Generate Contribution Pattern'
-      # - '⭐ Generate Starred Repo List'
-      # - '🌨️ Publish Multi Platform Docker Images'
     types: [completed]
   workflow_dispatch:
 
@@ -53,7 +38,7 @@ jobs:
           title: |
             🚨 Workflow Failure: ${{ github.event.workflow.name }}
           assignees: TheHamsterBot
-          labels: automated,bot,hamster,issue,github-action,reporter
+          labels: hamster,github-action,reporter
           body: |
             > [!CAUTION]  
             > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) encountered failed jobs.
