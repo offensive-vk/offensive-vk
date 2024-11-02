@@ -7,7 +7,7 @@ on:
 
 jobs:
   run-docker:
-    name: Begin Script Testing
+    name: Run Scripts
     runs-on: ubuntu-latest
     services:
       docker:

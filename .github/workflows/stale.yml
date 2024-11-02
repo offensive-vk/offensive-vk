@@ -38,7 +38,7 @@ jobs:
           stale-pr-label: 'no-activity'
           close-issue-label: 'closed'
           days-before-pr-stale: 3
-          days-before-issue-stale: 3
+          days-before-issue-stale: 2
           days-before-issue-close: 3
           days-before-pr-close: 7
           operations-per-run: 100

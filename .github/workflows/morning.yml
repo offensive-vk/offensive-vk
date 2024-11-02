@@ -19,15 +19,16 @@ jobs:
 
       - name: 🎉 Greet Contributors with a Fun Message
         run: |
-          echo "💬 'Top of the morning to ya!' – Hamster 🐹"
-          echo "🌻 Hello, developers! It's another day to code with passion. 🚀"
+          echo "💬 'Top of the morning to ya!' – Hamster 🐹" >> $GITHUB_STEP_SUMMARY
+          echo "🌻 Hello, developers! It's another day to code with passion. 🚀" >> $GITHUB_STEP_SUMMARY
 
       - name: 🧹 Background Cleanup Job with a Touch of Color
         run: |
           sudo apt update -y; sudo apt install lolcat neofetch -y
           neofetch | lolcat 
           uname -a | lolcat
-          echo "💾 Disk Usage:"; df -T | lolcat
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "💾 Disk Usage:"; df -T | lolcat >> $GITHUB_STEP_SUMMARY
 
   greetings:
     name: 🌞 Morning Greetings 
@@ -86,6 +87,5 @@ jobs:
           git add GREETINGS.md
           git commit -m "🌅 Morning Greeting: Rise and Shine! ☀️"
           git push
-          echo GREETINGS.md >> $GITHUB_STEP_SUMMARY
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}

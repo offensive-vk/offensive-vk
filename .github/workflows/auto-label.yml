@@ -81,9 +81,11 @@ jobs:
         uses: actions/labeler@v5
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
+          sync-labels: true
 
   finish_cleanup:
     runs-on: ubuntu-latest
+    name: Finish Cleanup
     needs: [label_issues, label_pull_requests]
     steps:
       - name: Finish Off & Cleanup
