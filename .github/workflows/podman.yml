@@ -10,7 +10,7 @@ on:
 
 jobs:
   podman-job:
-    name: Podman Image Testing
+    name: Phase - 1
     runs-on: ubuntu-latest
 
     steps:
@@ -29,7 +29,7 @@ jobs:
           podman ps -a
 
   containerd-job:
-    name: containerd Image Testing
+    name: Phase - 2
     runs-on: ubuntu-latest
 
     steps:
@@ -49,5 +49,5 @@ jobs:
       - name: Pull and Run Container - containerd
         run: |
           sudo ctr image pull ghcr.io/offensive-vk/offensive-vk:latest
-          sudo ctr run -d --name containerd-container docker.io/library/nginx:latest /bin/sh -c 'while true; do sleep 1000; done'
+          sudo ctr run -d ghcr.io/offensive-vk/offensive-vk:latest
           sudo ctr containers list
