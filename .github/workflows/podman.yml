@@ -49,5 +49,5 @@ jobs:
       - name: Pull and Run Container - containerd
         run: |
           sudo ctr image pull ghcr.io/offensive-vk/offensive-vk:latest
-          sudo ctr run -d ghcr.io/offensive-vk/offensive-vk:latest
+          sudo ctr run -d --id container ghcr.io/offensive-vk/offensive-vk:latest
           sudo ctr containers list
