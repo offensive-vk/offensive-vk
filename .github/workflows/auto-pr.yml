@@ -31,7 +31,7 @@ jobs:
             '${{ github.workflow }} - (${{ github.event.head_commit.message }})'
           pr_body: 'Please Wait.... Hamster is working really hard here.'
           pr_reviewer: 'offensive-vk'
-          pr_label: 'bot,automated,hamster,pull-request'
+          pr_label: 'hamster,pull-request'
           pr_assignee: 'TheHamsterBot'
           pr_draft: false
 

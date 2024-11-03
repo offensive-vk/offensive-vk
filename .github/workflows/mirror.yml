@@ -1,8 +1,6 @@
 name: 🦅 Mirror Sync
 
 on:
-  schedule:
-    - cron: '0 */2 * * *'
   push:
     branches: ['**']
   workflow_dispatch:

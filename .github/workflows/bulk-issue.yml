@@ -1,4 +1,4 @@
-name: ⚡Automated Bulk Issue Creator
+name: ⚡ Automated Bulk Issue Creator
 
 on:
   schedule:

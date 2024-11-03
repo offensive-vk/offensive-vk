@@ -1,0 +1,52 @@
+name: ⚒️ Open Container Runtime
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - '**'
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  podman-job:
+    name: Phase - 1
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Podman
+        run: |
+          sudo apt update
+          sudo apt install -y podman
+
+      - name: Pull and Run Container - Podman
+        run: |
+          podman pull ghcr.io/offensive-vk/offensive-vk:latest
+          podman run -it -d --name podman-container ghcr.io/offensive-vk/offensive-vk:latest
+          podman ps -a
+
+  containerd-job:
+    name: Phase - 2
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install containerd
+        run: |
+          sudo apt update
+          sudo apt install -y containerd
+
+      - name: Start containerd Service
+        run: |
+          sudo systemctl start containerd
+          sudo systemctl status containerd
+
+      - name: Pull and Run Container - containerd
+        run: |
+          sudo ctr image pull ghcr.io/offensive-vk/offensive-vk:latest
+          sudo ctr containers list
