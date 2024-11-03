@@ -51,6 +51,6 @@ jobs:
           title: |
             ${{ github.workflow }} - ${{ github.head_ref }}
           assignees: TheHamsterBot
-          labels: automated,bot,hamster,issue
+          labels: automated,hamster
           body: |
             ${{ env.MARKDOWN_CONTENT }}

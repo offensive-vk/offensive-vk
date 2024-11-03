@@ -9,7 +9,7 @@ on:
     inputs:
       number:
         description: 'The Issue / PR Number to Close'
-        required: true
+        required: false
         default: '30000'
 jobs:
   close_issue:
