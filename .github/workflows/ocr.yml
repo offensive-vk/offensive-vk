@@ -58,7 +58,7 @@ jobs:
       - name: Install containerd
         run: |
           sudo apt update
-          sudo apt install -y containerd
+          sudo apt install -y containerd buildkitd
 
       - name: Start containerd Service
         run: |
