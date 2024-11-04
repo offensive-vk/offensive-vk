@@ -58,22 +58,28 @@ jobs:
       - name: Install containerd
         run: |
           sudo apt update
-          sudo apt install -y containerd buildkitd
+          sudo apt install -y containerd
+
+      - name: Download and Install BuildKit
+        run: |
+          BUILDKIT_VERSION="v0.11.6" # Replace with the latest version if needed
+          wget https://github.com/moby/buildkit/releases/download/${BUILDKIT_VERSION}/buildkit-${BUILDKIT_VERSION}.linux-amd64.tar.gz
+          sudo tar -C /usr/local -xzf buildkit-${BUILDKIT_VERSION}.linux-amd64.tar.gz
+          sudo rm buildkit-${BUILDKIT_VERSION}.linux-amd64.tar.gz
+          sudo mkdir -p /run/buildkit
+          sudo /usr/local/bin/buildkitd &
+          sleep 5
 
       - name: Start containerd Service
         run: |
           sudo systemctl start containerd
           sudo systemctl status containerd
 
-      - name: Build Image with buildkit
+      - name: Build Image with BuildKit
         run: |
-          export BUILDKITD_ADDR="unix:///run/buildkit/buildkitd.sock"
-          sudo mkdir -p /run/buildkit
-          sudo buildkitd &
-          sleep 5  # Wait for buildkit to start
-          
-          # Build and push the image
-          buildctl build --frontend dockerfile.v0 --local context=. --local dockerfile=. --output type=image,name=ghcr.io/offensive-vk/offensive-vk:latest
+          buildctl build --frontend dockerfile.v0 --local context=. --local dockerfile=. \
+            --output type=image,name=ghcr.io/offensive-vk/offensive-vk:latest,push=true
+
       - name: Verify Image
         run: sudo ctr images list
 
