@@ -77,7 +77,7 @@ jobs:
 
       - name: Build Image with BuildKit
         run: |
-          buildctl build --frontend dockerfile.v0 --local context=. --local dockerfile=. \
+          sudo buildctl build --frontend dockerfile.v0 --local context=. --local dockerfile=. \
             --output type=image,name=ghcr.io/offensive-vk/offensive-vk:latest,push=true
 
       - name: Verify Image
