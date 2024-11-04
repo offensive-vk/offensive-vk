@@ -65,11 +65,17 @@ jobs:
           sudo systemctl start containerd
           sudo systemctl status containerd
 
-      - name: Build Image
+      - name: Build Image with buildkit
         run: |
-          sudo ctr build -t offensive-vk .
-          sudo ctr containers list
-
+          export BUILDKITD_ADDR="unix:///run/buildkit/buildkitd.sock"
+          sudo mkdir -p /run/buildkit
+          sudo buildkitd &
+          sleep 5  # Wait for buildkit to start
+          
+          # Build and push the image
+          buildctl build --frontend dockerfile.v0 --local context=. --local dockerfile=. --output type=image,name=ghcr.io/offensive-vk/offensive-vk:latest
+      - name: Verify Image
+        run: sudo ctr images list
 
   containerd-job:
     needs: [containerd-build]
