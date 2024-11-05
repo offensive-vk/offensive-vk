@@ -12,7 +12,7 @@ jobs:
   # Ticket (Issue + PR) Follow Ups
   ticket-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -30,7 +30,7 @@ jobs:
   # Coding Habits
   coding-habits-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -53,7 +53,7 @@ jobs:
   # Total Stargazers
   stargazer-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -72,7 +72,7 @@ jobs:
   # Recent Activity
   activity-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -93,7 +93,7 @@ jobs:
   # Reactions on comments / tickets
   reactions-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -115,7 +115,7 @@ jobs:
   # People who I follow / are following me
   people-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -133,7 +133,7 @@ jobs:
   # Languages that code is written in
   language-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -157,7 +157,7 @@ jobs:
   # Achievements, fake awards showing that i have no life
   achievement-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -176,7 +176,7 @@ jobs:
   # Notable contributions, if there are any lol
   notable-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -197,7 +197,7 @@ jobs:
   # Stars on projects i like
   starlists-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -217,7 +217,7 @@ jobs:
   # Introduction, info from profile. Not that anyones interested
   intro-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -234,7 +234,7 @@ jobs:
   # Starred Topics
   starred-topics-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -253,7 +253,7 @@ jobs:
   # Lines of code that is changed
   lines-code-changed:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -277,7 +277,7 @@ jobs:
   # All Metrics together
   all-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -331,7 +331,7 @@ jobs:
   # Main Metrics - Short
   shorter-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
