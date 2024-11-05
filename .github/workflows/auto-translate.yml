@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
       
       - name: Translate Readme
-        uses: offensive-vk/auto-translate@v5
+        uses: offensive-vk/auto-translate@v6
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
           file: "README.md"
