@@ -2,46 +2,32 @@ name: 📚 Automated Translation
 
 on:
   schedule:
-    - cron: '30 0 * * 0'
+    - cron: '30 0 * * *'
   push:
-    branches: ['master'] 
+    paths: ['*/**.md']
+    branches: ['master']
   workflow_dispatch:
+env:
+  repo-token: ${{ secrets.BOT_TOKEN }}
+
 jobs:
-  translate:
-    name: Translate
+  test:
+    strategy:
+      matrix:
+        lang: ['es', 'hi', 'fr', 'zh-CN', 'ar']
+
+    name: Translate Stuff
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Translate Readme
+        uses: offensive-vk/auto-translate-md@v5
         with:
-          node-version: 20.x
-
-      - name: Translate Chinese
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: zh-CN
-
-      - name: Translate German
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: de
-
-      - name: Translate Arabic
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: ar
-
-      - name: Translate French
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: fr
-
-      - name: Translate Spanish
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: es
+          repo-token: ${{ secrets.BOT_TOKEN }}
+          file: "README.md"
+          language: ${{ matrix.lang }}
 
       - name: Import GPG Key
         id: gpg
