@@ -1,5 +1,6 @@
 <!-- Copyright by Vedansh (offensive-vk) 2020 - Present. All Rights Reserved. -->
 <!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
+<!-- This Readme has been translated regularly in 7 Major Languages of the entire world. -->
 
 <div align="center">
    <a href="https://github.com/offensive-vk">
@@ -10,20 +11,41 @@
      </picture>
    </a>
 
-[![👩‍💻 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
-[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
-[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
+[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
+[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
 [![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
 [![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
-[![🦅 Gitlab - Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
+[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
+[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
 
 </div>
+
+<p align="center" style="margin-top: 20px">
+  <p align="center">
+  - Don't Understand? Please Find Your Version Below -
+  <br>
+    <a href="README.md">English</a>
+    .
+    <a href="README.es.md">Española</a>
+    .
+    <a href="README.fr.md">Français</a>
+    ·
+    <a href="README.ar.md">عربي</a>
+    ·
+    <a href="README.de.md">Deutsch</a>
+    ·
+    <a href="README.zh-CN.md">中国人</a>
+    ·
+    <a href="README.ru.md">Русский</a>
+  </p>
+</p>
 
 <!--
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
 
 ## 💫 About Me:
-🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 My Favorite Programming Language - ASM x86. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep moving and you'll overcome one day. <br> 📧 _You will find a way to contact me_.
+
+🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer **`code`**.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _**nasty**_ stuff. <br>💬 Ask me about nothing. <br> 👌 I have no free time lol. <br>⚡ Fun fact: no fun, only code. <br> 💥 Keep moving and you'll overcome one day. <br> 📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.❞</i>
@@ -198,3 +220,4 @@
 <!-- Outer switch end -->
 <!-- Copyright by Vedansh (offensive-vk) 2020 - Present. All Rights Reserved. -->
 <!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
+<!-- Please reach out to me if you want to use this in your personal github profile and make sure to leave a star to help me maintain this Beautiful Profile Repository. -->
