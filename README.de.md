@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Apples erster Computer, der Apple I, kam 1976 für 666,66 US-Dollar auf den Markt, weil Steve Wozniak das Wiederholen von Ziffern mochte und es einfacher fand, sie zu tippen. Er sagte, er sei sich keiner satanischen Konnotation mit der Zahl bewusst.❞</i>
+<i>❝Die erste Webcam wurde an der Universität Cambridge eingesetzt. Sein Zweck bestand darin, eine Kaffeemaschine zu überwachen, damit sie nicht den Weg zu einer leeren Kanne verschwenden mussten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#27474](https://github.com/offensive-vk/offensive-vk/pull/27474)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🚀 Veröffentlichte Veröffentlichung[Inc](https://github.com/offensive-vk/auto-translate/releases/tag/v6)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-3.  🎉 Zusammengeführte PR[#2](https://github.com/offensive-vk/auto-translate/pull/2)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-4.  💪 PR eröffnet[#2](https://github.com/offensive-vk/auto-translate/pull/2)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-5.  🎉 Zusammengeführte PR[#19](https://github.com/offensive-vk/TypedScript/pull/19)In[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-6.  💪 PR eröffnet[#19](https://github.com/offensive-vk/TypedScript/pull/19)In[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-7.  🎉 Zusammengeführte PR[#27472](https://github.com/offensive-vk/offensive-vk/pull/27472)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/auto-translate/pull/1)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-9.  🚀 Veröffentlichte Veröffentlichung[Inc](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v6)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-10. 🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/auto-pr-action/pull/1)In[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 Zusammengeführte PR[#27464](https://github.com/offensive-vk/offensive-vk/pull/27464)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Zusammengeführte PR[#258](https://github.com/offensive-vk/UntilEverything/pull/258)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Zusammengeführte PR[#27458](https://github.com/offensive-vk/offensive-vk/pull/27458)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒Geschlossenes Problem[#27040](https://github.com/offensive-vk/offensive-vk/issues/27040)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Zusammengeführte PR[#5](https://github.com/offensive-vk/AwesomeActions/pull/5)In[offensive-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+1.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+2.  🎉 Zusammengeführte PR[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 Zusammengeführte PR[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+5.  🎉 Zusammengeführte PR[#4](https://github.com/offensive-vk/auto-translate/pull/4)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+6.  🎉 Zusammengeführte PR[#3](https://github.com/offensive-vk/auto-translate/pull/3)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+7.  💪 PR eröffnet[#3](https://github.com/offensive-vk/auto-translate/pull/3)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+8.  🎉 Zusammengeführte PR[#20](https://github.com/offensive-vk/TypedScript/pull/20)In[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+9.  💪 PR eröffnet[#20](https://github.com/offensive-vk/TypedScript/pull/20)In[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+10. 🎉 Zusammengeführte PR[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🎉 Zusammengeführte PR[#260](https://github.com/offensive-vk/UntilEverything/pull/260)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 Zusammengeführte PR[#10009](https://github.com/offensive-vk/Classics/pull/10009)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+13. 🎉 Zusammengeführte PR[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+14. 💪 PR eröffnet[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+15. 🎉 Zusammengeführte PR[#259](https://github.com/offensive-vk/UntilEverything/pull/259)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
@@ -207,7 +207,7 @@
 * * *
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2020 - Present</i><br>
+  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2023 - Present</i><br>
   <i>Licensed under <a href="https://github.com/offensive-vk/offensive-vk/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
   <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <kbd>Thanks for visiting :)</kbd>
