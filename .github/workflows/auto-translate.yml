@@ -14,16 +14,16 @@ jobs:
   test:
     strategy:
       matrix:
-        lang: ['es', 'hi', 'fr', 'zh-CN', 'ar']
+        lang: ['es', 'de', 'ru', 'fr', 'zh-CN', 'ar']
 
-    name: Translate Stuff
+    name: Translate - ${{ matrix.lang }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       
       - name: Translate Readme
-        uses: offensive-vk/auto-translate@v6
+        uses: offensive-vk/auto-translate@v7
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
           file: "README.md"
@@ -50,7 +50,7 @@ jobs:
           git config --local user.name "Hamster [bot]"
           git config --local user.email "TheHamsterBot@outlook.com"
           git add .
-          git commit -m "📚 Updated Automated Translations
+          git commit -m "📚 Updated Automated Translations - ${{ matrix.lang }}
 
           Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           git push

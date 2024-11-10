@@ -53,7 +53,6 @@ jobs:
           base: 'master'
           labels: |
             hamster
-            bot
             dependencies
             pull-request
           reviewers: offensive-vk
