@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le premier ordinateur d'Apple, l'Apple I, a été mis en vente en 1976 au prix de 666,66 $ parce que Steve Wozniak aimait répéter les chiffres et les trouvait plus faciles à taper. Il a dit qu'il n'était au courant d'aucune connotation satanique avec ce numéro.❞</i>
+<i>❝La première webcam a été utilisée à l'Université de Cambridge. Son objectif était de surveiller une cafetière afin de ne pas perdre de temps à se rendre dans une cafetière vide.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#27474](https://github.com/offensive-vk/offensive-vk/pull/27474)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🚀 Version publiée[Inc.](https://github.com/offensive-vk/auto-translate/releases/tag/v6)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-3.  🎉 PR fusionné[#2](https://github.com/offensive-vk/auto-translate/pull/2)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-4.  💪 RP ouverte[#2](https://github.com/offensive-vk/auto-translate/pull/2)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-5.  🎉 PR fusionné[#19](https://github.com/offensive-vk/TypedScript/pull/19)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-6.  💪 RP ouverte[#19](https://github.com/offensive-vk/TypedScript/pull/19)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-7.  🎉 PR fusionné[#27472](https://github.com/offensive-vk/offensive-vk/pull/27472)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 PR fusionné[#1](https://github.com/offensive-vk/auto-translate/pull/1)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-9.  🚀 Version publiée[Inc.](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v6)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-10. 🎉 PR fusionné[#1](https://github.com/offensive-vk/auto-pr-action/pull/1)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 PR fusionné[#27464](https://github.com/offensive-vk/offensive-vk/pull/27464)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 PR fusionné[#258](https://github.com/offensive-vk/UntilEverything/pull/258)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 PR fusionné[#27458](https://github.com/offensive-vk/offensive-vk/pull/27458)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Problème clos[#27040](https://github.com/offensive-vk/offensive-vk/issues/27040)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 PR fusionné[#5](https://github.com/offensive-vk/AwesomeActions/pull/5)dans[offensive-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+1.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+2.  🎉 PR fusionné[#4](https://github.com/offensive-vk/auto-translate/pull/4)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+3.  🎉 PR fusionné[#3](https://github.com/offensive-vk/auto-translate/pull/3)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+4.  💪 RP ouverte[#3](https://github.com/offensive-vk/auto-translate/pull/3)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+5.  🎉 PR fusionné[#20](https://github.com/offensive-vk/TypedScript/pull/20)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+6.  💪 RP ouverte[#20](https://github.com/offensive-vk/TypedScript/pull/20)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+7.  🎉 PR fusionné[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🎉 PR fusionné[#260](https://github.com/offensive-vk/UntilEverything/pull/260)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionné[#10009](https://github.com/offensive-vk/Classics/pull/10009)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+10. 🎉 PR fusionné[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+11. 💪 RP ouverte[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 🎉 PR fusionné[#259](https://github.com/offensive-vk/UntilEverything/pull/259)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+13. 🗣 Commenté[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2466082096)dans[docker/documents](https://github.com/docker/docs)
+14. 🗣 Commenté[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2461332925)dans[docker/documents](https://github.com/docker/docs)
+15. 🎉 PR fusionné[#27480](https://github.com/offensive-vk/offensive-vk/pull/27480)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
@@ -207,7 +207,7 @@
 * * *
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2020 - Present</i><br>
+  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2023 - Present</i><br>
   <i>Licensed under <a href="https://github.com/offensive-vk/offensive-vk/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
   <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <kbd>Thanks for visiting :)</kbd>
