@@ -7,11 +7,9 @@ on:
     paths: ['*/**.md']
     branches: ['master']
   workflow_dispatch:
-env:
-  repo-token: ${{ secrets.BOT_TOKEN }}
 
 jobs:
-  test:
+  translate:
     strategy:
       matrix:
         lang: ['es', 'de', 'ru', 'fr', 'zh-CN', 'ar']
@@ -47,6 +45,8 @@ jobs:
 
       - name: Commit & Push Changes
         run: |
+          sleep 5
+          git fetch && git pull --verbose
           git config --local user.name "Hamster [bot]"
           git config --local user.email "TheHamsterBot@outlook.com"
           git add .
