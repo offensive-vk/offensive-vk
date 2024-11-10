@@ -3,14 +3,13 @@ name: 📚 Automated Translation
 on:
   schedule:
     - cron: '30 0 * * *'
-  push:
-    paths: ['*/**.md']
-    branches: ['master']
   workflow_dispatch:
 
 jobs:
   translate:
     strategy:
+      fail-fast: true
+      max-parallel: 1
       matrix:
         lang: ['es', 'de', 'ru', 'fr', 'zh-CN', 'ar']
 
