@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La primera computadora de Apple, la Apple I, salió a la venta en 1976 por 666,66 dólares porque a Steve Wozniak le gustaba repetir dígitos y le resultaba más fácil escribirlos. Dijo que no tenía conocimiento de ninguna connotación satánica en el número.❞</i>
+<i>❝La primera cámara web se utilizó en la Universidad de Cambridge. Su propósito era monitorear una cafetera para que no desperdiciaran viajes hasta una cafetera vacía.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#27474](https://github.com/offensive-vk/offensive-vk/pull/27474)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🚀 Lanzamiento publicado[Cª](https://github.com/offensive-vk/auto-translate/releases/tag/v6)en[ofensivo-vk/auto-traducción](https://github.com/offensive-vk/auto-translate)
-3.  🎉 Relaciones públicas fusionadas[#2](https://github.com/offensive-vk/auto-translate/pull/2)en[ofensivo-vk/auto-traducción](https://github.com/offensive-vk/auto-translate)
-4.  💪 Relaciones públicas abiertas[#2](https://github.com/offensive-vk/auto-translate/pull/2)en[ofensivo-vk/auto-traducción](https://github.com/offensive-vk/auto-translate)
-5.  🎉 Relaciones públicas fusionadas[#19](https://github.com/offensive-vk/TypedScript/pull/19)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-6.  💪 Relaciones públicas abiertas[#19](https://github.com/offensive-vk/TypedScript/pull/19)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-7.  🎉 Relaciones públicas fusionadas[#27472](https://github.com/offensive-vk/offensive-vk/pull/27472)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 Relaciones públicas fusionadas[#1](https://github.com/offensive-vk/auto-translate/pull/1)en[ofensivo-vk/auto-traducción](https://github.com/offensive-vk/auto-translate)
-9.  🚀 Lanzamiento publicado[Cª](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v6)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-10. 🎉 Relaciones públicas fusionadas[#1](https://github.com/offensive-vk/auto-pr-action/pull/1)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 Relaciones públicas fusionadas[#27464](https://github.com/offensive-vk/offensive-vk/pull/27464)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Relaciones públicas fusionadas[#258](https://github.com/offensive-vk/UntilEverything/pull/258)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Relaciones públicas fusionadas[#27458](https://github.com/offensive-vk/offensive-vk/pull/27458)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Número cerrado[#27040](https://github.com/offensive-vk/offensive-vk/issues/27040)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Relaciones públicas fusionadas[#5](https://github.com/offensive-vk/AwesomeActions/pull/5)en[ofensiva-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+1.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+2.  🎉 Relaciones públicas fusionadas[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 Relaciones públicas fusionadas[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+5.  🎉 Relaciones públicas fusionadas[#4](https://github.com/offensive-vk/auto-translate/pull/4)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+6.  🎉 Relaciones públicas fusionadas[#3](https://github.com/offensive-vk/auto-translate/pull/3)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+7.  💪 Relaciones públicas abiertas[#3](https://github.com/offensive-vk/auto-translate/pull/3)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+8.  🎉 Relaciones públicas fusionadas[#20](https://github.com/offensive-vk/TypedScript/pull/20)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+9.  💪 Relaciones públicas abiertas[#20](https://github.com/offensive-vk/TypedScript/pull/20)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+10. 🎉 Relaciones públicas fusionadas[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🎉 Relaciones públicas fusionadas[#260](https://github.com/offensive-vk/UntilEverything/pull/260)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 Relaciones públicas fusionadas[#10009](https://github.com/offensive-vk/Classics/pull/10009)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+13. 🎉 Relaciones públicas fusionadas[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+14. 💪 Relaciones públicas abiertas[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+15. 🎉 Relaciones públicas fusionadas[#259](https://github.com/offensive-vk/UntilEverything/pull/259)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
@@ -207,7 +207,7 @@
 * * *
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2020 - Present</i><br>
+  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2023 - Present</i><br>
   <i>Licensed under <a href="https://github.com/offensive-vk/offensive-vk/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
   <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <kbd>Thanks for visiting :)</kbd>
