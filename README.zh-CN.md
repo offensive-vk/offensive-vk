@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Apple 的第一台电脑 Apple I 于 1976 年以 666.66 美元的价格上市，因为 Steve Wozniak 喜欢重复数字并且发现它们更容易输入。他说他不知道这个数字有任何撒旦含义。❞</i>
+<i>❝第一个网络摄像头是在剑桥大学使用的。它的目的是监控咖啡机，这样他们就不会浪费时间去喝空壶。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#27474](https://github.com/offensive-vk/offensive-vk/pull/27474)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🚀 已发布版本[公司](https://github.com/offensive-vk/auto-translate/releases/tag/v6)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-3.  🎉 合并公关[#2](https://github.com/offensive-vk/auto-translate/pull/2)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-4.  💪 开启公关[#2](https://github.com/offensive-vk/auto-translate/pull/2)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-5.  🎉 合并公关[#19](https://github.com/offensive-vk/TypedScript/pull/19)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-6.  💪 开启公关[#19](https://github.com/offensive-vk/TypedScript/pull/19)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-7.  🎉 合并公关[#27472](https://github.com/offensive-vk/offensive-vk/pull/27472)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 合并公关[#1](https://github.com/offensive-vk/auto-translate/pull/1)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-9.  🚀 已发布版本[公司](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v6)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-10. 🎉 合并公关[#1](https://github.com/offensive-vk/auto-pr-action/pull/1)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 合并公关[#27464](https://github.com/offensive-vk/offensive-vk/pull/27464)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 合并公关[#258](https://github.com/offensive-vk/UntilEverything/pull/258)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 合并公关[#27458](https://github.com/offensive-vk/offensive-vk/pull/27458)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 已关闭问题[#27040](https://github.com/offensive-vk/offensive-vk/issues/27040)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 合并公关[#5](https://github.com/offensive-vk/AwesomeActions/pull/5)在[进攻-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+1.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+2.  🎉 合并公关[#4](https://github.com/offensive-vk/auto-translate/pull/4)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+3.  🎉 合并公关[#3](https://github.com/offensive-vk/auto-translate/pull/3)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+4.  💪 开启公关[#3](https://github.com/offensive-vk/auto-translate/pull/3)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+5.  🎉 合并公关[#20](https://github.com/offensive-vk/TypedScript/pull/20)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+6.  💪 开启公关[#20](https://github.com/offensive-vk/TypedScript/pull/20)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+7.  🎉 合并公关[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🎉 合并公关[#260](https://github.com/offensive-vk/UntilEverything/pull/260)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 合并公关[#10009](https://github.com/offensive-vk/Classics/pull/10009)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+10. 🎉 合并公关[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+11. 💪 开启公关[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 🎉 合并公关[#259](https://github.com/offensive-vk/UntilEverything/pull/259)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🗣 已发表评论[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2466082096)在[码头工人/文档](https://github.com/docker/docs)
+14. 🗣 已发表评论[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2461332925)在[码头工人/文档](https://github.com/docker/docs)
+15. 🎉 合并公关[#27480](https://github.com/offensive-vk/offensive-vk/pull/27480)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
@@ -207,7 +207,7 @@
 * * *
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2020 - Present</i><br>
+  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2023 - Present</i><br>
   <i>Licensed under <a href="https://github.com/offensive-vk/offensive-vk/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
   <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <kbd>Thanks for visiting :)</kbd>
