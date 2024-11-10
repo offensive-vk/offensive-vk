@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝تم طرح جهاز كمبيوتر Apple الأول، Apple I، للبيع في عام 1976 مقابل 666.66 دولارًا أمريكيًا لأن ستيف وزنياك كان يحب تكرار الأرقام ووجدها أسهل في الكتابة. وقال إنه لم يكن على علم بأي دلالات شيطانية مع الرقم.❞</i>
+<i>❝أول كاميرا ويب تم استخدامها في جامعة كامبريدج. كان الغرض منه هو مراقبة ماكينة صنع القهوة حتى لا تضيع رحلاتها إلى وعاء فارغ.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#27474](https://github.com/offensive-vk/offensive-vk/pull/27474)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🚀إصدار منشور[شركة](https://github.com/offensive-vk/auto-translate/releases/tag/v6)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
-3.  🎉 العلاقات العامة المدمجة[#2](https://github.com/offensive-vk/auto-translate/pull/2)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
-4.  💪 فتح العلاقات العامة[#2](https://github.com/offensive-vk/auto-translate/pull/2)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
-5.  🎉 العلاقات العامة المدمجة[#19](https://github.com/offensive-vk/TypedScript/pull/19)في[الهجوم-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-6.  💪 فتح العلاقات العامة[#19](https://github.com/offensive-vk/TypedScript/pull/19)في[الهجوم-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-7.  🎉 العلاقات العامة المدمجة[#27472](https://github.com/offensive-vk/offensive-vk/pull/27472)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/auto-translate/pull/1)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
-9.  🚀إصدار منشور[شركة](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v6)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-10. 🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/auto-pr-action/pull/1)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 العلاقات العامة المدمجة[#27464](https://github.com/offensive-vk/offensive-vk/pull/27464)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 العلاقات العامة المدمجة[#258](https://github.com/offensive-vk/UntilEverything/pull/258)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 العلاقات العامة المدمجة[#27458](https://github.com/offensive-vk/offensive-vk/pull/27458)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 قضية مغلقة[#27040](https://github.com/offensive-vk/offensive-vk/issues/27040)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 العلاقات العامة المدمجة[#5](https://github.com/offensive-vk/AwesomeActions/pull/5)في[الهجوم-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+1.  🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
+2.  🎉 العلاقات العامة المدمجة[#4](https://github.com/offensive-vk/auto-translate/pull/4)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
+3.  🎉 العلاقات العامة المدمجة[#3](https://github.com/offensive-vk/auto-translate/pull/3)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
+4.  💪 فتح العلاقات العامة[#3](https://github.com/offensive-vk/auto-translate/pull/3)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
+5.  🎉 العلاقات العامة المدمجة[#20](https://github.com/offensive-vk/TypedScript/pull/20)في[الهجوم-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+6.  💪 فتح العلاقات العامة[#20](https://github.com/offensive-vk/TypedScript/pull/20)في[الهجوم-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+7.  🎉 العلاقات العامة المدمجة[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🎉 العلاقات العامة المدمجة[#260](https://github.com/offensive-vk/UntilEverything/pull/260)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 العلاقات العامة المدمجة[#10009](https://github.com/offensive-vk/Classics/pull/10009)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+10. 🎉 العلاقات العامة المدمجة[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+11. 💪 فتح العلاقات العامة[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 🎉 العلاقات العامة المدمجة[#259](https://github.com/offensive-vk/UntilEverything/pull/259)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+13. 🗣 تم التعليق عليه[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2466082096)في[عامل ميناء/مستندات](https://github.com/docker/docs)
+14. 🗣 تم التعليق عليه[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2461332925)في[عامل ميناء/مستندات](https://github.com/docker/docs)
+15. 🎉 العلاقات العامة المدمجة[#27480](https://github.com/offensive-vk/offensive-vk/pull/27480)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
@@ -207,7 +207,7 @@
 * * *
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2020 - Present</i><br>
+  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2023 - Present</i><br>
   <i>Licensed under <a href="https://github.com/offensive-vk/offensive-vk/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
   <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <kbd>Thanks for visiting :)</kbd>
