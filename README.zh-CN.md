@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝第一个网络摄像头是在剑桥大学使用的。它的目的是监控咖啡机，这样他们就不会浪费时间去喝空壶。❞</i>
+<i>❝有一个网站叫做“The Useless Web”。这是缓解你无聊的最后方法。如果您觉得无聊，请访问。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-2.  🎉 合并公关[#4](https://github.com/offensive-vk/auto-translate/pull/4)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-3.  🎉 合并公关[#3](https://github.com/offensive-vk/auto-translate/pull/3)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-4.  💪 开启公关[#3](https://github.com/offensive-vk/auto-translate/pull/3)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-5.  🎉 合并公关[#20](https://github.com/offensive-vk/TypedScript/pull/20)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-6.  💪 开启公关[#20](https://github.com/offensive-vk/TypedScript/pull/20)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-7.  🎉 合并公关[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-8.  🎉 合并公关[#260](https://github.com/offensive-vk/UntilEverything/pull/260)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 合并公关[#10009](https://github.com/offensive-vk/Classics/pull/10009)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-10. 🎉 合并公关[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-11. 💪 开启公关[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 🎉 合并公关[#259](https://github.com/offensive-vk/UntilEverything/pull/259)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🗣 已发表评论[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2466082096)在[码头工人/文档](https://github.com/docker/docs)
-14. 🗣 已发表评论[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2461332925)在[码头工人/文档](https://github.com/docker/docs)
-15. 🎉 合并公关[#27480](https://github.com/offensive-vk/offensive-vk/pull/27480)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 合并公关[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+3.  🎉 合并公关[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 合并公关[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+6.  🎉 合并公关[#4](https://github.com/offensive-vk/auto-translate/pull/4)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+7.  🎉 合并公关[#3](https://github.com/offensive-vk/auto-translate/pull/3)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+8.  💪 开启公关[#3](https://github.com/offensive-vk/auto-translate/pull/3)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+9.  🎉 合并公关[#20](https://github.com/offensive-vk/TypedScript/pull/20)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+10. 💪 开启公关[#20](https://github.com/offensive-vk/TypedScript/pull/20)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+11. 🎉 合并公关[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🎉 合并公关[#260](https://github.com/offensive-vk/UntilEverything/pull/260)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 合并公关[#10009](https://github.com/offensive-vk/Classics/pull/10009)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+14. 🎉 合并公关[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+15. 💪 开启公关[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
     <!--END_SECTION:activity-->
 
 </p>
