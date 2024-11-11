@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La primera cámara web se utilizó en la Universidad de Cambridge. Su propósito era monitorear una cafetera para que no desperdiciaran viajes hasta una cafetera vacía.❞</i>
+<i>❝Existe un sitio web llamado “La Web Inútil”. Este es el último tratamiento para tu aburrimiento. Si alguna vez te aburres, visítanos.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
