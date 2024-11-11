@@ -6,7 +6,7 @@
     "API_URL": "https://api.github.com",
     "PORT": "9999"
   },
-  "postCreateCommand": "echo 'Welcome to your little dev container!'; npm run install",
+  "postCreateCommand": "echo 'Welcome to your little dev container!'",
   "postStartCommand": "pnpm run dev; cat /usr/local/etc/vedansh-dev-container/hello-world.txt",
   "forwardPorts": [9999],
   "healthCheck": {

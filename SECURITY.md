@@ -16,4 +16,4 @@ We take the security of our GitHub profile repository seriously and are committe
 
 ## Contact Information
 
-For any questions or concerns regarding security matters related to this GitHub profile repository, you can open a issue or please contact us at [superuser.ntsystems@outlook.com](superuser.ntsystems@outlook.com).
+For any questions or concerns regarding security matters related to this GitHub profile repository, you can open a issue [here](https://github.com/offensive-vk/offensive-vk/issues) or please contact us at [superuser.ntsystems@outlook.com](superuser.ntsystems@outlook.com).

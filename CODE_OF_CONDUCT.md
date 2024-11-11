@@ -54,8 +54,8 @@ a project may be further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the our team at our email(s) <superuser.ntsystems@outlook.com> or <TheHamsterBot@outlook.com>. All
-complaints will be reviewed and investigated and will result in a response that
+reported by contacting the our team at our email(s) <superuser.ntsystems@outlook.com> or <TheHamsterBot@outlook.com>. 
+All complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. We as team
 will maintain confidentiality with regard to the reporter of an incident.
 Enforcement may result in an indefinite ban from all official communication
@@ -65,3 +65,7 @@ channels, or other actions as deemed appropriate by the our team.
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4,
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+## Enhancements
+
+If you're seeing something wrong, unexpected or want to improve this Code of Conduct, Please reach out to our issue section by clicking [here](https://github.com/offensive-vk/offensive-vk/issues) and create a issue which the most optimal template. 
