@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Die erste Webcam wurde an der Universität Cambridge eingesetzt. Sein Zweck bestand darin, eine Kaffeemaschine zu überwachen, damit sie nicht den Weg zu einer leeren Kanne verschwenden mussten.❞</i>
+<i>❝Es gibt eine Website namens „The Useless Web“. Dies ist die letzte Behandlung für Ihre Langeweile. Wenn Sie sich jemals langweilen, besuchen Sie uns bitte.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
