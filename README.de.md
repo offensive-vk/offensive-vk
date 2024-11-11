@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-2.  🎉 Zusammengeführte PR[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 Zusammengeführte PR[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-5.  🎉 Zusammengeführte PR[#4](https://github.com/offensive-vk/auto-translate/pull/4)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-6.  🎉 Zusammengeführte PR[#3](https://github.com/offensive-vk/auto-translate/pull/3)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-7.  💪 PR eröffnet[#3](https://github.com/offensive-vk/auto-translate/pull/3)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-8.  🎉 Zusammengeführte PR[#20](https://github.com/offensive-vk/TypedScript/pull/20)In[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-9.  💪 PR eröffnet[#20](https://github.com/offensive-vk/TypedScript/pull/20)In[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-10. 🎉 Zusammengeführte PR[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🎉 Zusammengeführte PR[#260](https://github.com/offensive-vk/UntilEverything/pull/260)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Zusammengeführte PR[#10009](https://github.com/offensive-vk/Classics/pull/10009)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-13. 🎉 Zusammengeführte PR[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-14. 💪 PR eröffnet[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-15. 🎉 Zusammengeführte PR[#259](https://github.com/offensive-vk/UntilEverything/pull/259)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 Zusammengeführte PR[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+3.  🎉 Zusammengeführte PR[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 Zusammengeführte PR[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+6.  🎉 Zusammengeführte PR[#4](https://github.com/offensive-vk/auto-translate/pull/4)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+7.  🎉 Zusammengeführte PR[#3](https://github.com/offensive-vk/auto-translate/pull/3)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+8.  💪 PR eröffnet[#3](https://github.com/offensive-vk/auto-translate/pull/3)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+9.  🎉 Zusammengeführte PR[#20](https://github.com/offensive-vk/TypedScript/pull/20)In[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+10. 💪 PR eröffnet[#20](https://github.com/offensive-vk/TypedScript/pull/20)In[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+11. 🎉 Zusammengeführte PR[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🎉 Zusammengeführte PR[#260](https://github.com/offensive-vk/UntilEverything/pull/260)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Zusammengeführte PR[#10009](https://github.com/offensive-vk/Classics/pull/10009)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+14. 🎉 Zusammengeführte PR[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+15. 💪 PR eröffnet[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
     <!--END_SECTION:activity-->
 
 </p>
