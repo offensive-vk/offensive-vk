@@ -11,6 +11,7 @@ on:
       - 'Best-Readme-Ever'
       - '**-2024'
       - '**-2023'
+      - 'release-**'
   workflow_dispatch:
 
 jobs:
@@ -28,7 +29,7 @@ jobs:
           github_token: ${{ secrets.BOT_TOKEN }}
           destination_branch: 'master'
           pr_title:
-            '${{ github.workflow }} - (${{ github.event.head_commit.message }})'
+            '🐹 Hamster - (${{ github.event.head_commit.message }})'
           pr_body: 'Please Wait.... Hamster is working really hard here.'
           pr_reviewer: 'offensive-vk'
           pr_label: 'hamster,pull-request'
@@ -52,13 +53,13 @@ jobs:
           ## This Pull Request Was Automated by [Hamster [bot]](https://github.com/TheHamsterBot)
 
           > [!NOTE]
-          > Workflow Trigger: ${{ github.event_name }} event at ${{ github.event.pull_request.head_ref }}
+          > Workflow Trigger: ${{ github.event_name }} event at ${{ github.event.ref }}
           > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @TheHamsterBot
-          - Branch: master (base) / ${{ github.event.pull_request.head_ref }} (head)
+          - Branch: master (base) / ${{ github.ref_name }} (head)
           - Commit: ${{ github.sha }}
-          - Workflow Path: ${{ github.workflow }}
+          - Workflow Path: ${{ github.workflow_ref }}
           - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
           - Most Recent Commit: ${{ github.event.head_commit.message }}
 
