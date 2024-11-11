@@ -22,7 +22,6 @@ jobs:
       - name: Translate Readme
         uses: offensive-vk/auto-translate@v7
         with:
-          repo-token: ${{ secrets.BOT_TOKEN }}
           file: "README.md"
           language: ${{ matrix.lang }}
 
@@ -43,9 +42,10 @@ jobs:
           git config --global --list
 
       - name: Commit & Push Changes
+        continue-on-error: true
         run: |
           sleep 5
-          git fetch && git pull --verbose
+          git fetch --all && git pull --verbose
           git config --local user.name "Hamster [bot]"
           git config --local user.email "TheHamsterBot@outlook.com"
           git add .
