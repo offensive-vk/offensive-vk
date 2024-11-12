@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Первый компьютер Apple, Apple I, поступил в продажу в 1976 году по цене 666,66 долларов, потому что Стив Возняк любил повторяющиеся цифры и считал, что их легче печатать. Он сказал, что ему не известно о каком-либо сатанинском значении этого числа.❞</i>
+<i>❝Существует сайт под названием «Бесполезная сеть». Это последнее средство от вашей скуки. Если вам когда-нибудь станет скучно, посетите.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#27474](https://github.com/offensive-vk/offensive-vk/pull/27474)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-2.  🚀 Опубликованный релиз[Inc.](https://github.com/offensive-vk/auto-translate/releases/tag/v6)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-3.  🎉 Объединенный пиар[#2](https://github.com/offensive-vk/auto-translate/pull/2)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-4.  💪 Открытый пиар[#2](https://github.com/offensive-vk/auto-translate/pull/2)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-5.  🎉 Объединенный пиар[#19](https://github.com/offensive-vk/TypedScript/pull/19)в[наступление-вк/TypedScript](https://github.com/offensive-vk/TypedScript)
-6.  💪 Открытый пиар[#19](https://github.com/offensive-vk/TypedScript/pull/19)в[наступление-вк/TypedScript](https://github.com/offensive-vk/TypedScript)
-7.  🎉 Объединенный пиар[#27472](https://github.com/offensive-vk/offensive-vk/pull/27472)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 Объединенный пиар[#1](https://github.com/offensive-vk/auto-translate/pull/1)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-9.  🚀 Опубликованный релиз[Inc.](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v6)в[наступление-ВК/авто-репо-синхронизация](https://github.com/offensive-vk/auto-repo-sync)
-10. 🎉 Объединенный пиар[#1](https://github.com/offensive-vk/auto-pr-action/pull/1)в[наступательное-вк/авто-пр-действие](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 Объединенный пиар[#27464](https://github.com/offensive-vk/offensive-vk/pull/27464)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Объединенный пиар[#258](https://github.com/offensive-vk/UntilEverything/pull/258)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Объединенный пиар[#27458](https://github.com/offensive-vk/offensive-vk/pull/27458)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Вопрос закрыт.[#27040](https://github.com/offensive-vk/offensive-vk/issues/27040)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Объединенный пиар[#5](https://github.com/offensive-vk/AwesomeActions/pull/5)в[наступление-вк/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+1.  🎉 Объединенный пиар[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  🚀 Опубликованный выпуск[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
+3.  🎉 Объединенный пиар[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 Объединенный пиар[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+5.  🚀 Опубликованный выпуск[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
+6.  🎉 Объединенный пиар[#4](https://github.com/offensive-vk/auto-translate/pull/4)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
+7.  🎉 Объединенный пиар[#3](https://github.com/offensive-vk/auto-translate/pull/3)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
+8.  💪 Открытый пиар[#3](https://github.com/offensive-vk/auto-translate/pull/3)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
+9.  🎉 Объединенный пиар[#20](https://github.com/offensive-vk/TypedScript/pull/20)в[наступление-вк/TypedScript](https://github.com/offensive-vk/TypedScript)
+10. 💪 Открытый пиар[#20](https://github.com/offensive-vk/TypedScript/pull/20)в[наступление-вк/TypedScript](https://github.com/offensive-vk/TypedScript)
+11. 🎉 Объединенный пиар[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🎉 Объединенный пиар[#260](https://github.com/offensive-vk/UntilEverything/pull/260)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Объединенный пиар[#10009](https://github.com/offensive-vk/Classics/pull/10009)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+14. 🎉 Объединенный пиар[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+15. 💪 Открытый пиар[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
     <!--END_SECTION:activity-->
 
 </p>
@@ -207,7 +207,7 @@
 * * *
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2020 - Present</i><br>
+  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2023 - Present</i><br>
   <i>Licensed under <a href="https://github.com/offensive-vk/offensive-vk/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
   <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <kbd>Thanks for visiting :)</kbd>
