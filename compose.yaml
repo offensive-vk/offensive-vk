@@ -21,9 +21,6 @@
 #       - docker-daemon
 #     container_name: Vedansh_Dev_Container
 #     tty: true
-#####################################################
-# All Rights Reserved. 2020 - Present. (offensive-vk)
-#####################################################
 version: '3'
 
 services:

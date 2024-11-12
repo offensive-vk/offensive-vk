@@ -10,14 +10,18 @@ LABEL owner="Vedansh <https://github.com/offensive-vk/>"
 LABEL url="https://github.com/offensive-vk/offensive-vk"
 LABEL maintainer="Hamster [bot] <https://github.com/TheHamsterBot>"
 LABEL devcontainer="true"
-LABEL baseimage="ubuntu:focal"
+LABEL baseimage="ubuntu focal edition"
 
 # Copy requrired scripts
 COPY ./hello-world.txt /tmp/scripts/
 
+# Copy node install script
+COPY ./install.sh /usr/share/scripts/
+
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && yes | unminimize 2>&1 
 
+# Set default lang
 ENV LANG="C.UTF-8"
 
 # Install basic build tools
@@ -29,7 +33,6 @@ RUN apt-get update \
     htop \
     neofetch \
     docker.io \
-    nodejs \
     npm \ 
     make \
     unzip \
@@ -90,6 +93,9 @@ RUN apt-get install -yq fish \
 
 # Remove scripts now that we're done with them
 RUN apt-get clean -y && rm -rf /tmp/scripts
+
+# Run node script
+RUN bash /usr/share/scripts/install.sh
 
 # Mount for docker-in-docker 
 VOLUME [ "/var/lib/docker" ]
