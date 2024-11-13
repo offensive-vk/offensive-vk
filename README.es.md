@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Existe un sitio web llamado “La Web Inútil”. Este es el último tratamiento para tu aburrimiento. Si alguna vez te aburres, visítanos.❞</i>
+<i>❝Las computadoras tienen memoria o RAM, que almacena elementos en la computadora cuando no están en uso. El procesador almacena todo lo que su computadora necesita para funcionar.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-3.  🎉 Relaciones públicas fusionadas[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 Relaciones públicas fusionadas[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-6.  🎉 Relaciones públicas fusionadas[#4](https://github.com/offensive-vk/auto-translate/pull/4)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-7.  🎉 Relaciones públicas fusionadas[#3](https://github.com/offensive-vk/auto-translate/pull/3)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-8.  💪 Relaciones públicas abiertas[#3](https://github.com/offensive-vk/auto-translate/pull/3)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-9.  🎉 Relaciones públicas fusionadas[#20](https://github.com/offensive-vk/TypedScript/pull/20)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-10. 💪 Relaciones públicas abiertas[#20](https://github.com/offensive-vk/TypedScript/pull/20)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-11. 🎉 Relaciones públicas fusionadas[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🎉 Relaciones públicas fusionadas[#260](https://github.com/offensive-vk/UntilEverything/pull/260)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Relaciones públicas fusionadas[#10009](https://github.com/offensive-vk/Classics/pull/10009)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-14. 🎉 Relaciones públicas fusionadas[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-15. 💪 Relaciones públicas abiertas[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+1.  🎉 Relaciones públicas fusionadas[#263](https://github.com/offensive-vk/UntilEverything/pull/263)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 Relaciones públicas fusionadas[#264](https://github.com/offensive-vk/UntilEverything/pull/264)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Relaciones públicas fusionadas[#261](https://github.com/offensive-vk/UntilEverything/pull/261)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 Relaciones públicas fusionadas[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 Relaciones públicas fusionadas[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+7.  🎉 Relaciones públicas fusionadas[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 Relaciones públicas fusionadas[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+10. 🎉 Relaciones públicas fusionadas[#4](https://github.com/offensive-vk/auto-translate/pull/4)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+11. 🎉 Relaciones públicas fusionadas[#3](https://github.com/offensive-vk/auto-translate/pull/3)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+12. 💪 Relaciones públicas abiertas[#3](https://github.com/offensive-vk/auto-translate/pull/3)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+13. 🎉 Relaciones públicas fusionadas[#20](https://github.com/offensive-vk/TypedScript/pull/20)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+14. 💪 Relaciones públicas abiertas[#20](https://github.com/offensive-vk/TypedScript/pull/20)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+15. 🎉 Relaciones públicas fusionadas[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
