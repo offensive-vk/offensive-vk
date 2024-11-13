@@ -42,11 +42,11 @@
 
 ## 💫 À propos de moi :
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur**`code`**.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_**méchant**_truc.<br>💬Ne me demandez rien.<br>👌 Je n'ai pas de temps libre mdr.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur**`code`**.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_**méchant**_truc.<br>💬Ne me demande rien.<br>👌 Je n'ai pas de temps libre mdr.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La première webcam a été utilisée à l'Université de Cambridge. Son objectif était de surveiller une cafetière afin de ne pas perdre de temps à se rendre dans une cafetière vide.❞</i>
+<i>❝Les ordinateurs ont de la mémoire ou de la RAM, qui stocke les éléments sur l'ordinateur lorsqu'ils ne sont pas utilisés. Le processeur stocke tout ce dont votre ordinateur a besoin pour fonctionner.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-2.  🎉 PR fusionné[#4](https://github.com/offensive-vk/auto-translate/pull/4)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-3.  🎉 PR fusionné[#3](https://github.com/offensive-vk/auto-translate/pull/3)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-4.  💪 RP ouverte[#3](https://github.com/offensive-vk/auto-translate/pull/3)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-5.  🎉 PR fusionné[#20](https://github.com/offensive-vk/TypedScript/pull/20)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-6.  💪 RP ouverte[#20](https://github.com/offensive-vk/TypedScript/pull/20)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-7.  🎉 PR fusionné[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-8.  🎉 PR fusionné[#260](https://github.com/offensive-vk/UntilEverything/pull/260)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 PR fusionné[#10009](https://github.com/offensive-vk/Classics/pull/10009)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-10. 🎉 PR fusionné[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-11. 💪 RP ouverte[#75](https://github.com/offensive-vk/AwesomeScripts/pull/75)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 🎉 PR fusionné[#259](https://github.com/offensive-vk/UntilEverything/pull/259)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-13. 🗣 Commenté[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2466082096)dans[docker/documents](https://github.com/docker/docs)
-14. 🗣 Commenté[#21348](https://github.com/docker/docs/issues/21348#issuecomment-2461332925)dans[docker/documents](https://github.com/docker/docs)
-15. 🎉 PR fusionné[#27480](https://github.com/offensive-vk/offensive-vk/pull/27480)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 PR fusionné[#263](https://github.com/offensive-vk/UntilEverything/pull/263)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionné[#264](https://github.com/offensive-vk/UntilEverything/pull/264)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 PR fusionné[#261](https://github.com/offensive-vk/UntilEverything/pull/261)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 PR fusionné[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 PR fusionné[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+7.  🎉 PR fusionné[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 PR fusionné[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+10. 🎉 PR fusionné[#4](https://github.com/offensive-vk/auto-translate/pull/4)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+11. 🎉 PR fusionné[#3](https://github.com/offensive-vk/auto-translate/pull/3)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+12. 💪 RP ouverte[#3](https://github.com/offensive-vk/auto-translate/pull/3)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+13. 🎉 PR fusionné[#20](https://github.com/offensive-vk/TypedScript/pull/20)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+14. 💪 RP ouverte[#20](https://github.com/offensive-vk/TypedScript/pull/20)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+15. 🎉 PR fusionné[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
