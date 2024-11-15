@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Компьютеры имеют память или оперативную память, в которой хранятся элементы на компьютере, когда они не используются. В процессоре хранится все необходимое для работы вашего компьютера.❞</i>
+<i>❝ «Я не из тех, кто думает, что Билл Гейтс — дьявол.  Я просто подозреваю, что если Microsoft когда-нибудь встретится с дьяволом, ей не понадобится переводчик». — Николас Петрели ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#262](https://github.com/offensive-vk/UntilEverything/pull/262)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Объединенный пиар[#263](https://github.com/offensive-vk/UntilEverything/pull/263)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Объединенный пиар[#264](https://github.com/offensive-vk/UntilEverything/pull/264)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Объединенный пиар[#261](https://github.com/offensive-vk/UntilEverything/pull/261)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Объединенный пиар[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 Объединенный пиар[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-7.  🚀 Опубликованный релиз[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-8.  🎉 Объединенный пиар[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 Объединенный пиар[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-10. 🚀 Опубликованный релиз[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-11. 🎉 Объединенный пиар[#4](https://github.com/offensive-vk/auto-translate/pull/4)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-12. 🎉 Объединенный пиар[#3](https://github.com/offensive-vk/auto-translate/pull/3)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-13. 💪 Открытый пиар[#3](https://github.com/offensive-vk/auto-translate/pull/3)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-14. 🎉 Объединенный пиар[#20](https://github.com/offensive-vk/TypedScript/pull/20)в[наступление-вк/TypedScript](https://github.com/offensive-vk/TypedScript)
-15. 💪 Открытый пиар[#20](https://github.com/offensive-vk/TypedScript/pull/20)в[наступление-вк/TypedScript](https://github.com/offensive-vk/TypedScript)
+1.  🔒 Вопрос закрыт.[#10](https://github.com/offensive-vk/auto-label/issues/10)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+2.  🎉 Объединенный пиар[#11](https://github.com/offensive-vk/auto-label/pull/11)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+3.  💪 Открытый пиар[#11](https://github.com/offensive-vk/auto-label/pull/11)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+4.  🎉 Объединенный пиар[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 Объединенный пиар[#262](https://github.com/offensive-vk/UntilEverything/pull/262)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Объединенный пиар[#263](https://github.com/offensive-vk/UntilEverything/pull/263)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 Объединенный пиар[#264](https://github.com/offensive-vk/UntilEverything/pull/264)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 Объединенный пиар[#261](https://github.com/offensive-vk/UntilEverything/pull/261)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 Объединенный пиар[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 Объединенный пиар[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+11. 🚀 Опубликованный релиз[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
+12. 🎉 Объединенный пиар[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 Объединенный пиар[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+14. 🚀 Опубликованный релиз[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
+15. 🎉 Объединенный пиар[#4](https://github.com/offensive-vk/auto-translate/pull/4)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
     <!--END_SECTION:activity-->
 
 </p>
