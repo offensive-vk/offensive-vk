@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝计算机具有内存或 RAM，可在不使用时将项目存储在计算机上。处理器存储计算机运行所需的一切。❞</i>
+<i>❝“我不是那些认为比尔·盖茨是魔鬼的人之一。  我只是怀疑，如果微软遇到了魔鬼，它就不需要翻译了。”——Nicholas Petreley ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#262](https://github.com/offensive-vk/UntilEverything/pull/262)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 合并公关[#263](https://github.com/offensive-vk/UntilEverything/pull/263)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 合并公关[#264](https://github.com/offensive-vk/UntilEverything/pull/264)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 合并公关[#261](https://github.com/offensive-vk/UntilEverything/pull/261)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 合并公关[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 合并公关[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-8.  🎉 合并公关[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 合并公关[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-11. 🎉 合并公关[#4](https://github.com/offensive-vk/auto-translate/pull/4)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-12. 🎉 合并公关[#3](https://github.com/offensive-vk/auto-translate/pull/3)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-13. 💪 开启公关[#3](https://github.com/offensive-vk/auto-translate/pull/3)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-14. 🎉 合并公关[#20](https://github.com/offensive-vk/TypedScript/pull/20)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-15. 💪 开启公关[#20](https://github.com/offensive-vk/TypedScript/pull/20)在[进攻性-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+1.  🔒 已关闭问题[#10](https://github.com/offensive-vk/auto-label/issues/10)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+2.  🎉 合并公关[#11](https://github.com/offensive-vk/auto-label/pull/11)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+3.  💪 开启公关[#11](https://github.com/offensive-vk/auto-label/pull/11)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+4.  🎉 合并公关[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 合并公关[#262](https://github.com/offensive-vk/UntilEverything/pull/262)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 合并公关[#263](https://github.com/offensive-vk/UntilEverything/pull/263)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 合并公关[#264](https://github.com/offensive-vk/UntilEverything/pull/264)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 合并公关[#261](https://github.com/offensive-vk/UntilEverything/pull/261)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 合并公关[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 合并公关[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+12. 🎉 合并公关[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 合并公关[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+15. 🎉 合并公关[#4](https://github.com/offensive-vk/auto-translate/pull/4)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
     <!--END_SECTION:activity-->
 
 </p>
