@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Les ordinateurs ont de la mémoire ou de la RAM, qui stocke les éléments sur l'ordinateur lorsqu'ils ne sont pas utilisés. Le processeur stocke tout ce dont votre ordinateur a besoin pour fonctionner.❞</i>
+<i>❝HDMI facture à ses fabricants sous licence 10 000 $ par an plus 0,15 $ par câble, réduit à 0,05 $ si le logo HDMI est sur la prise.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#263](https://github.com/offensive-vk/UntilEverything/pull/263)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 PR fusionné[#264](https://github.com/offensive-vk/UntilEverything/pull/264)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionné[#261](https://github.com/offensive-vk/UntilEverything/pull/261)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 PR fusionné[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 PR fusionné[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-7.  🎉 PR fusionné[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 PR fusionné[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-10. 🎉 PR fusionné[#4](https://github.com/offensive-vk/auto-translate/pull/4)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-11. 🎉 PR fusionné[#3](https://github.com/offensive-vk/auto-translate/pull/3)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-12. 💪 RP ouverte[#3](https://github.com/offensive-vk/auto-translate/pull/3)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
-13. 🎉 PR fusionné[#20](https://github.com/offensive-vk/TypedScript/pull/20)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-14. 💪 RP ouverte[#20](https://github.com/offensive-vk/TypedScript/pull/20)dans[offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-15. 🎉 PR fusionné[#16](https://github.com/offensive-vk/AwesomeDevOps/pull/16)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 PR fusionné[#12](https://github.com/offensive-vk/auto-label/pull/12)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+2.  🎉 PR fusionné[#13](https://github.com/offensive-vk/auto-label/pull/13)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+3.  🔒 Problème clos[#10](https://github.com/offensive-vk/auto-label/issues/10)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+4.  🎉 PR fusionné[#11](https://github.com/offensive-vk/auto-label/pull/11)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+5.  💪 RP ouverte[#11](https://github.com/offensive-vk/auto-label/pull/11)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+6.  🎉 PR fusionné[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 PR fusionné[#262](https://github.com/offensive-vk/UntilEverything/pull/262)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 PR fusionné[#263](https://github.com/offensive-vk/UntilEverything/pull/263)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionné[#264](https://github.com/offensive-vk/UntilEverything/pull/264)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 PR fusionné[#261](https://github.com/offensive-vk/UntilEverything/pull/261)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 PR fusionné[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🎉 PR fusionné[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🚀 Version publiée[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+14. 🎉 PR fusionné[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 PR fusionné[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
