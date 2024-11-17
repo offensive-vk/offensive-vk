@@ -33,8 +33,8 @@ packages:
     resolution: {integrity: sha512-TkBr7QgOmE6ORxvIAhDbZsqPkF7RSqTY4pLTtUQCvr6dTXqvi2fFo46q3h1lxlk/sGMQjqyZ0kEahkD/NyzOHg==}
     engines: {node: '>= 18'}
 
-  '@octokit/auth-app@7.1.2':
-    resolution: {integrity: sha512-5cfWRr1hr0w/EW3StFIIOkMtYhOyGZ6/R3T0xeN6UgC/uL5pIyeood9N/8Z7W4NZUdz2QK1Fv0oM/1AzTME3/Q==}
+  '@octokit/auth-app@7.1.3':
+    resolution: {integrity: sha512-GZdkOp2kZTIy5dG9oXqvzUAZiPvDx4C/lMlN6yQjtG9d/+hYa7W8WXTJoOrXE8UdfL9A/sZMl206dmtkl9lwVQ==}
     engines: {node: '>= 18'}
 
   '@octokit/auth-oauth-app@8.1.1':
@@ -149,10 +149,6 @@ packages:
   '@types/aws-lambda@8.10.145':
     resolution: {integrity: sha512-dtByW6WiFk5W5Jfgz1VM+YPA21xMXTuSFoLYIDY0L44jDLLflVPtZkYuu3/YxpGcvjzKFBZLU+GyKjR0HOYtyw==}
 
-  '@wolfy1339/lru-cache@11.0.2-patch.1':
-    resolution: {integrity: sha512-BgYZfL2ADCXKOw2wJtkM3slhHotawWkgIRRxq4wEybnZQPjvAp71SPX35xepMykTw8gXlzWcWPTY31hlbnRsDA==}
-    engines: {node: 18 >=18.20 || 20 || >=22}
-
   argparse@2.0.1:
     resolution: {integrity: sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==}
 
@@ -197,6 +193,10 @@ packages:
     resolution: {integrity: sha512-uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA==}
     engines: {node: '>=6'}
 
+  toad-cache@3.7.0:
+    resolution: {integrity: sha512-/m8M+2BJUpoJdgAHoG+baCwBT+tf2VraSfkBgl0Y00qIWt41DJ8R5B8nsEw0I58YwF5IZH6z24/2TobDKnqSWw==}
+    engines: {node: '>=12'}
+
   uc.micro@2.1.0:
     resolution: {integrity: sha512-ARDJmphmdvUk6Glw7y9DQ2bFkKBHwQHLi2lsaH6PPmz/Ka9sFOBsBluozhDltWmnv9u/cF6Rt87znRTPV+yp/A==}
 
@@ -210,7 +210,7 @@ snapshots:
 
   '@octokit/app@15.1.0':
     dependencies:
-      '@octokit/auth-app': 7.1.2
+      '@octokit/auth-app': 7.1.3
       '@octokit/auth-unauthenticated': 6.1.0
       '@octokit/core': 6.1.2
       '@octokit/oauth-app': 7.1.3
@@ -218,14 +218,14 @@ snapshots:
       '@octokit/types': 13.6.1
       '@octokit/webhooks': 13.3.0
 
-  '@octokit/auth-app@7.1.2':
+  '@octokit/auth-app@7.1.3':
     dependencies:
       '@octokit/auth-oauth-app': 8.1.1
       '@octokit/auth-oauth-user': 5.1.1
       '@octokit/request': 9.1.3
       '@octokit/request-error': 6.1.5
       '@octokit/types': 13.6.1
-      lru-cache: '@wolfy1339/lru-cache@11.0.2-patch.1'
+      toad-cache: 3.7.0
       universal-github-app-jwt: 2.2.0
       universal-user-agent: 7.0.2
 
@@ -367,8 +367,6 @@ snapshots:
 
   '@types/aws-lambda@8.10.145': {}
 
-  '@wolfy1339/lru-cache@11.0.2-patch.1': {}
-
   argparse@2.0.1: {}
 
   before-after-hook@3.0.2: {}
@@ -415,6 +413,8 @@ snapshots:
   pnpm@9.0.0: {}
 
   punycode.js@2.3.1: {}
+
+  toad-cache@3.7.0: {}
 
   uc.micro@2.1.0: {}
 
