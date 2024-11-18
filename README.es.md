@@ -42,7 +42,7 @@
 
 ## 💫 Acerca de mí:
 
-🔭_La perfección no es el objetivo._.<br>🧑‍💻 Me gusta escribir computadora**`code`**.<br>🤝 Estoy buscando ayuda con la administración de archivos en mi computadora.<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo algunos_**asqueroso**_cosa.<br>💬Preguntame sobre nada.<br>👌 No tengo tiempo libre jajaja.<br>⚡ Dato curioso: no es divertido, solo código.<br>💥Sigue moviéndote y algún día lo superarás.<br>📧_Encontrarás una manera_.
+🔭_La perfección no es el objetivo._.<br>🧑‍💻 Me gusta escribir computadora **`code`**.<br>🤝 Estoy buscando ayuda con la administración de archivos en mi computadora.<br>✨ Vivir dentro del `terminal`.<br>🌱 Actualmente estoy aprendiendo algunos _**asqueroso**_ cosa.<br>💬Preguntame sobre nada.<br>👌 No tengo tiempo libre jajaja.<br>⚡ Dato curioso: no es divertido, solo código.<br>💥Sigue moviéndote y algún día lo superarás.<br>📧_Encontrarás una manera_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
