@@ -22,9 +22,8 @@
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
-  - Don't Understand? Please Find Your Version Below -
   <br>
-    <a href="README.md">English</a>
+    <a>English</a>
     .
     <a href="README.es.md">Española</a>
     .
