@@ -32,12 +32,10 @@ jobs:
           git config --global --list
 
       - name: Update Quote
-        uses: offensive-vk/auto-update-quote@v6
+        uses: offensive-vk/auto-update-quote@master
         with:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
           COMMIT_MESSAGE: |
             :cloud: Updated Daily Quote 
-
-
-            Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com> 
+ 
             Co-Authored-by: Vedansh <superuser.ntsystems@outlook.com>
