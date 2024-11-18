@@ -46,7 +46,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Las computadoras tienen memoria o RAM, que almacena elementos en la computadora cuando no están en uso. El procesador almacena todo lo que su computadora necesita para funcionar.❞</i>
+<i>❝La computadora de su teléfono celular hoy en día es millones de veces más barata, miles de veces más potente y aproximadamente cien mil veces más pequeña que la computadora del MIT en 1965.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -134,21 +134,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#262](https://github.com/offensive-vk/UntilEverything/pull/262)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Relaciones públicas fusionadas[#263](https://github.com/offensive-vk/UntilEverything/pull/263)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Relaciones públicas fusionadas[#264](https://github.com/offensive-vk/UntilEverything/pull/264)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Relaciones públicas fusionadas[#261](https://github.com/offensive-vk/UntilEverything/pull/261)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Relaciones públicas fusionadas[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 Relaciones públicas fusionadas[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-8.  🎉 Relaciones públicas fusionadas[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 Relaciones públicas fusionadas[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-11. 🎉 Relaciones públicas fusionadas[#4](https://github.com/offensive-vk/auto-translate/pull/4)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-12. 🎉 Relaciones públicas fusionadas[#3](https://github.com/offensive-vk/auto-translate/pull/3)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-13. 💪 Relaciones públicas abiertas[#3](https://github.com/offensive-vk/auto-translate/pull/3)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-14. 🎉 Relaciones públicas fusionadas[#20](https://github.com/offensive-vk/TypedScript/pull/20)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
-15. 💪 Relaciones públicas abiertas[#20](https://github.com/offensive-vk/TypedScript/pull/20)en[ofensivo-vk/TypedScript](https://github.com/offensive-vk/TypedScript)
+1.  ❗ Problema abierto[#8846](https://github.com/toeverything/AFFiNE/issues/8846)en[a todo/AFFiNE](https://github.com/toeverything/AFFiNE)
+2.  🚀 Lanzamiento publicado[v7-alfa](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+3.  🎉 Relaciones públicas fusionadas[#14](https://github.com/offensive-vk/auto-label/pull/14)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+4.  🎉 Relaciones públicas fusionadas[#12](https://github.com/offensive-vk/auto-label/pull/12)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+5.  🎉 Relaciones públicas fusionadas[#13](https://github.com/offensive-vk/auto-label/pull/13)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+6.  🔒 Número cerrado[#10](https://github.com/offensive-vk/auto-label/issues/10)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+7.  🎉 Relaciones públicas fusionadas[#11](https://github.com/offensive-vk/auto-label/pull/11)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+8.  💪 Relaciones públicas abiertas[#11](https://github.com/offensive-vk/auto-label/pull/11)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+9.  🎉 Relaciones públicas fusionadas[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 Relaciones públicas fusionadas[#262](https://github.com/offensive-vk/UntilEverything/pull/262)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 Relaciones públicas fusionadas[#263](https://github.com/offensive-vk/UntilEverything/pull/263)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 Relaciones públicas fusionadas[#264](https://github.com/offensive-vk/UntilEverything/pull/264)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Relaciones públicas fusionadas[#261](https://github.com/offensive-vk/UntilEverything/pull/261)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Relaciones públicas fusionadas[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 Relaciones públicas fusionadas[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
