@@ -19,9 +19,8 @@
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
-  - Don't Understand? Please Find Your Version Below -
   <br>
-    <a href="README.md">English</a>
+    <a>English</a>
     .
     <a href="README.es.md">Española</a>
     .
@@ -42,11 +41,11 @@
 
 ## 💫 عني:
 
-🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر**`code`**.<br>🤝 أبحث عن مساعدة في إدارة الملفات في جهاز الكمبيوتر الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم حاليًا بعضًا منها_**مقرف**_أشياء.<br>💬 اسألني عن لا شيء.<br>👌 ليس لدي وقت فراغ هههه.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
+🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في إدارة الملفات في جهاز الكمبيوتر الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝تفرض HDMI رسومًا على الشركات المصنعة المرخصة لها بمبلغ 10000 دولار سنويًا بالإضافة إلى 0.15 دولارًا لكل كابل، وتنخفض إلى 0.05 دولار إذا كان شعار HDMI موجودًا على المقبس.❞</i>
+<i>❝"أعتقد أنه من المحتم أن يبرمج الناس بشكل سيء.  التدريب لن يساعد الأمور بشكل كبير.  علينا أن نتعلم كيف نتعايش معها." - آلان بيرليس ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -98,7 +97,7 @@
 
 <details>
   <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
-    <img src="./assets/shocked.gif" alt="whatttt???" height=auto width=auto />
+    <img src="./assets/shocked.gif" alt="aint no way" height=auto width=auto />
 
 <!-- Outer switch START -->
 
@@ -134,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#12](https://github.com/offensive-vk/auto-label/pull/12)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-2.  🎉 العلاقات العامة المدمجة[#13](https://github.com/offensive-vk/auto-label/pull/13)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-3.  🔒 قضية مغلقة[#10](https://github.com/offensive-vk/auto-label/issues/10)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-4.  🎉 العلاقات العامة المدمجة[#11](https://github.com/offensive-vk/auto-label/pull/11)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-5.  💪 فتح العلاقات العامة[#11](https://github.com/offensive-vk/auto-label/pull/11)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-6.  🎉 العلاقات العامة المدمجة[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 العلاقات العامة المدمجة[#262](https://github.com/offensive-vk/UntilEverything/pull/262)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 العلاقات العامة المدمجة[#263](https://github.com/offensive-vk/UntilEverything/pull/263)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 العلاقات العامة المدمجة[#264](https://github.com/offensive-vk/UntilEverything/pull/264)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 العلاقات العامة المدمجة[#261](https://github.com/offensive-vk/UntilEverything/pull/261)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 العلاقات العامة المدمجة[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 العلاقات العامة المدمجة[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
-14. 🎉 العلاقات العامة المدمجة[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 العلاقات العامة المدمجة[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 العلاقات العامة المدمجة[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 العلاقات العامة المدمجة[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 العلاقات العامة المدمجة[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❗ قضية مفتوحة[#8846](https://github.com/toeverything/AFFiNE/issues/8846)في[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+5.  🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+6.  🎉 العلاقات العامة المدمجة[#14](https://github.com/offensive-vk/auto-label/pull/14)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+7.  🎉 العلاقات العامة المدمجة[#12](https://github.com/offensive-vk/auto-label/pull/12)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+8.  🎉 العلاقات العامة المدمجة[#13](https://github.com/offensive-vk/auto-label/pull/13)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+9.  🔒 قضية مغلقة[#10](https://github.com/offensive-vk/auto-label/issues/10)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+10. 🎉 العلاقات العامة المدمجة[#11](https://github.com/offensive-vk/auto-label/pull/11)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+11. 💪 فتح العلاقات العامة[#11](https://github.com/offensive-vk/auto-label/pull/11)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+12. 🎉 العلاقات العامة المدمجة[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 العلاقات العامة المدمجة[#262](https://github.com/offensive-vk/UntilEverything/pull/262)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 العلاقات العامة المدمجة[#263](https://github.com/offensive-vk/UntilEverything/pull/263)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 العلاقات العامة المدمجة[#264](https://github.com/offensive-vk/UntilEverything/pull/264)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
