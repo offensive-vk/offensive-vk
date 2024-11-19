@@ -19,9 +19,8 @@
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
-  - Don't Understand? Please Find Your Version Below -
   <br>
-    <a href="README.md">English</a>
+    <a>English</a>
     .
     <a href="README.es.md">Española</a>
     .
@@ -42,11 +41,11 @@
 
 ## 💫关于我：
 
-🔭_完美不是目标_.<br>🧑‍💻 我喜欢写电脑**`code`**.<br>🤝 我正在寻求有关计算机中文件管理的帮助。<br>✨ 住在里面`terminal`.<br>🌱我目前正在学习一些_**可恶的**_东西。<br>💬什么都别问我。<br>👌我没有空闲时间哈哈。<br>⚡ 有趣的事实：没有乐趣，只有代码。<br>💥 继续前进，总有一天你会克服的。<br>📧_你会找到办法_.
+🔭_完美不是目标_.<br>🧑‍💻 我喜欢写电脑`code`.<br>🤝 我正在寻求有关计算机中文件管理的帮助。<br>✨ 住在里面`terminal`.<br>🌱我目前正在学习一些_可恶的_东西。<br>💬什么都别问我。<br>👌我尊重我的时间。<br>⚡ 有趣的事实：没有乐趣，只有代码。<br>💥 继续前进，总有一天你会克服的。<br>📧_你会找到办法_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝HDMI 每年向其授权制造商收取 10,000 美元的费用，另加每根电缆 0.15 美元，如果插座上有 HDMI 徽标，则费用降至 0.05 美元。❞</i>
+<i>❝“我认为人们编程不佳是不可避免的。  培训不会对事情有实质性帮助。  我们必须学会忍受它。”——Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -98,7 +97,7 @@
 
 <details>
   <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
-    <img src="./assets/shocked.gif" alt="whatttt???" height=auto width=auto />
+    <img src="./assets/shocked.gif" alt="aint no way" height=auto width=auto />
 
 <!-- Outer switch START -->
 
@@ -134,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#12](https://github.com/offensive-vk/auto-label/pull/12)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-2.  🎉 合并公关[#13](https://github.com/offensive-vk/auto-label/pull/13)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-3.  🔒 已关闭问题[#10](https://github.com/offensive-vk/auto-label/issues/10)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-4.  🎉 合并公关[#11](https://github.com/offensive-vk/auto-label/pull/11)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-5.  💪 开启公关[#11](https://github.com/offensive-vk/auto-label/pull/11)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-6.  🎉 合并公关[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 合并公关[#262](https://github.com/offensive-vk/UntilEverything/pull/262)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 合并公关[#263](https://github.com/offensive-vk/UntilEverything/pull/263)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 合并公关[#264](https://github.com/offensive-vk/UntilEverything/pull/264)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 合并公关[#261](https://github.com/offensive-vk/UntilEverything/pull/261)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 合并公关[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 合并公关[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-translate/releases/tag/v7)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-14. 🎉 合并公关[#27488](https://github.com/offensive-vk/offensive-vk/pull/27488)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 合并公关[#27484](https://github.com/offensive-vk/offensive-vk/pull/27484)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 合并公关[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 合并公关[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 合并公关[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❗ 未解决的问题[#8846](https://github.com/toeverything/AFFiNE/issues/8846)在[一切/AFFiNE](https://github.com/toeverything/AFFiNE)
+5.  🚀 已发布版本[v7-阿尔法](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+6.  🎉 合并公关[#14](https://github.com/offensive-vk/auto-label/pull/14)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+7.  🎉 合并公关[#12](https://github.com/offensive-vk/auto-label/pull/12)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+8.  🎉 合并公关[#13](https://github.com/offensive-vk/auto-label/pull/13)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+9.  🔒 已关闭问题[#10](https://github.com/offensive-vk/auto-label/issues/10)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+10. 🎉 合并公关[#11](https://github.com/offensive-vk/auto-label/pull/11)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+11. 💪 开启公关[#11](https://github.com/offensive-vk/auto-label/pull/11)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+12. 🎉 合并公关[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 合并公关[#262](https://github.com/offensive-vk/UntilEverything/pull/262)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 合并公关[#263](https://github.com/offensive-vk/UntilEverything/pull/263)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 合并公关[#264](https://github.com/offensive-vk/UntilEverything/pull/264)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
