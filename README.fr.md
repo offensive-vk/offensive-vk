@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«Je pense qu'il est inévitable que les gens programment mal.  La formation n’aidera pas vraiment les choses.  Nous devons apprendre à vivre avec. »— Alan Perlis ❞</i>
+<i>❝« Nous devons arrêter d'optimiser pour les programmeurs et commencer à optimiser pour les utilisateurs. » — Jeff Atwood ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionné[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 PR fusionné[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  ❗ Problème ouvert[#8846](https://github.com/toeverything/AFFiNE/issues/8846)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-5.  🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-6.  🎉 PR fusionné[#14](https://github.com/offensive-vk/auto-label/pull/14)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-7.  🎉 PR fusionné[#12](https://github.com/offensive-vk/auto-label/pull/12)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-8.  🎉 PR fusionné[#13](https://github.com/offensive-vk/auto-label/pull/13)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-9.  🔒 Problème clos[#10](https://github.com/offensive-vk/auto-label/issues/10)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-10. 🎉 PR fusionné[#11](https://github.com/offensive-vk/auto-label/pull/11)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-11. 💪 RP ouverte[#11](https://github.com/offensive-vk/auto-label/pull/11)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-12. 🎉 PR fusionné[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 PR fusionné[#262](https://github.com/offensive-vk/UntilEverything/pull/262)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 PR fusionné[#263](https://github.com/offensive-vk/UntilEverything/pull/263)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 PR fusionné[#264](https://github.com/offensive-vk/UntilEverything/pull/264)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 PR fusionné[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 PR fusionné[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 PR fusionné[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 PR fusionné[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  ❗ Problème ouvert[#8846](https://github.com/toeverything/AFFiNE/issues/8846)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+6.  🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+7.  🎉 PR fusionné[#14](https://github.com/offensive-vk/auto-label/pull/14)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+8.  🎉 PR fusionné[#12](https://github.com/offensive-vk/auto-label/pull/12)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+9.  🎉 PR fusionné[#13](https://github.com/offensive-vk/auto-label/pull/13)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+10. 🔒 Problème clos[#10](https://github.com/offensive-vk/auto-label/issues/10)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+11. 🎉 PR fusionné[#11](https://github.com/offensive-vk/auto-label/pull/11)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+12. 💪 RP ouverte[#11](https://github.com/offensive-vk/auto-label/pull/11)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+13. 🎉 PR fusionné[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 PR fusionné[#262](https://github.com/offensive-vk/UntilEverything/pull/262)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 PR fusionné[#263](https://github.com/offensive-vk/UntilEverything/pull/263)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
