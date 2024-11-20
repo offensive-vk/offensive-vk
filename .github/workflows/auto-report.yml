@@ -47,7 +47,7 @@ jobs:
             - ${{ env.failed_jobs }}
 
             ## **Failure Details:**
-            - **Workflow Path**: `{{ github.workflow_ref }}`
+            - **Workflow Path**: ${{ github.workflow_ref }}
             - **Conclusion**: `${{ github.event.workflow_run.conclusion }}`
             - **Status Message**: `${{ github.event.workflow_run.status_message || 'N/A' }}`
 

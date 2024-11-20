@@ -38,6 +38,7 @@ jobs:
           list-file: 'STARRED.md'
 
       - name: Commit Changes
+        continue-on-error: true
         run: |
           git config --local user.email "TheHamsterBot@outlook.com"
           git config --local user.name "TheHamsterBot"

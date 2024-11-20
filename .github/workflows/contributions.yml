@@ -36,6 +36,7 @@ jobs:
           git config --global --list
 
       - name: Commit & Push
+        continue-on-error: true
         run: |
           git config user.email "TheHamsterBot@outlook.com"
           git config user.name "TheHamsterBot"
