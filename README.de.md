@@ -19,9 +19,8 @@
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
-  - Don't Understand? Please Find Your Version Below -
   <br>
-    <a href="README.md">English</a>
+    <a>English</a>
     .
     <a href="README.es.md">Española</a>
     .
@@ -42,11 +41,11 @@
 
 ## 💫 Über mich:
 
-🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer**`code`**.<br>🤝 Ich suche Hilfe bei der Dateiverwaltung auf meinem Computer.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade einiges_**böse**_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich habe keine Freizeit, lol.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer`code`.<br>🤝 Ich suche Hilfe bei der Dateiverwaltung auf meinem Computer.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade einiges_böse_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der Computer in Ihrem Mobiltelefon ist heute millionenfach billiger und tausendmal leistungsfähiger und etwa hunderttausendmal kleiner als der Computer am MIT im Jahr 1965.❞</i>
+<i>❝„Wir müssen vor allem über Veränderungen Bescheid wissen; Niemand möchte oder muss 16 Stunden am Tag daran erinnert werden, dass seine Schuhe an sind.“ – David Hubel ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -98,7 +97,7 @@
 
 <details>
   <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
-    <img src="./assets/shocked.gif" alt="whatttt???" height=auto width=auto />
+    <img src="./assets/shocked.gif" alt="aint no way" height=auto width=auto />
 
 <!-- Outer switch START -->
 
@@ -134,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❗Geöffnete Ausgabe[#8846](https://github.com/toeverything/AFFiNE/issues/8846)In[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-2.  🚀 Veröffentlichte Veröffentlichung[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-3.  🎉 Zusammengeführte PR[#14](https://github.com/offensive-vk/auto-label/pull/14)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-4.  🎉 Zusammengeführte PR[#12](https://github.com/offensive-vk/auto-label/pull/12)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-5.  🎉 Zusammengeführte PR[#13](https://github.com/offensive-vk/auto-label/pull/13)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-6.  🔒 Geschlossenes Problem[#10](https://github.com/offensive-vk/auto-label/issues/10)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-7.  🎉 Zusammengeführte PR[#11](https://github.com/offensive-vk/auto-label/pull/11)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-8.  💪 PR eröffnet[#11](https://github.com/offensive-vk/auto-label/pull/11)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-9.  🎉 Zusammengeführte PR[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 Zusammengeführte PR[#262](https://github.com/offensive-vk/UntilEverything/pull/262)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Zusammengeführte PR[#263](https://github.com/offensive-vk/UntilEverything/pull/263)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Zusammengeführte PR[#264](https://github.com/offensive-vk/UntilEverything/pull/264)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Zusammengeführte PR[#261](https://github.com/offensive-vk/UntilEverything/pull/261)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 Zusammengeführte PR[#27494](https://github.com/offensive-vk/offensive-vk/pull/27494)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Zusammengeführte PR[#27482](https://github.com/offensive-vk/offensive-vk/pull/27482)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 Zusammengeführte PR[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Zusammengeführte PR[#265](https://github.com/offensive-vk/UntilEverything/pull/265)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Zusammengeführte PR[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 Zusammengeführte PR[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 Zusammengeführte PR[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 Zusammengeführte PR[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  ❗Geöffnete Ausgabe[#8846](https://github.com/toeverything/AFFiNE/issues/8846)In[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+8.  🚀 Veröffentlichte Veröffentlichung[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+9.  🎉 Zusammengeführte PR[#14](https://github.com/offensive-vk/auto-label/pull/14)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+10. 🎉 Zusammengeführte PR[#12](https://github.com/offensive-vk/auto-label/pull/12)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+11. 🎉 Zusammengeführte PR[#13](https://github.com/offensive-vk/auto-label/pull/13)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+12. 🔒 Geschlossenes Problem[#10](https://github.com/offensive-vk/auto-label/issues/10)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+13. 🎉 Zusammengeführte PR[#11](https://github.com/offensive-vk/auto-label/pull/11)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+14. 💪 PR eröffnet[#11](https://github.com/offensive-vk/auto-label/pull/11)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+15. 🎉 Zusammengeführte PR[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
