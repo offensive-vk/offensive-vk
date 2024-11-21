@@ -41,11 +41,11 @@
 
 ## 💫 Обо мне:
 
-🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чём.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
+🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Я думаю, что люди неизбежно программируют плохо.  Обучение существенно не поможет делу.  Мы должны научиться жить с этим» — Алан Перлис ❞</i>
+<i>❝ «Прежде всего нам нужно знать об изменениях; никто не хочет и не нуждается в напоминании по 16 часов в день о том, что он на ногах». — Дэвид Хьюбел ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 Объединенный пиар[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 Объединенный пиар[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-4.  ❗Открытый вопрос[#8846](https://github.com/toeverything/AFFiNE/issues/8846)в[ко всему/AFFiNE](https://github.com/toeverything/AFFiNE)
-5.  🚀 Опубликованный выпуск[v7-альфа](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-6.  🎉 Объединенный пиар[#14](https://github.com/offensive-vk/auto-label/pull/14)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-7.  🎉 Объединенный пиар[#12](https://github.com/offensive-vk/auto-label/pull/12)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-8.  🎉 Объединенный пиар[#13](https://github.com/offensive-vk/auto-label/pull/13)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-9.  🔒 Вопрос закрыт.[#10](https://github.com/offensive-vk/auto-label/issues/10)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-10. 🎉 Объединенный пиар[#11](https://github.com/offensive-vk/auto-label/pull/11)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-11. 💪 Открытый пиар[#11](https://github.com/offensive-vk/auto-label/pull/11)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-12. 🎉 Объединенный пиар[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Объединенный пиар[#262](https://github.com/offensive-vk/UntilEverything/pull/262)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 Объединенный пиар[#263](https://github.com/offensive-vk/UntilEverything/pull/263)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 Объединенный пиар[#264](https://github.com/offensive-vk/UntilEverything/pull/264)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 Объединенный пиар[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Объединенный пиар[#265](https://github.com/offensive-vk/UntilEverything/pull/265)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Объединенный пиар[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 Объединенный пиар[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 Объединенный пиар[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 Объединенный пиар[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+7.  ❗Открытый вопрос[#8846](https://github.com/toeverything/AFFiNE/issues/8846)в[ко всему/AFFiNE](https://github.com/toeverything/AFFiNE)
+8.  🚀 Опубликованный релиз[v7-альфа](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+9.  🎉 Объединенный пиар[#14](https://github.com/offensive-vk/auto-label/pull/14)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+10. 🎉 Объединенный пиар[#12](https://github.com/offensive-vk/auto-label/pull/12)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+11. 🎉 Объединенный пиар[#13](https://github.com/offensive-vk/auto-label/pull/13)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+12. 🔒 Вопрос закрыт.[#10](https://github.com/offensive-vk/auto-label/issues/10)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+13. 🎉 Объединенный пиар[#11](https://github.com/offensive-vk/auto-label/pull/11)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+14. 💪 Открытый пиар[#11](https://github.com/offensive-vk/auto-label/pull/11)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+15. 🎉 Объединенный пиар[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
