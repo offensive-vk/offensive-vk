@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"نحن بحاجة قبل كل شيء إلى معرفة التغييرات؛ لا أحد يريد أو يحتاج إلى أن يتم تذكيره لمدة 16 ساعة يوميًا بأن حذائه يرتديه." - ديفيد هوبل ❞</i>
+<i>❝لعبة Halo الأصلية كانت مخصصة لمنظور الشخص الثالث ومصممة لأجهزة Mac. في عام 2000، اشترت شركة Microsoft Bungie وجعلتها حصرية لجهاز Xbox الأصلي.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 العلاقات العامة المدمجة[#265](https://github.com/offensive-vk/UntilEverything/pull/265)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 العلاقات العامة المدمجة[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 العلاقات العامة المدمجة[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 العلاقات العامة المدمجة[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 العلاقات العامة المدمجة[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-7.  ❗ قضية مفتوحة[#8846](https://github.com/toeverything/AFFiNE/issues/8846)في[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-8.  🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-9.  🎉 العلاقات العامة المدمجة[#14](https://github.com/offensive-vk/auto-label/pull/14)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-10. 🎉 العلاقات العامة المدمجة[#12](https://github.com/offensive-vk/auto-label/pull/12)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-11. 🎉 العلاقات العامة المدمجة[#13](https://github.com/offensive-vk/auto-label/pull/13)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-12. 🔒 قضية مغلقة[#10](https://github.com/offensive-vk/auto-label/issues/10)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-13. 🎉 العلاقات العامة المدمجة[#11](https://github.com/offensive-vk/auto-label/pull/11)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-14. 💪 فتح العلاقات العامة[#11](https://github.com/offensive-vk/auto-label/pull/11)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-15. 🎉 العلاقات العامة المدمجة[#27496](https://github.com/offensive-vk/offensive-vk/pull/27496)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 تم التعليق عليه[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)في[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+2.  🎉 العلاقات العامة المدمجة[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 العلاقات العامة المدمجة[#265](https://github.com/offensive-vk/UntilEverything/pull/265)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 العلاقات العامة المدمجة[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 العلاقات العامة المدمجة[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 العلاقات العامة المدمجة[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 العلاقات العامة المدمجة[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+8.  ❗ قضية مفتوحة[#8846](https://github.com/toeverything/AFFiNE/issues/8846)في[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+9.  🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+10. 🎉 العلاقات العامة المدمجة[#14](https://github.com/offensive-vk/auto-label/pull/14)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+11. 🎉 العلاقات العامة المدمجة[#12](https://github.com/offensive-vk/auto-label/pull/12)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+12. 🎉 العلاقات العامة المدمجة[#13](https://github.com/offensive-vk/auto-label/pull/13)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+13. 🔒 قضية مغلقة[#10](https://github.com/offensive-vk/auto-label/issues/10)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+14. 🎉 العلاقات العامة المدمجة[#11](https://github.com/offensive-vk/auto-label/pull/11)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+15. 💪 فتح العلاقات العامة[#11](https://github.com/offensive-vk/auto-label/pull/11)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
