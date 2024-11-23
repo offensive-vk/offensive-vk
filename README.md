@@ -130,21 +130,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/offensive-vk/AwesomeCloud/pull/75) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-2. 🎉 Merged PR [#66](https://github.com/offensive-vk/AwesomeCloud/pull/66) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-3. 🗣 Commented on [#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-4. 🎉 Merged PR [#27517](https://github.com/offensive-vk/offensive-vk/pull/27517) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5. 🎉 Merged PR [#265](https://github.com/offensive-vk/UntilEverything/pull/265) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6. 🎉 Merged PR [#27503](https://github.com/offensive-vk/offensive-vk/pull/27503) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7. 🎉 Merged PR [#27513](https://github.com/offensive-vk/offensive-vk/pull/27513) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8. 🎉 Merged PR [#27511](https://github.com/offensive-vk/offensive-vk/pull/27511) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9. 🎉 Merged PR [#27505](https://github.com/offensive-vk/offensive-vk/pull/27505) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. ❗ Opened issue [#8846](https://github.com/toeverything/AFFiNE/issues/8846) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-11. 🚀 Published release [v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-12. 🎉 Merged PR [#14](https://github.com/offensive-vk/auto-label/pull/14) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-13. 🎉 Merged PR [#12](https://github.com/offensive-vk/auto-label/pull/12) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-14. 🎉 Merged PR [#13](https://github.com/offensive-vk/auto-label/pull/13) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-15. 🔒 Closed issue [#10](https://github.com/offensive-vk/auto-label/issues/10) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+1. 🚀 Published release [v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+2. 🎉 Merged PR [#75](https://github.com/offensive-vk/AwesomeCloud/pull/75) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+3. 💪 Opened PR [#75](https://github.com/offensive-vk/AwesomeCloud/pull/75) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+4. 🎉 Merged PR [#66](https://github.com/offensive-vk/AwesomeCloud/pull/66) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+5. 🗣 Commented on [#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+6. 🎉 Merged PR [#27517](https://github.com/offensive-vk/offensive-vk/pull/27517) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7. 🎉 Merged PR [#265](https://github.com/offensive-vk/UntilEverything/pull/265) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8. 🎉 Merged PR [#27503](https://github.com/offensive-vk/offensive-vk/pull/27503) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9. 🎉 Merged PR [#27513](https://github.com/offensive-vk/offensive-vk/pull/27513) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 Merged PR [#27511](https://github.com/offensive-vk/offensive-vk/pull/27511) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Merged PR [#27505](https://github.com/offensive-vk/offensive-vk/pull/27505) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. ❗ Opened issue [#8846](https://github.com/toeverything/AFFiNE/issues/8846) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+13. 🚀 Published release [v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+14. 🎉 Merged PR [#14](https://github.com/offensive-vk/auto-label/pull/14) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+15. 🎉 Merged PR [#12](https://github.com/offensive-vk/auto-label/pull/12) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 <!--END_SECTION:activity-->
 
 </p>
