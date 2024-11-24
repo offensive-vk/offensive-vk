@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝最初的 Halo 是第三人称游戏，专为 Mac 设计。 2000 年，微软收购了 Bungie，并使其成为初代 Xbox 的独占产品。❞</i>
+<i>❝1980 年的 IBM 5120 是有史以来最重的台式计算机。它重约 105 磅，不包括 130 磅的外部软盘驱动器。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 已发表评论[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)在[一切/AFFiNE](https://github.com/toeverything/AFFiNE)
-2.  🎉 合并公关[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 合并公关[#265](https://github.com/offensive-vk/UntilEverything/pull/265)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 合并公关[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 合并公关[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 合并公关[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 合并公关[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-8.  ❗ 未解决的问题[#8846](https://github.com/toeverything/AFFiNE/issues/8846)在[一切/AFFiNE](https://github.com/toeverything/AFFiNE)
-9.  🚀 已发布版本[v7-阿尔法](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-10. 🎉 合并公关[#14](https://github.com/offensive-vk/auto-label/pull/14)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-11. 🎉 合并公关[#12](https://github.com/offensive-vk/auto-label/pull/12)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-12. 🎉 合并公关[#13](https://github.com/offensive-vk/auto-label/pull/13)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-13. 🔒 已关闭问题[#10](https://github.com/offensive-vk/auto-label/issues/10)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-14. 🎉 合并公关[#11](https://github.com/offensive-vk/auto-label/pull/11)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-15. 💪 开启公关[#11](https://github.com/offensive-vk/auto-label/pull/11)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+1.  🎉 合并公关[#271](https://github.com/offensive-vk/UntilEverything/pull/271)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 合并公关[#266](https://github.com/offensive-vk/UntilEverything/pull/266)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
+4.  🎉 合并公关[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  💪 开启公关[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  🎉 合并公关[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🗣 已发表评论[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)在[一切/AFFiNE](https://github.com/toeverything/AFFiNE)
+8.  🎉 合并公关[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 合并公关[#265](https://github.com/offensive-vk/UntilEverything/pull/265)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 合并公关[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 合并公关[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🎉 合并公关[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 合并公关[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+14. ❗ 未解决的问题[#8846](https://github.com/toeverything/AFFiNE/issues/8846)在[一切/AFFiNE](https://github.com/toeverything/AFFiNE)
+15. 🚀 已发布版本[v7-阿尔法](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
