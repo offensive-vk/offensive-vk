@@ -41,11 +41,11 @@
 
 ## 💫 À propos de moi :
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le Halo original était à la 3ème personne et conçu pour Mac. En 2000, Microsoft a acheté Bungie et en a fait une exclusivité pour la Xbox originale.❞</i>
+<i>❝IBM 5120 de 1980 était l'ordinateur de bureau le plus lourd jamais fabriqué. Il pesait environ 105 livres, sans compter le lecteur de disquette externe de 130 livres.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Commenté[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-2.  🎉 PR fusionné[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 PR fusionné[#265](https://github.com/offensive-vk/UntilEverything/pull/265)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 PR fusionné[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 PR fusionné[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 PR fusionné[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 PR fusionné[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  ❗ Problème ouvert[#8846](https://github.com/toeverything/AFFiNE/issues/8846)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-9.  🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-10. 🎉 PR fusionné[#14](https://github.com/offensive-vk/auto-label/pull/14)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-11. 🎉 PR fusionné[#12](https://github.com/offensive-vk/auto-label/pull/12)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-12. 🎉 PR fusionné[#13](https://github.com/offensive-vk/auto-label/pull/13)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-13. 🔒 Problème clos[#10](https://github.com/offensive-vk/auto-label/issues/10)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-14. 🎉 PR fusionné[#11](https://github.com/offensive-vk/auto-label/pull/11)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-15. 💪 RP ouverte[#11](https://github.com/offensive-vk/auto-label/pull/11)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+1.  🎉 PR fusionné[#271](https://github.com/offensive-vk/UntilEverything/pull/271)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionné[#266](https://github.com/offensive-vk/UntilEverything/pull/266)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+3.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+4.  🎉 PR fusionné[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  💪 RP ouverte[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  🎉 PR fusionné[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🗣 Commenté[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+8.  🎉 PR fusionné[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 PR fusionné[#265](https://github.com/offensive-vk/UntilEverything/pull/265)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 PR fusionné[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 PR fusionné[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🎉 PR fusionné[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 PR fusionné[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. ❗ Problème ouvert[#8846](https://github.com/toeverything/AFFiNE/issues/8846)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+15. 🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
