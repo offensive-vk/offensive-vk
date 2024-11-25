@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#271](https://github.com/offensive-vk/UntilEverything/pull/271)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Zusammengeführte PR[#266](https://github.com/offensive-vk/UntilEverything/pull/266)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)In[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-4.  🎉 Zusammengeführte PR[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-5.  💪 PR eröffnet[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-6.  🎉 Zusammengeführte PR[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🗣 Kommentiert[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)In[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-8.  🎉 Zusammengeführte PR[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 Zusammengeführte PR[#265](https://github.com/offensive-vk/UntilEverything/pull/265)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 Zusammengeführte PR[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 Zusammengeführte PR[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Zusammengeführte PR[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Zusammengeführte PR[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. ❗Geöffnete Ausgabe[#8846](https://github.com/toeverything/AFFiNE/issues/8846)In[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-15. 🚀 Veröffentlichte Veröffentlichung[v7-alpha](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+1.  🎉 Zusammengeführte PR[#10012](https://github.com/offensive-vk/Classics/pull/10012)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+2.  🎉 Zusammengeführte PR[#270](https://github.com/offensive-vk/UntilEverything/pull/270)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Zusammengeführte PR[#271](https://github.com/offensive-vk/UntilEverything/pull/271)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 Zusammengeführte PR[#266](https://github.com/offensive-vk/UntilEverything/pull/266)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)In[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+6.  🎉 Zusammengeführte PR[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  💪 PR eröffnet[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 Zusammengeführte PR[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🗣 Kommentiert[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)In[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+10. 🎉 Zusammengeführte PR[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Zusammengeführte PR[#265](https://github.com/offensive-vk/UntilEverything/pull/265)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 Zusammengeführte PR[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 Zusammengeführte PR[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 Zusammengeführte PR[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 Zusammengeführte PR[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
