@@ -49,8 +49,8 @@ jobs:
         with:
           delete-branch: true
           token: ${{ secrets.BOT_TOKEN }}
-          committer: Hamster [bot] <TheHamsterBot@outlook.com>
-          author: Hamster [bot] <TheHamsterBot@outlook.com>
+          committer: 'Hamster [bot] <TheHamsterBot@outlook.com>'
+          author: 'Hamster [bot] <TheHamsterBot@outlook.com>'
           branch: 'update-weekly-dependencies'
           base: 'master'
           labels: |
@@ -64,15 +64,12 @@ jobs:
             ## Updated all Dependencies to Latest Point Release.
 
             > [!IMPORTANT]
-            > This PR Updates the Dependencies to the Latest Versions.
+            > This PR Updates the Dependencies
             >
             > Commit: ${{ github.sha }}
             > Workflow Name: ${{ github.workflow }}
             > Workflow Path: ${{ github.workflow_ref }}
             
-            - Commit: ${{ github.sha }}
-            - Workflow Path: ${{ github.workflow_ref }}
-
             ---
 
             Thanks.
