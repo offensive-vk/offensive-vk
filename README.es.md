@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#271](https://github.com/offensive-vk/UntilEverything/pull/271)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Relaciones públicas fusionadas[#266](https://github.com/offensive-vk/UntilEverything/pull/266)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-4.  🎉 Relaciones públicas fusionadas[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-5.  💪 Relaciones públicas abiertas[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-6.  🎉 Relaciones públicas fusionadas[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🗣 Comentado en[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)en[a todo/AFFiNE](https://github.com/toeverything/AFFiNE)
-8.  🎉 Relaciones públicas fusionadas[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 Relaciones públicas fusionadas[#265](https://github.com/offensive-vk/UntilEverything/pull/265)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 Relaciones públicas fusionadas[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 Relaciones públicas fusionadas[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Relaciones públicas fusionadas[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Relaciones públicas fusionadas[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-14. ❗ Problema abierto[#8846](https://github.com/toeverything/AFFiNE/issues/8846)en[a todo/AFFiNE](https://github.com/toeverything/AFFiNE)
-15. 🚀 Lanzamiento publicado[v7-alfa](https://github.com/offensive-vk/auto-label/releases/tag/v7-alpha)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+1.  🎉 Relaciones públicas fusionadas[#10012](https://github.com/offensive-vk/Classics/pull/10012)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+2.  🎉 Relaciones públicas fusionadas[#270](https://github.com/offensive-vk/UntilEverything/pull/270)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Relaciones públicas fusionadas[#271](https://github.com/offensive-vk/UntilEverything/pull/271)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 Relaciones públicas fusionadas[#266](https://github.com/offensive-vk/UntilEverything/pull/266)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+5.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+6.  🎉 Relaciones públicas fusionadas[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  💪 Relaciones públicas abiertas[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 Relaciones públicas fusionadas[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🗣 Comentado en[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)en[a todo/AFFiNE](https://github.com/toeverything/AFFiNE)
+10. 🎉 Relaciones públicas fusionadas[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Relaciones públicas fusionadas[#265](https://github.com/offensive-vk/UntilEverything/pull/265)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 Relaciones públicas fusionadas[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 Relaciones públicas fusionadas[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 Relaciones públicas fusionadas[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 Relaciones públicas fusionadas[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
