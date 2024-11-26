@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝1980 年的 IBM 5120 是有史以来最重的台式计算机。它重约 105 磅，不包括 130 磅的外部软盘驱动器。❞</i>
+<i>❝“等待一个高效的程序员变得可用比等待第一个可用的程序员变得高效更好。”- Steve McConnell❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#10012](https://github.com/offensive-vk/Classics/pull/10012)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-2.  🎉 合并公关[#270](https://github.com/offensive-vk/UntilEverything/pull/270)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 合并公关[#271](https://github.com/offensive-vk/UntilEverything/pull/271)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 合并公关[#266](https://github.com/offensive-vk/UntilEverything/pull/266)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
-6.  🎉 合并公关[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  💪 开启公关[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉 合并公关[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🗣 已发表评论[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)在[一切/AFFiNE](https://github.com/toeverything/AFFiNE)
-10. 🎉 合并公关[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 合并公关[#265](https://github.com/offensive-vk/UntilEverything/pull/265)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 合并公关[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 合并公关[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 合并公关[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 合并公关[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 合并公关[#27521](https://github.com/offensive-vk/offensive-vk/pull/27521)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 合并公关[#10014](https://github.com/offensive-vk/Classics/pull/10014)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+3.  🎉 合并公关[#10012](https://github.com/offensive-vk/Classics/pull/10012)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+4.  🎉 合并公关[#270](https://github.com/offensive-vk/UntilEverything/pull/270)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 合并公关[#271](https://github.com/offensive-vk/UntilEverything/pull/271)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 合并公关[#266](https://github.com/offensive-vk/UntilEverything/pull/266)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
+8.  🎉 合并公关[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  💪 开启公关[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+10. 🎉 合并公关[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+11. 🗣 已发表评论[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)在[一切/AFFiNE](https://github.com/toeverything/AFFiNE)
+12. 🎉 合并公关[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 合并公关[#265](https://github.com/offensive-vk/UntilEverything/pull/265)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 合并公关[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 合并公关[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
