@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM 5120 1980 года выпуска был самым тяжелым настольным компьютером из когда-либо созданных. Он весил около 105 фунтов, не считая внешнего флоппи-дисковода весом 130 фунтов.❞</i>
+<i>❝ «Лучше дождаться появления продуктивного программиста, чем ждать, пока первый доступный программист станет продуктивным» — Стив МакКоннелл❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#10012](https://github.com/offensive-vk/Classics/pull/10012)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-2.  🎉 Объединенный пиар[#270](https://github.com/offensive-vk/UntilEverything/pull/270)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Объединенный пиар[#271](https://github.com/offensive-vk/UntilEverything/pull/271)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Объединенный пиар[#266](https://github.com/offensive-vk/UntilEverything/pull/266)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🚀 Опубликованный выпуск[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)в[наступательное-вк/авто-пр-действие](https://github.com/offensive-vk/auto-pr-action)
-6.  🎉 Объединенный пиар[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  💪 Открытый пиар[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉 Объединенный пиар[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🗣 Прокомментировал[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)в[ко всему/AFFiNE](https://github.com/toeverything/AFFiNE)
-10. 🎉 Объединенный пиар[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 Объединенный пиар[#265](https://github.com/offensive-vk/UntilEverything/pull/265)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Объединенный пиар[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Объединенный пиар[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 Объединенный пиар[#27511](https://github.com/offensive-vk/offensive-vk/pull/27511)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Объединенный пиар[#27505](https://github.com/offensive-vk/offensive-vk/pull/27505)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 Объединенный пиар[#27521](https://github.com/offensive-vk/offensive-vk/pull/27521)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Объединенный пиар[#10014](https://github.com/offensive-vk/Classics/pull/10014)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+3.  🎉 Объединенный пиар[#10012](https://github.com/offensive-vk/Classics/pull/10012)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+4.  🎉 Объединенный пиар[#270](https://github.com/offensive-vk/UntilEverything/pull/270)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 Объединенный пиар[#271](https://github.com/offensive-vk/UntilEverything/pull/271)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Объединенный пиар[#266](https://github.com/offensive-vk/UntilEverything/pull/266)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🚀 Опубликованный выпуск[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)в[наступательное-вк/авто-пр-действие](https://github.com/offensive-vk/auto-pr-action)
+8.  🎉 Объединенный пиар[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  💪 Открытый пиар[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+10. 🎉 Объединенный пиар[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+11. 🗣 Прокомментировал[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)в[ко всему/AFFiNE](https://github.com/toeverything/AFFiNE)
+12. 🎉 Объединенный пиар[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 Объединенный пиар[#265](https://github.com/offensive-vk/UntilEverything/pull/265)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Объединенный пиар[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 Объединенный пиар[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
