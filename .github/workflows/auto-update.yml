@@ -48,30 +48,28 @@ jobs:
         uses: peter-evans/create-pull-request@v7
         with:
           delete-branch: true
-          token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
-          branch: 'update-dependencies'
+          token: ${{ secrets.BOT_TOKEN }}
+          committer: 'Hamster [bot] <TheHamsterBot@outlook.com>'
+          author: 'Hamster [bot] <TheHamsterBot@outlook.com>'
+          branch: 'update-weekly-dependencies'
           base: 'master'
           labels: |
             hamster
             dependencies
             pull-request
           reviewers: offensive-vk
-          commit-message: 'Dependencies - package.json'
-          title: 'Update Project Dependencies - Hamster 🐹'
+          commit-message: 'Update Dependencies - package.json'
+          title: 'Update Root Dependencies - Hamster 🐹'
           body: |
-            ## Updated all Dependencies to Latest Versions.
+            ## Updated all Dependencies to Latest Point Release.
 
             > [!IMPORTANT]
-            > This PR Updates the Dependencies to the Latest Versions.
+            > This PR Updates the Dependencies
             >
             > Commit: ${{ github.sha }}
             > Workflow Name: ${{ github.workflow }}
             > Workflow Path: ${{ github.workflow_ref }}
             
-            - Author: @TheHamsterBot
-            - Commit: ${{ github.sha }}
-            - Workflow Path: ${{ github.workflow_ref }}
-
             ---
 
             Thanks.
