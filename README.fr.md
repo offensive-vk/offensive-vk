@@ -41,11 +41,11 @@
 
 ## 💫 À propos de moi :
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«Il vaut mieux attendre qu'un programmeur productif soit disponible que d'attendre que le premier programmeur disponible devienne productif.»— Steve McConnell❞</i>
+<i>❝« Les normes sont toujours dépassées.  C’est ce qui en fait des standards. » – Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#27521](https://github.com/offensive-vk/offensive-vk/pull/27521)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionné[#10014](https://github.com/offensive-vk/Classics/pull/10014)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-3.  🎉 PR fusionné[#10012](https://github.com/offensive-vk/Classics/pull/10012)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-4.  🎉 PR fusionné[#270](https://github.com/offensive-vk/UntilEverything/pull/270)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionné[#271](https://github.com/offensive-vk/UntilEverything/pull/271)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 PR fusionné[#266](https://github.com/offensive-vk/UntilEverything/pull/266)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-7.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-8.  🎉 PR fusionné[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  💪 RP ouverte[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-10. 🎉 PR fusionné[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-11. 🗣 Commenté[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-12. 🎉 PR fusionné[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 PR fusionné[#265](https://github.com/offensive-vk/UntilEverything/pull/265)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 PR fusionné[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 PR fusionné[#27513](https://github.com/offensive-vk/offensive-vk/pull/27513)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 PR fusionné[#74](https://github.com/offensive-vk/AwesomeCloud/pull/74)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 PR fusionné[#27521](https://github.com/offensive-vk/offensive-vk/pull/27521)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 PR fusionné[#10014](https://github.com/offensive-vk/Classics/pull/10014)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+4.  🎉 PR fusionné[#10012](https://github.com/offensive-vk/Classics/pull/10012)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+5.  🎉 PR fusionné[#270](https://github.com/offensive-vk/UntilEverything/pull/270)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 PR fusionné[#271](https://github.com/offensive-vk/UntilEverything/pull/271)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 PR fusionné[#266](https://github.com/offensive-vk/UntilEverything/pull/266)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+8.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+9.  🎉 PR fusionné[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+10. 💪 RP ouverte[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+11. 🎉 PR fusionné[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+12. 🗣 Commenté[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+13. 🎉 PR fusionné[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 PR fusionné[#265](https://github.com/offensive-vk/UntilEverything/pull/265)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 PR fusionné[#27503](https://github.com/offensive-vk/offensive-vk/pull/27503)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
