@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Les virus informatiques sont une légende urbaine. » – Peter Norton, 1988 ❞</i>
+<i>❝Le mot de passe pour les commandes informatiques des missiles à tête nucléaire des États-Unis était 00000000 pendant huit ans.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#10016](https://github.com/offensive-vk/Classics/pull/10016)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-2.  🎉 PR fusionné[#27523](https://github.com/offensive-vk/offensive-vk/pull/27523)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 PR fusionné[#74](https://github.com/offensive-vk/AwesomeCloud/pull/74)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  🎉 PR fusionné[#27521](https://github.com/offensive-vk/offensive-vk/pull/27521)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 PR fusionné[#10014](https://github.com/offensive-vk/Classics/pull/10014)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-6.  🎉 PR fusionné[#10012](https://github.com/offensive-vk/Classics/pull/10012)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-7.  🎉 PR fusionné[#270](https://github.com/offensive-vk/UntilEverything/pull/270)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 PR fusionné[#271](https://github.com/offensive-vk/UntilEverything/pull/271)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 PR fusionné[#266](https://github.com/offensive-vk/UntilEverything/pull/266)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-10. 🚀 Version publiée[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 PR fusionné[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-12. 💪 RP ouverte[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 PR fusionné[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 🗣 Commenté[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-15. 🎉 PR fusionné[#27517](https://github.com/offensive-vk/offensive-vk/pull/27517)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 PR fusionné[#272](https://github.com/offensive-vk/UntilEverything/pull/272)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionné[#10016](https://github.com/offensive-vk/Classics/pull/10016)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+3.  🎉 PR fusionné[#27523](https://github.com/offensive-vk/offensive-vk/pull/27523)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 PR fusionné[#74](https://github.com/offensive-vk/AwesomeCloud/pull/74)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉 PR fusionné[#27521](https://github.com/offensive-vk/offensive-vk/pull/27521)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 PR fusionné[#10014](https://github.com/offensive-vk/Classics/pull/10014)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+7.  🎉 PR fusionné[#10012](https://github.com/offensive-vk/Classics/pull/10012)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+8.  🎉 PR fusionné[#270](https://github.com/offensive-vk/UntilEverything/pull/270)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionné[#271](https://github.com/offensive-vk/UntilEverything/pull/271)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 PR fusionné[#266](https://github.com/offensive-vk/UntilEverything/pull/266)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+11. 🚀 Version publiée[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+12. 🎉 PR fusionné[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+13. 💪 RP ouverte[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 🎉 PR fusionné[#66](https://github.com/offensive-vk/AwesomeCloud/pull/66)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 🗣 Commenté[#8846](https://github.com/toeverything/AFFiNE/issues/8846#issuecomment-2490093585)dans[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
     <!--END_SECTION:activity-->
 
 </p>
