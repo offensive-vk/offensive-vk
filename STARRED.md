@@ -23,11 +23,11 @@ Total starred repositories: `42`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️104591)
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️104735)
 
 ## C
 
-  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. \[*MIT License*\] (⭐️10966)
+  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. \[*MIT License*\] (⭐️10979)
 
 ## C++
 
@@ -39,7 +39,7 @@ Total starred repositories: `42`
 
 ## Go
 
-  - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool \[*Apache License 2.0*\] (⭐️7409)
+  - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool \[*Apache License 2.0*\] (⭐️7433)
 
 ## Java
 
@@ -53,7 +53,7 @@ Total starred repositories: `42`
   - [LordDashMe/github-contribution-stats](https://github.com/LordDashMe/github-contribution-stats) - Dynamically generated Github Contribution Stats. :chart_with_upwards_trend: :calendar: \[*MIT License*\] (⭐️565)
   - [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud) - Awesome and Cool Stuff Relating to Cloud Itself, Cloud Computing, Cloud Architecture, Virtualization and IoT. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1)
   - [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything) - Language Specific Examples of Topics and Various Web Development Projects & Pages. Cheatsheets For Programming Languages.  \[*Creative Commons Zero v1.0 Universal*\] (⭐️3)
-  - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor (⭐️3592)
+  - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor (⭐️3593)
 
 ## Markdown
 
@@ -63,42 +63,42 @@ Total starred repositories: `42`
 
   - [cclauss/Ten-lines-or-less](https://github.com/cclauss/Ten-lines-or-less) - Python scripts that are short but useful or interesting \[*Apache License 2.0*\] (⭐️591)
   - [offensive-vk/Learn-Python](https://github.com/offensive-vk/Learn-Python) - Cool Python Scripts and Programs | Various Examples and References. \[*GNU GPLv2*\] (⭐️1)
-  - [python/cpython](https://github.com/python/cpython) - The Python programming language (⭐️63727)
-  - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (⭐️18569)
+  - [python/cpython](https://github.com/python/cpython) - The Python programming language (⭐️63767)
+  - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (⭐️18573)
 
 ## QML
 
-  - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (⭐️22412)
+  - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (⭐️22417)
 
 ## SCSS
 
-  - [offensive-vk/Icons](https://github.com/offensive-vk/Icons) - Free SVGs and Icons For Most Programming Languages / Frameworks / Tools / Tech Related. Leave a ⭐ to add more icons. (⭐️3)
+  - [offensive-vk/Icons](https://github.com/offensive-vk/Icons) - Free SVGs and Icons For Most Programming Languages / Frameworks / Tools / Tech Related. Leave a ⭐ to add more icons. (⭐️4)
 
 ## TypeScript
 
-  - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js \[*MIT License*\] (⭐️3954)
+  - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js \[*MIT License*\] (⭐️3959)
   - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. \[*MIT License*\] (⭐️5032)
-  - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning \[*MIT License*\] (⭐️2049)
-  - [coleam00/bolt.new-any-llm](https://github.com/coleam00/bolt.new-any-llm) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! \[*MIT License*\] (⭐️4540)
-  - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx \[*Apache License 2.0*\] (⭐️4416)
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️298819)
-  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️22632)
-  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️164859)
+  - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning \[*MIT License*\] (⭐️2050)
+  - [coleam00/bolt.new-any-llm](https://github.com/coleam00/bolt.new-any-llm) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! \[*MIT License*\] (⭐️4594)
+  - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx \[*Apache License 2.0*\] (⭐️4417)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️298999)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️22635)
+  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️164873)
   - [offensive-vk/Collection](https://github.com/offensive-vk/Collection) - Some Practical and Curated Interview Coding Questions + Exercises. In 5 Most Popular High Level Programming Languages. Leave a ⭐ if you found it helpful. \[*GNU GPLv3*\] (⭐️2)
   - [offensive-vk/override.ps1](https://github.com/offensive-vk/override.ps1) - Curated Collection of Cool Functions. For Enhanced Unit Testing & NPM Registry @ <https://registry.npmjs.org> \[*MIT License*\] (⭐️1)
   - [offensive-vk/Radioactive](https://github.com/offensive-vk/Radioactive) - Yet Another Goofy Repo (cursed). More Like Personal Project. (⭐️1)
   - [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️1)
   - [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript) - TypedScript - A Static Repository for Hosting My Personal *TypeScript* :bowtie: Programs. ~ TypeScript is also known as JavaScript with Static Types. \[*MIT License*\] (⭐️2)
-  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons \[*MIT License*\] (⭐️2378)
-  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️25140)
+  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons \[*MIT License*\] (⭐️2384)
+  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️25147)
 
 ## Unknown
 
   - [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) - GitHub Action composite to dump context \[*MIT License*\] (⭐️40)
-  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers \[*Creative Commons Zero v1.0 Universal*\] (⭐️86027)
-  - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns (⭐️45506)
+  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers \[*Creative Commons Zero v1.0 Universal*\] (⭐️86064)
+  - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns (⭐️45509)
   - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐   \[*Creative Commons Zero v1.0 Universal*\] (⭐️11188)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️335340)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️335468)
 
 ## YAML
 
