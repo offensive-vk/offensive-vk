@@ -51,7 +51,6 @@ secrets:
 workflow:
   - changed-files:
       - any-glob-to-any-file:
-          - 'YAML/**/*'
           - '**/*.yml'
           - '**/*.yaml'
           - '.github/*.yml'
@@ -62,4 +61,5 @@ docker:
       - any-glob-to-any-file:
           - 'Dockerfile'
           - 'compose.yaml'
+
 # ** DO NOT MODIFY **
