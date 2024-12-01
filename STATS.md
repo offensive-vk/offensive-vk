@@ -1,5 +1,5 @@
 # 📊 Daily Repository Statistics
-Generated on ⏰ **Nov 30, Saturday 10:24:00 PM**
+Generated on ⏰ **Dec 01, Sunday 02:18:43 AM**
 
 ## 📂 File Character Counts (Alphabetically)
 - CODE_OF_CONDUCT.md: **3391** characters
@@ -16,53 +16,53 @@ Generated on ⏰ **Nov 30, Saturday 10:24:00 PM**
 - RECENT.md: **5485** characters
 - SECURITY.md: **1171** characters
 - STARRED.md: **9021** characters
-- STATS.md: **86** characters
+- STATS.md: **84** characters
 - WORKFLOWS.md: **5066** characters
-- assets/achievements.svg: **38305** characters
-- assets/activity.svg: **23626** characters
-- assets/all.svg: **238182** characters
+- assets/achievements.svg: **38298** characters
+- assets/activity.svg: **23081** characters
+- assets/all.svg: **237171** characters
 - assets/default.svg: **42017** characters
-- assets/github-snake-dark.svg: **132352** characters
-- assets/github-snake-light.svg: **132352** characters
-- assets/github-snake.gif: **481393** characters
-- assets/habits.svg: **11956** characters
+- assets/github-snake-dark.svg: **132717** characters
+- assets/github-snake-light.svg: **132717** characters
+- assets/github-snake.gif: **448497** characters
+- assets/habits.svg: **11928** characters
 - assets/intro.svg: **3369** characters
-- assets/languages.svg: **17938** characters
+- assets/languages.svg: **17932** characters
 - assets/lines-of-code.svg: **3308** characters
 - assets/mine-dark.svg: **38492** characters
 - assets/mine-light.svg: **38465** characters
-- assets/notable.svg: **228008** characters
-- assets/people.svg: **42102** characters
+- assets/notable.svg: **228849** characters
+- assets/people.svg: **41184** characters
 - assets/reactions.svg: **11027** characters
 - assets/shocked.gif: **952063** characters
-- assets/stargazers.svg: **54775** characters
+- assets/stargazers.svg: **53656** characters
 - assets/starlists.svg: **6925** characters
-- assets/summary.svg: **28075** characters
-- assets/tickets.svg: **22443** characters
+- assets/summary.svg: **28079** characters
+- assets/tickets.svg: **22345** characters
 - assets/topics.svg: **3277** characters
 - compose.yaml: **1006** characters
 - package.json: **2085** characters
 - pnpm-lock.yaml: **14300** characters
-- profile-3d-contrib/profile-gitblock.svg: **312966** characters
-- profile-3d-contrib/profile-green-animate.svg: **294451** characters
-- profile-3d-contrib/profile-green.svg: **178021** characters
-- profile-3d-contrib/profile-night-green.svg: **292932** characters
-- profile-3d-contrib/profile-night-rainbow.svg: **489580** characters
-- profile-3d-contrib/profile-night-view.svg: **293494** characters
-- profile-3d-contrib/profile-season-animate.svg: **294680** characters
-- profile-3d-contrib/profile-season.svg: **178250** characters
-- profile-3d-contrib/profile-south-season-animate.svg: **294702** characters
-- profile-3d-contrib/profile-south-season.svg: **178272** characters
+- profile-3d-contrib/profile-gitblock.svg: **312952** characters
+- profile-3d-contrib/profile-green-animate.svg: **294431** characters
+- profile-3d-contrib/profile-green.svg: **178003** characters
+- profile-3d-contrib/profile-night-green.svg: **292915** characters
+- profile-3d-contrib/profile-night-rainbow.svg: **489562** characters
+- profile-3d-contrib/profile-night-view.svg: **293476** characters
+- profile-3d-contrib/profile-season-animate.svg: **294659** characters
+- profile-3d-contrib/profile-season.svg: **178231** characters
+- profile-3d-contrib/profile-south-season-animate.svg: **294683** characters
+- profile-3d-contrib/profile-south-season.svg: **178255** characters
 
 ## 📋 Summary
 - 🗂️ **Total files:** 51
-- ✒️ **Total character count:** 5560156
-- 📊 **Average characters per file:** 109022
-- 📝 **Total word count:** 284958
-- 🧾 **Total lines:** 15049
-- 📐 **Average words per file:** 5587
+- ✒️ **Total character count:** 5524920
+- 📊 **Average characters per file:** 108331
+- 📝 **Total word count:** 284563
+- 🧾 **Total lines:** 15449
+- 📐 **Average words per file:** 5579
 - 🏆 **Largest file:** assets/shocked.gif (**952063** characters)
-- 🥉 **Smallest file:** STATS.md (**86** characters)
+- 🥉 **Smallest file:** STATS.md (**84** characters)
 
 ## 🌟 Miscellaneous Stats
 - ⌛ **Average Processing Time Per file:** ~0.5s (estimated)
