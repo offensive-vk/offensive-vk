@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Qué raro es que mantener el código de otra persona sea como entrar a un edificio bellamente diseñado, que admiras mientras caminas y planificas cómo agregar un ala o hacer algunas redecoraciones. Más a menudo, mantener el código de otra persona es como ser arrojado de cabeza a una gran pila de basura viscosa y maloliente”.— Bill Venners ❞</i>
+<i>❝“No trabajé duro para que Ruby fuera perfecta para todos, porque te sientes diferente a mí.  Ningún idioma puede ser perfecto para todos.  Intenté que Ruby fuera perfecto para mí, pero tal vez no sea perfecto para ti.  El lenguaje perfecto para Guido van Rossum es probablemente Python.”— Yukihiro Matsumoto, también conocido como “Matz”, creador de Ruby ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#76](https://github.com/offensive-vk/AwesomeScripts/pull/76)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-2.  💪 Relaciones públicas abiertas[#76](https://github.com/offensive-vk/AwesomeScripts/pull/76)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-3.  🎉 Relaciones públicas fusionadas[#272](https://github.com/offensive-vk/UntilEverything/pull/272)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Relaciones públicas fusionadas[#10016](https://github.com/offensive-vk/Classics/pull/10016)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-5.  🎉 Relaciones públicas fusionadas[#27523](https://github.com/offensive-vk/offensive-vk/pull/27523)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 Relaciones públicas fusionadas[#74](https://github.com/offensive-vk/AwesomeCloud/pull/74)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉 Relaciones públicas fusionadas[#27521](https://github.com/offensive-vk/offensive-vk/pull/27521)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 Relaciones públicas fusionadas[#10014](https://github.com/offensive-vk/Classics/pull/10014)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-9.  🎉 Relaciones públicas fusionadas[#10012](https://github.com/offensive-vk/Classics/pull/10012)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-10. 🎉 Relaciones públicas fusionadas[#270](https://github.com/offensive-vk/UntilEverything/pull/270)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Relaciones públicas fusionadas[#271](https://github.com/offensive-vk/UntilEverything/pull/271)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Relaciones públicas fusionadas[#266](https://github.com/offensive-vk/UntilEverything/pull/266)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-13. 🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-14. 🎉 Relaciones públicas fusionadas[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-15. 💪 Relaciones públicas abiertas[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🚀 Lanzamiento publicado[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+2.  🎉 Relaciones públicas fusionadas[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 Relaciones públicas fusionadas[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 Relaciones públicas fusionadas[#273](https://github.com/offensive-vk/UntilEverything/pull/273)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+5.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+6.  🎉 Relaciones públicas fusionadas[#5](https://github.com/offensive-vk/auto-pr-action/pull/5)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+7.  🎉 Relaciones públicas fusionadas[#23](https://github.com/offensive-vk/develop-actions/pull/23)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+8.  🎉 Relaciones públicas fusionadas[#22](https://github.com/offensive-vk/develop-actions/pull/22)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+9.  🎉 Relaciones públicas fusionadas[#1](https://github.com/offensive-vk/auto-contributions/pull/1)en[ofensiva-vk/auto-contribuciones](https://github.com/offensive-vk/auto-contributions)
+10. 🎉 Relaciones públicas fusionadas[#21](https://github.com/offensive-vk/develop-actions/pull/21)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+11. 🚀 Lanzamiento publicado[v7-beta](https://github.com/offensive-vk/auto-contributions/releases/tag/v7-beta)en[ofensiva-vk/auto-contribuciones](https://github.com/offensive-vk/auto-contributions)
+12. 🎉 Relaciones públicas fusionadas[#268](https://github.com/offensive-vk/UntilEverything/pull/268)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Relaciones públicas fusionadas[#67](https://github.com/offensive-vk/AwesomeCloud/pull/67)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 🎉 Relaciones públicas fusionadas[#76](https://github.com/offensive-vk/AwesomeCloud/pull/76)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 🎉 Relaciones públicas fusionadas[#76](https://github.com/offensive-vk/AwesomeScripts/pull/76)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
     <!--END_SECTION:activity-->
 
 </p>
