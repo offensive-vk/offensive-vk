@@ -130,21 +130,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-2. 🎉 Merged PR [#27528](https://github.com/offensive-vk/offensive-vk/pull/27528) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3. 🎉 Merged PR [#27526](https://github.com/offensive-vk/offensive-vk/pull/27526) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4. 🎉 Merged PR [#273](https://github.com/offensive-vk/UntilEverything/pull/273) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5. 🚀 Published release [v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-6. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-pr-action/pull/5) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-7. 🎉 Merged PR [#23](https://github.com/offensive-vk/develop-actions/pull/23) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-8. 🎉 Merged PR [#22](https://github.com/offensive-vk/develop-actions/pull/22) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-9. 🎉 Merged PR [#1](https://github.com/offensive-vk/auto-contributions/pull/1) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
-10. 🎉 Merged PR [#21](https://github.com/offensive-vk/develop-actions/pull/21) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-11. 🚀 Published release [v7-beta](https://github.com/offensive-vk/auto-contributions/releases/tag/v7-beta) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
-12. 🎉 Merged PR [#268](https://github.com/offensive-vk/UntilEverything/pull/268) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Merged PR [#67](https://github.com/offensive-vk/AwesomeCloud/pull/67) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 🎉 Merged PR [#76](https://github.com/offensive-vk/AwesomeCloud/pull/76) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-15. 🎉 Merged PR [#76](https://github.com/offensive-vk/AwesomeScripts/pull/76) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+1. 💪 Opened PR [#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 🚀 Published release [v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+3. 🎉 Merged PR [#27528](https://github.com/offensive-vk/offensive-vk/pull/27528) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4. 🎉 Merged PR [#27526](https://github.com/offensive-vk/offensive-vk/pull/27526) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5. 🎉 Merged PR [#273](https://github.com/offensive-vk/UntilEverything/pull/273) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6. 🚀 Published release [v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+7. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-pr-action/pull/5) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+8. 🎉 Merged PR [#23](https://github.com/offensive-vk/develop-actions/pull/23) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+9. 🎉 Merged PR [#22](https://github.com/offensive-vk/develop-actions/pull/22) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+10. 🎉 Merged PR [#1](https://github.com/offensive-vk/auto-contributions/pull/1) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+11. 🎉 Merged PR [#21](https://github.com/offensive-vk/develop-actions/pull/21) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+12. 🚀 Published release [v7-beta](https://github.com/offensive-vk/auto-contributions/releases/tag/v7-beta) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+13. 🎉 Merged PR [#268](https://github.com/offensive-vk/UntilEverything/pull/268) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Merged PR [#67](https://github.com/offensive-vk/AwesomeCloud/pull/67) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 🎉 Merged PR [#76](https://github.com/offensive-vk/AwesomeCloud/pull/76) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 <!--END_SECTION:activity-->
 
 </p>
