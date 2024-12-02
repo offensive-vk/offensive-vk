@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我没有努力让 Ruby 适合所有人，因为你的感觉和我不一样。  没有一种语言能够完美适合所有人。  我试图让 Ruby 适合我，但也许它并不适合你。  Guido van Rossum 的完美语言可能是 Python。”——Yukihiro Matsumoto，又名“Matz”，Ruby 的创建者 ❞</i>
+<i>❝1980 年的 IBM 5120 是有史以来最重的台式计算机。它重约 105 磅，不包括 130 磅的外部软盘驱动器。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 已发布版本[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-2.  🎉 合并公关[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 合并公关[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 合并公关[#273](https://github.com/offensive-vk/UntilEverything/pull/273)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
-6.  🎉 合并公关[#5](https://github.com/offensive-vk/auto-pr-action/pull/5)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
-7.  🎉 合并公关[#23](https://github.com/offensive-vk/develop-actions/pull/23)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-8.  🎉 合并公关[#22](https://github.com/offensive-vk/develop-actions/pull/22)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-9.  🎉 合并公关[#1](https://github.com/offensive-vk/auto-contributions/pull/1)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
-10. 🎉 合并公关[#21](https://github.com/offensive-vk/develop-actions/pull/21)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-11. 🚀 已发布版本[v7-测试版](https://github.com/offensive-vk/auto-contributions/releases/tag/v7-beta)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
-12. 🎉 合并公关[#268](https://github.com/offensive-vk/UntilEverything/pull/268)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 合并公关[#67](https://github.com/offensive-vk/AwesomeCloud/pull/67)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 🎉 合并公关[#76](https://github.com/offensive-vk/AwesomeCloud/pull/76)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-15. 🎉 合并公关[#76](https://github.com/offensive-vk/AwesomeScripts/pull/76)在[进攻性-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+1.  🎉 合并公关[#10017](https://github.com/offensive-vk/Classics/pull/10017)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+2.  🎉 合并公关[#274](https://github.com/offensive-vk/UntilEverything/pull/274)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  💪 开启公关[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 合并公关[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 已发表评论[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 开启公关[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+7.  🚀 已发布版本[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+8.  🎉 合并公关[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 合并公关[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 合并公关[#273](https://github.com/offensive-vk/UntilEverything/pull/273)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
+12. 🎉 合并公关[#5](https://github.com/offensive-vk/auto-pr-action/pull/5)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
+13. 🎉 合并公关[#23](https://github.com/offensive-vk/develop-actions/pull/23)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+14. 🎉 合并公关[#22](https://github.com/offensive-vk/develop-actions/pull/22)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+15. 🎉 合并公关[#1](https://github.com/offensive-vk/auto-contributions/pull/1)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
     <!--END_SECTION:activity-->
 
 </p>
