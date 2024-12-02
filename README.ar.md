@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"كم هو نادر أن يكون الحفاظ على رمز شخص آخر بمثابة دخول مبنى مصمم بشكل جميل، والذي ينال إعجابك أثناء التجول والتخطيط لكيفية إضافة جناح أو القيام ببعض أعمال إعادة الديكور. في كثير من الأحيان، يكون الحفاظ على كود شخص آخر بمثابة الإلقاء بتهور في كومة كبيرة من القمامة اللزجة ذات الرائحة الكريهة. " - بيل فينيرز ❞</i>
+<i>❝كان IBM 5120 من عام 1980 أثقل كمبيوتر مكتبي تم تصنيعه على الإطلاق. كان وزنه حوالي 105 رطلاً، لا يشمل محرك الأقراص المرنة الخارجي الذي يبلغ وزنه 130 رطلاً.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#76](https://github.com/offensive-vk/AwesomeScripts/pull/76)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-2.  💪 فتح العلاقات العامة[#76](https://github.com/offensive-vk/AwesomeScripts/pull/76)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-3.  🎉 العلاقات العامة المدمجة[#272](https://github.com/offensive-vk/UntilEverything/pull/272)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 العلاقات العامة المدمجة[#10016](https://github.com/offensive-vk/Classics/pull/10016)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-5.  🎉 العلاقات العامة المدمجة[#27523](https://github.com/offensive-vk/offensive-vk/pull/27523)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 العلاقات العامة المدمجة[#74](https://github.com/offensive-vk/AwesomeCloud/pull/74)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉 العلاقات العامة المدمجة[#27521](https://github.com/offensive-vk/offensive-vk/pull/27521)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 العلاقات العامة المدمجة[#10014](https://github.com/offensive-vk/Classics/pull/10014)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-9.  🎉 العلاقات العامة المدمجة[#10012](https://github.com/offensive-vk/Classics/pull/10012)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-10. 🎉 العلاقات العامة المدمجة[#270](https://github.com/offensive-vk/UntilEverything/pull/270)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 العلاقات العامة المدمجة[#271](https://github.com/offensive-vk/UntilEverything/pull/271)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 العلاقات العامة المدمجة[#266](https://github.com/offensive-vk/UntilEverything/pull/266)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-13. 🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-14. 🎉 العلاقات العامة المدمجة[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-15. 💪 فتح العلاقات العامة[#75](https://github.com/offensive-vk/AwesomeCloud/pull/75)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🎉 العلاقات العامة المدمجة[#10017](https://github.com/offensive-vk/Classics/pull/10017)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+2.  🎉 العلاقات العامة المدمجة[#274](https://github.com/offensive-vk/UntilEverything/pull/274)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  💪 فتح العلاقات العامة[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 العلاقات العامة المدمجة[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 تم التعليق عليه[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 فتح العلاقات العامة[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+7.  🚀إصدار منشور[الإصدار 5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
+8.  🎉 العلاقات العامة المدمجة[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 العلاقات العامة المدمجة[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 العلاقات العامة المدمجة[#273](https://github.com/offensive-vk/UntilEverything/pull/273)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+11. 🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+12. 🎉 العلاقات العامة المدمجة[#5](https://github.com/offensive-vk/auto-pr-action/pull/5)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+13. 🎉 العلاقات العامة المدمجة[#23](https://github.com/offensive-vk/develop-actions/pull/23)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
+14. 🎉 العلاقات العامة المدمجة[#22](https://github.com/offensive-vk/develop-actions/pull/22)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
+15. 🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/auto-contributions/pull/1)في[الهجومية-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
     <!--END_SECTION:activity-->
 
 </p>
