@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El IBM 5120 de 1980 fue el ordenador de sobremesa más pesado jamás fabricado. Pesaba alrededor de 105 libras, sin incluir la unidad de disquete externa de 130 libras.❞</i>
+<i>❝Mortal Kombat II fue tan popular cuando llegó a las salas de juego que varias de las máquinas fueron instaladas posteriormente con paneles de seguridad en la parte posterior para evitar que los ladrones arrancaran la placa base del juego directamente de la máquina y se la llevaran a casa.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#10017](https://github.com/offensive-vk/Classics/pull/10017)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-2.  🎉 Relaciones públicas fusionadas[#274](https://github.com/offensive-vk/UntilEverything/pull/274)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  💪 Relaciones públicas abiertas[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-4.  🎉 Relaciones públicas fusionadas[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🗣 Comentado en[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 Relaciones públicas abiertas[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-7.  🚀 Lanzamiento publicado[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
-8.  🎉 Relaciones públicas fusionadas[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 Relaciones públicas fusionadas[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 Relaciones públicas fusionadas[#273](https://github.com/offensive-vk/UntilEverything/pull/273)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-11. 🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-12. 🎉 Relaciones públicas fusionadas[#5](https://github.com/offensive-vk/auto-pr-action/pull/5)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-13. 🎉 Relaciones públicas fusionadas[#23](https://github.com/offensive-vk/develop-actions/pull/23)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
-14. 🎉 Relaciones públicas fusionadas[#22](https://github.com/offensive-vk/develop-actions/pull/22)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
-15. 🎉 Relaciones públicas fusionadas[#1](https://github.com/offensive-vk/auto-contributions/pull/1)en[ofensiva-vk/auto-contribuciones](https://github.com/offensive-vk/auto-contributions)
+1.  💪 Relaciones públicas abiertas[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 Relaciones públicas fusionadas[#10017](https://github.com/offensive-vk/Classics/pull/10017)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+3.  🎉 Relaciones públicas fusionadas[#274](https://github.com/offensive-vk/UntilEverything/pull/274)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+4.  💪 Relaciones públicas abiertas[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 Relaciones públicas fusionadas[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 Comentado en[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 Relaciones públicas abiertas[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+8.  🚀 Lanzamiento publicado[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+9.  🎉 Relaciones públicas fusionadas[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 Relaciones públicas fusionadas[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Relaciones públicas fusionadas[#273](https://github.com/offensive-vk/UntilEverything/pull/273)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+12. 🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+13. 🎉 Relaciones públicas fusionadas[#5](https://github.com/offensive-vk/auto-pr-action/pull/5)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+14. 🎉 Relaciones públicas fusionadas[#23](https://github.com/offensive-vk/develop-actions/pull/23)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+15. 🎉 Relaciones públicas fusionadas[#22](https://github.com/offensive-vk/develop-actions/pull/22)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
     <!--END_SECTION:activity-->
 
 </p>
