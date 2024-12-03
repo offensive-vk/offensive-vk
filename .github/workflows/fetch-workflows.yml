@@ -49,12 +49,6 @@ jobs:
           cat workflows_table.md >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
 
-
-  comment:
-    name: Comment on Issue/PR
-    needs: [fetch-workflows]
-    runs-on: ubuntu-latest
-    steps:
       - name: 🗣️ Add Status Comment
         uses: peter-evans/create-or-update-comment@v4
         with:

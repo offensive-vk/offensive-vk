@@ -2,11 +2,11 @@ name: ⚠️ Automated Exec
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
     inputs:
       repeat_count:
-        description: 'Number of Times'
+        description: 'Something'
         required: true
         default: 100
         type: number
@@ -56,3 +56,5 @@ jobs:
           docker image inspect ${{ env.DOCKERHUB }}
           docker pull ${{ env.GHCR }}
           docker image inspect ${{ env.GHCR }}
+          docker pull ${{ env.GLCR }}
+          docker image inspect ${{ env.GLCR }}

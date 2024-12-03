@@ -34,11 +34,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner || 'offensive-vk' }}
+          github_token: ${{ secrets.BOT_TOKEN }}
           outputs: |
             assets/github-snake.gif
             assets/github-snake-light.svg
             assets/github-snake-dark.svg?palette=github-dark
-          github_token: ${{ secrets.BOT_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
 
