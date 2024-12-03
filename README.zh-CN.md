@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝1980 年的 IBM 5120 是有史以来最重的台式计算机。它重约 105 磅，不包括 130 磅的外部软盘驱动器。❞</i>
+<i>❝《真人快打 II》在街机上非常受欢迎，以至于后来有几台机器的背面安装了死锁安全面板，以防止小偷直接从机器上撕下游戏主板并将其带回家。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#10017](https://github.com/offensive-vk/Classics/pull/10017)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-2.  🎉 合并公关[#274](https://github.com/offensive-vk/UntilEverything/pull/274)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  💪 开启公关[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-4.  🎉 合并公关[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🗣 已发表评论[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 开启公关[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-7.  🚀 已发布版本[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-8.  🎉 合并公关[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 合并公关[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 合并公关[#273](https://github.com/offensive-vk/UntilEverything/pull/273)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
-12. 🎉 合并公关[#5](https://github.com/offensive-vk/auto-pr-action/pull/5)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
-13. 🎉 合并公关[#23](https://github.com/offensive-vk/develop-actions/pull/23)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-14. 🎉 合并公关[#22](https://github.com/offensive-vk/develop-actions/pull/22)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-15. 🎉 合并公关[#1](https://github.com/offensive-vk/auto-contributions/pull/1)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
+1.  💪 开启公关[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 合并公关[#10017](https://github.com/offensive-vk/Classics/pull/10017)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+3.  🎉 合并公关[#274](https://github.com/offensive-vk/UntilEverything/pull/274)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  💪 开启公关[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 合并公关[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 已发表评论[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 开启公关[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+8.  🚀 已发布版本[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+9.  🎉 合并公关[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 合并公关[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 合并公关[#273](https://github.com/offensive-vk/UntilEverything/pull/273)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
+13. 🎉 合并公关[#5](https://github.com/offensive-vk/auto-pr-action/pull/5)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
+14. 🎉 合并公关[#23](https://github.com/offensive-vk/develop-actions/pull/23)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+15. 🎉 合并公关[#22](https://github.com/offensive-vk/develop-actions/pull/22)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
     <!--END_SECTION:activity-->
 
 </p>
