@@ -1,9 +1,11 @@
 name: ⌚ Cronitor Monitoring Relay
 
 on:
+  workflow_call:
+  workflow_dispatch:
   workflow_run:
     workflows: ['**']
-    types: [requested,completed]
+    types: [requested, completed]
 
 jobs:
   send-telemetry:

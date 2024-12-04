@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - '**'
+      - 'master'
+      - 'dev'
   schedule:
     - cron: '0 */2 * * *'
 
@@ -62,7 +63,7 @@ jobs:
 
       - name: Download and Install BuildKit
         run: |
-          BUILDKIT_VERSION="v0.11.6" # Replace with the latest version if needed
+          BUILDKIT_VERSION="v0.11.6"
           wget https://github.com/moby/buildkit/releases/download/${BUILDKIT_VERSION}/buildkit-${BUILDKIT_VERSION}.linux-amd64.tar.gz
           sudo tar -C /usr/local -xzf buildkit-${BUILDKIT_VERSION}.linux-amd64.tar.gz
           sudo rm buildkit-${BUILDKIT_VERSION}.linux-amd64.tar.gz
