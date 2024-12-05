@@ -2,28 +2,36 @@
 
 <!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
 
-<!-- This Readme has been translated regularly in 7 Major Languages of the entire world. -->
+<!-- This Readme is translated regularly in 7 Major Languages of the world. -->
 
 <div align="center">
    <a href="https://github.com/offensive-vk">
       <picture>
-           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="350" width="650" />
-           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="350" width="650" />
-           <img alt="this is art" src="./assets/default.svg" height="350" width="650" />
+           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="250" width="550" />
+           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="250" width="550" />
+           <img alt="this is art" src="./assets/default.svg" height="250" width="550" />
      </picture>
    </a>
-
-[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
-
 </div>
+
+<!--
+[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
+[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
+[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
+[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
+[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
+[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
+-->
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
   <br>
-    <a>English</a>
-    .
+    <strong> 
+    ·
+    <a><code>English</code></a>
+    ·
     <a href="README.es.md">Española</a>
-    .
+    ·
     <a href="README.fr.md">Français</a>
     ·
     <a href="README.ar.md">عربي</a>
@@ -33,19 +41,24 @@
     <a href="README.zh-CN.md">中国人</a>
     ·
     <a href="README.ru.md">Русский</a>
+    ·
+    </strong>
   </p>
 </p>
 
 <!--
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
 
-## 💫 Acerca de mí:
+<details>
+  <summary><h3>✨ About Me &rarr;</h3></summary>
+   
+## 💫 About Me:
 
 🔭_La perfección no es el objetivo._.<br>🧑‍💻 Me gusta escribir computadora`code`.<br>🤝 Estoy buscando ayuda con la administración de archivos en mi computadora.<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo algunos_asqueroso_cosa.<br>💬Preguntame sobre nada.<br>👌 Respeto mi tiempo.<br>⚡ Dato curioso: no es divertido, solo código.<br>💥Sigue moviéndote y algún día lo superarás.<br>📧_Encontrarás una manera_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mortal Kombat II fue tan popular cuando llegó a las salas de juego que varias de las máquinas fueron instaladas posteriormente con paneles de seguridad en la parte posterior para evitar que los ladrones arrancaran la placa base del juego directamente de la máquina y se la llevaran a casa.❞</i>
+<i>❝“Creo que es una característica nueva.  No le digas a nadie que fue un accidente”.—Larry Wall ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -92,11 +105,12 @@
         <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
     </p>
+</details>
 
 <!-- Showing Stuff, that i dont care about lol. have fun -->
 
 <details>
-  <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
+  <summary><h3>🚀 Expecting Something Better? &rarr;</h3></summary>
     <img src="./assets/shocked.gif" alt="aint no way" height=auto width=auto />
 
 <!-- Outer switch START -->
@@ -133,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 Relaciones públicas abiertas[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 Relaciones públicas fusionadas[#10017](https://github.com/offensive-vk/Classics/pull/10017)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-3.  🎉 Relaciones públicas fusionadas[#274](https://github.com/offensive-vk/UntilEverything/pull/274)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-4.  💪 Relaciones públicas abiertas[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉 Relaciones públicas fusionadas[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🗣 Comentado en[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 Relaciones públicas abiertas[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-8.  🚀 Lanzamiento publicado[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
-9.  🎉 Relaciones públicas fusionadas[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 Relaciones públicas fusionadas[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 Relaciones públicas fusionadas[#273](https://github.com/offensive-vk/UntilEverything/pull/273)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-12. 🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-13. 🎉 Relaciones públicas fusionadas[#5](https://github.com/offensive-vk/auto-pr-action/pull/5)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-14. 🎉 Relaciones públicas fusionadas[#23](https://github.com/offensive-vk/develop-actions/pull/23)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
-15. 🎉 Relaciones públicas fusionadas[#22](https://github.com/offensive-vk/develop-actions/pull/22)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+1.  💪 Relaciones públicas abiertas[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 Relaciones públicas abiertas[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 Relaciones públicas abiertas[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 Relaciones públicas fusionadas[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 Relaciones públicas fusionadas[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🚀 Lanzamiento publicado[v7-alfa](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🎉 Relaciones públicas fusionadas[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 Relaciones públicas fusionadas[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  💪 Relaciones públicas abiertas[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 Relaciones públicas fusionadas[#10017](https://github.com/offensive-vk/Classics/pull/10017)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+11. 🎉 Relaciones públicas fusionadas[#274](https://github.com/offensive-vk/UntilEverything/pull/274)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+12. 💪 Relaciones públicas abiertas[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+13. 🎉 Relaciones públicas fusionadas[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🗣 Comentado en[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 Relaciones públicas abiertas[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
