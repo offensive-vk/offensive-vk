@@ -41,7 +41,7 @@
 
 ## 💫 À propos de moi :
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-2.  🎉 PR fusionné[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🎉 PR fusionné[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  💪 RP ouvert[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉 PR fusionné[#10017](https://github.com/offensive-vk/Classics/pull/10017)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-6.  🎉 PR fusionné[#274](https://github.com/offensive-vk/UntilEverything/pull/274)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-7.  💪 RP ouverte[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-8.  🎉 PR fusionné[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🗣 Commenté[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 RP ouvert[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-11. 🚀 Version publiée[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-12. 🎉 PR fusionné[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 PR fusionné[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 PR fusionné[#273](https://github.com/offensive-vk/UntilEverything/pull/273)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-15. 🚀 Version publiée[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+1.  🎉 PR fusionné[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 PR fusionné[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+3.  🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+4.  🎉 PR fusionné[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉 PR fusionné[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  💪 RP ouverte[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+7.  🎉 PR fusionné[#10017](https://github.com/offensive-vk/Classics/pull/10017)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+8.  🎉 PR fusionné[#274](https://github.com/offensive-vk/UntilEverything/pull/274)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+9.  💪 RP ouverte[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 PR fusionné[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🗣 Commenté[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 RP ouverte[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+13. 🚀 Version publiée[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+14. 🎉 PR fusionné[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 PR fusionné[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
