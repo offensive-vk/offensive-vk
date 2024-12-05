@@ -6,7 +6,7 @@ on:
     - cron: '50 23 * * *'
 
 jobs:
-  starred:
+  generate:
     name: Generate List
     runs-on: ubuntu-latest
     timeout-minutes: 10
