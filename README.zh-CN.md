@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“最不满意的客户是你最大的学习源泉。”——比尔·盖茨❞</i>
+<i>❝游戏电脑可以像小型取暖器一样有效地为房间供暖。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 合并公关[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-3.  🚀 已发布版本[v7-阿尔法](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-4.  🎉 合并公关[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-5.  🎉 合并公关[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-6.  💪 开启公关[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉 合并公关[#10017](https://github.com/offensive-vk/Classics/pull/10017)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-8.  🎉 合并公关[#274](https://github.com/offensive-vk/UntilEverything/pull/274)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-9.  💪 开启公关[#7822](https://github.com/kamranahmedse/developer-roadmap/pull/7822)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 合并公关[#27530](https://github.com/offensive-vk/offensive-vk/pull/27530)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🗣 已发表评论[#7741](https://github.com/kamranahmedse/developer-roadmap/issues/7741#issuecomment-2509544931)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 开启公关[#7821](https://github.com/kamranahmedse/developer-roadmap/pull/7821)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-13. 🚀 已发布版本[v5](https://github.com/offensive-vk/develop-actions/releases/tag/v5)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-14. 🎉 合并公关[#27528](https://github.com/offensive-vk/offensive-vk/pull/27528)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 合并公关[#27526](https://github.com/offensive-vk/offensive-vk/pull/27526)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+2.  ❌ 封闭公关[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+4.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+5.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 开启公关[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 开启公关[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 开启公关[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 合并公关[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 合并公关[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🚀 已发布版本[v7-阿尔法](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
+12. 🎉 合并公关[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+13. 🎉 合并公关[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 💪 开启公关[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+15. 🎉 合并公关[#10017](https://github.com/offensive-vk/Classics/pull/10017)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
     <!--END_SECTION:activity-->
 
 </p>
