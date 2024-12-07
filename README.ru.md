@@ -41,11 +41,11 @@
 
 ## 💫 Обо мне:
 
-🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чём.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
+🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Игровые компьютеры обогревают комнату так же эффективно, как обогреватель.❞</i>
+<i>❝Пароль для компьютерного управления ракетами с ядерными боеголовками США был 00000000 в течение восьми лет.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-2.  ❌ Закрытый пиар[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-3.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-4.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 Открытый пиар[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 Открытый пиар[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 Открытый пиар[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Объединенный пиар[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 Объединенный пиар[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🚀 Опубликованный выпуск[v7-альфа](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)в[наступление-ВК/авто-репо-синхронизация](https://github.com/offensive-vk/auto-repo-sync)
-12. 🎉 Объединенный пиар[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 Объединенный пиар[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 💪 Открытый пиар[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-15. 🎉 Объединенный пиар[#10017](https://github.com/offensive-vk/Classics/pull/10017)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+1.  🎉 Объединенный пиар[#275](https://github.com/offensive-vk/UntilEverything/pull/275)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+3.  ❌ Закрытый пиар[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+5.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+6.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 Открытый пиар[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 Открытый пиар[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 Открытый пиар[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 Объединенный пиар[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Объединенный пиар[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🚀 Опубликованный выпуск[v7-альфа](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)в[наступление-ВК/авто-репо-синхронизация](https://github.com/offensive-vk/auto-repo-sync)
+13. 🎉 Объединенный пиар[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 🎉 Объединенный пиар[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 💪 Открытый пиар[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
