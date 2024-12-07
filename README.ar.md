@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝تقوم أجهزة كمبيوتر الألعاب بتسخين الغرفة بنفس الكفاءة التي يعمل بها سخان الفضاء.❞</i>
+<i>❝كلمة المرور لضوابط الكمبيوتر للصواريخ ذات الرؤوس النووية للولايات المتحدة كانت 00000000 لمدة ثماني سنوات.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-2.  ❌ علاقات عامة مغلقة[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-4.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 فتح العلاقات العامة[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 فتح العلاقات العامة[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 فتح العلاقات العامة[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 العلاقات العامة المدمجة[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 العلاقات العامة المدمجة[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)في[الهجومية-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-12. 🎉 العلاقات العامة المدمجة[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 العلاقات العامة المدمجة[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 💪 فتح العلاقات العامة[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-15. 🎉 العلاقات العامة المدمجة[#10017](https://github.com/offensive-vk/Classics/pull/10017)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+1.  🎉 العلاقات العامة المدمجة[#275](https://github.com/offensive-vk/UntilEverything/pull/275)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+3.  ❌ علاقات عامة مغلقة[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+5.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+6.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 فتح العلاقات العامة[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 فتح العلاقات العامة[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 فتح العلاقات العامة[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 العلاقات العامة المدمجة[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 العلاقات العامة المدمجة[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)في[الهجومية-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+13. 🎉 العلاقات العامة المدمجة[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 🎉 العلاقات العامة المدمجة[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 💪 فتح العلاقات العامة[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
