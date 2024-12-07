@@ -41,11 +41,11 @@
 
 ## 💫 Über mich:
 
-🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer`code`.<br>🤝 Ich suche Hilfe bei der Dateiverwaltung auf meinem Computer.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade einiges_böse_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer`code`.<br>🤝 Ich suche Hilfe bei der Dateiverwaltung auf meinem Computer.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade einiges_böse_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und Sie werden es eines Tages schaffen.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Gaming-Computer heizen einen Raum genauso effizient wie eine Raumheizung.❞</i>
+<i>❝Das Passwort für die Computersteuerung der Atomraketen der USA war acht Jahre lang 00000000.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Kommentiert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  ❌ Geschlossene PR[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🗣 Kommentiert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4.  🗣 Kommentiert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 Kommentiert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 PR eröffnet[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 PR eröffnet[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 PR eröffnet[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Zusammengeführte PR[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 Zusammengeführte PR[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🚀 Veröffentlichte Veröffentlichung[v7-alpha](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-12. 🎉 Zusammengeführte PR[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 Zusammengeführte PR[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 💪 PR eröffnet[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 🎉 Zusammengeführte PR[#10017](https://github.com/offensive-vk/Classics/pull/10017)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+1.  🎉 Zusammengeführte PR[#275](https://github.com/offensive-vk/UntilEverything/pull/275)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Kommentiert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  ❌ Geschlossene PR[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 Kommentiert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🗣 Kommentiert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  🗣 Kommentiert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 PR eröffnet[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 PR eröffnet[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)in[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 PR eröffnet[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 Zusammengeführte PR[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Zusammengeführte PR[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🚀 Veröffentlichte Veröffentlichung[v7-alpha](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+13. 🎉 Zusammengeführte PR[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 🎉 Zusammengeführte PR[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 💪 PR eröffnet[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
