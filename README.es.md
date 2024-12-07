@@ -45,7 +45,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Las computadoras para juegos calientan una habitación con la misma eficiencia que un calentador.❞</i>
+<i>❝La contraseña para el control informático de los misiles con ojivas nucleares de EE.UU. fue 00000000 durante ocho años.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -133,21 +133,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentado en[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-2.  ❌ Relaciones públicas cerradas[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🗣 Comentado en[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-4.  🗣 Comentado en[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 Comentado en[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 Relaciones públicas abiertas[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 Relaciones públicas abiertas[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 Relaciones públicas abiertas[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Relaciones públicas fusionadas[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 Relaciones públicas fusionadas[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🚀 Lanzamiento publicado[v7-alfa](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-12. 🎉 Relaciones públicas fusionadas[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 Relaciones públicas fusionadas[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 💪 Relaciones públicas abiertas[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-15. 🎉 Relaciones públicas fusionadas[#10017](https://github.com/offensive-vk/Classics/pull/10017)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+1.  🎉 Relaciones públicas fusionadas[#275](https://github.com/offensive-vk/UntilEverything/pull/275)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Comentado en[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+3.  ❌ Relaciones públicas cerradas[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 Comentado en[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+5.  🗣 Comentado en[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+6.  🗣 Comentado en[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 Relaciones públicas abiertas[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 Relaciones públicas abiertas[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 Relaciones públicas abiertas[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 Relaciones públicas fusionadas[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Relaciones públicas fusionadas[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🚀 Lanzamiento publicado[v7-alfa](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+13. 🎉 Relaciones públicas fusionadas[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 🎉 Relaciones públicas fusionadas[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 💪 Relaciones públicas abiertas[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
