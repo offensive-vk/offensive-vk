@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/offensive-vk/auto-user-activity/pull/3) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-2. 🔒 Closed issue [#34](https://github.com/offensive-vk/auto-issue/issues/34) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-3. 🔒 Closed issue [#32](https://github.com/offensive-vk/auto-issue/issues/32) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-4. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-user-activity/pull/2) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-5. 💪 Opened PR [#2](https://github.com/offensive-vk/auto-user-activity/pull/2) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-6. 🎉 Merged PR [#1](https://github.com/offensive-vk/auto-user-activity/pull/1) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-7. 🔒 Closed issue [#10018](https://github.com/offensive-vk/Classics/issues/10018) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-8. 💪 Opened PR [#1](https://github.com/offensive-vk/auto-user-activity/pull/1) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-9. 🎉 Merged PR [#27533](https://github.com/offensive-vk/offensive-vk/pull/27533) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 💪 Opened PR [#7852](https://github.com/kamranahmedse/developer-roadmap/pull/7852) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 🎉 Merged PR [#1](https://github.com/offensive-vk/AngularAdminPanel/pull/1) in [offensive-vk/AngularAdminPanel](https://github.com/offensive-vk/AngularAdminPanel)
-12. 🎉 Merged PR [#3](https://github.com/offensive-vk/AngularMiniStore/pull/3) in [offensive-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
-13. 🎉 Merged PR [#275](https://github.com/offensive-vk/UntilEverything/pull/275) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🗣 Commented on [#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. ❌ Closed PR [#27537](https://github.com/offensive-vk/offensive-vk/pull/27537) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1. 🎉 Merged PR [#10019](https://github.com/offensive-vk/Classics/pull/10019) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+2. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-contributions/pull/2) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+3. 🔒 Closed issue [#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4. 🔒 Closed issue [#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5. 🔒 Closed issue [#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6. 🔒 Closed issue [#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7. 🔒 Closed issue [#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8. 🔒 Closed issue [#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+9. 🔒 Closed issue [#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🔒 Closed issue [#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🔒 Closed issue [#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 Closed issue [#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 Closed issue [#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🎉 Merged PR [#22](https://github.com/offensive-vk/AwesomeDevOps/pull/22) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🎉 Merged PR [#35](https://github.com/offensive-vk/auto-issue/pull/35) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
 <!--END_SECTION:activity-->
 
 </p>
