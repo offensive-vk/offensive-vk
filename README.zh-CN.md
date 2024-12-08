@@ -2,28 +2,36 @@
 
 <!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
 
-<!-- This Readme has been translated regularly in 7 Major Languages of the entire world. -->
+<!-- This Readme is translated regularly in 7 Major Languages of the world. -->
 
 <div align="center">
    <a href="https://github.com/offensive-vk">
       <picture>
-           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="350" width="650" />
-           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="350" width="650" />
-           <img alt="this is art" src="./assets/default.svg" height="350" width="650" />
+           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="250" width="550" />
+           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="250" width="550" />
+           <img alt="this is art" src="./assets/default.svg" height="250" width="550" />
      </picture>
    </a>
-
-[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
-
 </div>
+
+<!--
+[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
+[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
+[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
+[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
+[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
+[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
+-->
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
   <br>
-    <a>English</a>
-    .
+    <strong> 
+    ·
+    <a><code>English</code></a>
+    ·
     <a href="README.es.md">Española</a>
-    .
+    ·
     <a href="README.fr.md">Français</a>
     ·
     <a href="README.ar.md">عربي</a>
@@ -33,19 +41,24 @@
     <a href="README.zh-CN.md">中国人</a>
     ·
     <a href="README.ru.md">Русский</a>
+    ·
+    </strong>
   </p>
 </p>
 
 <!--
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
 
-## 💫关于我：
+<details>
+  <summary><h3>✨ About Me &rarr;</h3></summary>
+   
+## 💫 About Me:
 
 🔭_完美不是目标_.<br>🧑‍💻 我喜欢写电脑`code`.<br>🤝 我正在寻求有关计算机中文件管理的帮助。<br>✨ 住在里面`terminal`.<br>🌱我目前正在学习一些_可恶的_东西。<br>💬什么都别问我。<br>👌我尊重我的时间。<br>⚡ 有趣的事实：没有乐趣，只有代码。<br>💥 继续前进，总有一天你会克服的。<br>📧_你会找到办法_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝美国核弹头导弹的电脑控制密码是00000000八年。❞</i>
+<i>❝“计算机擅长遵循指令，但不擅长读懂你的想法。”——Donald Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -92,11 +105,12 @@
         <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
     </p>
+</details>
 
 <!-- Showing Stuff, that i dont care about lol. have fun -->
 
 <details>
-  <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
+  <summary><h3>🚀 Expecting Something Better? &rarr;</h3></summary>
     <img src="./assets/shocked.gif" alt="aint no way" height=auto width=auto />
 
 <!-- Outer switch START -->
@@ -133,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#275](https://github.com/offensive-vk/UntilEverything/pull/275)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-3.  ❌ 封闭公关[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-6.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 开启公关[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 开启公关[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-9.  💪 开启公关[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 合并公关[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 合并公关[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🚀 已发布版本[v7-阿尔法](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-13. 🎉 合并公关[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 🎉 合并公关[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-15. 💪 开启公关[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 合并公关[#27533](https://github.com/offensive-vk/offensive-vk/pull/27533)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  💪 开启公关[#7852](https://github.com/kamranahmedse/developer-roadmap/pull/7852)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 合并公关[#1](https://github.com/offensive-vk/AngularAdminPanel/pull/1)在[进攻-vk/AngularAdminPanel](https://github.com/offensive-vk/AngularAdminPanel)
+4.  🎉 合并公关[#3](https://github.com/offensive-vk/AngularMiniStore/pull/3)在[进攻性-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
+5.  🎉 合并公关[#275](https://github.com/offensive-vk/UntilEverything/pull/275)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+7.  ❌ 封闭公关[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+9.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+10. 🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 开启公关[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 开启公关[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪 开启公关[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 合并公关[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 合并公关[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
