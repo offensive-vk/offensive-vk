@@ -2,28 +2,36 @@
 
 <!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
 
-<!-- This Readme has been translated regularly in 7 Major Languages of the entire world. -->
+<!-- This Readme is translated regularly in 7 Major Languages of the world. -->
 
 <div align="center">
    <a href="https://github.com/offensive-vk">
       <picture>
-           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="350" width="650" />
-           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="350" width="650" />
-           <img alt="this is art" src="./assets/default.svg" height="350" width="650" />
+           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="250" width="550" />
+           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="250" width="550" />
+           <img alt="this is art" src="./assets/default.svg" height="250" width="550" />
      </picture>
    </a>
-
-[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
-
 </div>
+
+<!--
+[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
+[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
+[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
+[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
+[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
+[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
+-->
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
   <br>
-    <a>English</a>
-    .
+    <strong> 
+    ·
+    <a><code>English</code></a>
+    ·
     <a href="README.es.md">Española</a>
-    .
+    ·
     <a href="README.fr.md">Français</a>
     ·
     <a href="README.ar.md">عربي</a>
@@ -33,19 +41,24 @@
     <a href="README.zh-CN.md">中国人</a>
     ·
     <a href="README.ru.md">Русский</a>
+    ·
+    </strong>
   </p>
 </p>
 
 <!--
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
 
-## 💫 À propos de moi :
+<details>
+  <summary><h3>✨ About Me &rarr;</h3></summary>
+   
+## 💫 About Me:
 
 🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Les ordinateurs de jeu chauffent une pièce aussi efficacement qu'un radiateur.❞</i>
+<i>❝« Les ordinateurs sont doués pour suivre des instructions, mais pas pour lire dans vos pensées. » - Donald Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -92,11 +105,12 @@
         <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
     </p>
+</details>
 
 <!-- Showing Stuff, that i dont care about lol. have fun -->
 
 <details>
-  <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
+  <summary><h3>🚀 Expecting Something Better? &rarr;</h3></summary>
     <img src="./assets/shocked.gif" alt="aint no way" height=auto width=auto />
 
 <!-- Outer switch START -->
@@ -133,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-2.  ❌ PR fermé[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-4.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 RP ouverte[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 RP ouverte[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 RP ouverte[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 PR fusionné[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 PR fusionné[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-12. 🎉 PR fusionné[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 PR fusionné[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 💪 RP ouverte[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-15. 🎉 PR fusionné[#10017](https://github.com/offensive-vk/Classics/pull/10017)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+1.  🎉 PR fusionné[#27533](https://github.com/offensive-vk/offensive-vk/pull/27533)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  💪 RP ouvert[#7852](https://github.com/kamranahmedse/developer-roadmap/pull/7852)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 PR fusionné[#1](https://github.com/offensive-vk/AngularAdminPanel/pull/1)dans[offensive-vk/AngularAdminPanel](https://github.com/offensive-vk/AngularAdminPanel)
+4.  🎉 PR fusionné[#3](https://github.com/offensive-vk/AngularMiniStore/pull/3)dans[offensive-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
+5.  🎉 PR fusionné[#275](https://github.com/offensive-vk/UntilEverything/pull/275)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+6.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+7.  ❌ PR fermé[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+9.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+10. 🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 RP ouvert[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 RP ouvert[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪 RP ouvert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 PR fusionné[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 PR fusionné[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
