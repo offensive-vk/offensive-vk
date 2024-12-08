@@ -2,28 +2,36 @@
 
 <!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
 
-<!-- This Readme has been translated regularly in 7 Major Languages of the entire world. -->
+<!-- This Readme is translated regularly in 7 Major Languages of the world. -->
 
 <div align="center">
    <a href="https://github.com/offensive-vk">
       <picture>
-           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="350" width="650" />
-           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="350" width="650" />
-           <img alt="this is art" src="./assets/default.svg" height="350" width="650" />
+           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="250" width="550" />
+           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="250" width="550" />
+           <img alt="this is art" src="./assets/default.svg" height="250" width="550" />
      </picture>
    </a>
-
-[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
-
 </div>
+
+<!--
+[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
+[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
+[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
+[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
+[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
+[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
+-->
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
   <br>
-    <a>English</a>
-    .
+    <strong> 
+    ·
+    <a><code>English</code></a>
+    ·
     <a href="README.es.md">Española</a>
-    .
+    ·
     <a href="README.fr.md">Français</a>
     ·
     <a href="README.ar.md">عربي</a>
@@ -33,19 +41,24 @@
     <a href="README.zh-CN.md">中国人</a>
     ·
     <a href="README.ru.md">Русский</a>
+    ·
+    </strong>
   </p>
 </p>
 
 <!--
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
 
-## 💫 Обо мне:
+<details>
+  <summary><h3>✨ About Me &rarr;</h3></summary>
+   
+## 💫 About Me:
 
 🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Пароль для компьютерного управления ракетами с ядерными боеголовками США был 00000000 в течение восьми лет.❞</i>
+<i>❝ «Компьютеры хорошо следуют инструкциям, но не читают ваши мысли» — Дональд Кнут ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -92,11 +105,12 @@
         <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
     </p>
+</details>
 
 <!-- Showing Stuff, that i dont care about lol. have fun -->
 
 <details>
-  <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
+  <summary><h3>🚀 Expecting Something Better? &rarr;</h3></summary>
     <img src="./assets/shocked.gif" alt="aint no way" height=auto width=auto />
 
 <!-- Outer switch START -->
@@ -133,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#275](https://github.com/offensive-vk/UntilEverything/pull/275)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-3.  ❌ Закрытый пиар[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-4.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-6.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 Открытый пиар[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 Открытый пиар[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-9.  💪 Открытый пиар[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 Объединенный пиар[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 Объединенный пиар[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🚀 Опубликованный выпуск[v7-альфа](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)в[наступление-ВК/авто-репо-синхронизация](https://github.com/offensive-vk/auto-repo-sync)
-13. 🎉 Объединенный пиар[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 🎉 Объединенный пиар[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-15. 💪 Открытый пиар[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 Объединенный пиар[#27533](https://github.com/offensive-vk/offensive-vk/pull/27533)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  💪 Открытый пиар[#7852](https://github.com/kamranahmedse/developer-roadmap/pull/7852)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 Объединенный пиар[#1](https://github.com/offensive-vk/AngularAdminPanel/pull/1)в[наступление-vk/AngularAdminPanel](https://github.com/offensive-vk/AngularAdminPanel)
+4.  🎉 Объединенный пиар[#3](https://github.com/offensive-vk/AngularMiniStore/pull/3)в[наступление-вк/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
+5.  🎉 Объединенный пиар[#275](https://github.com/offensive-vk/UntilEverything/pull/275)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+7.  ❌ Закрытый пиар[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+8.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+9.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+10. 🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 Открытый пиар[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 Открытый пиар[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪 Открытый пиар[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 Объединенный пиар[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 Объединенный пиар[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
