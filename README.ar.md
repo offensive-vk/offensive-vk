@@ -2,28 +2,36 @@
 
 <!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
 
-<!-- This Readme has been translated regularly in 7 Major Languages of the entire world. -->
+<!-- This Readme is translated regularly in 7 Major Languages of the world. -->
 
 <div align="center">
    <a href="https://github.com/offensive-vk">
       <picture>
-           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="350" width="650" />
-           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="350" width="650" />
-           <img alt="this is art" src="./assets/default.svg" height="350" width="650" />
+           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="250" width="550" />
+           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="250" width="550" />
+           <img alt="this is art" src="./assets/default.svg" height="250" width="550" />
      </picture>
    </a>
-
-[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
-
 </div>
+
+<!--
+[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
+[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
+[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
+[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
+[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
+[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
+-->
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
   <br>
-    <a>English</a>
-    .
+    <strong> 
+    ·
+    <a><code>English</code></a>
+    ·
     <a href="README.es.md">Española</a>
-    .
+    ·
     <a href="README.fr.md">Français</a>
     ·
     <a href="README.ar.md">عربي</a>
@@ -33,19 +41,24 @@
     <a href="README.zh-CN.md">中国人</a>
     ·
     <a href="README.ru.md">Русский</a>
+    ·
+    </strong>
   </p>
 </p>
 
 <!--
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
 
-## 💫 عني:
+<details>
+  <summary><h3>✨ About Me &rarr;</h3></summary>
+   
+## 💫 About Me:
 
-🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في إدارة الملفات في جهاز الكمبيوتر الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
+🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في إدارة الملفات في جهاز الكمبيوتر الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم حاليًا بعضًا منها_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝كلمة المرور لضوابط الكمبيوتر للصواريخ ذات الرؤوس النووية للولايات المتحدة كانت 00000000 لمدة ثماني سنوات.❞</i>
+<i>❝"أجهزة الكمبيوتر جيدة في اتباع التعليمات، ولكن ليس في قراءة أفكارك." - دونالد كنوث ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -92,11 +105,12 @@
         <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
     </p>
+</details>
 
 <!-- Showing Stuff, that i dont care about lol. have fun -->
 
 <details>
-  <summary><h3>🚀 Expecting Something Better? Expand for more !</h3></summary>
+  <summary><h3>🚀 Expecting Something Better? &rarr;</h3></summary>
     <img src="./assets/shocked.gif" alt="aint no way" height=auto width=auto />
 
 <!-- Outer switch START -->
@@ -133,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#275](https://github.com/offensive-vk/UntilEverything/pull/275)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-3.  ❌ علاقات عامة مغلقة[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-6.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 فتح العلاقات العامة[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 فتح العلاقات العامة[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-9.  💪 فتح العلاقات العامة[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 العلاقات العامة المدمجة[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 العلاقات العامة المدمجة[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-alpha)في[الهجومية-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-13. 🎉 العلاقات العامة المدمجة[#78](https://github.com/offensive-vk/AwesomeCloud/pull/78)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 🎉 العلاقات العامة المدمجة[#77](https://github.com/offensive-vk/AwesomeCloud/pull/77)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-15. 💪 فتح العلاقات العامة[#7828](https://github.com/kamranahmedse/developer-roadmap/pull/7828)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 العلاقات العامة المدمجة[#27533](https://github.com/offensive-vk/offensive-vk/pull/27533)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+2.  💪 فتح العلاقات العامة[#7852](https://github.com/kamranahmedse/developer-roadmap/pull/7852)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/AngularAdminPanel/pull/1)في[الهجومية-vk/AngularAdminPanel](https://github.com/offensive-vk/AngularAdminPanel)
+4.  🎉 العلاقات العامة المدمجة[#3](https://github.com/offensive-vk/AngularMiniStore/pull/3)في[الهجوم-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
+5.  🎉 العلاقات العامة المدمجة[#275](https://github.com/offensive-vk/UntilEverything/pull/275)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+6.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+7.  ❌ علاقات عامة مغلقة[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+9.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+10. 🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 فتح العلاقات العامة[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 فتح العلاقات العامة[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪 فتح العلاقات العامة[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 العلاقات العامة المدمجة[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 العلاقات العامة المدمجة[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
