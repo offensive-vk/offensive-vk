@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Компьютеры хорошо следуют инструкциям, но не читают ваши мысли» — Дональд Кнут ❞</i>
+<i>❝Существует язык программирования INTERCAL, в котором есть такие ключевые слова, как IGNORE, PLEASE, FORGET. Если вы не используете PLEASE достаточное количество раз во время кодирования, компилятор отклоняет код.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#27533](https://github.com/offensive-vk/offensive-vk/pull/27533)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-2.  💪 Открытый пиар[#7852](https://github.com/kamranahmedse/developer-roadmap/pull/7852)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-3.  🎉 Объединенный пиар[#1](https://github.com/offensive-vk/AngularAdminPanel/pull/1)в[наступление-vk/AngularAdminPanel](https://github.com/offensive-vk/AngularAdminPanel)
-4.  🎉 Объединенный пиар[#3](https://github.com/offensive-vk/AngularMiniStore/pull/3)в[наступление-вк/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
-5.  🎉 Объединенный пиар[#275](https://github.com/offensive-vk/UntilEverything/pull/275)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-7.  ❌ Закрытый пиар[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-8.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-9.  🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣 Прокомментировал[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 Открытый пиар[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 Открытый пиар[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪 Открытый пиар[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉 Объединенный пиар[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Объединенный пиар[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 Объединенный пиар[#10019](https://github.com/offensive-vk/Classics/pull/10019)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+2.  🎉 Объединенный пиар[#2](https://github.com/offensive-vk/auto-contributions/pull/2)в[наступление-вк/авто-вклады](https://github.com/offensive-vk/auto-contributions)
+3.  🔒 Вопрос закрыт.[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4.  🔒 Вопрос закрыт.[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5.  🔒 Вопрос закрыт.[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 Вопрос закрыт.[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🔒 Вопрос закрыт.[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🔒 Вопрос закрыт.[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+9.  🔒 Вопрос закрыт.[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🔒 Вопрос закрыт.[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🔒 Вопрос закрыт.[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 Вопрос закрыт.[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 Вопрос закрыт.[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🎉 Объединенный пиар[#22](https://github.com/offensive-vk/AwesomeDevOps/pull/22)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🎉 Объединенный пиар[#35](https://github.com/offensive-vk/auto-issue/pull/35)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
     <!--END_SECTION:activity-->
 
 </p>
