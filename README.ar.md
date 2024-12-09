@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"أجهزة الكمبيوتر جيدة في اتباع التعليمات، ولكن ليس في قراءة أفكارك." - دونالد كنوث ❞</i>
+<i>❝هناك لغة برمجة تسمى INTERCAL والتي تحتوي على كلمات رئيسية مثل IGNORE، PLEASE، FORGET. إذا لم تستخدم PLEASE مرات كافية أثناء البرمجة، فسيرفض المترجم الكود.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#27533](https://github.com/offensive-vk/offensive-vk/pull/27533)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  💪 فتح العلاقات العامة[#7852](https://github.com/kamranahmedse/developer-roadmap/pull/7852)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-3.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/AngularAdminPanel/pull/1)في[الهجومية-vk/AngularAdminPanel](https://github.com/offensive-vk/AngularAdminPanel)
-4.  🎉 العلاقات العامة المدمجة[#3](https://github.com/offensive-vk/AngularMiniStore/pull/3)في[الهجوم-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
-5.  🎉 العلاقات العامة المدمجة[#275](https://github.com/offensive-vk/UntilEverything/pull/275)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-6.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-7.  ❌ علاقات عامة مغلقة[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-9.  🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣 تم التعليق عليه[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 فتح العلاقات العامة[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 فتح العلاقات العامة[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪 فتح العلاقات العامة[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉 العلاقات العامة المدمجة[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 العلاقات العامة المدمجة[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 العلاقات العامة المدمجة[#10019](https://github.com/offensive-vk/Classics/pull/10019)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+2.  🎉 العلاقات العامة المدمجة[#2](https://github.com/offensive-vk/auto-contributions/pull/2)في[الهجومية-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
+3.  🔒 قضية مغلقة[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4.  🔒 قضية مغلقة[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5.  🔒 قضية مغلقة[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 قضية مغلقة[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🔒 قضية مغلقة[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🔒 قضية مغلقة[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+9.  🔒 قضية مغلقة[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🔒 قضية مغلقة[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🔒 قضية مغلقة[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 قضية مغلقة[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 قضية مغلقة[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🎉 العلاقات العامة المدمجة[#22](https://github.com/offensive-vk/AwesomeDevOps/pull/22)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🎉 العلاقات العامة المدمجة[#35](https://github.com/offensive-vk/auto-issue/pull/35)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
     <!--END_SECTION:activity-->
 
 </p>
