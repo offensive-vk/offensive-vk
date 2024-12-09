@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Les ordinateurs sont doués pour suivre des instructions, mais pas pour lire dans vos pensées. » - Donald Knuth ❞</i>
+<i>❝Il existe un langage de programmation appelé INTERCAL qui contient des mots-clés tels que IGNORE, PLEASE, FORGET. Si vous n'utilisez pas PLEASE suffisamment de fois lors du codage, le compilateur rejette le code.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#27533](https://github.com/offensive-vk/offensive-vk/pull/27533)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  💪 RP ouvert[#7852](https://github.com/kamranahmedse/developer-roadmap/pull/7852)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-3.  🎉 PR fusionné[#1](https://github.com/offensive-vk/AngularAdminPanel/pull/1)dans[offensive-vk/AngularAdminPanel](https://github.com/offensive-vk/AngularAdminPanel)
-4.  🎉 PR fusionné[#3](https://github.com/offensive-vk/AngularMiniStore/pull/3)dans[offensive-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
-5.  🎉 PR fusionné[#275](https://github.com/offensive-vk/UntilEverything/pull/275)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-6.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-7.  ❌ PR fermé[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-9.  🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣 Commenté[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 RP ouvert[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 RP ouvert[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪 RP ouvert[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉 PR fusionné[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 PR fusionné[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 PR fusionné[#10019](https://github.com/offensive-vk/Classics/pull/10019)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+2.  🎉 PR fusionné[#2](https://github.com/offensive-vk/auto-contributions/pull/2)dans[offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+3.  🔒 Problème clos[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4.  🔒 Problème clos[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5.  🔒 Problème clos[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 Problème clos[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🔒 Problème clos[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🔒 Problème clos[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+9.  🔒 Problème clos[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🔒 Problème clos[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🔒 Problème clos[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 Problème clos[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 Problème clos[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🎉 PR fusionné[#22](https://github.com/offensive-vk/AwesomeDevOps/pull/22)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🎉 PR fusionné[#35](https://github.com/offensive-vk/auto-issue/pull/35)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
     <!--END_SECTION:activity-->
 
 </p>
