@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机擅长遵循指令，但不擅长读懂你的想法。”——Donald Knuth ❞</i>
+<i>❝“注释你的代码就像打扫你的浴室——你永远不想这样做，但它确实为你和你的客人创造了更愉快的体验。”——Ryan Campbell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#27533](https://github.com/offensive-vk/offensive-vk/pull/27533)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-2.  💪 开启公关[#7852](https://github.com/kamranahmedse/developer-roadmap/pull/7852)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-3.  🎉 合并公关[#1](https://github.com/offensive-vk/AngularAdminPanel/pull/1)在[进攻-vk/AngularAdminPanel](https://github.com/offensive-vk/AngularAdminPanel)
-4.  🎉 合并公关[#3](https://github.com/offensive-vk/AngularMiniStore/pull/3)在[进攻性-vk/AngularMiniStore](https://github.com/offensive-vk/AngularMiniStore)
-5.  🎉 合并公关[#275](https://github.com/offensive-vk/UntilEverything/pull/275)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519452193)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-7.  ❌ 封闭公关[#27537](https://github.com/offensive-vk/offensive-vk/pull/27537)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519407958)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-9.  🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519368781)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣 已发表评论[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840#issuecomment-2519349722)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 开启公关[#7842](https://github.com/kamranahmedse/developer-roadmap/pull/7842)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 开启公关[#7841](https://github.com/kamranahmedse/developer-roadmap/pull/7841)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪 开启公关[#7840](https://github.com/kamranahmedse/developer-roadmap/pull/7840)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉 合并公关[#27535](https://github.com/offensive-vk/offensive-vk/pull/27535)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 合并公关[#19](https://github.com/offensive-vk/AwesomeDevOps/pull/19)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 合并公关[#10019](https://github.com/offensive-vk/Classics/pull/10019)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+2.  🎉 合并公关[#2](https://github.com/offensive-vk/auto-contributions/pull/2)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
+3.  🔒 已关闭问题[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4.  🔒 已关闭问题[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5.  🔒 已关闭问题[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 已关闭问题[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🔒 已关闭问题[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🔒 已关闭问题[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+9.  🔒 已关闭问题[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🔒 已关闭问题[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🔒 已关闭问题[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 已关闭问题[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 已关闭问题[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🎉 合并公关[#22](https://github.com/offensive-vk/AwesomeDevOps/pull/22)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🎉 合并公关[#35](https://github.com/offensive-vk/auto-issue/pull/35)在[进攻性-vk/自动发出](https://github.com/offensive-vk/auto-issue)
     <!--END_SECTION:activity-->
 
 </p>
