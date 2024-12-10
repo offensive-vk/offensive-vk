@@ -24,8 +24,8 @@ importers:
         specifier: ^4.0.2
         version: 4.0.2
       pnpm:
-        specifier: 9.0.0
-        version: 9.0.0
+        specifier: 9.15.0
+        version: 9.15.0
 
 packages:
 
@@ -184,8 +184,8 @@ packages:
     resolution: {integrity: sha512-wbqF4uc1YbcldtiBFfkSnquHtECEIpYD78YUXI6ri1Im5OO2NLo6ZVpRdbJpdnpZ05zMrVPssNiEo6JQtea+Qg==}
     engines: {node: '>= 18'}
 
-  pnpm@9.0.0:
-    resolution: {integrity: sha512-tBBnB8ciWxdIthWVlTzL6/+XtUrQXQAqo2NfYzucU81mb3zpuLxEcE8foEi5pJtVNxqy2enWZ9Hv4u8VFLzVEw==}
+  pnpm@9.15.0:
+    resolution: {integrity: sha512-duI3l2CkMo7EQVgVvNZije5yevN3mqpMkU45RBVsQpmSGon5djge4QfUHxLPpLZmgcqccY8GaPoIMe1MbYulbA==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -410,7 +410,7 @@ snapshots:
       '@octokit/request-error': 6.1.5
       '@octokit/types': 13.6.2
 
-  pnpm@9.0.0: {}
+  pnpm@9.15.0: {}
 
   punycode.js@2.3.1: {}
 
