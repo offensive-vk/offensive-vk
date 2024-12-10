@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Il existe un langage de programmation appelé INTERCAL qui contient des mots-clés tels que IGNORE, PLEASE, FORGET. Si vous n'utilisez pas PLEASE suffisamment de fois lors du codage, le compilateur rejette le code.❞</i>
+<i>❝« Commenter votre code, c'est comme nettoyer votre salle de bain : vous ne voulez jamais le faire, mais cela crée vraiment une expérience plus agréable pour vous et vos invités. » — Ryan Campbell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
