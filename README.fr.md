@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Commenter votre code, c'est comme nettoyer votre salle de bain : vous ne voulez jamais le faire, mais cela crée vraiment une expérience plus agréable pour vous et vos invités. » — Ryan Campbell ❞</i>
+<i>❝« Comme il est rare que maintenir le code de quelqu'un d'autre équivaut à entrer dans un bâtiment magnifiquement conçu, que l'on admire en se promenant et en planifiant comment ajouter une aile ou faire une redécoration. Le plus souvent, maintenir le code de quelqu'un d'autre, c'est comme être jeté tête baissée dans un gros tas d'ordures gluantes et malodorantes. »— Bill Venners ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#10019](https://github.com/offensive-vk/Classics/pull/10019)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-2.  🎉 PR fusionné[#2](https://github.com/offensive-vk/auto-contributions/pull/2)dans[offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
-3.  🔒 Problème clos[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-4.  🔒 Problème clos[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-5.  🔒 Problème clos[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6.  🔒 Problème clos[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7.  🔒 Problème clos[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-8.  🔒 Problème clos[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-9.  🔒 Problème clos[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-10. 🔒 Problème clos[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🔒 Problème clos[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🔒 Problème clos[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-13. 🔒 Problème clos[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-14. 🎉 PR fusionné[#22](https://github.com/offensive-vk/AwesomeDevOps/pull/22)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🎉 PR fusionné[#35](https://github.com/offensive-vk/auto-issue/pull/35)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+1.  🎉 PR fusionné[#10022](https://github.com/offensive-vk/Classics/pull/10022)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+2.  🎉 PR fusionné[#10023](https://github.com/offensive-vk/Classics/pull/10023)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+3.  🎉 PR fusionné[#10019](https://github.com/offensive-vk/Classics/pull/10019)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+4.  🎉 PR fusionné[#2](https://github.com/offensive-vk/auto-contributions/pull/2)dans[offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+5.  🔒 Problème clos[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 Problème clos[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🔒 Problème clos[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🔒 Problème clos[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+9.  🔒 Problème clos[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🔒 Problème clos[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🔒 Problème clos[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 Problème clos[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 Problème clos[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🔒 Problème clos[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🔒 Problème clos[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
