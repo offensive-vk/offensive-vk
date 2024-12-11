@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Комментирование вашего кода похоже на уборку в ванной — вам никогда не захочется этого делать, но это действительно доставляет больше приятных впечатлений вам и вашим гостям». — Райан Кэмпбелл ❞</i>
+<i>❝ «Как редко случается, что соблюдение чужого кода сродни входу в красиво спроектированное здание, которым вы восхищаетесь, пока гуляете и планируете, как добавить крыло или сделать косметический ремонт. Чаще всего поддерживать чужой код — это все равно, что быть брошенным с головой в большую кучу скользкого и вонючего мусора». — Билл Веннерс ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#10019](https://github.com/offensive-vk/Classics/pull/10019)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-2.  🎉 Объединенный пиар[#2](https://github.com/offensive-vk/auto-contributions/pull/2)в[наступление-вк/авто-вклады](https://github.com/offensive-vk/auto-contributions)
-3.  🔒 Вопрос закрыт.[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-4.  🔒 Вопрос закрыт.[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-5.  🔒 Вопрос закрыт.[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6.  🔒 Вопрос закрыт.[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7.  🔒 Вопрос закрыт.[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-8.  🔒 Вопрос закрыт.[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-9.  🔒 Вопрос закрыт.[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-10. 🔒 Вопрос закрыт.[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🔒 Вопрос закрыт.[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🔒 Вопрос закрыт.[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-13. 🔒 Вопрос закрыт.[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-14. 🎉 Объединенный пиар[#22](https://github.com/offensive-vk/AwesomeDevOps/pull/22)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🎉 Объединенный пиар[#35](https://github.com/offensive-vk/auto-issue/pull/35)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
+1.  🎉 Объединенный пиар[#10022](https://github.com/offensive-vk/Classics/pull/10022)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+2.  🎉 Объединенный пиар[#10023](https://github.com/offensive-vk/Classics/pull/10023)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+3.  🎉 Объединенный пиар[#10019](https://github.com/offensive-vk/Classics/pull/10019)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+4.  🎉 Объединенный пиар[#2](https://github.com/offensive-vk/auto-contributions/pull/2)в[наступление-вк/авто-вклады](https://github.com/offensive-vk/auto-contributions)
+5.  🔒 Вопрос закрыт.[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 Вопрос закрыт.[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🔒 Вопрос закрыт.[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🔒 Вопрос закрыт.[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+9.  🔒 Вопрос закрыт.[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🔒 Вопрос закрыт.[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🔒 Вопрос закрыт.[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 Вопрос закрыт.[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 Вопрос закрыт.[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🔒 Вопрос закрыт.[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🔒 Вопрос закрыт.[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
