@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10019](https://github.com/offensive-vk/Classics/pull/10019) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-2. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-contributions/pull/2) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
-3. 🔒 Closed issue [#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-4. 🔒 Closed issue [#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-5. 🔒 Closed issue [#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6. 🔒 Closed issue [#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7. 🔒 Closed issue [#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-8. 🔒 Closed issue [#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-9. 🔒 Closed issue [#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-10. 🔒 Closed issue [#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🔒 Closed issue [#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🔒 Closed issue [#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-13. 🔒 Closed issue [#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-14. 🎉 Merged PR [#22](https://github.com/offensive-vk/AwesomeDevOps/pull/22) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🎉 Merged PR [#35](https://github.com/offensive-vk/auto-issue/pull/35) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+1. 🎉 Merged PR [#10022](https://github.com/offensive-vk/Classics/pull/10022) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+2. 🎉 Merged PR [#10023](https://github.com/offensive-vk/Classics/pull/10023) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+3. 🎉 Merged PR [#10019](https://github.com/offensive-vk/Classics/pull/10019) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+4. 🎉 Merged PR [#2](https://github.com/offensive-vk/auto-contributions/pull/2) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+5. 🔒 Closed issue [#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6. 🔒 Closed issue [#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7. 🔒 Closed issue [#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8. 🔒 Closed issue [#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+9. 🔒 Closed issue [#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🔒 Closed issue [#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🔒 Closed issue [#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 Closed issue [#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 Closed issue [#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🔒 Closed issue [#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🔒 Closed issue [#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 <!--END_SECTION:activity-->
 
 </p>
