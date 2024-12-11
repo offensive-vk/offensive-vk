@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“注释你的代码就像打扫你的浴室——你永远不想这样做，但它确实为你和你的客人创造了更愉快的体验。”——Ryan Campbell ❞</i>
+<i>❝“维护别人的代码就像进入一座设计精美的建筑，当你四处走动并计划如何添加侧翼或重新装修时，你会欣赏它，这是多么罕见的事情。更多时候，维护别人的代码就像被一头扔进一大堆又粘又臭的垃圾里。”——Bill Venners ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#10019](https://github.com/offensive-vk/Classics/pull/10019)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-2.  🎉 合并公关[#2](https://github.com/offensive-vk/auto-contributions/pull/2)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
-3.  🔒 已关闭问题[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-4.  🔒 已关闭问题[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-5.  🔒 已关闭问题[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6.  🔒 已关闭问题[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7.  🔒 已关闭问题[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-8.  🔒 已关闭问题[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-9.  🔒 已关闭问题[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-10. 🔒 已关闭问题[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🔒 已关闭问题[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🔒 已关闭问题[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-13. 🔒 已关闭问题[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-14. 🎉 合并公关[#22](https://github.com/offensive-vk/AwesomeDevOps/pull/22)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🎉 合并公关[#35](https://github.com/offensive-vk/auto-issue/pull/35)在[进攻性-vk/自动发出](https://github.com/offensive-vk/auto-issue)
+1.  🎉 合并公关[#10022](https://github.com/offensive-vk/Classics/pull/10022)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+2.  🎉 合并公关[#10023](https://github.com/offensive-vk/Classics/pull/10023)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+3.  🎉 合并公关[#10019](https://github.com/offensive-vk/Classics/pull/10019)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+4.  🎉 合并公关[#2](https://github.com/offensive-vk/auto-contributions/pull/2)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
+5.  🔒 已关闭问题[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 已关闭问题[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🔒 已关闭问题[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  🔒 已关闭问题[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+9.  🔒 已关闭问题[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🔒 已关闭问题[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+11. 🔒 已关闭问题[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 已关闭问题[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 已关闭问题[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🔒 已关闭问题[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🔒 已关闭问题[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
