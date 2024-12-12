@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#10022](https://github.com/offensive-vk/Classics/pull/10022)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-2.  🎉 العلاقات العامة المدمجة[#10023](https://github.com/offensive-vk/Classics/pull/10023)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-3.  🎉 العلاقات العامة المدمجة[#10019](https://github.com/offensive-vk/Classics/pull/10019)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-4.  🎉 العلاقات العامة المدمجة[#2](https://github.com/offensive-vk/auto-contributions/pull/2)في[الهجوم-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
-5.  🔒 قضية مغلقة[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6.  🔒 قضية مغلقة[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7.  🔒 قضية مغلقة[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-8.  🔒 قضية مغلقة[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-9.  🔒 قضية مغلقة[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-10. 🔒 قضية مغلقة[#20](https://github.com/offensive-vk/AwesomeDevOps/issues/20)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-11. 🔒 قضية مغلقة[#18](https://github.com/offensive-vk/AwesomeDevOps/issues/18)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🔒 قضية مغلقة[#17](https://github.com/offensive-vk/AwesomeDevOps/issues/17)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-13. 🔒 قضية مغلقة[#15](https://github.com/offensive-vk/AwesomeDevOps/issues/15)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-14. 🔒 قضية مغلقة[#14](https://github.com/offensive-vk/AwesomeDevOps/issues/14)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🔒 قضية مغلقة[#12](https://github.com/offensive-vk/AwesomeDevOps/issues/12)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 العلاقات العامة المدمجة[#276](https://github.com/offensive-vk/UntilEverything/pull/276)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#27540](https://github.com/offensive-vk/offensive-vk/pull/27540#issuecomment-2536092395)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 العلاقات العامة المدمجة[#27543](https://github.com/offensive-vk/offensive-vk/pull/27543)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+5.  🎉 العلاقات العامة المدمجة[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+6.  💪 فتح العلاقات العامة[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+7.  🎉 العلاقات العامة المدمجة[#10022](https://github.com/offensive-vk/Classics/pull/10022)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+8.  🎉 العلاقات العامة المدمجة[#10023](https://github.com/offensive-vk/Classics/pull/10023)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+9.  🎉 العلاقات العامة المدمجة[#10019](https://github.com/offensive-vk/Classics/pull/10019)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+10. 🎉 العلاقات العامة المدمجة[#2](https://github.com/offensive-vk/auto-contributions/pull/2)في[الهجوم-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
+11. 🔒 قضية مغلقة[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 🔒 قضية مغلقة[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+13. 🔒 قضية مغلقة[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🔒 قضية مغلقة[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🔒 قضية مغلقة[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
