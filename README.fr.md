@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Comme il est rare que maintenir le code de quelqu'un d'autre équivaut à entrer dans un bâtiment magnifiquement conçu, que l'on admire en se promenant et en planifiant comment ajouter une aile ou faire une redécoration. Le plus souvent, maintenir le code de quelqu'un d'autre, c'est comme être jeté tête baissée dans un gros tas d'ordures gluantes et malodorantes. »— Bill Venners ❞</i>
+<i>❝Pendant le jeu Jeopardy d'IBM Watson, il a stocké les 15 téraoctets de ses connaissances dans la RAM, y compris chaque page de Wikipédia existante.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#276](https://github.com/offensive-vk/UntilEverything/pull/276)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Commenté[#27540](https://github.com/offensive-vk/offensive-vk/pull/27540#issuecomment-2536092395)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 PR fusionné[#27543](https://github.com/offensive-vk/offensive-vk/pull/27543)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-5.  🎉 PR fusionné[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-6.  💪 RP ouverte[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-7.  🎉 PR fusionné[#10022](https://github.com/offensive-vk/Classics/pull/10022)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-8.  🎉 PR fusionné[#10023](https://github.com/offensive-vk/Classics/pull/10023)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-9.  🎉 PR fusionné[#10019](https://github.com/offensive-vk/Classics/pull/10019)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-10. 🎉 PR fusionné[#2](https://github.com/offensive-vk/auto-contributions/pull/2)dans[offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
-11. 🔒 Problème clos[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 🔒 Problème clos[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-13. 🔒 Problème clos[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-14. 🔒 Problème clos[#24](https://github.com/offensive-vk/AwesomeDevOps/issues/24)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🔒 Problème clos[#23](https://github.com/offensive-vk/AwesomeDevOps/issues/23)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 PR fusionné[#281](https://github.com/offensive-vk/UntilEverything/pull/281)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionné[#282](https://github.com/offensive-vk/UntilEverything/pull/282)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 PR fusionné[#276](https://github.com/offensive-vk/UntilEverything/pull/276)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 Commenté[#27540](https://github.com/offensive-vk/offensive-vk/pull/27540#issuecomment-2536092395)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 PR fusionné[#27543](https://github.com/offensive-vk/offensive-vk/pull/27543)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🎉 PR fusionné[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+8.  💪 RP ouverte[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  🎉 PR fusionné[#10022](https://github.com/offensive-vk/Classics/pull/10022)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+10. 🎉 PR fusionné[#10023](https://github.com/offensive-vk/Classics/pull/10023)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+11. 🎉 PR fusionné[#10019](https://github.com/offensive-vk/Classics/pull/10019)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+12. 🎉 PR fusionné[#2](https://github.com/offensive-vk/auto-contributions/pull/2)dans[offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+13. 🔒 Problème clos[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🔒 Problème clos[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🔒 Problème clos[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
