@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Während IBM Watsons Jeopardy Game speicherte es alle 15 Terabyte seines Wissens im RAM, einschließlich jeder existierenden Wikipedia-Seite.❞</i>
+<i>❝Rund 50 % aller Wikipedia-Vandalismus wird von einem einzigen Computerprogramm mit einer Genauigkeit von über 90 % erkannt.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#281](https://github.com/offensive-vk/UntilEverything/pull/281)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Zusammengeführte PR[#282](https://github.com/offensive-vk/UntilEverything/pull/282)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Zusammengeführte PR[#276](https://github.com/offensive-vk/UntilEverything/pull/276)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 Kommentiert[#27540](https://github.com/offensive-vk/offensive-vk/pull/27540#issuecomment-2536092395)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 Zusammengeführte PR[#27543](https://github.com/offensive-vk/offensive-vk/pull/27543)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-7.  🎉 Zusammengeführte PR[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-8.  💪 PR eröffnet[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  🎉 Zusammengeführte PR[#10022](https://github.com/offensive-vk/Classics/pull/10022)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-10. 🎉 Zusammengeführte PR[#10023](https://github.com/offensive-vk/Classics/pull/10023)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-11. 🎉 Zusammengeführte PR[#10019](https://github.com/offensive-vk/Classics/pull/10019)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-12. 🎉 Zusammengeführte PR[#2](https://github.com/offensive-vk/auto-contributions/pull/2)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
-13. 🔒Geschlossenes Problem[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-14. 🔒Geschlossenes Problem[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🔒Geschlossenes Problem[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 Zusammengeführte PR[#27548](https://github.com/offensive-vk/offensive-vk/pull/27548)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Zusammengeführte PR[#281](https://github.com/offensive-vk/UntilEverything/pull/281)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Zusammengeführte PR[#282](https://github.com/offensive-vk/UntilEverything/pull/282)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 Zusammengeführte PR[#276](https://github.com/offensive-vk/UntilEverything/pull/276)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🗣 Kommentiert[#27540](https://github.com/offensive-vk/offensive-vk/pull/27540#issuecomment-2536092395)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 Zusammengeführte PR[#27543](https://github.com/offensive-vk/offensive-vk/pull/27543)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+8.  🎉 Zusammengeführte PR[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  💪 PR eröffnet[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+10. 🎉 Zusammengeführte PR[#10022](https://github.com/offensive-vk/Classics/pull/10022)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+11. 🎉 Zusammengeführte PR[#10023](https://github.com/offensive-vk/Classics/pull/10023)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+12. 🎉 Zusammengeführte PR[#10019](https://github.com/offensive-vk/Classics/pull/10019)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+13. 🎉 Zusammengeführte PR[#2](https://github.com/offensive-vk/auto-contributions/pull/2)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
+14. 🔒Geschlossenes Problem[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🔒Geschlossenes Problem[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
