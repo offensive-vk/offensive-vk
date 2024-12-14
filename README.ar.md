@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝خلال لعبة Jeopardy Game الخاصة بشركة IBM Watson، قامت بتخزين كل 15 تيرابايت من معرفتها في ذاكرة الوصول العشوائي (RAM)، بما في ذلك كل صفحة موجودة في ويكيبيديا.❞</i>
+<i>❝حوالي 50% من أعمال التخريب في ويكيبيديا يتم اكتشافها بواسطة برنامج كمبيوتر واحد بدقة تزيد عن 90%.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#281](https://github.com/offensive-vk/UntilEverything/pull/281)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 العلاقات العامة المدمجة[#282](https://github.com/offensive-vk/UntilEverything/pull/282)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 العلاقات العامة المدمجة[#276](https://github.com/offensive-vk/UntilEverything/pull/276)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 تم التعليق عليه[#27540](https://github.com/offensive-vk/offensive-vk/pull/27540#issuecomment-2536092395)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 العلاقات العامة المدمجة[#27543](https://github.com/offensive-vk/offensive-vk/pull/27543)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-7.  🎉 العلاقات العامة المدمجة[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-8.  💪 فتح العلاقات العامة[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-9.  🎉 العلاقات العامة المدمجة[#10022](https://github.com/offensive-vk/Classics/pull/10022)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-10. 🎉 العلاقات العامة المدمجة[#10023](https://github.com/offensive-vk/Classics/pull/10023)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-11. 🎉 العلاقات العامة المدمجة[#10019](https://github.com/offensive-vk/Classics/pull/10019)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-12. 🎉 العلاقات العامة المدمجة[#2](https://github.com/offensive-vk/auto-contributions/pull/2)في[الهجوم-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
-13. 🔒 قضية مغلقة[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-14. 🔒 قضية مغلقة[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🔒 قضية مغلقة[#25](https://github.com/offensive-vk/AwesomeDevOps/issues/25)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 العلاقات العامة المدمجة[#27548](https://github.com/offensive-vk/offensive-vk/pull/27548)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 العلاقات العامة المدمجة[#281](https://github.com/offensive-vk/UntilEverything/pull/281)في[الهجومية-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 العلاقات العامة المدمجة[#282](https://github.com/offensive-vk/UntilEverything/pull/282)في[الهجومية-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 العلاقات العامة المدمجة[#276](https://github.com/offensive-vk/UntilEverything/pull/276)في[الهجومية-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+5.  🗣 تم التعليق عليه[#27540](https://github.com/offensive-vk/offensive-vk/pull/27540#issuecomment-2536092395)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 العلاقات العامة المدمجة[#27543](https://github.com/offensive-vk/offensive-vk/pull/27543)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+8.  🎉 العلاقات العامة المدمجة[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+9.  💪 فتح العلاقات العامة[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+10. 🎉 العلاقات العامة المدمجة[#10022](https://github.com/offensive-vk/Classics/pull/10022)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+11. 🎉 العلاقات العامة المدمجة[#10023](https://github.com/offensive-vk/Classics/pull/10023)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+12. 🎉 العلاقات العامة المدمجة[#10019](https://github.com/offensive-vk/Classics/pull/10019)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+13. 🎉 العلاقات العامة المدمجة[#2](https://github.com/offensive-vk/auto-contributions/pull/2)في[الهجوم-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
+14. 🔒 قضية مغلقة[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+15. 🔒 قضية مغلقة[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
