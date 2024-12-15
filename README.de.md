@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Rund 50 % aller Wikipedia-Vandalismus wird von einem einzigen Computerprogramm mit einer Genauigkeit von über 90 % erkannt.❞</i>
+<i>❝Das ursprüngliche Halo war ein Third-Person-Spiel und wurde für den Mac entwickelt. Im Jahr 2000 kaufte Microsoft Bungie und machte es exklusiv für die ursprüngliche Xbox.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#27548](https://github.com/offensive-vk/offensive-vk/pull/27548)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 Zusammengeführte PR[#281](https://github.com/offensive-vk/UntilEverything/pull/281)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Zusammengeführte PR[#282](https://github.com/offensive-vk/UntilEverything/pull/282)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Zusammengeführte PR[#276](https://github.com/offensive-vk/UntilEverything/pull/276)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🗣 Kommentiert[#27540](https://github.com/offensive-vk/offensive-vk/pull/27540#issuecomment-2536092395)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 Zusammengeführte PR[#27543](https://github.com/offensive-vk/offensive-vk/pull/27543)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-8.  🎉 Zusammengeführte PR[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  💪 PR eröffnet[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-10. 🎉 Zusammengeführte PR[#10022](https://github.com/offensive-vk/Classics/pull/10022)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-11. 🎉 Zusammengeführte PR[#10023](https://github.com/offensive-vk/Classics/pull/10023)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-12. 🎉 Zusammengeführte PR[#10019](https://github.com/offensive-vk/Classics/pull/10019)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-13. 🎉 Zusammengeführte PR[#2](https://github.com/offensive-vk/auto-contributions/pull/2)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
-14. 🔒Geschlossenes Problem[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🔒Geschlossenes Problem[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  💪 PR eröffnet[#15](https://github.com/offensive-vk/auto-label/pull/15)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+2.  🎉 Zusammengeführte PR[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+3.  💪 PR eröffnet[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+4.  🎉 Zusammengeführte PR[#283](https://github.com/offensive-vk/UntilEverything/pull/283)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  💪 PR eröffnet[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  🗣 Kommentiert[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879#issuecomment-2543019254)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  🎉 Zusammengeführte PR[#32](https://github.com/offensive-vk/AwesomeDevOps/pull/32)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+8.  💪 PR eröffnet[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 Zusammengeführte PR[#27](https://github.com/offensive-vk/AwesomeDevOps/pull/27)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+10. 🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+11. 🎉 Zusammengeführte PR[#5](https://github.com/offensive-vk/auto-repo-sync/pull/5)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+12. 💪 PR eröffnet[#5](https://github.com/offensive-vk/auto-repo-sync/pull/5)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+13. 🎉 Zusammengeführte PR[#27548](https://github.com/offensive-vk/offensive-vk/pull/27548)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 Zusammengeführte PR[#281](https://github.com/offensive-vk/UntilEverything/pull/281)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Zusammengeführte PR[#282](https://github.com/offensive-vk/UntilEverything/pull/282)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
