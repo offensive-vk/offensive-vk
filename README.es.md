@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Alrededor del 50% de todo el vandalismo en Wikipedia se detecta mediante un único programa informático con más del 90% de precisión.❞</i>
+<i>❝El Halo original era en tercera persona y estaba diseñado para Mac. En 2000, Microsoft compró Bungie y lo convirtió en exclusivo para la Xbox original.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#27548](https://github.com/offensive-vk/offensive-vk/pull/27548)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 Relaciones públicas fusionadas[#281](https://github.com/offensive-vk/UntilEverything/pull/281)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Relaciones públicas fusionadas[#282](https://github.com/offensive-vk/UntilEverything/pull/282)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Relaciones públicas fusionadas[#276](https://github.com/offensive-vk/UntilEverything/pull/276)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-5.  🗣 Comentado en[#27540](https://github.com/offensive-vk/offensive-vk/pull/27540#issuecomment-2536092395)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 Relaciones públicas fusionadas[#27543](https://github.com/offensive-vk/offensive-vk/pull/27543)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-8.  🎉 Relaciones públicas fusionadas[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  💪 Relaciones públicas abiertas[#4](https://github.com/offensive-vk/auto-repo-sync/pull/4)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-10. 🎉 Relaciones públicas fusionadas[#10022](https://github.com/offensive-vk/Classics/pull/10022)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-11. 🎉 Relaciones públicas fusionadas[#10023](https://github.com/offensive-vk/Classics/pull/10023)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-12. 🎉 Relaciones públicas fusionadas[#10019](https://github.com/offensive-vk/Classics/pull/10019)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-13. 🎉 Relaciones públicas fusionadas[#2](https://github.com/offensive-vk/auto-contributions/pull/2)en[ofensiva-vk/auto-contribuciones](https://github.com/offensive-vk/auto-contributions)
-14. 🔒 Número cerrado[#26](https://github.com/offensive-vk/AwesomeDevOps/issues/26)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-15. 🔒 Número cerrado[#21](https://github.com/offensive-vk/AwesomeDevOps/issues/21)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 Relaciones públicas fusionadas[#17](https://github.com/offensive-vk/auto-label/pull/17)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+2.  💪 Relaciones públicas abiertas[#17](https://github.com/offensive-vk/auto-label/pull/17)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+3.  🎉 Relaciones públicas fusionadas[#15](https://github.com/offensive-vk/auto-label/pull/15)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+4.  ❗ Problema abierto[#16](https://github.com/offensive-vk/auto-label/issues/16)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+5.  💪 Relaciones públicas abiertas[#15](https://github.com/offensive-vk/auto-label/pull/15)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+6.  🎉 Relaciones públicas fusionadas[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+7.  💪 Relaciones públicas abiertas[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+8.  🎉 Relaciones públicas fusionadas[#283](https://github.com/offensive-vk/UntilEverything/pull/283)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+9.  💪 Relaciones públicas abiertas[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+10. 🗣 Comentado en[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879#issuecomment-2543019254)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+11. 🎉 Relaciones públicas fusionadas[#32](https://github.com/offensive-vk/AwesomeDevOps/pull/32)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+12. 💪 Relaciones públicas abiertas[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+13. 🎉 Relaciones públicas fusionadas[#27](https://github.com/offensive-vk/AwesomeDevOps/pull/27)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+14. 🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+15. 🎉 Relaciones públicas fusionadas[#5](https://github.com/offensive-vk/auto-repo-sync/pull/5)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
     <!--END_SECTION:activity-->
 
 </p>
