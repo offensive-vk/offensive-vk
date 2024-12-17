@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝لعبة Halo الأصلية كانت مخصصة لمنظور الشخص الثالث ومصممة لأجهزة Mac. في عام 2000، اشترت شركة Microsoft Bungie وجعلتها حصرية لجهاز Xbox الأصلي.❞</i>
+<i>❝يوجد حوالي 3.58 مليار مستخدم للإنترنت في جميع أنحاء العالم اعتبارًا من عام 2017 وفقًا للإحصائيات.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#17](https://github.com/offensive-vk/auto-label/pull/17)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-2.  💪 فتح العلاقات العامة[#17](https://github.com/offensive-vk/auto-label/pull/17)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-3.  🎉 العلاقات العامة المدمجة[#15](https://github.com/offensive-vk/auto-label/pull/15)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-4.  ❗ قضية مفتوحة[#16](https://github.com/offensive-vk/auto-label/issues/16)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-5.  💪 فتح العلاقات العامة[#15](https://github.com/offensive-vk/auto-label/pull/15)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-6.  🎉 العلاقات العامة المدمجة[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-7.  💪 فتح العلاقات العامة[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-8.  🎉 العلاقات العامة المدمجة[#283](https://github.com/offensive-vk/UntilEverything/pull/283)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-9.  💪 فتح العلاقات العامة[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣 تم التعليق عليه[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879#issuecomment-2543019254)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-11. 🎉 العلاقات العامة المدمجة[#32](https://github.com/offensive-vk/AwesomeDevOps/pull/32)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-12. 💪 فتح العلاقات العامة[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-13. 🎉 العلاقات العامة المدمجة[#27](https://github.com/offensive-vk/AwesomeDevOps/pull/27)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-14. 🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-15. 🎉 العلاقات العامة المدمجة[#5](https://github.com/offensive-vk/auto-repo-sync/pull/5)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+1.  🎉 العلاقات العامة المدمجة[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+2.  💪 فتح العلاقات العامة[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+3.  ❗ قضية مفتوحة[#18](https://github.com/offensive-vk/auto-label/issues/18)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+4.  🔒 قضية مغلقة[#16](https://github.com/offensive-vk/auto-label/issues/16)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+5.  🎉 العلاقات العامة المدمجة[#17](https://github.com/offensive-vk/auto-label/pull/17)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+6.  💪 فتح العلاقات العامة[#17](https://github.com/offensive-vk/auto-label/pull/17)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+7.  🎉 العلاقات العامة المدمجة[#15](https://github.com/offensive-vk/auto-label/pull/15)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+8.  ❗ قضية مفتوحة[#16](https://github.com/offensive-vk/auto-label/issues/16)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+9.  💪 فتح العلاقات العامة[#15](https://github.com/offensive-vk/auto-label/pull/15)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+10. 🎉 العلاقات العامة المدمجة[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+11. 💪 فتح العلاقات العامة[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 🎉 العلاقات العامة المدمجة[#283](https://github.com/offensive-vk/UntilEverything/pull/283)في[الهجومية-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+13. 💪 فتح العلاقات العامة[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+14. 🗣 تم التعليق عليه[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879#issuecomment-2543019254)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+15. 🎉 العلاقات العامة المدمجة[#32](https://github.com/offensive-vk/AwesomeDevOps/pull/32)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
     <!--END_SECTION:activity-->
 
 </p>
