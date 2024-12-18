@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-2.  💪 RP ouverte[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-3.  ❗ Problème ouvert[#18](https://github.com/offensive-vk/auto-label/issues/18)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-4.  🔒 Problème clos[#16](https://github.com/offensive-vk/auto-label/issues/16)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-5.  🎉 PR fusionné[#17](https://github.com/offensive-vk/auto-label/pull/17)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-6.  💪 RP ouverte[#17](https://github.com/offensive-vk/auto-label/pull/17)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-7.  🎉 PR fusionné[#15](https://github.com/offensive-vk/auto-label/pull/15)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-8.  ❗ Problème ouvert[#16](https://github.com/offensive-vk/auto-label/issues/16)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-9.  💪 RP ouverte[#15](https://github.com/offensive-vk/auto-label/pull/15)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-10. 🎉 PR fusionné[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-11. 💪 RP ouverte[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 🎉 PR fusionné[#283](https://github.com/offensive-vk/UntilEverything/pull/283)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-13. 💪 RP ouverte[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 Commenté[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879#issuecomment-2543019254)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-15. 🎉 PR fusionné[#32](https://github.com/offensive-vk/AwesomeDevOps/pull/32)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🗣 Commenté[#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316)dans[microsoft/vscode](https://github.com/microsoft/vscode)
+2.  🎉 PR fusionné[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+3.  💪 RP ouverte[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+4.  ❗ Problème ouvert[#18](https://github.com/offensive-vk/auto-label/issues/18)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+5.  🔒 Problème clos[#16](https://github.com/offensive-vk/auto-label/issues/16)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+6.  🎉 PR fusionné[#17](https://github.com/offensive-vk/auto-label/pull/17)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+7.  💪 RP ouverte[#17](https://github.com/offensive-vk/auto-label/pull/17)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+8.  🎉 PR fusionné[#15](https://github.com/offensive-vk/auto-label/pull/15)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+9.  ❗ Problème ouvert[#16](https://github.com/offensive-vk/auto-label/issues/16)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+10. 💪 RP ouverte[#15](https://github.com/offensive-vk/auto-label/pull/15)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+11. 🎉 PR fusionné[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 💪 RP ouverte[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+13. 🎉 PR fusionné[#283](https://github.com/offensive-vk/UntilEverything/pull/283)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+14. 💪 RP ouverte[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+15. 🗣 Commenté[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879#issuecomment-2543019254)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
