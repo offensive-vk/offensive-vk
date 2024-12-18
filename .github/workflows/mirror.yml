@@ -6,14 +6,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync:
+  syncx:
     runs-on: ubuntu-latest
-    name: Ping Repos
+    name: Ping Repo
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: wangchucheng/git-repo-sync@v0.1.0
+      - uses: offensive-vk/auto-repo-sync@master
         with:
           target-url: ${{ secrets.TARGET_URL }}
           target-username: ${{ secrets.TARGET_USER }}
