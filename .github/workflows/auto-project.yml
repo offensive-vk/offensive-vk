@@ -5,6 +5,8 @@ on:
     types: [opened, edited, closed, assigned]
   pull_request:
     types: [opened, edited, synchronize, closed]
+  pull_request_target:
+    types: [opened, edited, synchronize, closed]
   workflow_dispatch:
 jobs:
   add_to_project:
@@ -18,4 +20,4 @@ jobs:
         uses: actions/add-to-project@v1.0.2
         with:
           project-url: 'https://github.com/users/offensive-vk/projects/9'
-          github-token: ${{ secrets.BOT_TOKEN }}
+          github-token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
