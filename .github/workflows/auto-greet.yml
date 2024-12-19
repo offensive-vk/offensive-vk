@@ -1,6 +1,7 @@
 name: ❤️ Greetings
 
 on:
+  workflow_dispatch:
   issues:
     types: [opened]
   pull_request_target:
