@@ -3,20 +3,24 @@ name: ❤️ Greetings
 on:
   issues:
     types: [opened]
-  pull_request:
+  pull_request_target:
     branches: [master]
     types: [opened]
+
+permissions:
+  pull-requests: write
 
 jobs:
   greet:
     name: Greet New Contributors
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: actions/first-interaction@v1
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: |
-            🙌 Hello! Thank you for taking the time to file an issue. 
+            🙌 Thank you for taking the time to file an issue here. 
             
             If this is a bug report, please include any relevant logs or details that can help us debug the problem. Your help is greatly appreciated! 💡
 
