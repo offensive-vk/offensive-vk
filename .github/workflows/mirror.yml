@@ -2,18 +2,18 @@ name: 🦅 Mirror Sync
 
 on:
   push:
-    branches: ['**']
+    branches: ['master','**']
   workflow_dispatch:
 
 jobs:
-  syncx:
+  sync:
     runs-on: ubuntu-latest
     name: Ping Repo
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: offensive-vk/auto-repo-sync@master
+      - uses: wangchucheng/git-repo-sync@v0.1.0
         with:
           target-url: ${{ secrets.TARGET_URL }}
           target-username: ${{ secrets.TARGET_USER }}

@@ -1,0 +1,22 @@
+name: 🦅 Sync to Gitlab
+
+on:
+  push:
+    branches: ['**']
+  workflow_dispatch:
+
+jobs:
+  gitlab:
+    runs-on: ubuntu-latest
+    name: Ping
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Initiate 
+        uses: offensive-vk/auto-repo-sync@v7
+        with:
+          target-url: ${{ secrets.TARGET_URL }}
+          target-username: ${{ secrets.TARGET_USER }}
+          target-token: ${{ secrets.TARGET_TOKEN }}

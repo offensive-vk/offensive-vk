@@ -1,12 +1,12 @@
 {
   "name": "offensive-vk",
-  "version": "11.7.0",
+  "version": "12.0.0",
   "description": "My Personal Github Repository. (Fully Automated). MIT Licensed 2020 - Present",
   "main": "README.md",
   "bot": "https://github.com/TheHamsterBot",
   "url": "https://github.com/offensive-vk/offensive-vk",
   "scripts": {
-    "add-pnpx": "npx pnpm add @octokit/rest @octokit/core @octokit/types octokit markdownlint pnpm",
+    "add-pnpx": "npx pnpm add @actions/exec @octokit/rest @octokit/core @octokit/types octokit markdownlint pnpm",
     "source": "git clone https://github.com/offensive-vk/offensive-vk.git",
     "dev": "sleep 5; echo 'Development Server Started...' ",
     "fix": "pnpx prettier --write . && pnpx prettier --check .",
