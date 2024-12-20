@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Il y a environ 3,58 milliards d'internautes dans le monde en 2017 selon statista.❞</i>
+<i>❝Il a fallu 29 heures à Pixar pour restituer une seule image de Monsters University. Si cela avait été fait sur un seul processeur, cela aurait pris 10 000 ans.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Commenté[#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316)dans[microsoft/vscode](https://github.com/microsoft/vscode)
-2.  🎉 PR fusionné[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-3.  💪 RP ouverte[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-4.  ❗ Problème ouvert[#18](https://github.com/offensive-vk/auto-label/issues/18)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-5.  🔒 Problème clos[#16](https://github.com/offensive-vk/auto-label/issues/16)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-6.  🎉 PR fusionné[#17](https://github.com/offensive-vk/auto-label/pull/17)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-7.  💪 RP ouverte[#17](https://github.com/offensive-vk/auto-label/pull/17)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-8.  🎉 PR fusionné[#15](https://github.com/offensive-vk/auto-label/pull/15)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-9.  ❗ Problème ouvert[#16](https://github.com/offensive-vk/auto-label/issues/16)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-10. 💪 RP ouverte[#15](https://github.com/offensive-vk/auto-label/pull/15)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-11. 🎉 PR fusionné[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 💪 RP ouverte[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-13. 🎉 PR fusionné[#283](https://github.com/offensive-vk/UntilEverything/pull/283)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-14. 💪 RP ouverte[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-15. 🗣 Commenté[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879#issuecomment-2543019254)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+1.  💪 RP ouvert[#22](https://github.com/offensive-vk/auto-label/pull/22)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+2.  🎉 PR fusionné[#288](https://github.com/offensive-vk/UntilEverything/pull/288)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+3.  ❗ Problème ouvert[#21](https://github.com/offensive-vk/auto-label/issues/21)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+4.  🔒 Problème clos[#18](https://github.com/offensive-vk/auto-label/issues/18)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+5.  💪 RP ouvert[#20](https://github.com/offensive-vk/auto-label/pull/20)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+6.  🎉 PR fusionné[#284](https://github.com/offensive-vk/UntilEverything/pull/284)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+7.  🚀 Version publiée[v7-bêta](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+8.  🎉 PR fusionné[#19](https://github.com/offensive-vk/auto-label/pull/19)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+9.  🎉 PR fusionné[#27586](https://github.com/offensive-vk/offensive-vk/pull/27586)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. ❌ PR fermé[#27575](https://github.com/offensive-vk/offensive-vk/pull/27575)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 PR fusionné[#27573](https://github.com/offensive-vk/offensive-vk/pull/27573)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. ❌ PR fermé[#27565](https://github.com/offensive-vk/offensive-vk/pull/27565)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 PR fusionné[#27563](https://github.com/offensive-vk/offensive-vk/pull/27563)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 💪 RP ouvert[#7895](https://github.com/kamranahmedse/developer-roadmap/pull/7895)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+15. 🗣 Commenté[#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316)dans[microsoft/vscode](https://github.com/microsoft/vscode)
     <!--END_SECTION:activity-->
 
 </p>
@@ -213,7 +213,7 @@
 
 **Voulez-vous voir le fichier de flux de travail ?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
-**Vous voulez voir les statistiques du référentiel ?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
+**Voulez-vous voir les statistiques du référentiel ?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
 </details>
 
