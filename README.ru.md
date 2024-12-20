@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
+🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чём.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Существует сайт под названием «Бесполезная сеть». Это последнее средство от вашей скуки. Если вам когда-нибудь станет скучно, посетите.❞</i>
+<i>❝На рендеринг одного кадра из «Университета монстров» компании Pixar потребовалось 29 часов. Если бы это было сделано на одном процессоре, это заняло бы 10 000 лет.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 Открытый пиар[#7895](https://github.com/kamranahmedse/developer-roadmap/pull/7895)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-2.  🗣 Прокомментировал[#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316)в[Microsoft/vscode](https://github.com/microsoft/vscode)
-3.  🎉 Объединенный пиар[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
-4.  💪 Открытый пиар[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
-5.  ❗Открытый вопрос[#18](https://github.com/offensive-vk/auto-label/issues/18)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-6.  🔒 Вопрос закрыт.[#16](https://github.com/offensive-vk/auto-label/issues/16)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-7.  🎉 Объединенный пиар[#17](https://github.com/offensive-vk/auto-label/pull/17)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-8.  💪 Открытый пиар[#17](https://github.com/offensive-vk/auto-label/pull/17)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-9.  🎉 Объединенный пиар[#15](https://github.com/offensive-vk/auto-label/pull/15)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-10. ❗Открытый вопрос[#16](https://github.com/offensive-vk/auto-label/issues/16)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-11. 💪 Открытый пиар[#15](https://github.com/offensive-vk/auto-label/pull/15)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-12. 🎉 Объединенный пиар[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-13. 💪 Открытый пиар[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-14. 🎉 Объединенный пиар[#283](https://github.com/offensive-vk/UntilEverything/pull/283)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 💪 Открытый пиар[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+1.  💪 Открытый пиар[#22](https://github.com/offensive-vk/auto-label/pull/22)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+2.  🎉 Объединенный пиар[#288](https://github.com/offensive-vk/UntilEverything/pull/288)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  ❗Открытый вопрос[#21](https://github.com/offensive-vk/auto-label/issues/21)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+4.  🔒 Вопрос закрыт.[#18](https://github.com/offensive-vk/auto-label/issues/18)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+5.  💪 Открытый пиар[#20](https://github.com/offensive-vk/auto-label/pull/20)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+6.  🎉 Объединенный пиар[#284](https://github.com/offensive-vk/UntilEverything/pull/284)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🚀 Опубликованный выпуск[v7-бета](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+8.  🎉 Объединенный пиар[#19](https://github.com/offensive-vk/auto-label/pull/19)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+9.  🎉 Объединенный пиар[#27586](https://github.com/offensive-vk/offensive-vk/pull/27586)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+10. ❌ Закрытый пиар[#27575](https://github.com/offensive-vk/offensive-vk/pull/27575)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Объединенный пиар[#27573](https://github.com/offensive-vk/offensive-vk/pull/27573)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+12. ❌ Закрытый пиар[#27565](https://github.com/offensive-vk/offensive-vk/pull/27565)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 Объединенный пиар[#27563](https://github.com/offensive-vk/offensive-vk/pull/27563)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+14. 💪 Открытый пиар[#7895](https://github.com/kamranahmedse/developer-roadmap/pull/7895)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+15. 🗣 Прокомментировал[#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316)в[Microsoft/vscode](https://github.com/microsoft/vscode)
     <!--END_SECTION:activity-->
 
 </p>
