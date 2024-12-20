@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝最初的 Halo 是第三人称游戏，专为 Mac 设计。 2000 年，微软收购了 Bungie，并使其成为初代 Xbox 的独占产品。❞</i>
+<i>❝皮克斯花了 29 个小时渲染《怪兽大学》的单帧画面。如果在单个 CPU 上完成，则需要 10,000 年才能完成。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 开启公关[#15](https://github.com/offensive-vk/auto-label/pull/15)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-2.  🎉 合并公关[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)在[进攻性-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-3.  💪 开启公关[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)在[进攻性-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-4.  🎉 合并公关[#283](https://github.com/offensive-vk/UntilEverything/pull/283)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  💪 开启公关[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-6.  🗣 已发表评论[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879#issuecomment-2543019254)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉 合并公关[#32](https://github.com/offensive-vk/AwesomeDevOps/pull/32)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-8.  💪 开启公关[#7879](https://github.com/kamranahmedse/developer-roadmap/pull/7879)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 合并公关[#27](https://github.com/offensive-vk/AwesomeDevOps/pull/27)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-10. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-11. 🎉 合并公关[#5](https://github.com/offensive-vk/auto-repo-sync/pull/5)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-12. 💪 开启公关[#5](https://github.com/offensive-vk/auto-repo-sync/pull/5)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-13. 🎉 合并公关[#27548](https://github.com/offensive-vk/offensive-vk/pull/27548)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 合并公关[#281](https://github.com/offensive-vk/UntilEverything/pull/281)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 合并公关[#282](https://github.com/offensive-vk/UntilEverything/pull/282)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  💪 开启公关[#22](https://github.com/offensive-vk/auto-label/pull/22)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+2.  🎉 合并公关[#288](https://github.com/offensive-vk/UntilEverything/pull/288)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  ❗ 未解决的问题[#21](https://github.com/offensive-vk/auto-label/issues/21)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+4.  🔒 已关闭问题[#18](https://github.com/offensive-vk/auto-label/issues/18)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+5.  💪 开启公关[#20](https://github.com/offensive-vk/auto-label/pull/20)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+6.  🎉 合并公关[#284](https://github.com/offensive-vk/UntilEverything/pull/284)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🚀 已发布版本[v7-测试版](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+8.  🎉 合并公关[#19](https://github.com/offensive-vk/auto-label/pull/19)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+9.  🎉 合并公关[#27586](https://github.com/offensive-vk/offensive-vk/pull/27586)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. ❌ 封闭公关[#27575](https://github.com/offensive-vk/offensive-vk/pull/27575)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 合并公关[#27573](https://github.com/offensive-vk/offensive-vk/pull/27573)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+12. ❌ 封闭公关[#27565](https://github.com/offensive-vk/offensive-vk/pull/27565)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 合并公关[#27563](https://github.com/offensive-vk/offensive-vk/pull/27563)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+14. 💪 开启公关[#7895](https://github.com/kamranahmedse/developer-roadmap/pull/7895)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+15. 🗣 已发表评论[#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316)在[微软/vscode](https://github.com/microsoft/vscode)
     <!--END_SECTION:activity-->
 
 </p>
