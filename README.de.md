@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Es gibt eine Website namens „The Useless Web“. Dies ist die letzte Behandlung für Ihre Langeweile. Wenn Sie sich jemals langweilen, besuchen Sie uns bitte.❞</i>
+<i>❝Pixar brauchte 29 Stunden, um ein einzelnes Bild von Monsters University zu rendern. Bei einer einzigen CPU hätte die Fertigstellung 10.000 Jahre gedauert.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 PR eröffnet[#7895](https://github.com/kamranahmedse/developer-roadmap/pull/7895)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🗣 Kommentiert[#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316)In[microsoft/vscode](https://github.com/microsoft/vscode)
-3.  🎉 Zusammengeführte PR[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)In[offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-4.  💪 PR eröffnet[#4](https://github.com/offensive-vk/auto-user-activity/pull/4)In[offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-5.  ❗Geöffnete Ausgabe[#18](https://github.com/offensive-vk/auto-label/issues/18)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-6.  🔒 Geschlossenes Problem[#16](https://github.com/offensive-vk/auto-label/issues/16)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-7.  🎉 Zusammengeführte PR[#17](https://github.com/offensive-vk/auto-label/pull/17)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-8.  💪 PR eröffnet[#17](https://github.com/offensive-vk/auto-label/pull/17)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-9.  🎉 Zusammengeführte PR[#15](https://github.com/offensive-vk/auto-label/pull/15)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-10. ❗Geöffnete Ausgabe[#16](https://github.com/offensive-vk/auto-label/issues/16)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-11. 💪 PR eröffnet[#15](https://github.com/offensive-vk/auto-label/pull/15)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-12. 🎉 Zusammengeführte PR[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-13. 💪 PR eröffnet[#77](https://github.com/offensive-vk/AwesomeScripts/pull/77)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-14. 🎉 Zusammengeführte PR[#283](https://github.com/offensive-vk/UntilEverything/pull/283)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 💪 PR eröffnet[#7883](https://github.com/kamranahmedse/developer-roadmap/pull/7883)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  💪 PR eröffnet[#22](https://github.com/offensive-vk/auto-label/pull/22)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+2.  🎉 Zusammengeführte PR[#288](https://github.com/offensive-vk/UntilEverything/pull/288)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  ❗Geöffnete Ausgabe[#21](https://github.com/offensive-vk/auto-label/issues/21)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+4.  🔒Geschlossenes Problem[#18](https://github.com/offensive-vk/auto-label/issues/18)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+5.  💪 PR eröffnet[#20](https://github.com/offensive-vk/auto-label/pull/20)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+6.  🎉 Zusammengeführte PR[#284](https://github.com/offensive-vk/UntilEverything/pull/284)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🚀 Veröffentlichte Veröffentlichung[v7-beta](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+8.  🎉 Zusammengeführte PR[#19](https://github.com/offensive-vk/auto-label/pull/19)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+9.  🎉 Zusammengeführte PR[#27586](https://github.com/offensive-vk/offensive-vk/pull/27586)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. ❌ Geschlossene PR[#27575](https://github.com/offensive-vk/offensive-vk/pull/27575)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Zusammengeführte PR[#27573](https://github.com/offensive-vk/offensive-vk/pull/27573)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. ❌ Geschlossene PR[#27565](https://github.com/offensive-vk/offensive-vk/pull/27565)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 Zusammengeführte PR[#27563](https://github.com/offensive-vk/offensive-vk/pull/27563)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 💪 PR eröffnet[#7895](https://github.com/kamranahmedse/developer-roadmap/pull/7895)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 🗣 Kommentiert[#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316)In[microsoft/vscode](https://github.com/microsoft/vscode)
     <!--END_SECTION:activity-->
 
 </p>
