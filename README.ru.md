@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝На рендеринг одного кадра из «Университета монстров» компании Pixar потребовалось 29 часов. Если бы это было сделано на одном процессоре, это заняло бы 10 000 лет.❞</i>
+<i>❝Около 50% всего вандализма в Википедии фиксируется одной компьютерной программой с точностью более 90%.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 Открытый пиар[#22](https://github.com/offensive-vk/auto-label/pull/22)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-2.  🎉 Объединенный пиар[#288](https://github.com/offensive-vk/UntilEverything/pull/288)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  ❗Открытый вопрос[#21](https://github.com/offensive-vk/auto-label/issues/21)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-4.  🔒 Вопрос закрыт.[#18](https://github.com/offensive-vk/auto-label/issues/18)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-5.  💪 Открытый пиар[#20](https://github.com/offensive-vk/auto-label/pull/20)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-6.  🎉 Объединенный пиар[#284](https://github.com/offensive-vk/UntilEverything/pull/284)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-7.  🚀 Опубликованный выпуск[v7-бета](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-8.  🎉 Объединенный пиар[#19](https://github.com/offensive-vk/auto-label/pull/19)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-9.  🎉 Объединенный пиар[#27586](https://github.com/offensive-vk/offensive-vk/pull/27586)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-10. ❌ Закрытый пиар[#27575](https://github.com/offensive-vk/offensive-vk/pull/27575)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 Объединенный пиар[#27573](https://github.com/offensive-vk/offensive-vk/pull/27573)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-12. ❌ Закрытый пиар[#27565](https://github.com/offensive-vk/offensive-vk/pull/27565)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Объединенный пиар[#27563](https://github.com/offensive-vk/offensive-vk/pull/27563)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-14. 💪 Открытый пиар[#7895](https://github.com/kamranahmedse/developer-roadmap/pull/7895)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-15. 🗣 Прокомментировал[#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316)в[Microsoft/vscode](https://github.com/microsoft/vscode)
+1.  🚀 Опубликованный выпуск[v7-бета](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+2.  🎉 Объединенный пиар[#20](https://github.com/offensive-vk/auto-label/pull/20)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+3.  🔒 Вопрос закрыт.[#21](https://github.com/offensive-vk/auto-label/issues/21)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+4.  🎉 Объединенный пиар[#22](https://github.com/offensive-vk/auto-label/pull/22)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+5.  🎉 Объединенный пиар[#10025](https://github.com/offensive-vk/Classics/pull/10025)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+6.  🎉 Объединенный пиар[#10026](https://github.com/offensive-vk/Classics/pull/10026)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+7.  💪 Открытый пиар[#7912](https://github.com/kamranahmedse/developer-roadmap/pull/7912)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 Открытый пиар[#22](https://github.com/offensive-vk/auto-label/pull/22)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+9.  🎉 Объединенный пиар[#288](https://github.com/offensive-vk/UntilEverything/pull/288)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+10. ❗Открытый вопрос[#21](https://github.com/offensive-vk/auto-label/issues/21)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+11. 🔒 Вопрос закрыт.[#18](https://github.com/offensive-vk/auto-label/issues/18)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+12. 💪 Открытый пиар[#20](https://github.com/offensive-vk/auto-label/pull/20)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+13. 🎉 Объединенный пиар[#284](https://github.com/offensive-vk/UntilEverything/pull/284)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. 🚀 Опубликованный выпуск[v7-бета](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+15. 🎉 Объединенный пиар[#19](https://github.com/offensive-vk/auto-label/pull/19)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
