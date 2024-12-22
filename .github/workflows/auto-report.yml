@@ -13,11 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      github-token: ${{ secrets.GITHUB_TOKEN }}
+      github-token: ${{ github.token }}
 
     steps:
+      - name: Check if actor is the repository owner
+        if: ${{ github.actor != github.repository_owner }}
+        run: echo "Actor is not the repository owner, proceeding with the workflow."
+
       - name: Get Failed Jobs
         id: get-failed-jobs
+        if: ${{ github.actor != github.repository_owner }}  # Skip if the actor is the repository owner
         run: |
           run_id=${{ github.event.workflow_run.id }}
           response=$(gh api repos/${{ github.repository }}/actions/runs/$run_id/jobs --jq '.jobs')
@@ -31,7 +36,7 @@ jobs:
           echo "failed_jobs=$failed_jobs" >> $GITHUB_ENV
 
       - name: Create Issue for Failed Jobs
-        if: env.failed_jobs != ''
+        if: env.failed_jobs != '' && github.actor != github.repository_owner
         uses: dacbd/create-issue-action@main
         with:
           token: ${{ secrets.BOT_TOKEN }}
