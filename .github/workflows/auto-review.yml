@@ -27,7 +27,7 @@ jobs:
       run: |
         pr_url="${{ github.event.pull_request.url }}"
         pr_number="${{ github.event.pull_request.number }}"
-        review_body="
+        review_body=" 
         🎉 ${{ github.event.pull_request.user.name }} , Great work on the Pull Request! 🚀
 
         Please ensure that this pull request should have:
@@ -37,4 +37,24 @@ jobs:
 
         Keep up the awesome work and thank you for your contributions! Let's keep building amazing things together! 💪✨"
 
+        # Submit the review
         gh pr review "$pr_number" --approve --body "$review_body"
+
+    - name: Get Review Comment ID
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        pr_number="${{ github.event.pull_request.number }}"
+        review_details=$(gh api "/repos/${{ github.repository }}/pulls/${pr_number}/reviews" --jq '.[0]')
+        COMMENT_ID=$(echo "$review_details" | jq -r '.id')
+        echo "Review Comment ID: $COMMENT_ID"
+        echo "$COMMENT_ID" >> $GITHUB_ENV;
+
+    - name: React to the Review Comment
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        COMMENT_ID="${{ env.COMMENT_ID }}"
+        REACTION="heart"
+        gh api -X POST "/repos/${{ github.repository }}/pulls/comments/${COMMENT_ID}/reactions" \
+          -f content="${REACTION}"
