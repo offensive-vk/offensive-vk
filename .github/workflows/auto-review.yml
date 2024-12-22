@@ -7,7 +7,7 @@ on:
       - '**' 
     types:
       - opened
-      - synchronize
+      - reopened
 
 jobs:
   review-pr:
@@ -28,16 +28,16 @@ jobs:
         pr_url="${{ github.event.pull_request.url }}"
         pr_number="${{ github.event.pull_request.number }}"
         review_body=" 
-        🎉 ${{ github.event.pull_request.user.name }} , Great work on the Pull Request! 🚀
+        🎉 Great work on the Pull Request! 🚀
 
         Please ensure that this pull request should have:
         - 🧪 The CI checks pass ✅
         - 📜 You have read and followed the [contribution guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) to ensure a smooth merge 🔧
         - ⚡ One approval from the final [boss](https://github.com/offensive-vk) 🫅🏻
 
-        Keep up the awesome work and thank you for your contributions! Let's keep building amazing things together! 💪✨"
+        However, this is not a final review for this pull request. Kindly wait for a maintainer's approval.
+        Keep up the awesome work and thank you for your contributions! Let's keep building amazing workflows together! 💪✨"
 
-        # Submit the review
         gh pr review "$pr_number" --approve --body "$review_body"
 
     - name: Get Review Comment ID
@@ -47,7 +47,7 @@ jobs:
         pr_number="${{ github.event.pull_request.number }}"
         review_details=$(gh api "/repos/${{ github.repository }}/pulls/${pr_number}/reviews" --jq '.[0]')
         COMMENT_ID=$(echo "$review_details" | jq -r '.id')
-        echo "$COMMENT_ID" >> $GITHUB_ENV;
+        echo "COMMENT_ID=$COMMENT_ID" >> $GITHUB_ENV
 
     - name: React to the Review Comment
       env:
