@@ -13,11 +13,9 @@ Remember: **You are a part of something bigger**! Open source thrives because of
 3. **Fork the Repo**: 🎯 Fork this repository to start working on your changes and improvements. Make it your own and build something incredible!
 4. **Create an Issue**: Share your ideas by creating an issue to discuss your proposed changes via [GitHub Issues](https://github.com/offensive-vk/offensive-vk/issues). It’s optional, but a great way to start the conversation! 💬
 5. **Start Coding!**: Dive in and make your changes. Don’t worry if you make mistakes—that's how we learn and grow. Every error is a step towards excellence. 🌱
-6. **Submit a Pull Request**: Once you're happy with your changes, submit your PR via [GitHub Pull Requests](https://github.com/offensive-vk/pulls). Don't forget to assign me as a reviewer—I'm excited to see your work! 🚀
+6. **Submit a Pull Request**: Once you're happy with your changes, submit your PR via [GitHub Pull Requests](https://github.com/offensive-vk/offensive-vk/pulls). Don't forget to assign me as a reviewer—I'm excited to see your work! 🚀
 7. **Be Patient and Trust the Process**: Your pull request will be reviewed and merged (or closed) accordingly. We’ll work together to make it shine! ✨
 8. **Thank You for Contributing**: You are truly amazing, and your work will help others learn and grow. 🙌
-
-**Developer & Author**: [offensive-vk](https://github.com/offensive-vk/)
 
 ---
 
@@ -35,6 +33,13 @@ Remember: **You are a part of something bigger**! Open source thrives because of
 
 We believe in you, and we believe in the power of open source. Together, we’re building something bigger than ourselves. Whether you're submitting your first PR or your hundredth, **keep going**. Each line of code is a step towards greatness. **Never stop learning**, **never stop creating**, and **never stop believing** in the value of your contributions. You’ve got this! 🌟
 
+
 ---
 
-Feel free to edit this further based on the tone and specifics you want to convey, but this version emphasizes positivity, inclusivity, and encouragement, which will inspire contributors to keep pushing forward and enjoy the process.
+<p align="center">
+  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2020 - Present</i><br>
+  <i>Licensed under <a href="https://github.com/offensive-vk/offensive-vk/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
+  <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
+  <kbd>Thanks for visiting :)</kbd>
+</p>
+</details>
