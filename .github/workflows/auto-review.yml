@@ -2,6 +2,9 @@ name: ✍🏻 Automated PR Review
 
 on:
   pull_request:
+    branches:
+      - 'master'
+      - '**' 
     types:
       - opened
       - synchronize
