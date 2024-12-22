@@ -1,16 +1,18 @@
 name: 🚀 Automated Comment Reaction
 
 on:
-  workflow_dispatch:
-    inputs:
-      id:
-        type: number
-        description: 'The Issue Comment ID.'
-        required: true
+  issues:
+    types: [opened]
   issue_comment:
     types: [created]
   pull_request_review_comment:
     types: [created]
+  workflow_dispatch:
+    inputs:
+      id:
+        type: number
+        description: 'The Issue or Comment ID.'
+        required: true
 
 jobs:
   add-reaction:
@@ -23,7 +25,19 @@ jobs:
           github-token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
           script: |
             const reaction = 'rocket';
-            const comment_id = context.payload.comment.id || github.event.inputs.id;
+            let comment_id;
+            if (context.eventName === 'issue_comment' || context.eventName === 'pull_request_review_comment') {
+              comment_id = context.payload.comment.id;
+            } else if (context.eventName === 'workflow_dispatch') {
+              comment_id = github.event.inputs.id;
+            } else {
+              throw new Error('Unsupported event trigger.');
+            }
+            
+            if (!comment_id) {
+              throw new Error('No comment ID found in the event payload.');
+            }
+
             await github.rest.reactions.createForIssueComment({
               ...context.repo,
               comment_id: comment_id,
