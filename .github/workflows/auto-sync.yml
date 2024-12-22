@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
           
       - name: Initiate 
-        uses: offensive-vk/auto-repo-sync@v7
+        uses: offensive-vk/auto-repo-sync@v7-beta
         with:
           target-url: ${{ secrets.TARGET_URL }}
           target-username: ${{ secrets.TARGET_USER }}
