@@ -4,7 +4,6 @@ on:
   pull_request:
     types:
       - opened
-      - reopened
       - synchronize
 
 jobs:
@@ -25,7 +24,7 @@ jobs:
       run: |
         pr_url="${{ github.event.pull_request.url }}"
         review_body="
-        🎉 ${{ github.event.pull_request.author }} , Great work on the Pull Request! 🚀
+        🎉 ${{ github.event.pull_request.user.name }} , Great work on the Pull Request! 🚀
 
         Please ensure that this pull request should have:
         - 🧪 The CI checks pass ✅
@@ -34,4 +33,4 @@ jobs:
 
         Keep up the awesome work and thank you for your contributions! Let's keep building amazing things together! 💪✨"
 
-        gh pr review "$pr_url" --approve --body "$review_body" --repo "${{ github.repository }}"
+        gh pr review "$pr_url" --approve --body "$review_body"
