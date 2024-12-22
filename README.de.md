@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Rund 50 % aller Wikipedia-Vandalismus wird von einem einzigen Computerprogramm mit einer Genauigkeit von über 90 % erkannt.❞</i>
+<i>❝„Es sollte beachtet werden, dass kein ethisch geschulter Softwareentwickler jemals zustimmen würde, ein DestroyBaghdad-Verfahren zu schreiben.  Grundlegende Berufsethik würde stattdessen erfordern, dass er ein DestroyCity-Verfahren schreibt, dem Bagdad als Parameter gegeben werden könnte.“ – Nathaniel S. Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 Veröffentlichte Veröffentlichung[v7-beta](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-2.  🎉 Zusammengeführte PR[#20](https://github.com/offensive-vk/auto-label/pull/20)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-3.  🔒 Geschlossenes Problem[#21](https://github.com/offensive-vk/auto-label/issues/21)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-4.  🎉 Zusammengeführte PR[#22](https://github.com/offensive-vk/auto-label/pull/22)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-5.  🎉 Zusammengeführte PR[#10025](https://github.com/offensive-vk/Classics/pull/10025)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-6.  🎉 Zusammengeführte PR[#10026](https://github.com/offensive-vk/Classics/pull/10026)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-7.  💪 PR eröffnet[#7912](https://github.com/kamranahmedse/developer-roadmap/pull/7912)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 PR eröffnet[#22](https://github.com/offensive-vk/auto-label/pull/22)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-9.  🎉 Zusammengeführte PR[#288](https://github.com/offensive-vk/UntilEverything/pull/288)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. ❗Geöffnete Ausgabe[#21](https://github.com/offensive-vk/auto-label/issues/21)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-11. 🔒Geschlossenes Problem[#18](https://github.com/offensive-vk/auto-label/issues/18)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-12. 💪 PR eröffnet[#20](https://github.com/offensive-vk/auto-label/pull/20)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-13. 🎉 Zusammengeführte PR[#284](https://github.com/offensive-vk/UntilEverything/pull/284)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🚀 Veröffentlichte Veröffentlichung[v7-beta](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-15. 🎉 Zusammengeführte PR[#19](https://github.com/offensive-vk/auto-label/pull/19)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+1.  🚀 Veröffentlichte Veröffentlichung[v7-beta](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-beta)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+2.  🎉 Zusammengeführte PR[#6](https://github.com/offensive-vk/auto-repo-sync/pull/6)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+3.  💪 PR eröffnet[#6](https://github.com/offensive-vk/auto-repo-sync/pull/6)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+4.  🎉 Zusammengeführte PR[#277](https://github.com/offensive-vk/UntilEverything/pull/277)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🚀 Veröffentlichte Veröffentlichung[v7-beta](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+6.  🎉 Zusammengeführte PR[#20](https://github.com/offensive-vk/auto-label/pull/20)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+7.  🔒 Geschlossenes Problem[#21](https://github.com/offensive-vk/auto-label/issues/21)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+8.  🎉 Zusammengeführte PR[#22](https://github.com/offensive-vk/auto-label/pull/22)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+9.  🎉 Zusammengeführte PR[#10025](https://github.com/offensive-vk/Classics/pull/10025)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+10. 🎉 Zusammengeführte PR[#10026](https://github.com/offensive-vk/Classics/pull/10026)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+11. 💪 PR eröffnet[#7912](https://github.com/kamranahmedse/developer-roadmap/pull/7912)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 PR eröffnet[#22](https://github.com/offensive-vk/auto-label/pull/22)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+13. 🎉 Zusammengeführte PR[#288](https://github.com/offensive-vk/UntilEverything/pull/288)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. ❗Geöffnete Ausgabe[#21](https://github.com/offensive-vk/auto-label/issues/21)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+15. 🔒 Geschlossenes Problem[#18](https://github.com/offensive-vk/auto-label/issues/18)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
