@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v7](https://github.com/offensive-vk/auto-stats/releases/tag/v7) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-2. 🎉 Merged PR [#7](https://github.com/offensive-vk/auto-stats/pull/7) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-3. 🎉 Merged PR [#27599](https://github.com/offensive-vk/offensive-vk/pull/27599) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4. 💪 Opened PR [#7](https://github.com/offensive-vk/auto-stats/pull/7) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-5. 🚀 Published release [v7](https://github.com/offensive-vk/auto-commit-push/releases/tag/v7) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
-6. 🎉 Merged PR [#7](https://github.com/offensive-vk/auto-commit-push/pull/7) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
-7. 🚀 Published release [v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-8. 💪 Opened PR [#7](https://github.com/offensive-vk/auto-commit-push/pull/7) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
-9. 🎉 Merged PR [#7](https://github.com/offensive-vk/auto-repo-sync/pull/7) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-10. 🚀 Published release [v7](https://github.com/offensive-vk/auto-update-quote/releases/tag/v7) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
-11. 🎉 Merged PR [#6](https://github.com/offensive-vk/auto-update-quote/pull/6) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
-12. 💪 Opened PR [#7](https://github.com/offensive-vk/auto-repo-sync/pull/7) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-13. 🎉 Merged PR [#292](https://github.com/offensive-vk/UntilEverything/pull/292) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 💪 Opened PR [#292](https://github.com/offensive-vk/UntilEverything/pull/292) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 Merged PR [#290](https://github.com/offensive-vk/UntilEverything/pull/290) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1. 🎉 Merged PR [#285](https://github.com/offensive-vk/UntilEverything/pull/285) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2. 🚀 Published release [v7](https://github.com/offensive-vk/auto-stats/releases/tag/v7) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+3. 🎉 Merged PR [#7](https://github.com/offensive-vk/auto-stats/pull/7) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+4. 🎉 Merged PR [#27599](https://github.com/offensive-vk/offensive-vk/pull/27599) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5. 💪 Opened PR [#7](https://github.com/offensive-vk/auto-stats/pull/7) in [offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
+6. 🚀 Published release [v7](https://github.com/offensive-vk/auto-commit-push/releases/tag/v7) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
+7. 🎉 Merged PR [#7](https://github.com/offensive-vk/auto-commit-push/pull/7) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
+8. 🚀 Published release [v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+9. 💪 Opened PR [#7](https://github.com/offensive-vk/auto-commit-push/pull/7) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
+10. 🎉 Merged PR [#7](https://github.com/offensive-vk/auto-repo-sync/pull/7) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+11. 🚀 Published release [v7](https://github.com/offensive-vk/auto-update-quote/releases/tag/v7) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+12. 🎉 Merged PR [#6](https://github.com/offensive-vk/auto-update-quote/pull/6) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
+13. 💪 Opened PR [#7](https://github.com/offensive-vk/auto-repo-sync/pull/7) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+14. 🎉 Merged PR [#292](https://github.com/offensive-vk/UntilEverything/pull/292) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+15. 💪 Opened PR [#292](https://github.com/offensive-vk/UntilEverything/pull/292) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
 
 </p>
