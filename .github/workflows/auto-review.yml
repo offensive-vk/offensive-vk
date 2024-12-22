@@ -1,0 +1,40 @@
+name: ✍🏻 Automated PR Review
+
+on:
+  pull_request:
+    branches:
+      - 'master'
+      - '**' 
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  review-pr:
+    name: Review
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v4
+
+    - name: Install GitHub CLI
+      run: |
+        sudo apt-get install gh -y
+
+    - name: Submit Approval Review
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        pr_url="${{ github.event.pull_request.url }}"
+        pr_number="${{ github.event.pull_request.number }}"
+        review_body="
+        🎉 ${{ github.event.pull_request.user.name }} , Great work on the Pull Request! 🚀
+
+        Please ensure that this pull request should have:
+        - 🧪 The CI checks pass ✅
+        - 📜 You have read and followed the [contribution guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) to ensure a smooth merge 🔧
+        - ⚡ One More Approval for the final boss 🫅🏻
+
+        Keep up the awesome work and thank you for your contributions! Let's keep building amazing things together! 💪✨"
+
+        gh pr review "$pr_number" --approve --body "$review_body"
