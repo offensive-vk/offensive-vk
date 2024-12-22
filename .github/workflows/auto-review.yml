@@ -33,7 +33,7 @@ jobs:
         Please ensure that this pull request should have:
         - 🧪 The CI checks pass ✅
         - 📜 You have read and followed the [contribution guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) to ensure a smooth merge 🔧
-        - ⚡ One More Approval for the final boss 🫅🏻
+        - ⚡ One approval from the final [boss](https://github.com/offensive-vk) 🫅🏻
 
         Keep up the awesome work and thank you for your contributions! Let's keep building amazing things together! 💪✨"
 
@@ -47,7 +47,6 @@ jobs:
         pr_number="${{ github.event.pull_request.number }}"
         review_details=$(gh api "/repos/${{ github.repository }}/pulls/${pr_number}/reviews" --jq '.[0]')
         COMMENT_ID=$(echo "$review_details" | jq -r '.id')
-        echo "Review Comment ID: $COMMENT_ID"
         echo "$COMMENT_ID" >> $GITHUB_ENV;
 
     - name: React to the Review Comment
@@ -56,5 +55,4 @@ jobs:
       run: |
         COMMENT_ID="${{ env.COMMENT_ID }}"
         REACTION="heart"
-        gh api -X POST "/repos/${{ github.repository }}/pulls/comments/${COMMENT_ID}/reactions" \
-          -f content="${REACTION}"
+        gh api -X POST "/repos/${{ github.repository }}/pulls/comments/${COMMENT_ID}/reactions" -f content="${REACTION}"
