@@ -26,6 +26,7 @@ jobs:
         GH_TOKEN: ${{ github.token }}
       run: |
         pr_url="${{ github.event.pull_request.url }}"
+        pr_number="${{ github.event.pull_request.number }}"
         review_body="
         🎉 ${{ github.event.pull_request.user.name }} , Great work on the Pull Request! 🚀
 
@@ -36,4 +37,4 @@ jobs:
 
         Keep up the awesome work and thank you for your contributions! Let's keep building amazing things together! 💪✨"
 
-        gh pr review "$pr_url" --approve --body "$review_body"
+        gh pr review "$pr_number" --approve --body "$review_body"
