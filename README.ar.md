@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"تجدر الإشارة إلى أنه لن يوافق أي مهندس برمجيات مدرب أخلاقيًا على كتابة إجراء تدمير بغداد.  بدلاً من ذلك، ستتطلب منه الأخلاقيات المهنية الأساسية كتابة إجراء DestroyCity، والذي يمكن إعطاء بغداد له كمعيار.</i>
+<i>❝"إن الطريقة الأكثر احتمالاً لتدمير العالم، كما يتفق معظم الخبراء، هي عن طريق الصدفة.  هذا هو المكان الذي نأتي فيه. نحن متخصصون في الكمبيوتر.  نحن نسبب الحوادث." - ناثانيال بورنشتاين ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀إصدار منشور[v7-بيتا](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-beta)في[الهجومية-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-2.  🎉 العلاقات العامة المدمجة[#6](https://github.com/offensive-vk/auto-repo-sync/pull/6)في[الهجومية-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-3.  💪 فتح العلاقات العامة[#6](https://github.com/offensive-vk/auto-repo-sync/pull/6)في[الهجومية-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-4.  🎉 العلاقات العامة المدمجة[#277](https://github.com/offensive-vk/UntilEverything/pull/277)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-5.  🚀إصدار منشور[v7-بيتا](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-6.  🎉 العلاقات العامة المدمجة[#20](https://github.com/offensive-vk/auto-label/pull/20)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-7.  🔒 قضية مغلقة[#21](https://github.com/offensive-vk/auto-label/issues/21)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-8.  🎉 العلاقات العامة المدمجة[#22](https://github.com/offensive-vk/auto-label/pull/22)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-9.  🎉 العلاقات العامة المدمجة[#10025](https://github.com/offensive-vk/Classics/pull/10025)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-10. 🎉 العلاقات العامة المدمجة[#10026](https://github.com/offensive-vk/Classics/pull/10026)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-11. 💪 فتح العلاقات العامة[#7912](https://github.com/kamranahmedse/developer-roadmap/pull/7912)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 فتح العلاقات العامة[#22](https://github.com/offensive-vk/auto-label/pull/22)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-13. 🎉 العلاقات العامة المدمجة[#288](https://github.com/offensive-vk/UntilEverything/pull/288)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-14. ❗ قضية مفتوحة[#21](https://github.com/offensive-vk/auto-label/issues/21)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-15. 🔒 قضية مغلقة[#18](https://github.com/offensive-vk/auto-label/issues/18)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+1.  💪 فتح العلاقات العامة[#7924](https://github.com/kamranahmedse/developer-roadmap/pull/7924)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 فتح العلاقات العامة[#7923](https://github.com/kamranahmedse/developer-roadmap/pull/7923)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+3.  🗣 تم التعليق عليه[#27614](https://github.com/offensive-vk/offensive-vk/issues/27614#issuecomment-2558435495)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 تم التعليق عليه[#27614](https://github.com/offensive-vk/offensive-vk/issues/27614#issuecomment-2558434848)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 تم التعليق عليه[#27614](https://github.com/offensive-vk/offensive-vk/issues/27614#issuecomment-2558434684)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 العلاقات العامة المدمجة[#27615](https://github.com/offensive-vk/offensive-vk/pull/27615)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 العلاقات العامة المدمجة[#27612](https://github.com/offensive-vk/offensive-vk/pull/27612)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 العلاقات العامة المدمجة[#27608](https://github.com/offensive-vk/offensive-vk/pull/27608)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 العلاقات العامة المدمجة[#27602](https://github.com/offensive-vk/offensive-vk/pull/27602)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 العلاقات العامة المدمجة[#285](https://github.com/offensive-vk/UntilEverything/pull/285)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+11. 🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-stats/releases/tag/v7)في[الهجوم-vk/الإحصائيات التلقائية](https://github.com/offensive-vk/auto-stats)
+12. 🎉 العلاقات العامة المدمجة[#7](https://github.com/offensive-vk/auto-stats/pull/7)في[الهجوم-vk/الإحصائيات التلقائية](https://github.com/offensive-vk/auto-stats)
+13. 🎉 العلاقات العامة المدمجة[#27599](https://github.com/offensive-vk/offensive-vk/pull/27599)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+14. 💪 فتح العلاقات العامة[#7](https://github.com/offensive-vk/auto-stats/pull/7)في[الهجوم-vk/الإحصائيات التلقائية](https://github.com/offensive-vk/auto-stats)
+15. 🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-commit-push/releases/tag/v7)في[الهجوم-vk/الالتزام التلقائي-الدفع](https://github.com/offensive-vk/auto-commit-push)
     <!--END_SECTION:activity-->
 
 </p>
