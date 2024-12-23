@@ -23,7 +23,9 @@
 [![⚒️ Automated Image Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pull.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pull.yml)
 [![⛽ Automated Repo Statistics](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-stats.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-stats.yml)
 [![⚠️ Report Workflow Failures](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-report.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-report.yml)
-
 [![⌚ Cronitor Monitoring Relay](https://github.com/offensive-vk/offensive-vk/actions/workflows/cronitor.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/cronitor.yml)
 [![🚀 Automated Comment Reaction](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-react.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-react.yml)
 [![❤️ Greetings](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-greet.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-greet.yml)
+[![🦅 Sync to Gitlab](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-sync.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-sync.yml)
+[![🛜 Status - Workflows](https://github.com/offensive-vk/offensive-vk/actions/workflows/fetch-workflows.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/fetch-workflows.yml)
+[![✍🏻 Automated PR Review](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-review.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-review.yml)

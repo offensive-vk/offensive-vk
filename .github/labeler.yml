@@ -62,4 +62,14 @@ docker:
           - 'Dockerfile'
           - 'compose.yaml'
 
+profile:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'README.md'
+          - 'README.ar.md'
+          - 'README.de.md'
+          - 'README.fr.md'
+          - 'README.es.md'
+          - 'README.ru.md'
+          - 'README.zh-CN.md'
 # ** DO NOT MODIFY **
