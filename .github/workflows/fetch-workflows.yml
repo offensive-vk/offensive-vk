@@ -10,14 +10,14 @@ on:
       number:
         description: 'Issue or PR Number to Execute Workflow'
         required: true
-        default: '30000'
+        default: '27000'
 
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   fetch-workflows:
-    name: Fetch Relevant Workflows and Status
+    name: Fetch Workflows and Status
     runs-on: ubuntu-latest
 
     steps:
@@ -32,6 +32,8 @@ jobs:
 
       - name: 📊 Fetch Workflow Statuses for Relevant Workflows
         id: fetch-status
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           gh workflow list --json name,id,state --limit 100 > workflows.json
 
@@ -58,6 +60,10 @@ jobs:
           total=$(jq '. | length' workflows.json)
           running=$(jq '[.[] | select(.state == "in_progress")] | length' workflows.json)
           successful=$(jq '[.[] | select(.state == "completed")] | length' workflows.json)
+          
+          echo "total_workflows=$total"
+          echo "running_workflows=$running"
+          echo "successful_workflows=$successful"
 
           echo "total_workflows=$total" >> $GITHUB_ENV
           echo "running_workflows=$running" >> $GITHUB_ENV
@@ -73,17 +79,15 @@ jobs:
           issue-number: ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number || 27614 }}
           body: |
             > [!TIP]
-            > ## 📝 Relevant Workflow Status Update
-
-            - **Manual Dispatch Number:** `${{ github.event.inputs.number }}`
-            - **Total Workflows:** `${{ env.total_workflows }}`
-            - **Running Workflows:** `${{ env.running_workflows }}`
-            - **Successful Workflows:** `${{ env.successful_workflows }}`
+            > ## 📝 Workflow Status Update
+      
+            - **Manual Dispatch Number:** ${{ github.event.inputs.number }}
+            - **Total Workflows:** ${{ env.total_workflows || 'N/A' }}
+            - **Running Workflows:** ${{ env.running_workflows || 'N/A' }}
             
             ### 📋 Relevant Workflows Summary
-
-            ${{ env.workflows_summary }}
-
-
-            Thanks,
+      
+            ${{ env.workflows_summary || 'No workflows found.' }}
+      
+            Thanks
             Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
