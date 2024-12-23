@@ -39,6 +39,7 @@ jobs:
         Keep up the awesome work and thank you for your contributions! Let's keep building amazing workflows together! 💪✨"
 
         gh pr review "$pr_number" --approve --body "$review_body"
+        gh pr edit "$pr_number" --add-label "approved"
 
     # - name: Get Review Comment ID
     #   env:

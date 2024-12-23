@@ -22,7 +22,7 @@ jobs:
 
       - name: Get Failed Jobs
         id: get-failed-jobs
-        if: ${{ github.actor != github.repository_owner }}  # Skip if the actor is the repository owner
+        if: ${{ github.actor != github.repository_owner }}
         run: |
           run_id=${{ github.event.workflow_run.id }}
           response=$(gh api repos/${{ github.repository }}/actions/runs/$run_id/jobs --jq '.jobs')
@@ -37,13 +37,13 @@ jobs:
 
       - name: Create Issue for Failed Jobs
         if: env.failed_jobs != '' && github.actor != github.repository_owner
-        uses: dacbd/create-issue-action@main
+        uses: offensive-vk/auto-issue@v7
         with:
-          token: ${{ secrets.BOT_TOKEN }}
+          github-token: ${{ secrets.BOT_TOKEN }}
           title: |
             🚨 Workflow Failure: ${{ github.event.workflow.name }}
           assignees: TheHamsterBot
-          labels: hamster,github-action,reporter
+          labels: hamster,reporter
           body: |
             > [!CAUTION]  
             > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) encountered failed jobs.
@@ -54,7 +54,7 @@ jobs:
             ## **Failure Details:**
             - **Workflow Path**: ${{ github.workflow_ref }}
             - **Conclusion**: `${{ github.event.workflow_run.conclusion }}`
-            - **Status Message**: `${{ github.event.workflow_run.status_message || 'N/A' }}`
+            - **Status Message**: `${{ github.event.workflow_run.status|| 'N/A' }}`
 
             Thanks.  
             **Your Hamster** 🐹 

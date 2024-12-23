@@ -5,7 +5,7 @@
 [![🤖 Close Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-close.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-close.yml)
 [![🐍 Generate Snake Contribution GIF](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
 [![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
-[![⭐ Generate Starred Repo List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)
+[![⭐ Generate Stargazer List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)
 [![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 [![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
 [![🗃️ Automated Project - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml)
@@ -23,3 +23,7 @@
 [![⚒️ Automated Image Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pull.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pull.yml)
 [![⛽ Automated Repo Statistics](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-stats.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-stats.yml)
 [![⚠️ Report Workflow Failures](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-report.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-report.yml)
+
+[![⌚ Cronitor Monitoring Relay](https://github.com/offensive-vk/offensive-vk/actions/workflows/cronitor.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/cronitor.yml)
+[![🚀 Automated Comment Reaction](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-react.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-react.yml)
+[![❤️ Greetings](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-greet.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-greet.yml)
