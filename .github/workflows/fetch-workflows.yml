@@ -1,10 +1,10 @@
-name: 🛜 Status - Workflows
+name: 🛜 Automated Workflows Logs
 
 on:
   issues:
-    types: [opened, edited, closed]
+    types: [opened, edited]
   pull_request:
-    types: [opened, closed, synchronize]
+    types: [opened, synchronize]
   workflow_dispatch:
     inputs:
       number:
@@ -17,7 +17,7 @@ env:
 
 jobs:
   fetch-workflows:
-    name: Fetch Workflows
+    name: Fetch Relevant Workflows and Status
     runs-on: ubuntu-latest
 
     steps:
@@ -30,39 +30,40 @@ jobs:
           sudo apt-get install -y jq
           sudo apt-get install -y gh
 
-      - name: 📊 Fetch Workflow Statuses
+      - name: 📊 Fetch Workflow Statuses for Relevant Workflows
         id: fetch-status
         run: |
-          gh workflow list --all --json name,id,state > workflows.json
+          gh workflow list --json name,id,state --limit 100 > workflows.json
 
-          # Check if workflows.json is empty or invalid
           if [ ! -s workflows.json ]; then
-            echo "Workflows could not be fetched or are unavailable." > workflows_summary.txt
+            echo "No workflows found or workflows are unavailable." > workflows_summary.txt
+            echo "No active workflows for this issue/PR." >> workflows_summary.txt
             echo "total_workflows=0" >> $GITHUB_ENV
             echo "running_workflows=0" >> $GITHUB_ENV
             echo "successful_workflows=0" >> $GITHUB_ENV
             exit 0
           fi
 
-          # Parse counts
+          running_workflows=$(jq '[.[] | select(.state == "in_progress")]' workflows.json)
+          enabled_workflows=$(jq '[.[] | select(.state == "queued" or .state == "in_progress")]' workflows.json)
+
+          echo "| Workflow Name           | ID          | State       |" > workflows_summary.md
+          echo "|-------------------------|-------------|-------------|" >> workflows_summary.md
+          if [ "$enabled_workflows" != "[]" ]; then
+            jq -r '.[] | "| \(.name) | \(.id) | \(.state) |"' <<< "$enabled_workflows" >> workflows_summary.md
+          else
+            echo "| No active workflows | N/A | N/A |" >> workflows_summary.md
+          fi
+
           total=$(jq '. | length' workflows.json)
           running=$(jq '[.[] | select(.state == "in_progress")] | length' workflows.json)
           successful=$(jq '[.[] | select(.state == "completed")] | length' workflows.json)
 
-          # Generate a terminal-style table summary with a greeting font
-          echo "   _______  _______  _______  _______  _______ " > workflows_summary.txt
-          echo "  |       ||       ||       ||       ||       |" >> workflows_summary.txt
-          echo "  | Status | Workflows | Summary | Table | End   |" >> workflows_summary.txt
-          echo "  |_______||_______||_______||_______||_______|" >> workflows_summary.txt
-          echo "----------------------------|-------------|-------------" >> workflows_summary.txt
-          jq -r '.[] | "  \(.name[:26]) | \(.id) | \(.state)       "' workflows.json >> workflows_summary.txt
-
-          # Save outputs to step outputs
           echo "total_workflows=$total" >> $GITHUB_ENV
           echo "running_workflows=$running" >> $GITHUB_ENV
           echo "successful_workflows=$successful" >> $GITHUB_ENV
           echo "workflows_summary<<EOF" >> $GITHUB_ENV
-          cat workflows_summary.txt >> $GITHUB_ENV
+          cat workflows_summary.md >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
 
       - name: 🗣️ Add Status Comment
@@ -72,17 +73,17 @@ jobs:
           issue-number: ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number || 27614 }}
           body: |
             > [!TIP]
-            > ## 📝 Workflow Status Update
+            > ## 📝 Relevant Workflow Status Update
 
             - **Manual Dispatch Number:** `${{ github.event.inputs.number }}`
             - **Total Workflows:** `${{ env.total_workflows }}`
             - **Running Workflows:** `${{ env.running_workflows }}`
             - **Successful Workflows:** `${{ env.successful_workflows }}`
+            
+            ### 📋 Relevant Workflows Summary
 
-            ### 📋 Workflows Summary (Terminal Style)
-            ```
             ${{ env.workflows_summary }}
-            ```
 
-            Thank you,
+
+            Thanks,
             Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
