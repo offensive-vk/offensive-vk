@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“应该指出的是，没有经过道德培训的软件工程师会同意编写 DestroyBaghdad 程序。  相反，基本的职业道德要求他编写一个毁灭城市程序，巴格达可以作为参数。”——纳撒尼尔·S.博伦斯坦❞</i>
+<i>❝“大多数专家都认为，世界最有可能被毁灭的方式是意外。  这就是我们的切入点；我们是计算机专业人士。  我们会造成事故。”— Nathaniel Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 已发布版本[v7-测试版](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7-beta)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-2.  🎉 合并公关[#6](https://github.com/offensive-vk/auto-repo-sync/pull/6)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-3.  💪 开启公关[#6](https://github.com/offensive-vk/auto-repo-sync/pull/6)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-4.  🎉 合并公关[#277](https://github.com/offensive-vk/UntilEverything/pull/277)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🚀 已发布版本[v7-测试版](https://github.com/offensive-vk/auto-label/releases/tag/v7-beta)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-6.  🎉 合并公关[#20](https://github.com/offensive-vk/auto-label/pull/20)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-7.  🔒 已关闭问题[#21](https://github.com/offensive-vk/auto-label/issues/21)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-8.  🎉 合并公关[#22](https://github.com/offensive-vk/auto-label/pull/22)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-9.  🎉 合并公关[#10025](https://github.com/offensive-vk/Classics/pull/10025)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-10. 🎉 合并公关[#10026](https://github.com/offensive-vk/Classics/pull/10026)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-11. 💪 开启公关[#7912](https://github.com/kamranahmedse/developer-roadmap/pull/7912)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 开启公关[#22](https://github.com/offensive-vk/auto-label/pull/22)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-13. 🎉 合并公关[#288](https://github.com/offensive-vk/UntilEverything/pull/288)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. ❗ 未解决的问题[#21](https://github.com/offensive-vk/auto-label/issues/21)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-15. 🔒 已关闭问题[#18](https://github.com/offensive-vk/auto-label/issues/18)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+1.  💪 开启公关[#7924](https://github.com/kamranahmedse/developer-roadmap/pull/7924)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 开启公关[#7923](https://github.com/kamranahmedse/developer-roadmap/pull/7923)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+3.  🗣 已发表评论[#27614](https://github.com/offensive-vk/offensive-vk/issues/27614#issuecomment-2558435495)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 已发表评论[#27614](https://github.com/offensive-vk/offensive-vk/issues/27614#issuecomment-2558434848)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 已发表评论[#27614](https://github.com/offensive-vk/offensive-vk/issues/27614#issuecomment-2558434684)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 合并公关[#27615](https://github.com/offensive-vk/offensive-vk/pull/27615)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 合并公关[#27612](https://github.com/offensive-vk/offensive-vk/pull/27612)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 合并公关[#27608](https://github.com/offensive-vk/offensive-vk/pull/27608)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 合并公关[#27602](https://github.com/offensive-vk/offensive-vk/pull/27602)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 合并公关[#285](https://github.com/offensive-vk/UntilEverything/pull/285)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-stats/releases/tag/v7)在[进攻-vk/自动统计](https://github.com/offensive-vk/auto-stats)
+12. 🎉 合并公关[#7](https://github.com/offensive-vk/auto-stats/pull/7)在[进攻-vk/自动统计](https://github.com/offensive-vk/auto-stats)
+13. 🎉 合并公关[#27599](https://github.com/offensive-vk/offensive-vk/pull/27599)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+14. 💪 开启公关[#7](https://github.com/offensive-vk/auto-stats/pull/7)在[进攻-vk/自动统计](https://github.com/offensive-vk/auto-stats)
+15. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-commit-push/releases/tag/v7)在[进攻性-vk/自动提交-推送](https://github.com/offensive-vk/auto-commit-push)
     <!--END_SECTION:activity-->
 
 </p>
