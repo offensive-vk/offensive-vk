@@ -33,7 +33,6 @@ jobs:
       - name: 📊 Fetch Workflow Statuses
         id: fetch-status
         run: |
-          # Fetch all workflows using gh CLI
           gh workflow list --all --json name,id,state > workflows.json
 
           # Check if workflows.json is empty or invalid
@@ -53,7 +52,7 @@ jobs:
           # Generate a terminal-style table summary
           echo "  Name                      | ID          | State       " > workflows_summary.txt
           echo "----------------------------|-------------|-------------" >> workflows_summary.txt
-          jq -r '.[] | "  \(.name | truncate(26)) | \(.id) | \(.state)       "' workflows.json >> workflows_summary.txt
+          jq -r '.[] | "  \(.name[:26]) | \(.id) | \(.state)       "' workflows.json >> workflows_summary.txt
 
           # Save outputs to step outputs
           echo "total_workflows=$total" >> $GITHUB_ENV
@@ -63,14 +62,15 @@ jobs:
           cat workflows_summary.txt >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
 
+
       - name: 🗣️ Add Status Comment
         uses: peter-evans/create-or-update-comment@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          issue-number: ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number || 0 }}
+          issue-number: ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number || 27614 }}
           body: |
-            > [!NOTE]
-            > ### 📝 Workflow Status Update
+            > [!TIP]
+            > ## 📝 Workflow Status Update
 
             - **Manual Dispatch Number:** `${{ github.event.inputs.number }}`
             - **Total Workflows:** `${{ env.total_workflows }}`
