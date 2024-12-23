@@ -49,8 +49,11 @@ jobs:
           running=$(jq '[.[] | select(.state == "in_progress")] | length' workflows.json)
           successful=$(jq '[.[] | select(.state == "completed")] | length' workflows.json)
 
-          # Generate a terminal-style table summary
-          echo "  Name                      | ID          | State       " > workflows_summary.txt
+          # Generate a terminal-style table summary with a greeting font
+          echo "   _______  _______  _______  _______  _______ " > workflows_summary.txt
+          echo "  |       ||       ||       ||       ||       |" >> workflows_summary.txt
+          echo "  | Status | Workflows | Summary | Table | End   |" >> workflows_summary.txt
+          echo "  |_______||_______||_______||_______||_______|" >> workflows_summary.txt
           echo "----------------------------|-------------|-------------" >> workflows_summary.txt
           jq -r '.[] | "  \(.name[:26]) | \(.id) | \(.state)       "' workflows.json >> workflows_summary.txt
 
@@ -61,7 +64,6 @@ jobs:
           echo "workflows_summary<<EOF" >> $GITHUB_ENV
           cat workflows_summary.txt >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
-
 
       - name: 🗣️ Add Status Comment
         uses: peter-evans/create-or-update-comment@v4
