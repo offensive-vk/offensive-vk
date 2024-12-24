@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« La manière la plus probable que le monde soit détruit, de l’avis de la plupart des experts, c’est par accident.  C'est là que nous intervenons ; nous sommes des professionnels de l'informatique.  Nous provoquons des accidents. » – Nathaniel Borenstein ❞</i>
+<i>❝« La manière la plus probable pour la destruction du monde, de l’avis de la plupart des experts, est le hasard.  C'est là que nous intervenons ; nous sommes des professionnels de l'informatique.  Nous provoquons des accidents. » – Nathaniel Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 RP ouverte[#7924](https://github.com/kamranahmedse/developer-roadmap/pull/7924)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 RP ouverte[#7923](https://github.com/kamranahmedse/developer-roadmap/pull/7923)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-3.  🗣 Commenté[#27614](https://github.com/offensive-vk/offensive-vk/issues/27614#issuecomment-2558435495)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🗣 Commenté[#27614](https://github.com/offensive-vk/offensive-vk/issues/27614#issuecomment-2558434848)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🗣 Commenté[#27614](https://github.com/offensive-vk/offensive-vk/issues/27614#issuecomment-2558434684)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 PR fusionné[#27615](https://github.com/offensive-vk/offensive-vk/pull/27615)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 PR fusionné[#27612](https://github.com/offensive-vk/offensive-vk/pull/27612)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 PR fusionné[#27608](https://github.com/offensive-vk/offensive-vk/pull/27608)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 PR fusionné[#27602](https://github.com/offensive-vk/offensive-vk/pull/27602)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 PR fusionné[#285](https://github.com/offensive-vk/UntilEverything/pull/285)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-11. 🚀 Version publiée[v7](https://github.com/offensive-vk/auto-stats/releases/tag/v7)dans[offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-12. 🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-stats/pull/7)dans[offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-13. 🎉 PR fusionné[#27599](https://github.com/offensive-vk/offensive-vk/pull/27599)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 💪 RP ouverte[#7](https://github.com/offensive-vk/auto-stats/pull/7)dans[offensive-vk/auto-stats](https://github.com/offensive-vk/auto-stats)
-15. 🚀 Version publiée[v7](https://github.com/offensive-vk/auto-commit-push/releases/tag/v7)dans[offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
+1.  🎉 PR fusionné[#24](https://github.com/offensive-vk/develop-actions/pull/24)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+2.  🔒 Problème clos[#27872](https://github.com/offensive-vk/offensive-vk/issues/27872)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Problème clos[#27873](https://github.com/offensive-vk/offensive-vk/issues/27873)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Problème clos[#27865](https://github.com/offensive-vk/offensive-vk/issues/27865)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Problème clos[#27871](https://github.com/offensive-vk/offensive-vk/issues/27871)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 Problème clos[#27870](https://github.com/offensive-vk/offensive-vk/issues/27870)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Problème clos[#27869](https://github.com/offensive-vk/offensive-vk/issues/27869)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Problème clos[#27868](https://github.com/offensive-vk/offensive-vk/issues/27868)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Problème clos[#27867](https://github.com/offensive-vk/offensive-vk/issues/27867)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Problème clos[#27866](https://github.com/offensive-vk/offensive-vk/issues/27866)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Problème clos[#27864](https://github.com/offensive-vk/offensive-vk/issues/27864)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Problème clos[#27863](https://github.com/offensive-vk/offensive-vk/issues/27863)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Problème clos[#27862](https://github.com/offensive-vk/offensive-vk/issues/27862)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Problème clos[#27861](https://github.com/offensive-vk/offensive-vk/issues/27861)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Problème clos[#27860](https://github.com/offensive-vk/offensive-vk/issues/27860)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
