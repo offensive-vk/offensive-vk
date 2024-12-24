@@ -14,11 +14,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update Quote
-        uses: offensive-vk/auto-update-quote@master
+      - name: Update Quote using Action
+        uses: offensive-vk/auto-update-quote@v7
         with:
           GH_TOKEN: ${{ secrets.BOT_TOKEN }}
+          OPTION: 'both'
           COMMIT_MESSAGE: |
-            :cloud: Updated Daily Quote 
- 
-            Co-Authored-by: Vedansh <superuser.ntsystems@outlook.com>
+            :cloud: Updated Daily Motivational Quote 
+
+
+            Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+            Co-authored-by: Vedansh <superuser.ntsystems@outlook.com>

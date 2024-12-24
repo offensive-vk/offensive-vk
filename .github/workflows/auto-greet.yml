@@ -1,7 +1,12 @@
-name: ❤️ Greetings
+name: ❤️ Send Greetings
 
 on:
   workflow_dispatch:
+    inputs:
+      number:
+        type: number
+        description: "The PR or Issue Number"
+        required: true
   issues:
     types: [opened]
   pull_request_target:

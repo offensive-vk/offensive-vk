@@ -1,4 +1,4 @@
-name: ⭐ Generate Starred Repo List
+name: ⭐ Generate Stargazer List
 
 on:
   workflow_dispatch:
