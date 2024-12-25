@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“大多数专家都认为，世界最有可能被毁灭的方式是意外。  这就是我们的切入点；我们是计算机专业人士。  我们会造成事故。”— Nathaniel Borenstein ❞</i>
+<i>❝“密码就像内衣：你不能让别人看到它，你应该经常更改它，并且你不应该与陌生人分享它。”- Chris Pirillo ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#24](https://github.com/offensive-vk/develop-actions/pull/24)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-2.  🔒 已关闭问题[#27872](https://github.com/offensive-vk/offensive-vk/issues/27872)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 已关闭问题[#27873](https://github.com/offensive-vk/offensive-vk/issues/27873)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 已关闭问题[#27865](https://github.com/offensive-vk/offensive-vk/issues/27865)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 已关闭问题[#27871](https://github.com/offensive-vk/offensive-vk/issues/27871)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🔒 已关闭问题[#27870](https://github.com/offensive-vk/offensive-vk/issues/27870)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 已关闭问题[#27869](https://github.com/offensive-vk/offensive-vk/issues/27869)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 已关闭问题[#27868](https://github.com/offensive-vk/offensive-vk/issues/27868)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 已关闭问题[#27867](https://github.com/offensive-vk/offensive-vk/issues/27867)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 已关闭问题[#27866](https://github.com/offensive-vk/offensive-vk/issues/27866)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 已关闭问题[#27864](https://github.com/offensive-vk/offensive-vk/issues/27864)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 已关闭问题[#27863](https://github.com/offensive-vk/offensive-vk/issues/27863)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 已关闭问题[#27862](https://github.com/offensive-vk/offensive-vk/issues/27862)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 已关闭问题[#27861](https://github.com/offensive-vk/offensive-vk/issues/27861)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 已关闭问题[#27860](https://github.com/offensive-vk/offensive-vk/issues/27860)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 合并公关[#297](https://github.com/offensive-vk/UntilEverything/pull/297)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🔒 已关闭问题[#287](https://github.com/offensive-vk/UntilEverything/issues/287)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🔒 已关闭问题[#295](https://github.com/offensive-vk/UntilEverything/issues/295)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🔒 已关闭问题[#293](https://github.com/offensive-vk/UntilEverything/issues/293)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🔒 已关闭问题[#291](https://github.com/offensive-vk/UntilEverything/issues/291)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🔒 已关闭问题[#289](https://github.com/offensive-vk/UntilEverything/issues/289)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🔒 已关闭问题[#286](https://github.com/offensive-vk/UntilEverything/issues/286)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 合并公关[#296](https://github.com/offensive-vk/UntilEverything/pull/296)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 合并公关[#280](https://github.com/offensive-vk/UntilEverything/pull/280)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 合并公关[#294](https://github.com/offensive-vk/UntilEverything/pull/294)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣 已发表评论[#294](https://github.com/offensive-vk/UntilEverything/pull/294#issuecomment-2560964795)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 合并公关[#278](https://github.com/offensive-vk/UntilEverything/pull/278)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 合并公关[#27922](https://github.com/offensive-vk/offensive-vk/pull/27922)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 合并公关[#24](https://github.com/offensive-vk/develop-actions/pull/24)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+15. 🔒 已关闭问题[#27872](https://github.com/offensive-vk/offensive-vk/issues/27872)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
