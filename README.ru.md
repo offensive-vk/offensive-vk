@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Наиболее вероятный способ разрушения мира, по мнению большинства экспертов, — это случайность.  Вот тут-то мы и вступаем; мы компьютерные профессионалы.  Мы вызываем несчастные случаи» — Натаниэль Боренштейн ❞</i>
+<i>❝ «Пароли — как нижнее белье: люди не должны их видеть, их следует менять очень часто и не следует делиться ими с незнакомцами». — Крис Пирилло ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#24](https://github.com/offensive-vk/develop-actions/pull/24)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
-2.  🔒 Вопрос закрыт.[#27872](https://github.com/offensive-vk/offensive-vk/issues/27872)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Вопрос закрыт.[#27873](https://github.com/offensive-vk/offensive-vk/issues/27873)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Вопрос закрыт.[#27865](https://github.com/offensive-vk/offensive-vk/issues/27865)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Вопрос закрыт.[#27871](https://github.com/offensive-vk/offensive-vk/issues/27871)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-6.  🔒 Вопрос закрыт.[#27870](https://github.com/offensive-vk/offensive-vk/issues/27870)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 Вопрос закрыт.[#27869](https://github.com/offensive-vk/offensive-vk/issues/27869)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 Вопрос закрыт.[#27868](https://github.com/offensive-vk/offensive-vk/issues/27868)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 Вопрос закрыт.[#27867](https://github.com/offensive-vk/offensive-vk/issues/27867)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 Вопрос закрыт.[#27866](https://github.com/offensive-vk/offensive-vk/issues/27866)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 Вопрос закрыт.[#27864](https://github.com/offensive-vk/offensive-vk/issues/27864)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 Вопрос закрыт.[#27863](https://github.com/offensive-vk/offensive-vk/issues/27863)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 Вопрос закрыт.[#27862](https://github.com/offensive-vk/offensive-vk/issues/27862)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Вопрос закрыт.[#27861](https://github.com/offensive-vk/offensive-vk/issues/27861)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Вопрос закрыт.[#27860](https://github.com/offensive-vk/offensive-vk/issues/27860)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 Объединенный пиар[#297](https://github.com/offensive-vk/UntilEverything/pull/297)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🔒 Вопрос закрыт.[#287](https://github.com/offensive-vk/UntilEverything/issues/287)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🔒 Вопрос закрыт.[#295](https://github.com/offensive-vk/UntilEverything/issues/295)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🔒 Вопрос закрыт.[#293](https://github.com/offensive-vk/UntilEverything/issues/293)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🔒 Вопрос закрыт.[#291](https://github.com/offensive-vk/UntilEverything/issues/291)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🔒 Вопрос закрыт.[#289](https://github.com/offensive-vk/UntilEverything/issues/289)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🔒 Вопрос закрыт.[#286](https://github.com/offensive-vk/UntilEverything/issues/286)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 Объединенный пиар[#296](https://github.com/offensive-vk/UntilEverything/pull/296)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 Объединенный пиар[#280](https://github.com/offensive-vk/UntilEverything/pull/280)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 Объединенный пиар[#294](https://github.com/offensive-vk/UntilEverything/pull/294)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣 Прокомментировал[#294](https://github.com/offensive-vk/UntilEverything/pull/294#issuecomment-2560964795)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 Объединенный пиар[#278](https://github.com/offensive-vk/UntilEverything/pull/278)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Объединенный пиар[#27922](https://github.com/offensive-vk/offensive-vk/pull/27922)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 Объединенный пиар[#24](https://github.com/offensive-vk/develop-actions/pull/24)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
+15. 🔒 Вопрос закрыт.[#27872](https://github.com/offensive-vk/offensive-vk/issues/27872)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
