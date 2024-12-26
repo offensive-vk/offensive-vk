@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Show Triggering Event
-        run: echo "Triggered by event: ${{ github.event_name }}"
+        run: |
+          echo "Triggered by event: ${{ github.event_name }}"
 
       - name: Setup Dependencies
         run: |
