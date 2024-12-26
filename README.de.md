@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Passwörter sind wie Unterwäsche: Man darf sie nicht sehen, man sollte sie sehr oft ändern und man sollte sie nicht mit Fremden teilen.“ – Chris Pirillo ❞</i>
+<i>❝Nur etwa 10 % der Weltwährung ist physisches Geld, der Rest existiert nur auf Computern.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#297](https://github.com/offensive-vk/UntilEverything/pull/297)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🔒Geschlossenes Problem[#287](https://github.com/offensive-vk/UntilEverything/issues/287)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🔒Geschlossenes Problem[#295](https://github.com/offensive-vk/UntilEverything/issues/295)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🔒Geschlossenes Problem[#293](https://github.com/offensive-vk/UntilEverything/issues/293)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🔒Geschlossenes Problem[#291](https://github.com/offensive-vk/UntilEverything/issues/291)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6.  🔒Geschlossenes Problem[#289](https://github.com/offensive-vk/UntilEverything/issues/289)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-7.  🔒Geschlossenes Problem[#286](https://github.com/offensive-vk/UntilEverything/issues/286)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 Zusammengeführte PR[#296](https://github.com/offensive-vk/UntilEverything/pull/296)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 Zusammengeführte PR[#280](https://github.com/offensive-vk/UntilEverything/pull/280)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 Zusammengeführte PR[#294](https://github.com/offensive-vk/UntilEverything/pull/294)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🗣 Kommentiert[#294](https://github.com/offensive-vk/UntilEverything/pull/294#issuecomment-2560964795)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Zusammengeführte PR[#278](https://github.com/offensive-vk/UntilEverything/pull/278)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Zusammengeführte PR[#27922](https://github.com/offensive-vk/offensive-vk/pull/27922)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 Zusammengeführte PR[#24](https://github.com/offensive-vk/develop-actions/pull/24)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-15. 🔒Geschlossenes Problem[#27872](https://github.com/offensive-vk/offensive-vk/issues/27872)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 Kommentiert[#7931](https://github.com/kamranahmedse/developer-roadmap/pull/7931#issuecomment-2561592661)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 Zusammengeführte PR[#297](https://github.com/offensive-vk/UntilEverything/pull/297)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🔒Geschlossenes Problem[#287](https://github.com/offensive-vk/UntilEverything/issues/287)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🔒Geschlossenes Problem[#295](https://github.com/offensive-vk/UntilEverything/issues/295)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🔒Geschlossenes Problem[#293](https://github.com/offensive-vk/UntilEverything/issues/293)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🔒Geschlossenes Problem[#291](https://github.com/offensive-vk/UntilEverything/issues/291)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7.  🔒Geschlossenes Problem[#289](https://github.com/offensive-vk/UntilEverything/issues/289)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8.  🔒Geschlossenes Problem[#286](https://github.com/offensive-vk/UntilEverything/issues/286)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 Zusammengeführte PR[#296](https://github.com/offensive-vk/UntilEverything/pull/296)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 Zusammengeführte PR[#280](https://github.com/offensive-vk/UntilEverything/pull/280)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 Zusammengeführte PR[#294](https://github.com/offensive-vk/UntilEverything/pull/294)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🗣 Kommentiert[#294](https://github.com/offensive-vk/UntilEverything/pull/294#issuecomment-2560964795)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Zusammengeführte PR[#278](https://github.com/offensive-vk/UntilEverything/pull/278)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Zusammengeführte PR[#27922](https://github.com/offensive-vk/offensive-vk/pull/27922)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 Zusammengeführte PR[#24](https://github.com/offensive-vk/develop-actions/pull/24)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
     <!--END_SECTION:activity-->
 
 </p>
