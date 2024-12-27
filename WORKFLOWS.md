@@ -2,7 +2,7 @@
 [![🌨️ Publish Multi Platform Docker Images](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
 [![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
 [![🌅 Morning Glory Maintenance](https://github.com/offensive-vk/offensive-vk/actions/workflows/morning.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/morning.yml)
-[![🤖 Close Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-close.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-close.yml)
+[![🤖 Auto Close Everything - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-close.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-close.yml)
 [![🐍 Generate Snake Contribution GIF](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
 [![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
 [![⭐ Generate Stargazer List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)
