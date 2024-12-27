@@ -1,4 +1,4 @@
-name: 🤖 Close Issue - Hamster 🐹
+name: 🤖 Auto Close Everything - Hamster 🐹
 
 on:
   issue_comment:
@@ -22,13 +22,6 @@ jobs:
         (github.event.comment.user.login == github.event.repository.owner.login || 
         github.event.comment.user.login == github.event.issue.user.login)
     steps:
-      - name: React
-        uses: peter-evans/create-or-update-comment@v4
-        with:
-          token: ${{ secrets.BOT_TOKEN }}
-          issue-number: ${{ github.event.issue.number }}
-          reactions: 'rocket'
-
       - name: Close Issue
         uses: peter-evans/close-issue@v3
         with:
@@ -45,13 +38,6 @@ jobs:
         (github.event.comment.user.login == github.event.repository.owner.login || 
         github.event.comment.user.login == github.event.pull_request.user.login)
     steps:
-      - name: React
-        uses: peter-evans/create-or-update-comment@v4
-        with:
-          token: ${{ secrets.BOT_TOKEN }}
-          issue-number: ${{ github.event.pull_request.number }}
-          reactions: 'rocket'
-
       - name: Close Pull Request
         uses: peter-evans/close-pull@v3
         with:

@@ -31,15 +31,11 @@ jobs:
           script: |
             async function run() {
               try {
-                // Debugging: Log the triggering event
-                const eventName = github.context.eventName;
-                const eventAction = github.context.payload.action || 'N/A';
+                const eventName = context.eventName;
+                const eventAction = context.payload.action || 'N/A';
                 console.log(`Triggered by event: ${eventName}, action: ${eventAction}`);
-            
-                // Set the reaction type
                 const reaction = 'rocket';
             
-                // Extract comment or issue ID based on the event
                 let commentOrIssueId;
                 if (eventName === 'issue_comment' || eventName === 'pull_request_review_comment') {
                   commentOrIssueId = github.context.payload.comment?.id;
@@ -51,31 +47,18 @@ jobs:
                   throw new Error(`Unsupported event: ${eventName} with action: ${eventAction}`);
                 }
             
-                // Check if ID was successfully extracted
                 if (!commentOrIssueId) {
                   throw new Error('No comment or issue ID found in the event payload.');
                 }
             
                 console.log(`Target ID for reaction: ${commentOrIssueId}`);
-            
-                // Get the repository details
                 const { owner, repo } = github.context.repo;
             
-                // Get the GitHub token
-                const token = core.getInput('GITHUB_TOKEN', { required: true });
-            
-                // Initialize the Octokit client
-                const octokit = github.getOctokit(token);
-            
-                // Construct the API endpoint and payload
                 const apiEndpoint = `/repos/${owner}/${repo}/issues/comments/${commentOrIssueId}/reactions`;
                 const payload = { content: reaction };
             
-                // Make the API request to add the reaction
                 console.log('Sending API request to add reaction...');
                 const response = await octokit.request(`POST ${apiEndpoint}`, payload);
-            
-                // Debugging: Log the API response
                 console.log('API Response:', JSON.stringify(response.data, null, 2));
             
                 if (response.data.id) {
@@ -84,11 +67,8 @@ jobs:
                   throw new Error('Reaction was not successfully added.');
                 }
               } catch (error) {
-                // Debugging: Log the error details
                 console.error('Error occurred:', error.message);
                 console.error('Stack trace:', error.stack);
-            
-                // Fail the action
                 core.setFailed(`Action failed with error: ${error.message}`);
               }
             }
