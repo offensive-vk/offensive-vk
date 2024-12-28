@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Las contraseñas son como la ropa interior: no dejas que la gente la vea, debes cambiarla muy a menudo y no debes compartirla con extraños.”— Chris Pirillo ❞</i>
+<i>❝“Mirar el código que escribiste hace más de dos semanas es como mirar el código que estás viendo por primera vez”.—Dan Hurvitz ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#297](https://github.com/offensive-vk/UntilEverything/pull/297)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🔒 Número cerrado[#287](https://github.com/offensive-vk/UntilEverything/issues/287)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 Número cerrado[#295](https://github.com/offensive-vk/UntilEverything/issues/295)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 Número cerrado[#293](https://github.com/offensive-vk/UntilEverything/issues/293)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-5.  🔒 Número cerrado[#291](https://github.com/offensive-vk/UntilEverything/issues/291)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-6.  🔒 Número cerrado[#289](https://github.com/offensive-vk/UntilEverything/issues/289)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-7.  🔒 Número cerrado[#286](https://github.com/offensive-vk/UntilEverything/issues/286)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 Relaciones públicas fusionadas[#296](https://github.com/offensive-vk/UntilEverything/pull/296)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 Relaciones públicas fusionadas[#280](https://github.com/offensive-vk/UntilEverything/pull/280)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 Relaciones públicas fusionadas[#294](https://github.com/offensive-vk/UntilEverything/pull/294)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-11. 🗣 Comentado en[#294](https://github.com/offensive-vk/UntilEverything/pull/294#issuecomment-2560964795)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Relaciones públicas fusionadas[#278](https://github.com/offensive-vk/UntilEverything/pull/278)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Relaciones públicas fusionadas[#27922](https://github.com/offensive-vk/offensive-vk/pull/27922)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 Relaciones públicas fusionadas[#24](https://github.com/offensive-vk/develop-actions/pull/24)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
-15. 🔒 Número cerrado[#27872](https://github.com/offensive-vk/offensive-vk/issues/27872)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 Relaciones públicas fusionadas[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🗣 Comentado en[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 Relaciones públicas fusionadas[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 Comentado en[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562893465)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 Comentado en[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562626543)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 Relaciones públicas fusionadas[#27931](https://github.com/offensive-vk/offensive-vk/pull/27931)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🗣 Comentado en[#7931](https://github.com/kamranahmedse/developer-roadmap/pull/7931#issuecomment-2561592661)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+8.  🎉 Relaciones públicas fusionadas[#297](https://github.com/offensive-vk/UntilEverything/pull/297)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+9.  🔒 Número cerrado[#287](https://github.com/offensive-vk/UntilEverything/issues/287)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+10. 🔒 Número cerrado[#295](https://github.com/offensive-vk/UntilEverything/issues/295)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+11. 🔒 Número cerrado[#293](https://github.com/offensive-vk/UntilEverything/issues/293)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+12. 🔒 Número cerrado[#291](https://github.com/offensive-vk/UntilEverything/issues/291)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+13. 🔒 Número cerrado[#289](https://github.com/offensive-vk/UntilEverything/issues/289)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+14. 🔒 Número cerrado[#286](https://github.com/offensive-vk/UntilEverything/issues/286)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Relaciones públicas fusionadas[#296](https://github.com/offensive-vk/UntilEverything/pull/296)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
