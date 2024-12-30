@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"من وجهة نظر المبرمج، المستخدم هو جهاز طرفي يكتب عندما تصدر طلب قراءة." - بي ويليامز ❞</i>
+<i>❝"أين يوجد مفتاح "أي"؟" — هومر سيمبسون، ردًا على الرسالة، "اضغط على أي مفتاح" ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 تم التعليق عليه[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 العلاقات العامة المدمجة[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🗣 تم التعليق عليه[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562893465)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🗣 تم التعليق عليه[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562626543)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 العلاقات العامة المدمجة[#27931](https://github.com/offensive-vk/offensive-vk/pull/27931)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🗣 تم التعليق عليه[#7931](https://github.com/kamranahmedse/developer-roadmap/pull/7931#issuecomment-2561592661)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉 العلاقات العامة المدمجة[#297](https://github.com/offensive-vk/UntilEverything/pull/297)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-8.  🔒 قضية مغلقة[#287](https://github.com/offensive-vk/UntilEverything/issues/287)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-9.  🔒 قضية مغلقة[#295](https://github.com/offensive-vk/UntilEverything/issues/295)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-10. 🔒 قضية مغلقة[#293](https://github.com/offensive-vk/UntilEverything/issues/293)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-11. 🔒 قضية مغلقة[#291](https://github.com/offensive-vk/UntilEverything/issues/291)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-12. 🔒 قضية مغلقة[#289](https://github.com/offensive-vk/UntilEverything/issues/289)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-13. 🔒 قضية مغلقة[#286](https://github.com/offensive-vk/UntilEverything/issues/286)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 العلاقات العامة المدمجة[#296](https://github.com/offensive-vk/UntilEverything/pull/296)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 العلاقات العامة المدمجة[#280](https://github.com/offensive-vk/UntilEverything/pull/280)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 تم التعليق عليه[#7950](https://github.com/kamranahmedse/developer-roadmap/issues/7950#issuecomment-2564682347)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 فتح العلاقات العامة[#7949](https://github.com/kamranahmedse/developer-roadmap/pull/7949)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 العلاقات العامة المدمجة[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 تم التعليق عليه[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 العلاقات العامة المدمجة[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 تم التعليق عليه[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562893465)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🗣 تم التعليق عليه[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562626543)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 العلاقات العامة المدمجة[#27931](https://github.com/offensive-vk/offensive-vk/pull/27931)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🗣 تم التعليق عليه[#7931](https://github.com/kamranahmedse/developer-roadmap/pull/7931#issuecomment-2561592661)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 العلاقات العامة المدمجة[#297](https://github.com/offensive-vk/UntilEverything/pull/297)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+11. 🔒 قضية مغلقة[#287](https://github.com/offensive-vk/UntilEverything/issues/287)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+12. 🔒 قضية مغلقة[#295](https://github.com/offensive-vk/UntilEverything/issues/295)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+13. 🔒 قضية مغلقة[#293](https://github.com/offensive-vk/UntilEverything/issues/293)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+14. 🔒 قضية مغلقة[#291](https://github.com/offensive-vk/UntilEverything/issues/291)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+15. 🔒 قضية مغلقة[#289](https://github.com/offensive-vk/UntilEverything/issues/289)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
