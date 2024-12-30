@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn Sie sich den Code ansehen, den Sie vor mehr als zwei Wochen geschrieben haben, ist das so, als würden Sie den Code betrachten, den Sie zum ersten Mal sehen.“ – Dan Hurvitz ❞</i>
+<i>❝ „Wo ist die ‚Any‘-Taste?“ – Homer Simpson, als Antwort auf die Nachricht „Drücken Sie eine beliebige Taste“ ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 PR eröffnet[#7949](https://github.com/kamranahmedse/developer-roadmap/pull/7949)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 Zusammengeführte PR[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🗣 Kommentiert[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 Zusammengeführte PR[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🗣 Kommentiert[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562893465)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🗣 Kommentiert[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562626543)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 Zusammengeführte PR[#27931](https://github.com/offensive-vk/offensive-vk/pull/27931)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🗣 Kommentiert[#7931](https://github.com/kamranahmedse/developer-roadmap/pull/7931#issuecomment-2561592661)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Zusammengeführte PR[#297](https://github.com/offensive-vk/UntilEverything/pull/297)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🔒 Geschlossenes Problem[#287](https://github.com/offensive-vk/UntilEverything/issues/287)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🔒Geschlossenes Problem[#295](https://github.com/offensive-vk/UntilEverything/issues/295)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🔒Geschlossenes Problem[#293](https://github.com/offensive-vk/UntilEverything/issues/293)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🔒Geschlossenes Problem[#291](https://github.com/offensive-vk/UntilEverything/issues/291)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🔒Geschlossenes Problem[#289](https://github.com/offensive-vk/UntilEverything/issues/289)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🔒Geschlossenes Problem[#286](https://github.com/offensive-vk/UntilEverything/issues/286)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Kommentiert[#7950](https://github.com/kamranahmedse/developer-roadmap/issues/7950#issuecomment-2564682347)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 PR eröffnet[#7949](https://github.com/kamranahmedse/developer-roadmap/pull/7949)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 Zusammengeführte PR[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 Kommentiert[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 Zusammengeführte PR[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 Kommentiert[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562893465)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🗣 Kommentiert[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562626543)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 Zusammengeführte PR[#27931](https://github.com/offensive-vk/offensive-vk/pull/27931)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🗣 Kommentiert[#7931](https://github.com/kamranahmedse/developer-roadmap/pull/7931#issuecomment-2561592661)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 Zusammengeführte PR[#297](https://github.com/offensive-vk/UntilEverything/pull/297)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🔒Geschlossenes Problem[#287](https://github.com/offensive-vk/UntilEverything/issues/287)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🔒Geschlossenes Problem[#295](https://github.com/offensive-vk/UntilEverything/issues/295)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🔒Geschlossenes Problem[#293](https://github.com/offensive-vk/UntilEverything/issues/293)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. 🔒Geschlossenes Problem[#291](https://github.com/offensive-vk/UntilEverything/issues/291)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+15. 🔒Geschlossenes Problem[#289](https://github.com/offensive-vk/UntilEverything/issues/289)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
