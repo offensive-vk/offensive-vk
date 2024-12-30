@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Regarder le code que vous avez écrit il y a plus de deux semaines, c'est comme regarder le code que vous voyez pour la première fois. » – Dan Hurvitz ❞</i>
+<i>❝« Où est la touche « n'importe quelle » ? » — Homer Simpson, en réponse au message « Appuyez sur n'importe quelle touche » ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🗣 Commenté[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 PR fusionné[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🗣 Commenté[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562893465)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🗣 Commenté[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562626543)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 PR fusionné[#27931](https://github.com/offensive-vk/offensive-vk/pull/27931)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🗣 Commenté[#7931](https://github.com/kamranahmedse/developer-roadmap/pull/7931#issuecomment-2561592661)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-8.  🎉 PR fusionné[#297](https://github.com/offensive-vk/UntilEverything/pull/297)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-9.  🔒 Problème clos[#287](https://github.com/offensive-vk/UntilEverything/issues/287)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-10. 🔒 Problème clos[#295](https://github.com/offensive-vk/UntilEverything/issues/295)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-11. 🔒 Problème clos[#293](https://github.com/offensive-vk/UntilEverything/issues/293)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-12. 🔒 Problème clos[#291](https://github.com/offensive-vk/UntilEverything/issues/291)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-13. 🔒 Problème clos[#289](https://github.com/offensive-vk/UntilEverything/issues/289)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-14. 🔒 Problème clos[#286](https://github.com/offensive-vk/UntilEverything/issues/286)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 PR fusionné[#296](https://github.com/offensive-vk/UntilEverything/pull/296)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Commenté[#7950](https://github.com/kamranahmedse/developer-roadmap/issues/7950#issuecomment-2564682347)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 RP ouverte[#7949](https://github.com/kamranahmedse/developer-roadmap/pull/7949)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 PR fusionné[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 Commenté[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 PR fusionné[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 Commenté[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562893465)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🗣 Commenté[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562626543)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 PR fusionné[#27931](https://github.com/offensive-vk/offensive-vk/pull/27931)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🗣 Commenté[#7931](https://github.com/kamranahmedse/developer-roadmap/pull/7931#issuecomment-2561592661)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 PR fusionné[#297](https://github.com/offensive-vk/UntilEverything/pull/297)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+11. 🔒 Problème clos[#287](https://github.com/offensive-vk/UntilEverything/issues/287)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+12. 🔒 Problème clos[#295](https://github.com/offensive-vk/UntilEverything/issues/295)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+13. 🔒 Problème clos[#293](https://github.com/offensive-vk/UntilEverything/issues/293)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+14. 🔒 Problème clos[#291](https://github.com/offensive-vk/UntilEverything/issues/291)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+15. 🔒 Problème clos[#289](https://github.com/offensive-vk/UntilEverything/issues/289)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
