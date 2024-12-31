@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Где «любая» клавиша?» — Гомер Симпсон, в ответ на сообщение «Нажмите любую клавишу» ❞</i>
+<i>❝ «Я не боюсь компьютеров. Я боюсь их нехватки». — Айзек Азимов ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Прокомментировал[#7950](https://github.com/kamranahmedse/developer-roadmap/issues/7950#issuecomment-2564682347)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 Открытый пиар[#7949](https://github.com/kamranahmedse/developer-roadmap/pull/7949)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-3.  🎉 Объединенный пиар[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-4.  🗣 Прокомментировал[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 Объединенный пиар[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-6.  🗣 Прокомментировал[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562893465)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-7.  🗣 Прокомментировал[#27933](https://github.com/offensive-vk/offensive-vk/pull/27933#issuecomment-2562626543)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 Объединенный пиар[#27931](https://github.com/offensive-vk/offensive-vk/pull/27931)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-9.  🗣 Прокомментировал[#7931](https://github.com/kamranahmedse/developer-roadmap/pull/7931#issuecomment-2561592661)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 Объединенный пиар[#297](https://github.com/offensive-vk/UntilEverything/pull/297)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🔒 Вопрос закрыт.[#287](https://github.com/offensive-vk/UntilEverything/issues/287)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🔒 Вопрос закрыт.[#295](https://github.com/offensive-vk/UntilEverything/issues/295)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🔒 Вопрос закрыт.[#293](https://github.com/offensive-vk/UntilEverything/issues/293)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🔒 Вопрос закрыт.[#291](https://github.com/offensive-vk/UntilEverything/issues/291)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🔒 Вопрос закрыт.[#289](https://github.com/offensive-vk/UntilEverything/issues/289)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🚀 Опубликованный релиз[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)в[наступательное-вк/авто-пр-действие](https://github.com/offensive-vk/auto-pr-action)
+2.  🎉 Объединенный пиар[#6](https://github.com/offensive-vk/auto-pr-action/pull/6)в[наступательное-вк/авто-пр-действие](https://github.com/offensive-vk/auto-pr-action)
+3.  🚀 Опубликованный выпуск[v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
+4.  🎉 Объединенный пиар[#38](https://github.com/offensive-vk/auto-issue/pull/38)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
+5.  💪 Открытый пиар[#38](https://github.com/offensive-vk/auto-issue/pull/38)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
+6.  🔒 Вопрос закрыт.[#37](https://github.com/offensive-vk/auto-issue/issues/37)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
+7.  🔒 Вопрос закрыт.[#36](https://github.com/offensive-vk/auto-issue/issues/36)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
+8.  🎉 Объединенный пиар[#6](https://github.com/offensive-vk/auto-user-activity/pull/6)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
+9.  💪 Открытый пиар[#6](https://github.com/offensive-vk/auto-user-activity/pull/6)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
+10. 🎉 Объединенный пиар[#10027](https://github.com/offensive-vk/Classics/pull/10027)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+11. 🗣 Прокомментировал[#7950](https://github.com/kamranahmedse/developer-roadmap/issues/7950#issuecomment-2564682347)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 Открытый пиар[#7949](https://github.com/kamranahmedse/developer-roadmap/pull/7949)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+13. 🎉 Объединенный пиар[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+14. 🗣 Прокомментировал[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 Объединенный пиар[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
