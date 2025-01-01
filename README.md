@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27966](https://github.com/offensive-vk/offensive-vk/pull/27966) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2. 🚀 Published release [v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-3. 🎉 Merged PR [#8](https://github.com/offensive-vk/auto-repo-sync/pull/8) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-4. ❌ Closed PR [#78](https://github.com/offensive-vk/AwesomeScripts/pull/78) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-5. 💪 Opened PR [#78](https://github.com/offensive-vk/AwesomeScripts/pull/78) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-6. 🎉 Merged PR [#3](https://github.com/offensive-vk/auto-contributions/pull/3) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
-7. 💪 Opened PR [#3](https://github.com/offensive-vk/auto-contributions/pull/3) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
-8. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-translate/pull/5) in [offensive-vk/auto-translate](https://github.com/offensive-vk/auto-translate)
-9. 💪 Opened PR [#5](https://github.com/offensive-vk/auto-translate/pull/5) in [offensive-vk/auto-translate](https://github.com/offensive-vk/auto-translate)
-10. 🎉 Merged PR [#6](https://github.com/offensive-vk/AwesomeActions/pull/6) in [offensive-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
-11. 💪 Opened PR [#6](https://github.com/offensive-vk/AwesomeActions/pull/6) in [offensive-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
-12. 🎉 Merged PR [#298](https://github.com/offensive-vk/UntilEverything/pull/298) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🚀 Published release [v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-14. 🎉 Merged PR [#6](https://github.com/offensive-vk/auto-pr-action/pull/6) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-15. 🚀 Published release [v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+1. 🔒 Closed issue [#34](https://github.com/offensive-vk/AwesomeDevOps/issues/34) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+2. 🔒 Closed issue [#33](https://github.com/offensive-vk/AwesomeDevOps/issues/33) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+3. 🔒 Closed issue [#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4. 🔒 Closed issue [#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5. 🔒 Closed issue [#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6. 🔒 Closed issue [#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7. 🎉 Merged PR [#27966](https://github.com/offensive-vk/offensive-vk/pull/27966) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8. 🚀 Published release [v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+9. 🎉 Merged PR [#8](https://github.com/offensive-vk/auto-repo-sync/pull/8) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+10. ❌ Closed PR [#78](https://github.com/offensive-vk/AwesomeScripts/pull/78) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+11. 💪 Opened PR [#78](https://github.com/offensive-vk/AwesomeScripts/pull/78) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 🎉 Merged PR [#3](https://github.com/offensive-vk/auto-contributions/pull/3) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+13. 💪 Opened PR [#3](https://github.com/offensive-vk/auto-contributions/pull/3) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+14. 🎉 Merged PR [#5](https://github.com/offensive-vk/auto-translate/pull/5) in [offensive-vk/auto-translate](https://github.com/offensive-vk/auto-translate)
+15. 💪 Opened PR [#5](https://github.com/offensive-vk/auto-translate/pull/5) in [offensive-vk/auto-translate](https://github.com/offensive-vk/auto-translate)
 <!--END_SECTION:activity-->
 
 </p>
