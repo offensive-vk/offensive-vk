@@ -54,7 +54,7 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-2.  🎉 PR fusionné[#6](https://github.com/offensive-vk/auto-pr-action/pull/6)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-3.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-4.  🎉 PR fusionné[#38](https://github.com/offensive-vk/auto-issue/pull/38)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-5.  💪 RP ouverte[#38](https://github.com/offensive-vk/auto-issue/pull/38)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-6.  🔒 Problème clos[#37](https://github.com/offensive-vk/auto-issue/issues/37)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-7.  🔒 Problème clos[#36](https://github.com/offensive-vk/auto-issue/issues/36)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-8.  🎉 PR fusionné[#6](https://github.com/offensive-vk/auto-user-activity/pull/6)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-9.  💪 RP ouverte[#6](https://github.com/offensive-vk/auto-user-activity/pull/6)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-10. 🎉 PR fusionné[#10027](https://github.com/offensive-vk/Classics/pull/10027)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-11. 🗣 Commenté[#7950](https://github.com/kamranahmedse/developer-roadmap/issues/7950#issuecomment-2564682347)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 RP ouverte[#7949](https://github.com/kamranahmedse/developer-roadmap/pull/7949)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-13. 🎉 PR fusionné[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🗣 Commenté[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 PR fusionné[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ PR fermé[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+2.  💪 RP ouverte[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+3.  🎉 PR fusionné[#3](https://github.com/offensive-vk/auto-contributions/pull/3)dans[offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+4.  💪 RP ouverte[#3](https://github.com/offensive-vk/auto-contributions/pull/3)dans[offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+5.  🎉 PR fusionné[#5](https://github.com/offensive-vk/auto-translate/pull/5)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+6.  💪 RP ouverte[#5](https://github.com/offensive-vk/auto-translate/pull/5)dans[offensive-vk/traduction automatique](https://github.com/offensive-vk/auto-translate)
+7.  🎉 PR fusionné[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)dans[offensive-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+8.  💪 RP ouverte[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)dans[offensive-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+9.  🎉 PR fusionné[#298](https://github.com/offensive-vk/UntilEverything/pull/298)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+10. 🚀 Version publiée[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+11. 🎉 PR fusionné[#6](https://github.com/offensive-vk/auto-pr-action/pull/6)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+12. 🚀 Version publiée[v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+13. 🎉 PR fusionné[#38](https://github.com/offensive-vk/auto-issue/pull/38)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+14. 💪 RP ouverte[#38](https://github.com/offensive-vk/auto-issue/pull/38)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+15. 🔒 Problème clos[#37](https://github.com/offensive-vk/auto-issue/issues/37)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
     <!--END_SECTION:activity-->
 
 </p>
