@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-2.  🎉 Relaciones públicas fusionadas[#6](https://github.com/offensive-vk/auto-pr-action/pull/6)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-3.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7)en[ofensivo-vk/auto-edición](https://github.com/offensive-vk/auto-issue)
-4.  🎉 Relaciones públicas fusionadas[#38](https://github.com/offensive-vk/auto-issue/pull/38)en[ofensivo-vk/auto-edición](https://github.com/offensive-vk/auto-issue)
-5.  💪 Relaciones públicas abiertas[#38](https://github.com/offensive-vk/auto-issue/pull/38)en[ofensivo-vk/auto-edición](https://github.com/offensive-vk/auto-issue)
-6.  🔒 Número cerrado[#37](https://github.com/offensive-vk/auto-issue/issues/37)en[ofensivo-vk/auto-edición](https://github.com/offensive-vk/auto-issue)
-7.  🔒 Número cerrado[#36](https://github.com/offensive-vk/auto-issue/issues/36)en[ofensivo-vk/auto-edición](https://github.com/offensive-vk/auto-issue)
-8.  🎉 Relaciones públicas fusionadas[#6](https://github.com/offensive-vk/auto-user-activity/pull/6)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
-9.  💪 Relaciones públicas abiertas[#6](https://github.com/offensive-vk/auto-user-activity/pull/6)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
-10. 🎉 Relaciones públicas fusionadas[#10027](https://github.com/offensive-vk/Classics/pull/10027)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-11. 🗣 Comentado en[#7950](https://github.com/kamranahmedse/developer-roadmap/issues/7950#issuecomment-2564682347)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 Relaciones públicas abiertas[#7949](https://github.com/kamranahmedse/developer-roadmap/pull/7949)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-13. 🎉 Relaciones públicas fusionadas[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🗣 Comentado en[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Relaciones públicas fusionadas[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Relaciones públicas cerradas[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+2.  💪 Relaciones públicas abiertas[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+3.  🎉 Relaciones públicas fusionadas[#3](https://github.com/offensive-vk/auto-contributions/pull/3)en[ofensiva-vk/auto-contribuciones](https://github.com/offensive-vk/auto-contributions)
+4.  💪 Relaciones públicas abiertas[#3](https://github.com/offensive-vk/auto-contributions/pull/3)en[ofensiva-vk/auto-contribuciones](https://github.com/offensive-vk/auto-contributions)
+5.  🎉 Relaciones públicas fusionadas[#5](https://github.com/offensive-vk/auto-translate/pull/5)en[ofensivo-vk/auto-traducción](https://github.com/offensive-vk/auto-translate)
+6.  💪 Relaciones públicas abiertas[#5](https://github.com/offensive-vk/auto-translate/pull/5)en[ofensivo-vk/auto-traducción](https://github.com/offensive-vk/auto-translate)
+7.  🎉 Relaciones públicas fusionadas[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)en[ofensiva-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+8.  💪 Relaciones públicas abiertas[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)en[ofensiva-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
+9.  🎉 Relaciones públicas fusionadas[#298](https://github.com/offensive-vk/UntilEverything/pull/298)en[ofensiva-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+10. 🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+11. 🎉 Relaciones públicas fusionadas[#6](https://github.com/offensive-vk/auto-pr-action/pull/6)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+12. 🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7)en[ofensivo-vk/auto-edición](https://github.com/offensive-vk/auto-issue)
+13. 🎉 Relaciones públicas fusionadas[#38](https://github.com/offensive-vk/auto-issue/pull/38)en[ofensivo-vk/auto-edición](https://github.com/offensive-vk/auto-issue)
+14. 💪 Relaciones públicas abiertas[#38](https://github.com/offensive-vk/auto-issue/pull/38)en[ofensivo-vk/auto-edición](https://github.com/offensive-vk/auto-issue)
+15. 🔒 Número cerrado[#37](https://github.com/offensive-vk/auto-issue/issues/37)en[ofensivo-vk/auto-edición](https://github.com/offensive-vk/auto-issue)
     <!--END_SECTION:activity-->
 
 </p>
