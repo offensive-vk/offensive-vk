@@ -139,8 +139,8 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#34](https://github.com/offensive-vk/AwesomeDevOps/issues/34) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-2. 🔒 Closed issue [#33](https://github.com/offensive-vk/AwesomeDevOps/issues/33) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1. 🎉 Merged PR [#1](https://github.com/offensive-vk/Roadmap.sh/pull/1) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+2. 💪 Opened PR [#1](https://github.com/offensive-vk/Roadmap.sh/pull/1) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
 3. 🔒 Closed issue [#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 4. 🔒 Closed issue [#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 5. 🔒 Closed issue [#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
