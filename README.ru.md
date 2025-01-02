@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
+🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чём.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Я не боюсь компьютеров. Я боюсь их нехватки». — Айзек Азимов ❞</i>
+<i>❝ «Лучше дождаться появления продуктивного программиста, чем ждать, пока первый доступный программист станет продуктивным» — Стив МакКоннелл❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Закрытый пиар[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-2.  💪 Открытый пиар[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-3.  🎉 Объединенный пиар[#3](https://github.com/offensive-vk/auto-contributions/pull/3)в[наступление-вк/авто-вклады](https://github.com/offensive-vk/auto-contributions)
-4.  💪 Открытый пиар[#3](https://github.com/offensive-vk/auto-contributions/pull/3)в[наступление-вк/авто-вклады](https://github.com/offensive-vk/auto-contributions)
-5.  🎉 Объединенный пиар[#5](https://github.com/offensive-vk/auto-translate/pull/5)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-6.  💪 Открытый пиар[#5](https://github.com/offensive-vk/auto-translate/pull/5)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-7.  🎉 Объединенный пиар[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)в[наступление-вк/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
-8.  💪 Открытый пиар[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)в[наступление-вк/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
-9.  🎉 Объединенный пиар[#298](https://github.com/offensive-vk/UntilEverything/pull/298)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🚀 Опубликованный выпуск[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)в[наступление-вк/авто-пр-экшн](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 Объединенный пиар[#6](https://github.com/offensive-vk/auto-pr-action/pull/6)в[наступательное-вк/авто-пр-действие](https://github.com/offensive-vk/auto-pr-action)
-12. 🚀 Опубликованный выпуск[v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
-13. 🎉 Объединенный пиар[#38](https://github.com/offensive-vk/auto-issue/pull/38)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
-14. 💪 Открытый пиар[#38](https://github.com/offensive-vk/auto-issue/pull/38)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
-15. 🔒 Вопрос закрыт.[#37](https://github.com/offensive-vk/auto-issue/issues/37)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
+1.  🔒 Вопрос закрыт.[#34](https://github.com/offensive-vk/AwesomeDevOps/issues/34)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+2.  🔒 Вопрос закрыт.[#33](https://github.com/offensive-vk/AwesomeDevOps/issues/33)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+3.  🔒 Вопрос закрыт.[#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4.  🔒 Вопрос закрыт.[#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5.  🔒 Вопрос закрыт.[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 Вопрос закрыт.[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🎉 Объединенный пиар[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+8.  🚀 Опубликованный выпуск[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)в[наступление-ВК/авто-репо-синхронизация](https://github.com/offensive-vk/auto-repo-sync)
+9.  🎉 Объединенный пиар[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)в[наступление-ВК/авто-репо-синхронизация](https://github.com/offensive-vk/auto-repo-sync)
+10. ❌ Закрытый пиар[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+11. 💪 Открытый пиар[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 🎉 Объединенный пиар[#3](https://github.com/offensive-vk/auto-contributions/pull/3)в[наступление-вк/авто-вклады](https://github.com/offensive-vk/auto-contributions)
+13. 💪 Открытый пиар[#3](https://github.com/offensive-vk/auto-contributions/pull/3)в[наступление-вк/авто-вклады](https://github.com/offensive-vk/auto-contributions)
+14. 🎉 Объединенный пиар[#5](https://github.com/offensive-vk/auto-translate/pull/5)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
+15. 💪 Открытый пиар[#5](https://github.com/offensive-vk/auto-translate/pull/5)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
     <!--END_SECTION:activity-->
 
 </p>
