@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ich habe keine Angst vor Computern. Ich fürchte, dass es an ihnen mangelt.“ – Isaac Asimov ❞</i>
+<i>❝„Bevor Software wiederverwendbar sein sollte, sollte sie nutzbar sein.“ – Ralph Johnson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Geschlossene PR[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-2.  💪 PR eröffnet[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-3.  🎉 Zusammengeführte PR[#3](https://github.com/offensive-vk/auto-contributions/pull/3)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
-4.  💪 PR eröffnet[#3](https://github.com/offensive-vk/auto-contributions/pull/3)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
-5.  🎉 Zusammengeführte PR[#5](https://github.com/offensive-vk/auto-translate/pull/5)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-6.  💪 PR eröffnet[#5](https://github.com/offensive-vk/auto-translate/pull/5)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-7.  🎉 Zusammengeführte PR[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)In[offensive-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
-8.  💪 PR eröffnet[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)In[offensive-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
-9.  🎉 Zusammengeführte PR[#298](https://github.com/offensive-vk/UntilEverything/pull/298)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)In[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 Zusammengeführte PR[#6](https://github.com/offensive-vk/auto-pr-action/pull/6)In[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-12. 🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7)In[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-13. 🎉 Zusammengeführte PR[#38](https://github.com/offensive-vk/auto-issue/pull/38)In[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-14. 💪 PR eröffnet[#38](https://github.com/offensive-vk/auto-issue/pull/38)In[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-15. 🔒 Geschlossenes Problem[#37](https://github.com/offensive-vk/auto-issue/issues/37)In[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+1.  🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)In[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+2.  💪 PR eröffnet[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)In[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+3.  🔒 Geschlossenes Problem[#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4.  🔒 Geschlossenes Problem[#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5.  🔒 Geschlossenes Problem[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 Geschlossenes Problem[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🎉 Zusammengeführte PR[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  🎉 Zusammengeführte PR[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+10. ❌ Geschlossene PR[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+11. 💪 PR eröffnet[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 🎉 Zusammengeführte PR[#3](https://github.com/offensive-vk/auto-contributions/pull/3)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
+13. 💪 PR eröffnet[#3](https://github.com/offensive-vk/auto-contributions/pull/3)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
+14. 🎉 Zusammengeführte PR[#5](https://github.com/offensive-vk/auto-translate/pull/5)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+15. 💪 PR eröffnet[#5](https://github.com/offensive-vk/auto-translate/pull/5)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
     <!--END_SECTION:activity-->
 
 </p>
