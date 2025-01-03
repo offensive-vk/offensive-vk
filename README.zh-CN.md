@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我不害怕电脑。我担心缺少他们。”——艾萨克·阿西莫夫 ❞</i>
+<i>❝“软件在可重用之前，首先应该是可用的。”— Ralph Johnson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ 封闭公关[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-2.  💪 开启公关[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-3.  🎉 合并公关[#3](https://github.com/offensive-vk/auto-contributions/pull/3)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
-4.  💪 开启公关[#3](https://github.com/offensive-vk/auto-contributions/pull/3)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
-5.  🎉 合并公关[#5](https://github.com/offensive-vk/auto-translate/pull/5)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-6.  💪 开启公关[#5](https://github.com/offensive-vk/auto-translate/pull/5)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-7.  🎉 合并公关[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)在[进攻-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
-8.  💪 开启公关[#6](https://github.com/offensive-vk/AwesomeActions/pull/6)在[进攻-vk/AwesomeActions](https://github.com/offensive-vk/AwesomeActions)
-9.  🎉 合并公关[#298](https://github.com/offensive-vk/UntilEverything/pull/298)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 合并公关[#6](https://github.com/offensive-vk/auto-pr-action/pull/6)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
-12. 🚀 已发布版本[v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7)在[进攻性-vk/自动发出](https://github.com/offensive-vk/auto-issue)
-13. 🎉 合并公关[#38](https://github.com/offensive-vk/auto-issue/pull/38)在[进攻性-vk/自动发出](https://github.com/offensive-vk/auto-issue)
-14. 💪 开启公关[#38](https://github.com/offensive-vk/auto-issue/pull/38)在[进攻性-vk/自动发出](https://github.com/offensive-vk/auto-issue)
-15. 🔒 已关闭问题[#37](https://github.com/offensive-vk/auto-issue/issues/37)在[进攻性-vk/自动发出](https://github.com/offensive-vk/auto-issue)
+1.  🎉 合并公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+2.  💪 开启公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+3.  🔒 已关闭问题[#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4.  🔒 已关闭问题[#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5.  🔒 已关闭问题[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 已关闭问题[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🎉 合并公关[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
+9.  🎉 合并公关[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
+10. ❌ 封闭公关[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+11. 💪 开启公关[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 🎉 合并公关[#3](https://github.com/offensive-vk/auto-contributions/pull/3)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
+13. 💪 开启公关[#3](https://github.com/offensive-vk/auto-contributions/pull/3)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
+14. 🎉 合并公关[#5](https://github.com/offensive-vk/auto-translate/pull/5)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+15. 💪 开启公关[#5](https://github.com/offensive-vk/auto-translate/pull/5)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
     <!--END_SECTION:activity-->
 
 </p>
