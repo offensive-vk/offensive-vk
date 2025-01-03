@@ -15,62 +15,20 @@ jobs:
     name: Add Reaction
     runs-on: ubuntu-latest
     steps:
-      - name: Show Triggering Event
-        run: |
-          echo "Triggered by event: ${{ github.event_name }}"
-
-      - name: Setup Dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq curl gh
-
-      - name: Add Reaction
-        uses: actions/github-script@v7
+      - name: Add Reaction to Issue or PR Comments
+        if: github.event_name == 'issue_comment' || github.event_name == 'pull_request_review_comment'
+        uses: peter-evans/create-or-update-comment@v4
         with:
-          github-token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
-          script: |
-            async function run() {
-              try {
-                const eventName = context.eventName;
-                const eventAction = context.payload.action || 'N/A';
-                console.log(`Triggered by event: ${eventName}, action: ${eventAction}`);
-                const reaction = 'rocket';
-            
-                let commentOrIssueId;
-                if (eventName === 'issue_comment' || eventName === 'pull_request_review_comment') {
-                  commentOrIssueId = github.context.payload.comment?.id;
-                } else if (eventName === 'pull_request' && eventAction === 'opened') {
-                  commentOrIssueId = github.context.payload.pull_request?.id;
-                } else if (eventName === 'issues' && eventAction === 'opened') {
-                  commentOrIssueId = github.context.payload.issue?.id;
-                } else {
-                  throw new Error(`Unsupported event: ${eventName} with action: ${eventAction}`);
-                }
-            
-                if (!commentOrIssueId) {
-                  throw new Error('No comment or issue ID found in the event payload.');
-                }
-            
-                console.log(`Target ID for reaction: ${commentOrIssueId}`);
-                const { owner, repo } = github.context.repo;
-            
-                const apiEndpoint = `/repos/${owner}/${repo}/issues/comments/${commentOrIssueId}/reactions`;
-                const payload = { content: reaction };
-            
-                console.log('Sending API request to add reaction...');
-                const response = await octokit.request(`POST ${apiEndpoint}`, payload);
-                console.log('API Response:', JSON.stringify(response.data, null, 2));
-            
-                if (response.data.id) {
-                  console.log(`Successfully added ${reaction} reaction to ID: ${commentOrIssueId}`);
-                } else {
-                  throw new Error('Reaction was not successfully added.');
-                }
-              } catch (error) {
-                console.error('Error occurred:', error.message);
-                console.error('Stack trace:', error.stack);
-                core.setFailed(`Action failed with error: ${error.message}`);
-              }
-            }
-            
-            run();
+          comment-id: ${{ github.event.comment.id }}
+          reactions: |
+            rocket
+          token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Add Reaction to Issues or PRs
+        if: github.event_name == 'issues' || github.event_name == 'pull_request'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number || github.event.pull_request.number }}
+          reactions: |
+            rocket
+          token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
