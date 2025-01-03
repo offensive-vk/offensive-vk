@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"أنا لا أخاف من أجهزة الكمبيوتر. أخشى عدم وجودهم." - إسحاق عظيموف ❞</i>
+<i>❝"قبل أن تكون البرامج قابلة لإعادة الاستخدام، يجب أن تكون قابلة للاستخدام." - رالف جونسون ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-pr-action/releases/tag/v7)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-2.  🎉 العلاقات العامة المدمجة[#6](https://github.com/offensive-vk/auto-pr-action/pull/6)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-3.  🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-issue/releases/tag/v7)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
-4.  🎉 العلاقات العامة المدمجة[#38](https://github.com/offensive-vk/auto-issue/pull/38)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
-5.  💪 فتح العلاقات العامة[#38](https://github.com/offensive-vk/auto-issue/pull/38)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
-6.  🔒 قضية مغلقة[#37](https://github.com/offensive-vk/auto-issue/issues/37)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
-7.  🔒 قضية مغلقة[#36](https://github.com/offensive-vk/auto-issue/issues/36)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
-8.  🎉 العلاقات العامة المدمجة[#6](https://github.com/offensive-vk/auto-user-activity/pull/6)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-9.  💪 فتح العلاقات العامة[#6](https://github.com/offensive-vk/auto-user-activity/pull/6)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-10. 🎉 العلاقات العامة المدمجة[#10027](https://github.com/offensive-vk/Classics/pull/10027)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-11. 🗣 تم التعليق عليه[#7950](https://github.com/kamranahmedse/developer-roadmap/issues/7950#issuecomment-2564682347)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 فتح العلاقات العامة[#7949](https://github.com/kamranahmedse/developer-roadmap/pull/7949)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-13. 🎉 العلاقات العامة المدمجة[#27955](https://github.com/offensive-vk/offensive-vk/pull/27955)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🗣 تم التعليق عليه[#27954](https://github.com/offensive-vk/offensive-vk/issues/27954#issuecomment-2562952526)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 العلاقات العامة المدمجة[#27945](https://github.com/offensive-vk/offensive-vk/pull/27945)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)في[الهجوم-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+2.  💪 فتح العلاقات العامة[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)في[الهجوم-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+3.  🔒 قضية مغلقة[#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+4.  🔒 قضية مغلقة[#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+5.  🔒 قضية مغلقة[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+6.  🔒 قضية مغلقة[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+7.  🎉 العلاقات العامة المدمجة[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+9.  🎉 العلاقات العامة المدمجة[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
+10. ❌ علاقات عامة مغلقة[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+11. 💪 فتح العلاقات العامة[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+12. 🎉 العلاقات العامة المدمجة[#3](https://github.com/offensive-vk/auto-contributions/pull/3)في[الهجومية-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
+13. 💪 فتح العلاقات العامة[#3](https://github.com/offensive-vk/auto-contributions/pull/3)في[الهجومية-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
+14. 🎉 العلاقات العامة المدمجة[#5](https://github.com/offensive-vk/auto-translate/pull/5)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
+15. 💪 فتح العلاقات العامة[#5](https://github.com/offensive-vk/auto-translate/pull/5)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
     <!--END_SECTION:activity-->
 
 </p>
