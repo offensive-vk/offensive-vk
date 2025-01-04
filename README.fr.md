@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«Avant qu'un logiciel soit réutilisable, il doit être utilisable.»— Ralph Johnson ❞</i>
+<i>❝« Si vous pensez que vous valez ce que vous savez, vous vous trompez lourdement.  Vos connaissances d’aujourd’hui n’ont pas beaucoup de valeur au-delà de quelques années.  Votre valeur est ce que vous pouvez apprendre et la facilité avec laquelle vous pouvez vous adapter aux changements que cette profession apporte si souvent. »— Jose M. Aguilar ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)dans[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-2.  💪 RP ouverte[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)dans[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-3.  🔒 Problème clos[#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-4.  🔒 Problème clos[#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 PR fusionné[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 PR fusionné[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 PR fusionné[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)dans[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+4.  💪 RP ouverte[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)dans[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
 5.  🔒 Problème clos[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 6.  🔒 Problème clos[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 7.  🎉 PR fusionné[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
