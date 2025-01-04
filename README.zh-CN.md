@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“软件在可重用之前，首先应该是可用的。”— Ralph Johnson ❞</i>
+<i>❝“如果你认为自己值得你所知道的，那你就大错特错了。  你今天的知识在几年后就没有多大价值了。  你的价值在于你能学到什么，以及你能轻松地适应这个职业经常带来的变化。”—— Jose M. Aguilar ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-2.  💪 开启公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-3.  🔒 已关闭问题[#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-4.  🔒 已关闭问题[#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  🎉 合并公关[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 合并公关[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 合并公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+4.  💪 开启公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
 5.  🔒 已关闭问题[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 6.  🔒 已关闭问题[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 7.  🎉 合并公关[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
