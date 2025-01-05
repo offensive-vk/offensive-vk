@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 合并公关[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 合并公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-4.  💪 开启公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-5.  🔒 已关闭问题[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  💪 开启公关[#7](https://github.com/offensive-vk/auto-user-activity/pull/7)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+2.  🎉 合并公关[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 合并公关[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 合并公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+5.  💪 开启公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
 6.  🔒 已关闭问题[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)在[进攻-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 7.  🎉 合并公关[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 8.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
