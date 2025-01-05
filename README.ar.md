@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"قبل أن تكون البرامج قابلة لإعادة الاستخدام، يجب أن تكون قابلة للاستخدام." - رالف جونسون ❞</i>
+<i>❝"إذا كنت تعتقد أنك تستحق ما تعرفه، فأنت مخطئ جدًا.  إن معرفتك اليوم ليس لها قيمة كبيرة بعد مرور عامين.  قيمتك هي ما يمكنك تعلمه ومدى سهولة التكيف مع التغييرات التي تجلبها هذه المهنة كثيرًا. - خوسيه إم أغيلار ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)في[الهجوم-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-2.  💪 فتح العلاقات العامة[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)في[الهجوم-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-3.  🔒 قضية مغلقة[#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31)في[الهجوم-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-4.  🔒 قضية مغلقة[#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-5.  🔒 قضية مغلقة[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  💪 فتح العلاقات العامة[#7](https://github.com/offensive-vk/auto-user-activity/pull/7)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+2.  🎉 العلاقات العامة المدمجة[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 العلاقات العامة المدمجة[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)في[الهجوم-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+5.  💪 فتح العلاقات العامة[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)في[الهجوم-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
 6.  🔒 قضية مغلقة[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 7.  🎉 العلاقات العامة المدمجة[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 8.  🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
