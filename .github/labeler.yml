@@ -48,14 +48,6 @@ secrets:
           - '**/*.mp3'
           - '**/*.txt'
 
-workflow:
-  - changed-files:
-      - any-glob-to-any-file:
-          - '**/*.yml'
-          - '**/*.yaml'
-          - '.github/*.yml'
-          - '.github/workflows/*.yml'
-
 docker:
   - changed-files:
       - any-glob-to-any-file:
