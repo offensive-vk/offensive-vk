@@ -1,3 +1,15 @@
 <!--START_SECTION:activity-->
-OI
+1. 🎉  Merged pull request [#28108](https://github.com/offensive-vk/offensive-vk/pull/28108) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2. ✅ Approved on pull request [#28108](https://github.com/offensive-vk/offensive-vk/pull/28108) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3. 🚀 Published release [v7](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+4. 🎉  Merged pull request [#7](https://github.com/offensive-vk/auto-user-activity/pull/7) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+5. 🎉  Merged pull request [#299](https://github.com/offensive-vk/UntilEverything/pull/299) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6. ✅ Approved on pull request [#299](https://github.com/offensive-vk/UntilEverything/pull/299) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+7. 💪 Opened pull request [#7](https://github.com/offensive-vk/auto-user-activity/pull/7) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+8. 🎉  Merged pull request [#28106](https://github.com/offensive-vk/offensive-vk/pull/28106) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9. ✅ Approved on pull request [#28106](https://github.com/offensive-vk/offensive-vk/pull/28106) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉  Merged pull request [#27974](https://github.com/offensive-vk/offensive-vk/pull/27974) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. ✅ Approved on pull request [#27974](https://github.com/offensive-vk/offensive-vk/pull/27974) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🎉  Merged pull request [#1](https://github.com/offensive-vk/Roadmap.sh/pull/1) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+13. 💪 Opened pull request [#1](https://github.com/offensive-vk/Roadmap.sh/pull/1) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
 <!--END_SECTION:activity-->
