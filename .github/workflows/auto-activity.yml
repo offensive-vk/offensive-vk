@@ -7,7 +7,7 @@ on:
 
 jobs:
   update_activity:
-    name: Update Logs
+    name: Update
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -34,9 +34,9 @@ jobs:
         uses: offensive-vk/auto-user-activity@master
         with:
           username: "offensive-vk"
-          token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.CLASSIC_TOKEN || secrets.BOT_TOKEN }}
           committer: "Hamster [bot]"
           committer-email: "TheHamsterBot@outlook.com"
-          commit-msg: "Updated User Activity v2."
-          max-lines: 200
+          commit-msg: "🚀 Updated User Activity v2."
+          max-lines: '150'
           target-file: 'ACTIVITY.md'
