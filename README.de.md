@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Bevor Software wiederverwendbar sein sollte, sollte sie nutzbar sein.“ – Ralph Johnson ❞</i>
+<i>❝„Wenn Sie denken, dass Sie das wert sind, was Sie wissen, liegen Sie völlig falsch.  Ihr heutiges Wissen hat nach ein paar Jahren keinen großen Wert.  Ihr Wert liegt darin, was Sie lernen können und wie leicht Sie sich an die Veränderungen anpassen können, die dieser Beruf so oft mit sich bringt.“ – Jose M. Aguilar ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,12 +147,12 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)In[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-2.  💪 PR eröffnet[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)In[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-3.  🔒 Geschlossenes Problem[#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-4.  🔒 Geschlossenes Problem[#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-5.  🔒 Geschlossenes Problem[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6.  🔒 Geschlossenes Problem[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
+1.  💪 PR eröffnet[#7](https://github.com/offensive-vk/auto-user-activity/pull/7)In[offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+2.  🎉 Zusammengeführte PR[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 Zusammengeführte PR[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)In[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+5.  💪 PR eröffnet[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)In[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+6.  🔒Geschlossenes Problem[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
 7.  🎉 Zusammengeführte PR[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 8.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
 9.  🎉 Zusammengeführte PR[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)

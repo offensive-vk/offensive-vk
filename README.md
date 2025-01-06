@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer `code`.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _nasty_ stuff. <br>💬 Ask me about nothing. <br>👌 I respect my time. <br>⚡ Fun fact: no fun, only code. <br>💥 Keep moving and you'll overcome one day. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think you are worth what you know, you are very wrong.  Your knowledge today does not have much value beyond a couple of years.  Your value is what you can learn and how easily you can adapt to the changes this profession brings so often.”— Jose M. Aguilar   ❞</i>
+<i>❝Steve Jobs wanted to hide a man wearing a fedora on the first Mac. Dubbed “Mr. Macintosh,” the character would appear after opening the menu bar several thousand times then quickly disappear, leaving users to question their sanity. The idea was scrapped due to Mac’s paltry 128KB of RAM.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
@@ -139,14 +139,14 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28106](https://github.com/offensive-vk/offensive-vk/pull/28106) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2. 🎉 Merged PR [#27974](https://github.com/offensive-vk/offensive-vk/pull/27974) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3. 🎉 Merged PR [#1](https://github.com/offensive-vk/Roadmap.sh/pull/1) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-4. 💪 Opened PR [#1](https://github.com/offensive-vk/Roadmap.sh/pull/1) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-5. 🔒 Closed issue [#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6. 🔒 Closed issue [#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28) in [offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7. 🎉 Merged PR [#27966](https://github.com/offensive-vk/offensive-vk/pull/27966) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8. 🚀 Published release [v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+1. 🚀 Published release [v7](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+2. 🎉 Merged PR [#7](https://github.com/offensive-vk/auto-user-activity/pull/7) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+3. 🎉 Merged PR [#299](https://github.com/offensive-vk/UntilEverything/pull/299) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4. 💪 Opened PR [#7](https://github.com/offensive-vk/auto-user-activity/pull/7) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+5. 🎉 Merged PR [#28106](https://github.com/offensive-vk/offensive-vk/pull/28106) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6. 🎉 Merged PR [#27974](https://github.com/offensive-vk/offensive-vk/pull/27974) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7. 🎉 Merged PR [#1](https://github.com/offensive-vk/Roadmap.sh/pull/1) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+8. 💪 Opened PR [#1](https://github.com/offensive-vk/Roadmap.sh/pull/1) in [offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
 9. 🎉 Merged PR [#8](https://github.com/offensive-vk/auto-repo-sync/pull/8) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
 10. ❌ Closed PR [#78](https://github.com/offensive-vk/AwesomeScripts/pull/78) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
 11. 💪 Opened PR [#78](https://github.com/offensive-vk/AwesomeScripts/pull/78) in [offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)

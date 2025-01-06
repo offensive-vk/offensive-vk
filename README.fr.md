@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Si vous pensez que vous valez ce que vous savez, vous vous trompez lourdement.  Vos connaissances d’aujourd’hui n’ont pas beaucoup de valeur au-delà de quelques années.  Votre valeur est ce que vous pouvez apprendre et la facilité avec laquelle vous pouvez vous adapter aux changements que cette profession apporte si souvent. »— Jose M. Aguilar ❞</i>
+<i>❝« C'est bien de découvrir des mystères de meurtre, mais vous ne devriez pas avoir besoin de comprendre le code.  Vous devriez pouvoir le lire. »— Steve McConnell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,14 +147,14 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionné[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 PR fusionné[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)dans[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-4.  💪 RP ouverte[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)dans[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-5.  🔒 Problème clos[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6.  🔒 Problème clos[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)dans[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7.  🎉 PR fusionné[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+1.  🚀 Version publiée[v7](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+2.  🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-user-activity/pull/7)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+3.  🎉 PR fusionné[#299](https://github.com/offensive-vk/UntilEverything/pull/299)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+4.  💪 RP ouverte[#7](https://github.com/offensive-vk/auto-user-activity/pull/7)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+5.  🎉 PR fusionné[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 PR fusionné[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 PR fusionné[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)dans[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
+8.  💪 RP ouverte[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)dans[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
 9.  🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
 10. ❌ PR fermé[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
 11. 💪 RP ouverte[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)dans[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
