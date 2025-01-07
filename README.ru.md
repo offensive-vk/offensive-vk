@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чём.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
+🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь с управлением файлами на моем компьютере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Лучше дождаться появления продуктивного программиста, чем ждать, пока первый доступный программист станет продуктивным» — Стив МакКоннелл❞</i>
+<i>❝Стив Джобс хотел спрятать человека в шляпе-федоре на первом Mac. Названный «Мистер. Macintosh», персонаж появлялся после открытия строки меню несколько тысяч раз, а затем быстро исчезал, заставляя пользователей сомневаться в своем здравом уме. От этой идеи отказались из-за ничтожных 128 КБ оперативной памяти Mac.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 Вопрос закрыт.[#34](https://github.com/offensive-vk/AwesomeDevOps/issues/34)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-2.  🔒 Вопрос закрыт.[#33](https://github.com/offensive-vk/AwesomeDevOps/issues/33)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-3.  🔒 Вопрос закрыт.[#31](https://github.com/offensive-vk/AwesomeDevOps/issues/31)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-4.  🔒 Вопрос закрыт.[#30](https://github.com/offensive-vk/AwesomeDevOps/issues/30)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-5.  🔒 Вопрос закрыт.[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6.  🔒 Вопрос закрыт.[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)в[наступление-вк/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7.  🎉 Объединенный пиар[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-8.  🚀 Опубликованный выпуск[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)в[наступление-ВК/авто-репо-синхронизация](https://github.com/offensive-vk/auto-repo-sync)
-9.  🎉 Объединенный пиар[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)в[наступление-ВК/авто-репо-синхронизация](https://github.com/offensive-vk/auto-repo-sync)
-10. ❌ Закрытый пиар[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-11. 💪 Открытый пиар[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)в[наступление-вк/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 🎉 Объединенный пиар[#3](https://github.com/offensive-vk/auto-contributions/pull/3)в[наступление-вк/авто-вклады](https://github.com/offensive-vk/auto-contributions)
-13. 💪 Открытый пиар[#3](https://github.com/offensive-vk/auto-contributions/pull/3)в[наступление-вк/авто-вклады](https://github.com/offensive-vk/auto-contributions)
-14. 🎉 Объединенный пиар[#5](https://github.com/offensive-vk/auto-translate/pull/5)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-15. 💪 Открытый пиар[#5](https://github.com/offensive-vk/auto-translate/pull/5)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
+1.  🔒 Вопрос закрыт.[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Вопрос закрыт.[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Вопрос закрыт.[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Вопрос закрыт.[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Вопрос закрыт.[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 Вопрос закрыт.[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Вопрос закрыт.[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Вопрос закрыт.[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Вопрос закрыт.[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Вопрос закрыт.[#28087](https://github.com/offensive-vk/offensive-vk/issues/28087)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Вопрос закрыт.[#28088](https://github.com/offensive-vk/offensive-vk/issues/28088)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Вопрос закрыт.[#28086](https://github.com/offensive-vk/offensive-vk/issues/28086)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Вопрос закрыт.[#28085](https://github.com/offensive-vk/offensive-vk/issues/28085)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Вопрос закрыт.[#28084](https://github.com/offensive-vk/offensive-vk/issues/28084)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Вопрос закрыт.[#28083](https://github.com/offensive-vk/offensive-vk/issues/28083)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
