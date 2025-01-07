@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“弄清楚谋杀之谜是可以的，但你不应该需要弄清楚代码。  你应该能够读懂它。”——史蒂夫·麦康奈尔❞</i>
+<i>❝史蒂夫·乔布斯想在第一台 Mac 上隐藏一个戴着软呢帽的男人。被称为“先生”。 Macintosh”这个角色会在打开菜单栏数千次后出现，然后很快消失，让用户质疑自己的理智。由于 Mac 的 128KB RAM 微不足道，这个想法被放弃了。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 已发布版本[v7](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-2.  🎉 合并公关[#7](https://github.com/offensive-vk/auto-user-activity/pull/7)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-3.  🎉 合并公关[#299](https://github.com/offensive-vk/UntilEverything/pull/299)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  💪 开启公关[#7](https://github.com/offensive-vk/auto-user-activity/pull/7)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-5.  🎉 合并公关[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 合并公关[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 合并公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-8.  💪 开启公关[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)在[进攻-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-9.  🎉 合并公关[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)在[进攻性-vk/自动回购同步](https://github.com/offensive-vk/auto-repo-sync)
-10. ❌ 封闭公关[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-11. 💪 开启公关[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)在[进攻-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 🎉 合并公关[#3](https://github.com/offensive-vk/auto-contributions/pull/3)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
-13. 💪 开启公关[#3](https://github.com/offensive-vk/auto-contributions/pull/3)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
-14. 🎉 合并公关[#5](https://github.com/offensive-vk/auto-translate/pull/5)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-15. 💪 开启公关[#5](https://github.com/offensive-vk/auto-translate/pull/5)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+1.  🔒 已关闭问题[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 已关闭问题[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 已关闭问题[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 已关闭问题[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 已关闭问题[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 已关闭问题[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 已关闭问题[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 已关闭问题[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 已关闭问题[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 已关闭问题[#28087](https://github.com/offensive-vk/offensive-vk/issues/28087)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 已关闭问题[#28088](https://github.com/offensive-vk/offensive-vk/issues/28088)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 已关闭问题[#28086](https://github.com/offensive-vk/offensive-vk/issues/28086)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 已关闭问题[#28085](https://github.com/offensive-vk/offensive-vk/issues/28085)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 已关闭问题[#28084](https://github.com/offensive-vk/offensive-vk/issues/28084)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 已关闭问题[#28083](https://github.com/offensive-vk/offensive-vk/issues/28083)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
