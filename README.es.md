@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Si crees que vales lo que sabes, estás muy equivocado.  Tu conocimiento hoy no tiene mucho valor más allá de un par de años.  Tu valor es lo que puedes aprender y la facilidad con la que puedes adaptarte a los cambios que trae esta profesión con tanta frecuencia.”— José M. Aguilar ❞</i>
+<i>❝Steve Jobs quería ocultar a un hombre que llevaba un sombrero de fieltro en la primera Mac. Apodado “Sr. Macintosh”, el personaje aparecería después de abrir la barra de menú varios miles de veces y luego desaparecería rápidamente, dejando a los usuarios cuestionando su cordura. La idea fue descartada debido a los miserables 128 KB de RAM de Mac.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 Relaciones públicas fusionadas[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 Relaciones públicas fusionadas[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)en[ofensivo-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-4.  💪 Relaciones públicas abiertas[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)en[ofensivo-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-5.  🔒 Número cerrado[#29](https://github.com/offensive-vk/AwesomeDevOps/issues/29)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-6.  🔒 Número cerrado[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)en[ofensivo-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7.  🎉 Relaciones públicas fusionadas[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🚀 Lanzamiento publicado[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  🎉 Relaciones públicas fusionadas[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-10. ❌ Relaciones públicas cerradas[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-11. 💪 Relaciones públicas abiertas[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)en[ofensivo-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 🎉 Relaciones públicas fusionadas[#3](https://github.com/offensive-vk/auto-contributions/pull/3)en[ofensiva-vk/auto-contribuciones](https://github.com/offensive-vk/auto-contributions)
-13. 💪 Relaciones públicas abiertas[#3](https://github.com/offensive-vk/auto-contributions/pull/3)en[ofensiva-vk/auto-contribuciones](https://github.com/offensive-vk/auto-contributions)
-14. 🎉 Relaciones públicas fusionadas[#5](https://github.com/offensive-vk/auto-translate/pull/5)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-15. 💪 Relaciones públicas abiertas[#5](https://github.com/offensive-vk/auto-translate/pull/5)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+1.  🔒 Número cerrado[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Número cerrado[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Número cerrado[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Número cerrado[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Número cerrado[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 Número cerrado[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Número cerrado[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Número cerrado[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Número cerrado[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Número cerrado[#28087](https://github.com/offensive-vk/offensive-vk/issues/28087)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Número cerrado[#28088](https://github.com/offensive-vk/offensive-vk/issues/28088)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Número cerrado[#28086](https://github.com/offensive-vk/offensive-vk/issues/28086)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Número cerrado[#28085](https://github.com/offensive-vk/offensive-vk/issues/28085)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Número cerrado[#28084](https://github.com/offensive-vk/offensive-vk/issues/28084)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Número cerrado[#28083](https://github.com/offensive-vk/offensive-vk/issues/28083)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
