@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn Sie denken, dass Sie das wert sind, was Sie wissen, liegen Sie völlig falsch.  Ihr heutiges Wissen hat nach ein paar Jahren keinen großen Wert.  Ihr Wert liegt darin, was Sie lernen können und wie leicht Sie sich an die Veränderungen anpassen können, die dieser Beruf so oft mit sich bringt.“ – Jose M. Aguilar ❞</i>
+<i>❝Steve Jobs wollte auf dem ersten Mac einen Mann verstecken, der einen Fedora trug. Mit dem Spitznamen „Mr. Macintosh“ erschien das Zeichen nach mehrtausendmaligem Öffnen der Menüleiste und verschwand dann schnell wieder, so dass Benutzer an ihrem Verstand zweifelten. Die Idee wurde verworfen, da der Mac nur über dürftige 128 KB RAM verfügt.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 PR eröffnet[#7](https://github.com/offensive-vk/auto-user-activity/pull/7)In[offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-2.  🎉 Zusammengeführte PR[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 Zusammengeführte PR[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)In[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-5.  💪 PR eröffnet[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)In[offensive-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-6.  🔒Geschlossenes Problem[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)In[offensive-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7.  🎉 Zusammengeführte PR[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🚀 Veröffentlichte Veröffentlichung[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  🎉 Zusammengeführte PR[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-10. ❌ Geschlossene PR[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-11. 💪 PR eröffnet[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)In[offensive-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 🎉 Zusammengeführte PR[#3](https://github.com/offensive-vk/auto-contributions/pull/3)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
-13. 💪 PR eröffnet[#3](https://github.com/offensive-vk/auto-contributions/pull/3)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
-14. 🎉 Zusammengeführte PR[#5](https://github.com/offensive-vk/auto-translate/pull/5)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-15. 💪 PR eröffnet[#5](https://github.com/offensive-vk/auto-translate/pull/5)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+1.  🔒Geschlossenes Problem[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Geschlossenes Problem[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Geschlossenes Problem[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Geschlossenes Problem[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Geschlossenes Problem[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 Geschlossenes Problem[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Geschlossenes Problem[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Geschlossenes Problem[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Geschlossenes Problem[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒Geschlossenes Problem[#28087](https://github.com/offensive-vk/offensive-vk/issues/28087)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Geschlossenes Problem[#28088](https://github.com/offensive-vk/offensive-vk/issues/28088)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Geschlossenes Problem[#28086](https://github.com/offensive-vk/offensive-vk/issues/28086)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Geschlossenes Problem[#28085](https://github.com/offensive-vk/offensive-vk/issues/28085)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Geschlossenes Problem[#28084](https://github.com/offensive-vk/offensive-vk/issues/28084)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Geschlossenes Problem[#28083](https://github.com/offensive-vk/offensive-vk/issues/28083)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
