@@ -27,7 +27,7 @@ dotfiles:
 
 markdown:
   - '**/*.md'
-  - './**/*.md'
+  - '**.md'
 
 devcontainer:
   - '.devcontainer/**/*'
@@ -35,12 +35,6 @@ devcontainer:
 secrets:
   - '**/*.mp3'
   - '**/*.txt'
-
-workflow:
-  - '**/*.yml'
-  - '**/*.yaml'
-  - '.github/*.yml'
-  - '.github/workflows/*.yml'
 
 docker:
   - 'Dockerfile'

@@ -31,7 +31,7 @@ jobs:
         🎉 Great work on the Pull Request! 🚀
 
         Please ensure that this pull request should have:
-        - 🧪 The CI checks pass ✅
+        - 🧪 The [CI](https://github.com/offensive-vk/offensive-vk/actions/) checks pass ✅
         - 📜 You have read and followed the [contribution guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) to ensure a smooth merge 🔧
         - ⚡ One approval from the final [boss](https://github.com/offensive-vk) 🫅🏻
 
@@ -40,6 +40,15 @@ jobs:
 
         gh pr review "$pr_number" --approve --body "$review_body"
         gh pr edit "$pr_number" --add-label "approved"
+        gh pr review-list "$pr_number" --json id,author,body,state | jq '.[] | select(.state == "APPROVED") | .id' >> $comment_id >> $GITHUB_ENV
+
+    - name: Add Reaction
+      uses: peter-evans/create-or-update-comment@v4
+      with:
+        issue-number: ${{ github.env.comment_id || github.event.pull_request.number }}
+        reactions: |
+          rocket
+        token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
 
     # - name: Get Review Comment ID
     #   env:

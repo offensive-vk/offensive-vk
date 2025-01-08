@@ -1,0 +1,71 @@
+ci/cd:
+  - 'ci/cd'
+  - 'pipeline'
+  - 'workflow'
+  - '.yml'
+  - 'dockerfile'
+  - '*.yml'
+  - '.github/workflows/*.yml'
+  - 'dockerfile'
+  - 'compose.yaml'
+
+template:
+  - '.github/Auto_Pull_Request.md'
+  - '.github/Auto_Issue_Template.md'
+  - '.github/ISSUE_TEMPLATE.md'
+  - '.github/PULL_REQUEST_TEMPLATE.md'
+
+dotfiles:
+  - '.gitlab-ci.yml'
+  - '.gitignore'
+  - '.gitattributes'
+  - '.dockerignore'
+  - 'dockerfile'
+  - 'license'
+  - 'package.json'
+  - 'pnpm-lock.yaml'
+
+markdown:
+  - 'markdown'
+  - '**/*.md'
+  - './**/*'
+
+devcontainer:
+  - '.devcontainer/*'
+  - '*.json'
+
+secrets:
+  - '**/*.mp3'
+  - '**/*.txt'
+
+enhancement:
+  - 'feature'
+  - 'improve'
+
+question:
+  - '?'
+  - 'question'
+  - 'please'
+  - 'help'
+
+schedule:
+  - 'schedule'
+  - 'daily'
+  - 'hamster'
+  - 'ci'
+  - 'cd'
+
+boss:
+  - 'boss'
+  - 'admin'
+  - 'final-boss'
+
+workflow:
+  - 'yaml'
+  - 'yml'
+  - 'config'
+  - 'yaml/**/*'
+  - '**/*.yml'
+  - '**/*.yaml'
+  - '.github/*.yml'
+  - '.github/workflows/*.yml'

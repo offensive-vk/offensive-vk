@@ -3,7 +3,12 @@ name: ⚒️ Automated Image Testing
 on:
   workflow_dispatch:
   push:
-    branches-ignore:
+    paths-ignore:
+      - '*/**.svg'
+      - '*/**.md'
+      - '**.md'
+      - '**.svg'
+    branches:
       - 'master'
 
 jobs:

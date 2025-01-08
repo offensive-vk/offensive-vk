@@ -3,6 +3,11 @@ name: ⚒️ Open Container Runtime
 on:
   workflow_dispatch:
   push:
+    paths-ignore:
+      - '*/**.svg'
+      - '*/**.md'
+      - '**.md'
+      - '**.svg'
     branches:
       - 'master'
 
@@ -104,12 +109,3 @@ jobs:
         run: |
           sudo ctr image pull ghcr.io/offensive-vk/offensive-vk:latest
           sudo ctr containers list
-
-  report:
-    runs-on: ubuntu-latest
-    needs: [podman-build, podman-job, containerd-build, containerd-job]
-    name: Report Success
-    steps:
-      - name: Summary
-        if: success()
-        run: echo "# Open Container Runtime - Build and Pull was successful."

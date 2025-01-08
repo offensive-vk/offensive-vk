@@ -50,18 +50,18 @@ jobs:
         run: |
           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
           markdown=$(cat <<EOF
-          ## This Pull Request Was Automated by [Hamster [bot]](https://github.com/TheHamsterBot)
+          ## This Pull Request Was Automated by [Hamster [bot]](https://github.com/TheHamsterBot) 🐹
 
-          > [!NOTE]
-          > Workflow Trigger: ${{ github.event_name }} event at ${{ github.event.ref }}
-          > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          > [!TIP]
+          > Trigger: ${{ github.event_name }} event at ${{ github.event.ref }}
+          > Details: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @TheHamsterBot
           - Branch: master (base) / ${{ github.ref_name }} (head)
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow_ref }}
           - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
-          - Most Recent Commit: ${{ github.event.head_commit.message }}
+          - Most Recent Commit: [${{ github.event.head_commit.message }}](${{ github.sha }})
 
           ---
 

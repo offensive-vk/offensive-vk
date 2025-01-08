@@ -1,4 +1,4 @@
-name: 🚀 Automated Reaction to Comments and PRs
+name: 🚀 Automated Reaction
 
 on:
   issue_comment:

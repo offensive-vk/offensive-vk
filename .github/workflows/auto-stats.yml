@@ -110,9 +110,7 @@ jobs:
           git config --local user.name "Hamster [bot]"
           git config --local user.email "TheHamsterBot@outlook.com"
           git add .
-          git commit -m "⚡ Updated Repo Statistics
-
-          Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          git commit -m "⚡ Updated Repo Statistics"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}

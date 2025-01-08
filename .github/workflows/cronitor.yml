@@ -4,14 +4,23 @@ on:
   workflow_call:
   workflow_dispatch:
   workflow_run:
-    workflows: ['**']
+    workflows:
+      - '✨ Generate Contribution Pattern'
+      - '🚢 Automated Docker Testing'
+      - '🌨️ Publish Multi Platform Docker Images'
+      - '📊 Generates Metrics'
+      - '🦅 Mirror Sync'
+      - '🌅 Morning Glory Maintenance'
+      - '🐍 Generate Snake Contribution GIF'
+      - '⭐ Generate Stargazer List'
+      - '⚒️ Open Container Runtime'
+      - '📚 Automated Translation'
     types: [requested, completed]
 
 jobs:
   send-telemetry:
     runs-on: ubuntu-latest
     name: Send Telemetry
-    if: ${{ github.event.workflow_run.name != '⚠️ Report Workflow Failures' }}
     steps:
       - name: Send Execution Details to the Cronitor Agent
         uses: cronitorio/monitor-github-actions@v7

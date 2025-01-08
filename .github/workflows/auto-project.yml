@@ -2,11 +2,11 @@ name: 🗃️ Automated Project - Hamster 🐹
 
 on:
   issues:
-    types: [opened, edited, closed, assigned]
+    types: [opened, edited]
   pull_request:
-    types: [opened, edited, synchronize, closed]
+    types: [opened, edited, synchronize]
   pull_request_target:
-    types: [opened, edited, synchronize, closed]
+    types: [opened, edited, synchronize]
   workflow_dispatch:
 jobs:
   add_to_project:
