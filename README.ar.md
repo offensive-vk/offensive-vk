@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في إدارة الملفات في جهاز الكمبيوتر الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
+🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في إدارة الملفات في جهاز الكمبيوتر الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم حاليًا بعضًا منها_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"إذا كنت تعتقد أنك تستحق ما تعرفه، فأنت مخطئ جدًا.  إن معرفتك اليوم ليس لها قيمة كبيرة بعد مرور عامين.  قيمتك هي ما يمكنك تعلمه ومدى سهولة التكيف مع التغييرات التي تجلبها هذه المهنة كثيرًا. - خوسيه إم أغيلار ❞</i>
+<i>❝"أفضل طريقة لتعلم علم البيانات هي ممارسة علم البيانات." - تشانين نانتاسينامات❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 فتح العلاقات العامة[#7](https://github.com/offensive-vk/auto-user-activity/pull/7)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-2.  🎉 العلاقات العامة المدمجة[#28106](https://github.com/offensive-vk/offensive-vk/pull/28106)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 العلاقات العامة المدمجة[#27974](https://github.com/offensive-vk/offensive-vk/pull/27974)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)في[الهجوم-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-5.  💪 فتح العلاقات العامة[#1](https://github.com/offensive-vk/Roadmap.sh/pull/1)في[الهجوم-vk/Roadmap.sh](https://github.com/offensive-vk/Roadmap.sh)
-6.  🔒 قضية مغلقة[#28](https://github.com/offensive-vk/AwesomeDevOps/issues/28)في[الهجومية-vk/AwesomeDevOps](https://github.com/offensive-vk/AwesomeDevOps)
-7.  🎉 العلاقات العامة المدمجة[#27966](https://github.com/offensive-vk/offensive-vk/pull/27966)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🚀إصدار منشور[v7](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v7)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-9.  🎉 العلاقات العامة المدمجة[#8](https://github.com/offensive-vk/auto-repo-sync/pull/8)في[الهجوم-vk/المزامنة التلقائية](https://github.com/offensive-vk/auto-repo-sync)
-10. ❌ علاقات عامة مغلقة[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-11. 💪 فتح العلاقات العامة[#78](https://github.com/offensive-vk/AwesomeScripts/pull/78)في[الهجوم-vk/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
-12. 🎉 العلاقات العامة المدمجة[#3](https://github.com/offensive-vk/auto-contributions/pull/3)في[الهجومية-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
-13. 💪 فتح العلاقات العامة[#3](https://github.com/offensive-vk/auto-contributions/pull/3)في[الهجومية-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
-14. 🎉 العلاقات العامة المدمجة[#5](https://github.com/offensive-vk/auto-translate/pull/5)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
-15. 💪 فتح العلاقات العامة[#5](https://github.com/offensive-vk/auto-translate/pull/5)في[الهجوم-vk/الترجمة التلقائية](https://github.com/offensive-vk/auto-translate)
+1.  🔒 قضية مغلقة[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 قضية مغلقة[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 قضية مغلقة[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 قضية مغلقة[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 قضية مغلقة[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 قضية مغلقة[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 قضية مغلقة[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 قضية مغلقة[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 قضية مغلقة[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 قضية مغلقة[#28087](https://github.com/offensive-vk/offensive-vk/issues/28087)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 قضية مغلقة[#28088](https://github.com/offensive-vk/offensive-vk/issues/28088)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 قضية مغلقة[#28086](https://github.com/offensive-vk/offensive-vk/issues/28086)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 قضية مغلقة[#28085](https://github.com/offensive-vk/offensive-vk/issues/28085)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 قضية مغلقة[#28084](https://github.com/offensive-vk/offensive-vk/issues/28084)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 قضية مغلقة[#28083](https://github.com/offensive-vk/offensive-vk/issues/28083)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
