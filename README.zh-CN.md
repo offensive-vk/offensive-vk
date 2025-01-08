@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝史蒂夫·乔布斯想在第一台 Mac 上隐藏一个戴着软呢帽的男人。被称为“先生”。 Macintosh”这个角色会在打开菜单栏数千次后出现，然后很快消失，让用户质疑自己的理智。由于 Mac 的 128KB RAM 微不足道，这个想法被放弃了。❞</i>
+<i>❝“学习数据科学的最好方法就是实践数据科学。”——Chanin Nantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
