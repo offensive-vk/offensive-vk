@@ -53,7 +53,7 @@ jobs:
           ## This Pull Request Was Automated by [Hamster [bot]](https://github.com/TheHamsterBot) 🐹
 
           > [!TIP]
-          > CI Trigger: ${{ github.event_name }} event at ${{ github.event.ref }}
+          > Trigger: ${{ github.event_name }} event at ${{ github.event.ref }}
           > Details: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @TheHamsterBot
@@ -61,7 +61,7 @@ jobs:
           - Commit: ${{ github.sha }}
           - Workflow Path: ${{ github.workflow_ref }}
           - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
-          - Most Recent Commit: ${{ github.event.head_commit.message }}
+          - Most Recent Commit: [${{ github.event.head_commit.message }}](${{ github.sha }})
 
           ---
 
