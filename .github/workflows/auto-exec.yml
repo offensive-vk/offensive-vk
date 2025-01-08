@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       repeat_count:
-        description: 'Something'
+        description: '?'
         required: true
         default: 100
         type: number

@@ -5,7 +5,7 @@ on:
     branches-ignore: ['master']
     paths-ignore: ['**/*.md', '*.md', '**/*.svg']
   pull_request:
-    branches-ignore: ['master']
+    branches: ['master']
     paths-ignore: ['**/*.md', '*.md', '**/*.svg']
   workflow_dispatch:
 
@@ -32,11 +32,9 @@ jobs:
           node-version: '20'
 
       - name: Setup pnpm@v9
-        run: |
-          node -v && npm -v
-          npm i -g pnpm@9.0.0
-          pnpm -v
-          pnpm install
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.0
 
       - name: Run Auto Linter
         run: |
