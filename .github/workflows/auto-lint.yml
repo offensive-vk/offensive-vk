@@ -34,14 +34,8 @@ jobs:
       - name: Setup pnpm@v9
         uses: pnpm/action-setup@v4
         with:
-          version: 9
+          version: 9.0.0
 
       - name: Run Auto Linter
         run: |
           pnpm run fix
-
-      - name: Upload Linter Results
-        run: |
-          BRANCH="auto-linter-$(date +%d-%b)"
-          git fetch --all; git pull --verbose
-          git status --porcelain
