@@ -2,8 +2,14 @@ name: ⛅ Docker
 
 on:
   push:
+    paths-ignore:
+      - '*/**.md'
+      - '*/**.svg'
     branches: ['**']
   pull_request:
+    paths-ignore:
+      - '*/**.md'
+      - '*/**.svg'
     branches: ['**']
   workflow_dispatch:
 
