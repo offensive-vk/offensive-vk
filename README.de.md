@@ -28,7 +28,7 @@
   <br>
     <strong> 
     ·
-    <a><code>English</code></a>
+    <a href="README.md">English</a>
     ·
     <a href="README.es.md">Española</a>
     ·
@@ -36,7 +36,7 @@
     ·
     <a href="README.ar.md">عربي</a>
     ·
-    <a href="README.de.md">Deutsch</a>
+    <a><code>Deutsch</code></a>
     ·
     <a href="README.zh-CN.md">中国人</a>
     ·

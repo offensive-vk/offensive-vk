@@ -28,11 +28,11 @@
   <br>
     <strong> 
     ·
-    <a><code>English</code></a>
+    <a href="README.md">English</a>
     ·
     <a href="README.es.md">Española</a>
     ·
-    <a href="README.fr.md">Français</a>
+    <a><code>Français</code></a>
     ·
     <a href="README.ar.md">عربي</a>
     ·
