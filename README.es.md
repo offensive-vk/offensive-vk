@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Steve Jobs quería ocultar a un hombre que llevaba un sombrero de fieltro en la primera Mac. Apodado “Sr. Macintosh”, el personaje aparecería después de abrir la barra de menú varios miles de veces y luego desaparecería rápidamente, dejando a los usuarios cuestionando su cordura. La idea fue descartada debido a los miserables 128 KB de RAM de Mac.❞</i>
+<i>❝“La mejor manera de aprender ciencia de datos es hacer ciencia de datos.”—Chanin Nantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
