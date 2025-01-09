@@ -34,7 +34,7 @@
     ·
     <a href="README.fr.md">Français</a>
     ·
-    <a><code>عربي<</code></a>
+    <a><code>عربي</code></a>
     ·
     <a href="README.de.md">Deutsch</a>
     ·
