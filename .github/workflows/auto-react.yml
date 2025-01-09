@@ -7,8 +7,6 @@ on:
     types: [created]
   pull_request:
     types: [opened]
-  issues:
-    types: [opened]
 
 jobs:
   add-reaction:
@@ -20,15 +18,13 @@ jobs:
         uses: peter-evans/create-or-update-comment@v4
         with:
           comment-id: ${{ github.event.comment.id }}
-          reactions: |
-            rocket
+          reactions: rocket
           token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: Add Reaction to Issues or PRs
-        if: github.event_name == 'issues' || github.event_name == 'pull_request'
-        uses: peter-evans/create-or-update-comment@v4
-        with:
-          issue-number: ${{ github.event.issue.number || github.event.pull_request.number }}
-          reactions: |
-            rocket
-          token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
+      # - name: Add Reaction to Issues or PRs
+      #   if: github.event_name == 'issues' || github.event_name == 'pull_request'
+      #   uses: peter-evans/create-or-update-comment@v4
+      #   with:
+      #     issue-number: ${{ github.event.issue.number || github.event.pull_request.number }}
+      #     reactions: rocket
+      #     token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}

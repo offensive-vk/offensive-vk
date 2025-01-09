@@ -3,8 +3,7 @@ name: ✍🏻 Automated PR Review
 on:
   pull_request:
     branches:
-      - 'master'
-      - '**' 
+      - '**'
     types:
       - opened
       - reopened
@@ -40,29 +39,3 @@ jobs:
 
         gh pr review "$pr_number" --approve --body "$review_body"
         gh pr edit "$pr_number" --add-label "approved"
-        gh pr review-list "$pr_number" --json id,author,body,state | jq '.[] | select(.state == "APPROVED") | .id' >> $comment_id >> $GITHUB_ENV
-
-    - name: Add Reaction
-      uses: peter-evans/create-or-update-comment@v4
-      with:
-        issue-number: ${{ github.env.comment_id || github.event.pull_request.number }}
-        reactions: |
-          rocket
-        token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
-
-    # - name: Get Review Comment ID
-    #   env:
-    #     GH_TOKEN: ${{ github.token }}
-    #   run: |
-    #     pr_number="${{ github.event.pull_request.number }}"
-    #     review_details=$(gh api "/repos/${{ github.repository }}/pulls/${pr_number}/reviews" --jq '.[0]')
-    #     COMMENT_ID=$(echo "$review_details" | jq -r '.id')
-    #     echo "COMMENT_ID=$COMMENT_ID" >> $GITHUB_ENV
-
-    # - name: React to the Review Comment
-    #   env:
-    #     GH_TOKEN: ${{ github.token }}
-    #   run: |
-    #     COMMENT_ID="${{ env.COMMENT_ID }}"
-    #     REACTION="heart"
-    #     gh api -X POST "/repos/${{ github.repository }}/pulls/comments/${COMMENT_ID}/reactions" -f content="${REACTION}"
