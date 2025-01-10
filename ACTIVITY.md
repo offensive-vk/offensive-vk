@@ -47,5 +47,4 @@
 46. ✅ Approved on pull request [#28108](https://github.com/offensive-vk/offensive-vk/pull/28108) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 47. 🚀 Published release [v7](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
 48. 🎉  Merged pull request [#7](https://github.com/offensive-vk/auto-user-activity/pull/7) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-49. 🎉  Merged pull request [#299](https://github.com/offensive-vk/UntilEverything/pull/299) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
