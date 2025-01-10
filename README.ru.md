@@ -28,7 +28,7 @@
   <br>
     <strong> 
     ·
-    <a href="README.md">English</a>
+    <a><code>English</code></a>
     ·
     <a href="README.es.md">Española</a>
     ·
@@ -40,7 +40,7 @@
     ·
     <a href="README.zh-CN.md">中国人</a>
     ·
-    <a><code>Русский</code></a>
+    <a href="README.ru.md">Русский</a>
     ·
     </strong>
   </p>
@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Лучший способ изучить науку о данных — это заниматься наукой о данных». — Чанин Нантасенамат❞</i>
+<i>❝Более 80% электронных писем, отправляемых ежедневно, являются спамом.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 Вопрос закрыт.[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 Вопрос закрыт.[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Вопрос закрыт.[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Вопрос закрыт.[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Вопрос закрыт.[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-6.  🔒 Вопрос закрыт.[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 Вопрос закрыт.[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 Вопрос закрыт.[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 Вопрос закрыт.[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 Вопрос закрыт.[#28087](https://github.com/offensive-vk/offensive-vk/issues/28087)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 Вопрос закрыт.[#28088](https://github.com/offensive-vk/offensive-vk/issues/28088)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 Вопрос закрыт.[#28086](https://github.com/offensive-vk/offensive-vk/issues/28086)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 Вопрос закрыт.[#28085](https://github.com/offensive-vk/offensive-vk/issues/28085)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Вопрос закрыт.[#28084](https://github.com/offensive-vk/offensive-vk/issues/28084)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Вопрос закрыт.[#28083](https://github.com/offensive-vk/offensive-vk/issues/28083)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 Объединенный пиар[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  🚀 Опубликованный выпуск[v7-альфа](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
+3.  🎉 Объединенный пиар[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
+4.  💪 Открытый пиар[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
+5.  🎉 Объединенный пиар[#301](https://github.com/offensive-vk/UntilEverything/pull/301)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Объединенный пиар[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Вопрос закрыт.[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Вопрос закрыт.[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Вопрос закрыт.[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Вопрос закрыт.[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Вопрос закрыт.[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Вопрос закрыт.[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Вопрос закрыт.[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Вопрос закрыт.[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Вопрос закрыт.[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
