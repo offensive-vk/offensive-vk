@@ -28,13 +28,13 @@
   <br>
     <strong> 
     ·
-    <a href="README.md">English</a>
+    <a><code>English</code></a>
     ·
     <a href="README.es.md">Española</a>
     ·
     <a href="README.fr.md">Français</a>
     ·
-    <a><code>عربي</code></a>
+    <a href="README.ar.md">عربي</a>
     ·
     <a href="README.de.md">Deutsch</a>
     ·
@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في إدارة الملفات في جهاز الكمبيوتر الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم حاليًا بعضًا منها_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
+🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في إدارة الملفات في جهاز الكمبيوتر الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"أفضل طريقة لتعلم علم البيانات هي ممارسة علم البيانات." - تشانين نانتاسينامات❞</i>
+<i>❝أكثر من 80% من رسائل البريد الإلكتروني المرسلة يوميًا هي رسائل غير مرغوب فيها.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 قضية مغلقة[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 قضية مغلقة[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 قضية مغلقة[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 قضية مغلقة[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 قضية مغلقة[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🔒 قضية مغلقة[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 قضية مغلقة[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 قضية مغلقة[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 قضية مغلقة[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 قضية مغلقة[#28087](https://github.com/offensive-vk/offensive-vk/issues/28087)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 قضية مغلقة[#28088](https://github.com/offensive-vk/offensive-vk/issues/28088)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 قضية مغلقة[#28086](https://github.com/offensive-vk/offensive-vk/issues/28086)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 قضية مغلقة[#28085](https://github.com/offensive-vk/offensive-vk/issues/28085)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 قضية مغلقة[#28084](https://github.com/offensive-vk/offensive-vk/issues/28084)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 قضية مغلقة[#28083](https://github.com/offensive-vk/offensive-vk/issues/28083)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 العلاقات العامة المدمجة[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+3.  🎉 العلاقات العامة المدمجة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+4.  💪 فتح العلاقات العامة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+5.  🎉 العلاقات العامة المدمجة[#301](https://github.com/offensive-vk/UntilEverything/pull/301)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 العلاقات العامة المدمجة[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 قضية مغلقة[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 قضية مغلقة[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 قضية مغلقة[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 قضية مغلقة[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 قضية مغلقة[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 قضية مغلقة[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 قضية مغلقة[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 قضية مغلقة[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 قضية مغلقة[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
