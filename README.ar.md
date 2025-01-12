@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝أكثر من 80% من رسائل البريد الإلكتروني المرسلة يوميًا هي رسائل غير مرغوب فيها.❞</i>
+<i>❝"جافا هي الشيء الأكثر إزعاجًا في مجال الحوسبة منذ MS-DOS." — آلان كاي ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-3.  🎉 العلاقات العامة المدمجة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-4.  💪 فتح العلاقات العامة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-5.  🎉 العلاقات العامة المدمجة[#301](https://github.com/offensive-vk/UntilEverything/pull/301)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 العلاقات العامة المدمجة[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 قضية مغلقة[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 قضية مغلقة[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 قضية مغلقة[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 قضية مغلقة[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 قضية مغلقة[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 قضية مغلقة[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 قضية مغلقة[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 قضية مغلقة[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 قضية مغلقة[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  💪 فتح العلاقات العامة[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 فتح العلاقات العامة[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 فتح العلاقات العامة[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 العلاقات العامة المدمجة[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+6.  🎉 العلاقات العامة المدمجة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+7.  💪 فتح العلاقات العامة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+8.  🎉 العلاقات العامة المدمجة[#301](https://github.com/offensive-vk/UntilEverything/pull/301)في[الهجومية-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 العلاقات العامة المدمجة[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 قضية مغلقة[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 قضية مغلقة[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 قضية مغلقة[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 قضية مغلقة[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 قضية مغلقة[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 قضية مغلقة[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
