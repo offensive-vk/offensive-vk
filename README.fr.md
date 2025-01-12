@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Plus de 80 % des e-mails envoyés quotidiennement sont des spams.❞</i>
+<i>❝« Java est la chose la plus pénible qui ait frappé l'informatique depuis MS-DOS. » — Alan Kay ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,28 +147,28 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-3.  🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-4.  💪 RP ouverte[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-5.  🎉 PR fusionné[#301](https://github.com/offensive-vk/UntilEverything/pull/301)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 PR fusionné[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 Problème clos[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 Problème clos[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 Problème clos[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 Problème clos[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 Problème clos[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 Problème clos[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 Problème clos[#28092](https://github.com/offensive-vk/offensive-vk/issues/28092)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Problème clos[#28091](https://github.com/offensive-vk/offensive-vk/issues/28091)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Problème clos[#28089](https://github.com/offensive-vk/offensive-vk/issues/28089)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  💪 RP ouverte[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 RP ouvert[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 RP ouverte[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 PR fusionné[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+6.  🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+7.  💪 RP ouverte[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+8.  🎉 PR fusionné[#301](https://github.com/offensive-vk/UntilEverything/pull/301)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionné[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Problème clos[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Problème clos[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Problème clos[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Problème clos[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Problème clos[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Problème clos[#28090](https://github.com/offensive-vk/offensive-vk/issues/28090)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡️ Quoi ? Vous voulez plus d’activité ?**[Cliquez ici](./RECENT.md)**
+➡️ Quoi ? Vous voulez plus d’activité ?**[Cliquez ici](./RECENT.md)**
 
 </details>
 
