@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Java ist seit MS-DOS die beunruhigendste Neuerung im Computerbereich.“ – Alan Kay ❞</i>
+<i>❝ „Wo ist die ‚Any‘-Taste?“ – Homer Simpson, als Antwort auf die Nachricht „Drücken Sie eine beliebige Taste“ ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
