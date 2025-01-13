@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"جافا هي الشيء الأكثر إزعاجًا في مجال الحوسبة منذ MS-DOS." — آلان كاي ❞</i>
+<i>❝"أين يوجد مفتاح "أي"؟" — هومر سيمبسون، ردًا على الرسالة، "اضغط على أي مفتاح" ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -154,7 +154,7 @@
 5.  🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
 6.  🎉 العلاقات العامة المدمجة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
 7.  💪 فتح العلاقات العامة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-8.  🎉 العلاقات العامة المدمجة[#301](https://github.com/offensive-vk/UntilEverything/pull/301)في[الهجومية-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 العلاقات العامة المدمجة[#301](https://github.com/offensive-vk/UntilEverything/pull/301)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 9.  🎉 العلاقات العامة المدمجة[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 10. 🔒 قضية مغلقة[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 11. 🔒 قضية مغلقة[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
