@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Java es lo más angustioso que ha afectado a la informática desde MS-DOS.”—Alan Kay ❞</i>
+<i>❝“¿Dónde está la tecla “cualquiera”?”— Homer Simpson, en respuesta al mensaje “Presione cualquier tecla” ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
