@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Java 是自 MS-DOS 以来对计算领域最令人痛苦的事情。”— Alan Kay ❞</i>
+<i>❝“‘任意’键在哪里？”——Homer Simpson 回应消息，“按任意键”❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
