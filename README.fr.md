@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Java est la chose la plus pénible qui ait frappé l'informatique depuis MS-DOS. » — Alan Kay ❞</i>
+<i>❝« Où est la touche « n'importe quelle » ? » — Homer Simpson, en réponse au message « Appuyez sur n'importe quelle touche » ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -148,13 +148,13 @@
 <!--START_SECTION:activity-->
 
 1.  💪 RP ouverte[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 RP ouvert[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 RP ouverte[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
 3.  💪 RP ouverte[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
 4.  🎉 PR fusionné[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
 6.  🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
 7.  💪 RP ouverte[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-8.  🎉 PR fusionné[#301](https://github.com/offensive-vk/UntilEverything/pull/301)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 PR fusionné[#301](https://github.com/offensive-vk/UntilEverything/pull/301)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
 9.  🎉 PR fusionné[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 10. 🔒 Problème clos[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 11. 🔒 Problème clos[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
@@ -168,7 +168,7 @@
 
 * * *
 
-➡️ Quoi ? Vous voulez plus d’activité ?**[Cliquez ici](./RECENT.md)**
+➡️ Quoi ? Vous voulez plus d’activité ?**[Cliquez ici](./RECENT.md)**
 
 </details>
 
