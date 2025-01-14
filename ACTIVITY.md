@@ -46,5 +46,4 @@
 45. 🔒 Closed issue [#28076](https://github.com/offensive-vk/offensive-vk/issues/28076) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 46. 🔒 Closed issue [#28074](https://github.com/offensive-vk/offensive-vk/issues/28074) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 47. 🔒 Closed issue [#28073](https://github.com/offensive-vk/offensive-vk/issues/28073) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-48. 🎉  Merged pull request [#300](https://github.com/offensive-vk/UntilEverything/pull/300) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
