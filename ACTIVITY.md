@@ -44,6 +44,4 @@
 43. 🔒 Closed issue [#28078](https://github.com/offensive-vk/offensive-vk/issues/28078) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 44. 🔒 Closed issue [#28077](https://github.com/offensive-vk/offensive-vk/issues/28077) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 45. 🔒 Closed issue [#28076](https://github.com/offensive-vk/offensive-vk/issues/28076) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-46. 🔒 Closed issue [#28074](https://github.com/offensive-vk/offensive-vk/issues/28074) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-47. 🔒 Closed issue [#28073](https://github.com/offensive-vk/offensive-vk/issues/28073) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
