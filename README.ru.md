@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Мы должны прекратить оптимизацию для программистов и начать оптимизировать для пользователей» — Джефф Этвуд ❞</i>
+<i>❝ «Данные выравнивают все аргументы» — Энтони В. Ричардсон❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 Открытый пиар[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 Открытый пиар[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 Открытый пиар[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-4.  🎉 Объединенный пиар[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-5.  💪 Открытый пиар[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 Открытый пиар[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 Открытый пиар[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
-8.  🎉 Объединенный пиар[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-9.  🚀 Опубликованный выпуск[v7-альфа](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
-10. 🎉 Объединенный пиар[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
-11. 💪 Открытый пиар[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
-12. 🎉 Объединенный пиар[#301](https://github.com/offensive-vk/UntilEverything/pull/301)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Объединенный пиар[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Вопрос закрыт.[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Вопрос закрыт.[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  💪 Открытый пиар[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 Открытый пиар[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 Открытый пиар[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪 Открытый пиар[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 Объединенный пиар[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+6.  💪 Открытый пиар[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 Открытый пиар[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 Открытый пиар[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 Объединенный пиар[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+10. 🚀 Опубликованный выпуск[v7-альфа](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
+11. 🎉 Объединенный пиар[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
+12. 💪 Открытый пиар[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
+13. 🎉 Объединенный пиар[#301](https://github.com/offensive-vk/UntilEverything/pull/301)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Объединенный пиар[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Вопрос закрыт.[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
