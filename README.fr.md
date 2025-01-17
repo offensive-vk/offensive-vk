@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Plus de 5 000 nouveaux virus informatiques sont diffusés chaque mois.❞</i>
+<i>❝« Les données nivellent tous les arguments. » – Anthony W. Richardson❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  💪 RP ouverte[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 RP ouverte[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-4.  💪 RP ouverte[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉 PR fusionné[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-7.  🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-8.  💪 RP ouverte[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-9.  🎉 PR fusionné[#301](https://github.com/offensive-vk/UntilEverything/pull/301)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 PR fusionné[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 Problème clos[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 Problème clos[#28096](https://github.com/offensive-vk/offensive-vk/issues/28096)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 Problème clos[#28095](https://github.com/offensive-vk/offensive-vk/issues/28095)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Problème clos[#28094](https://github.com/offensive-vk/offensive-vk/issues/28094)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Problème clos[#28093](https://github.com/offensive-vk/offensive-vk/issues/28093)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  💪 RP ouverte[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 RP ouverte[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 RP ouverte[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪 RP ouverte[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 PR fusionné[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  💪 RP ouverte[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 RP ouverte[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 RP ouverte[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 PR fusionné[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+11. 🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+12. 💪 RP ouverte[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
+13. 🎉 PR fusionné[#301](https://github.com/offensive-vk/UntilEverything/pull/301)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 PR fusionné[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Problème clos[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
