@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Les données nivellent tous les arguments. » – Anthony W. Richardson❞</i>
+<i>❝Selon une enquête, la plupart des applications de votre appareil Android divulguent vos données, alors soyez-en conscient.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
