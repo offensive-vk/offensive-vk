@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Daten nivellieren alle Argumente.“ – Anthony W. Richardson❞</i>
+<i>❝„Das einzig wirklich sichere System ist eines, das ausgeschaltet, in einen Betonblock gegossen und in einem mit Blei ausgekleideten Raum mit bewaffneten Wachen versiegelt ist.“ – Gene Spafford ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -161,7 +161,7 @@
 12. 💪 PR eröffnet[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)In[offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
 13. 🎉 Zusammengeführte PR[#301](https://github.com/offensive-vk/UntilEverything/pull/301)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 14. 🎉 Zusammengeführte PR[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Geschlossenes Problem[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒Geschlossenes Problem[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
