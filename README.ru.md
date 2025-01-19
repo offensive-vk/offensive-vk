@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Согласно опросу, большинство приложений на вашем устройстве Android передают ваши данные, так что будьте осторожны.❞</i>
+<i>❝ «Единственная по-настоящему безопасная система — это та, которая выключена, залита в бетонный блок и запечатана в облицованной свинцом комнате под вооруженной охраной». — Джин Спаффорд ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -156,7 +156,7 @@
 7.  💪 Открытый пиар[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
 8.  💪 Открытый пиар[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)в[Камранахмедсе/дорожная карта разработчика](https://github.com/kamranahmedse/developer-roadmap)
 9.  🎉 Объединенный пиар[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-10. 🚀 Опубликованный выпуск[v7-альфа](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
+10. 🚀 Опубликованный релиз[v7-альфа](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
 11. 🎉 Объединенный пиар[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
 12. 💪 Открытый пиар[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
 13. 🎉 Объединенный пиар[#301](https://github.com/offensive-vk/UntilEverything/pull/301)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
