@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Según una encuesta, la mayoría de las aplicaciones de su dispositivo Android filtran sus datos, así que tenga cuidado.❞</i>
+<i>❝“El único sistema verdaderamente seguro es aquel que está apagado, moldeado en un bloque de concreto y sellado en una habitación revestida de plomo con guardias armados”.— Gene Spafford ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
