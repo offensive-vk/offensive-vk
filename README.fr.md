@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Selon une enquête, la plupart des applications de votre appareil Android divulguent vos données, alors soyez-en conscient.❞</i>
+<i>❝« Le seul système véritablement sécurisé est celui qui est éteint, coulé dans un bloc de béton et scellé dans une pièce plombée avec des gardes armés. » – Gene Spafford ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -159,7 +159,7 @@
 10. 🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
 11. 🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
 12. 💪 RP ouverte[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-13. 🎉 PR fusionné[#301](https://github.com/offensive-vk/UntilEverything/pull/301)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 PR fusionné[#301](https://github.com/offensive-vk/UntilEverything/pull/301)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
 14. 🎉 PR fusionné[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 15. 🔒 Problème clos[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
