@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“唯一真正安全的系统是关闭电源、浇注在混凝土块中并密封在配有武装警卫的铅衬房间中的系统。”— Gene Spafford ❞</i>
+<i>❝“唯一真正安全的系统是关闭电源、浇注在混凝土块中并密封在配备武装警卫的铅衬房间中的系统。”— Gene Spafford ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 开启公关[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 开启公关[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 开启公关[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-4.  💪 开启公关[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉 合并公关[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-6.  💪 开启公关[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 开启公关[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 开启公关[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 合并公关[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🚀 已发布版本[v7-阿尔法](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-11. 🎉 合并公关[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-12. 💪 开启公关[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-13. 🎉 合并公关[#301](https://github.com/offensive-vk/UntilEverything/pull/301)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 合并公关[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 已关闭问题[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 合并公关[#302](https://github.com/offensive-vk/UntilEverything/pull/302)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  💪 开启公关[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 开启公关[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪 开启公关[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+5.  💪 开启公关[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+6.  🎉 合并公关[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+7.  💪 开启公关[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 开启公关[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 开启公关[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 合并公关[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🚀 已发布版本[v7-阿尔法](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+12. 🎉 合并公关[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+13. 💪 开启公关[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+14. 🎉 合并公关[#301](https://github.com/offensive-vk/UntilEverything/pull/301)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 合并公关[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
