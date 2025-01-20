@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 Relaciones públicas abiertas[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 Relaciones públicas abiertas[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 Relaciones públicas abiertas[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-4.  💪 Relaciones públicas abiertas[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉 Relaciones públicas fusionadas[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-6.  💪 Relaciones públicas abiertas[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 Relaciones públicas abiertas[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 Relaciones públicas abiertas[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Relaciones públicas fusionadas[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🚀 Lanzamiento publicado[v7-alfa](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
-11. 🎉 Relaciones públicas fusionadas[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
-12. 💪 Relaciones públicas abiertas[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
-13. 🎉 Relaciones públicas fusionadas[#301](https://github.com/offensive-vk/UntilEverything/pull/301)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 Relaciones públicas fusionadas[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Número cerrado[#28097](https://github.com/offensive-vk/offensive-vk/issues/28097)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 Relaciones públicas fusionadas[#302](https://github.com/offensive-vk/UntilEverything/pull/302)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  💪 Relaciones públicas abiertas[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 Relaciones públicas abiertas[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪 Relaciones públicas abiertas[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+5.  💪 Relaciones públicas abiertas[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+6.  🎉 Relaciones públicas fusionadas[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+7.  💪 Relaciones públicas abiertas[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 Relaciones públicas abiertas[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 Relaciones públicas abiertas[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 Relaciones públicas fusionadas[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🚀 Lanzamiento publicado[v7-alfa](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
+12. 🎉 Relaciones públicas fusionadas[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
+13. 💪 Relaciones públicas abiertas[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
+14. 🎉 Relaciones públicas fusionadas[#301](https://github.com/offensive-vk/UntilEverything/pull/301)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Relaciones públicas fusionadas[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
