@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_完美不是目标_.<br>🧑‍💻 我喜欢写电脑`code`.<br>🤝 我正在寻求有关计算机中文件管理的帮助。<br>✨ 住在里面`terminal`.<br>🌱我目前正在学习一些_可恶的_东西。<br>💬什么都别问我。<br>👌我尊重我的时间。<br>⚡ 有趣的事实：没有乐趣，只有代码。<br>💥 继续前进，总有一天你会克服的。<br>📧_你会找到办法_.
+🔭_完美不是目标_.<br>🧑‍💻 我喜欢写电脑`code`.<br>🤝 我正在我的服务器中寻求帮助。<br>✨ 住在里面`terminal`.<br>🌱我目前正在学习一些_可恶的_东西。<br>💬什么都别问我。<br>👌我尊重我的时间。<br>⚡ 有趣的事实：没有乐趣，只有代码。<br>💥 继续前进，总有一天你会克服的。<br>📧_你会找到办法_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝2012 年，一个黑客组织拿下了教皇约翰的网站，因为一家食品公司花了两个多小时才按预期送货。该黑客组织名为 UGNazi。❞</i>
+<i>❝计算机具有内存或 RAM，可在不使用时将项目存储在计算机上。处理器存储计算机运行所需的一切。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#302](https://github.com/offensive-vk/UntilEverything/pull/302)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  💪 开启公关[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 开启公关[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-4.  💪 开启公关[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 开启公关[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 合并公关[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-7.  💪 开启公关[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 开启公关[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-9.  💪 开启公关[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 合并公关[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🚀 已发布版本[v7-阿尔法](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-12. 🎉 合并公关[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-13. 💪 开启公关[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-14. 🎉 合并公关[#301](https://github.com/offensive-vk/UntilEverything/pull/301)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 合并公关[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 合并公关[#304](https://github.com/offensive-vk/UntilEverything/pull/304)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 合并公关[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 合并公关[#43](https://github.com/offensive-vk/auto-issue/pull/43)在[进攻性-vk/自动发出](https://github.com/offensive-vk/auto-issue)
+4.  🎉 合并公关[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
+5.  🎉 合并公关[#23](https://github.com/offensive-vk/auto-label/pull/23)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+6.  🎉 合并公关[#5](https://github.com/offensive-vk/auto-contributions/pull/5)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
+7.  🎉 合并公关[#25](https://github.com/offensive-vk/develop-actions/pull/25)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+8.  🎉 合并公关[#8](https://github.com/offensive-vk/auto-add-project/pull/8)在[进攻性-vk/自动添加项目](https://github.com/offensive-vk/auto-add-project)
+9.  🎉 合并公关[#7](https://github.com/offensive-vk/auto-add-project/pull/7)在[进攻性-vk/自动添加项目](https://github.com/offensive-vk/auto-add-project)
+10. 🎉 合并公关[#1](https://github.com/offensive-vk/ReactQuizApp/pull/1)在[进攻-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+11. 🎉 合并公关[#303](https://github.com/offensive-vk/UntilEverything/pull/303)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 合并公关[#10031](https://github.com/offensive-vk/Classics/pull/10031)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+13. 🎉 合并公关[#302](https://github.com/offensive-vk/UntilEverything/pull/302)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+14. 💪 开启公关[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 开启公关[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
@@ -207,7 +207,7 @@
 <details>
     <summary><h4>🐹 CI and Workflow Status ✅</h4></summary>
 
-[![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![⭐ Generate Starred Repo List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🤖 Automated Pull Request - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)[![🗃️ Automated Project - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml)
+[![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 
 **想看到一切吗？**[点击这里](https://github.com/offensive-vk/offensive-vk/actions)
 
