@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في إدارة الملفات في جهاز الكمبيوتر الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
+🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في الخادم الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝يعد IMDb واحدًا من أقدم مواقع الويب على الإنترنت، وقد بدأ على Usenet في عام 1990 كقائمة "للممثلات ذوات العيون الجميلة".❞</i>
+<i>❝تحتوي أجهزة الكمبيوتر على ذاكرة أو ذاكرة وصول عشوائي (RAM)، تقوم بتخزين العناصر الموجودة على الكمبيوتر عندما لا تكون قيد الاستخدام. يقوم المعالج بتخزين كل ما يحتاجه جهاز الكمبيوتر الخاص بك لتشغيله.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#303](https://github.com/offensive-vk/UntilEverything/pull/303)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 العلاقات العامة المدمجة[#10031](https://github.com/offensive-vk/Classics/pull/10031)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-3.  🎉 العلاقات العامة المدمجة[#302](https://github.com/offensive-vk/UntilEverything/pull/302)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-4.  💪 فتح العلاقات العامة[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 فتح العلاقات العامة[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 فتح العلاقات العامة[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 فتح العلاقات العامة[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-8.  🎉 العلاقات العامة المدمجة[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-9.  💪 فتح العلاقات العامة[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 فتح العلاقات العامة[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 فتح العلاقات العامة[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-12. 🎉 العلاقات العامة المدمجة[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🚀إصدار منشور[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-14. 🎉 العلاقات العامة المدمجة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-15. 💪 فتح العلاقات العامة[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+1.  🎉 العلاقات العامة المدمجة[#304](https://github.com/offensive-vk/UntilEverything/pull/304)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 العلاقات العامة المدمجة[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 العلاقات العامة المدمجة[#43](https://github.com/offensive-vk/auto-issue/pull/43)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
+4.  🎉 العلاقات العامة المدمجة[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+5.  🎉 العلاقات العامة المدمجة[#23](https://github.com/offensive-vk/auto-label/pull/23)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+6.  🎉 العلاقات العامة المدمجة[#5](https://github.com/offensive-vk/auto-contributions/pull/5)في[الهجومية-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
+7.  🎉 العلاقات العامة المدمجة[#25](https://github.com/offensive-vk/develop-actions/pull/25)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
+8.  🎉 العلاقات العامة المدمجة[#8](https://github.com/offensive-vk/auto-add-project/pull/8)في[هجوم-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
+9.  🎉 العلاقات العامة المدمجة[#7](https://github.com/offensive-vk/auto-add-project/pull/7)في[هجوم-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
+10. 🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/ReactQuizApp/pull/1)في[الهجوم-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+11. 🎉 العلاقات العامة المدمجة[#303](https://github.com/offensive-vk/UntilEverything/pull/303)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 العلاقات العامة المدمجة[#10031](https://github.com/offensive-vk/Classics/pull/10031)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+13. 🎉 العلاقات العامة المدمجة[#302](https://github.com/offensive-vk/UntilEverything/pull/302)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+14. 💪 فتح العلاقات العامة[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 فتح العلاقات العامة[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
@@ -207,7 +207,7 @@
 <details>
     <summary><h4>🐹 CI and Workflow Status ✅</h4></summary>
 
-[![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![⭐ Generate Starred Repo List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🤖 Automated Pull Request - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)[![🗃️ Automated Project - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml)
+[![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 
 **هل تريد رؤية كل شيء؟**[انقر هنا](https://github.com/offensive-vk/offensive-vk/actions)
 
