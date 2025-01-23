@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide pour la gestion des fichiers sur mon ordinateur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Le seul système véritablement sécurisé est celui qui est éteint, coulé dans un bloc de béton et scellé dans une pièce plombée avec des gardes armés. » – Gene Spafford ❞</i>
+<i>❝Les ordinateurs ont de la mémoire ou de la RAM, qui stocke les éléments sur l'ordinateur lorsqu'ils ne sont pas utilisés. Le processeur stocke tout ce dont votre ordinateur a besoin pour fonctionner.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#302](https://github.com/offensive-vk/UntilEverything/pull/302)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-2.  💪 RP ouverte[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 RP ouverte[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-4.  💪 RP ouverte[#8036](https://github.com/kamranahmedse/developer-roadmap/pull/8036)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 RP ouverte[#8035](https://github.com/kamranahmedse/developer-roadmap/pull/8035)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 PR fusionné[#28124](https://github.com/offensive-vk/offensive-vk/pull/28124)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7.  💪 RP ouverte[#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 RP ouverte[#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-9.  💪 RP ouverte[#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 PR fusionné[#28116](https://github.com/offensive-vk/offensive-vk/pull/28116)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🚀 Version publiée[v7-alpha](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-alpha)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-12. 🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-13. 💪 RP ouverte[#8](https://github.com/offensive-vk/auto-user-activity/pull/8)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-14. 🎉 PR fusionné[#301](https://github.com/offensive-vk/UntilEverything/pull/301)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 PR fusionné[#28110](https://github.com/offensive-vk/offensive-vk/pull/28110)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 PR fusionné[#304](https://github.com/offensive-vk/UntilEverything/pull/304)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionné[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 PR fusionné[#43](https://github.com/offensive-vk/auto-issue/pull/43)dans[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+4.  🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+5.  🎉 PR fusionné[#23](https://github.com/offensive-vk/auto-label/pull/23)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+6.  🎉 PR fusionné[#5](https://github.com/offensive-vk/auto-contributions/pull/5)dans[offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+7.  🎉 PR fusionné[#25](https://github.com/offensive-vk/develop-actions/pull/25)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+8.  🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-add-project/pull/8)dans[offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
+9.  🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-add-project/pull/7)dans[offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
+10. 🎉 PR fusionné[#1](https://github.com/offensive-vk/ReactQuizApp/pull/1)dans[offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+11. 🎉 PR fusionné[#303](https://github.com/offensive-vk/UntilEverything/pull/303)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 PR fusionné[#10031](https://github.com/offensive-vk/Classics/pull/10031)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+13. 🎉 PR fusionné[#302](https://github.com/offensive-vk/UntilEverything/pull/302)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+14. 💪 RP ouverte[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 RP ouverte[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)dans[kamranahmedse/feuille de route des développeurs](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
@@ -207,7 +207,7 @@
 <details>
     <summary><h4>🐹 CI and Workflow Status ✅</h4></summary>
 
-[![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![⭐ Generate Starred Repo List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🤖 Automated Pull Request - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)[![🗃️ Automated Project - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml)
+[![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 
 **Vous voulez tout voir ?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/actions)
 
