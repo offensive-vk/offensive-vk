@@ -36,5 +36,4 @@
 35. 💪 Opened pull request [#8017](https://github.com/kamranahmedse/developer-roadmap/pull/8017) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 36. 💪 Opened pull request [#8015](https://github.com/kamranahmedse/developer-roadmap/pull/8015) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 37. 💪 Opened pull request [#8014](https://github.com/kamranahmedse/developer-roadmap/pull/8014) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-38. 💬 Commented on pull request [#7986](https://github.com/kamranahmedse/developer-roadmap/pull/7986) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
