@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer`code`.<br>🤝 Ich suche Hilfe für meinen Server.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade einiges_böse_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer`code`.<br>🤝 Ich suche Hilfe auf meinem Server.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne derzeit einige_böse_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Fun Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Sie werden einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Computer verfügen über einen Arbeitsspeicher oder RAM, der Elemente auf dem Computer speichert, wenn sie nicht verwendet werden. Der Prozessor speichert alles, was Ihr Computer zum Betrieb benötigt.❞</i>
+<i>❝Computers haben Speicher oder RAM, der Elemente auf dem Computer speichert, wenn sie nicht verwendet werden. Der Prozessor speichert alles, was Ihr Computer ausführen muss.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,28 +147,28 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#304](https://github.com/offensive-vk/UntilEverything/pull/304)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Zusammengeführte PR[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 Zusammengeführte PR[#43](https://github.com/offensive-vk/auto-issue/pull/43)In[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-4.  🎉 Zusammengeführte PR[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)In[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-5.  🎉 Zusammengeführte PR[#23](https://github.com/offensive-vk/auto-label/pull/23)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-6.  🎉 Zusammengeführte PR[#5](https://github.com/offensive-vk/auto-contributions/pull/5)In[offensive-vk/auto-beiträge](https://github.com/offensive-vk/auto-contributions)
-7.  🎉 Zusammengeführte PR[#25](https://github.com/offensive-vk/develop-actions/pull/25)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-8.  🎉 Zusammengeführte PR[#8](https://github.com/offensive-vk/auto-add-project/pull/8)In[offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
-9.  🎉 Zusammengeführte PR[#7](https://github.com/offensive-vk/auto-add-project/pull/7)In[offensive-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
-10. 🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/ReactQuizApp/pull/1)In[offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
-11. 🎉 Zusammengeführte PR[#303](https://github.com/offensive-vk/UntilEverything/pull/303)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Zusammengeführte PR[#10031](https://github.com/offensive-vk/Classics/pull/10031)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-13. 🎉 Zusammengeführte PR[#302](https://github.com/offensive-vk/UntilEverything/pull/302)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 💪 PR eröffnet[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 PR eröffnet[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  💪 PR geöffnet[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 Zusammengeführte PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+3.  💪 PR eröffnet[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[Offensiv-VK/Auto-Translate](https://github.com/offensive-vk/auto-translate)
+4.  🎉 Fusions PR[#304](https://github.com/offensive-vk/UntilEverything/pull/304)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 Zusammengeführte PR[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 Zusammengeführte PR[#43](https://github.com/offensive-vk/auto-issue/pull/43)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
+7.  🎉 Zusammengeführte PR[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)In[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+8.  🎉 Zusammengeführte PR[#23](https://github.com/offensive-vk/auto-label/pull/23)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+9.  🎉 Zusammengeführte PR[#5](https://github.com/offensive-vk/auto-contributions/pull/5)In[Offensiv-VK/Auto-Contribributions](https://github.com/offensive-vk/auto-contributions)
+10. 🎉 Zusammengeführte PR[#25](https://github.com/offensive-vk/develop-actions/pull/25)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+11. 🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-add-project/pull/8)In[Offensiv-VK/Auto-Add-Project](https://github.com/offensive-vk/auto-add-project)
+12. 🎉 Fusions PR[#7](https://github.com/offensive-vk/auto-add-project/pull/7)In[Offensiv-VK/Auto-Add-Project](https://github.com/offensive-vk/auto-add-project)
+13. 🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/ReactQuizApp/pull/1)In[offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉 Zusammengeführte PR[#303](https://github.com/offensive-vk/UntilEverything/pull/303)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Fusions PR[#10031](https://github.com/offensive-vk/Classics/pull/10031)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡️ Was? Lust auf mehr Aktivität?**[Klicken Sie hier](./RECENT.md)**
+➡️ was? Willst du mehr Aktivität?**[Klicken Sie hier](./RECENT.md)**
 
 </details>
 
@@ -209,11 +209,11 @@
 
 [![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 
-**Möchten Sie alles sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/actions)
+**Willst du alles sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/actions)
 
 **Möchten Sie die Workflow-Datei sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
-**Möchten Sie Repository-Statistiken sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
+**Willst du Repository -Statistiken sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
 </details>
 
