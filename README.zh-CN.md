@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_完美不是目标_.<br>🧑‍💻 我喜欢写电脑`code`.<br>🤝 我正在我的服务器中寻求帮助。<br>✨生活在里面`terminal`.<br>🌱我目前正在学习一些_可恶的_东西。<br>💬什么都别问我。<br>👌我尊重我的时间。<br>⚡ 有趣的事实：没有乐趣，只有代码。<br>💥继续前进，您将克服一天。<br>📧_你会找到办法_.
+🔭_完美不是目标_.<br>🧑‍💻 我喜欢写电脑`code`.<br>🤝 我正在我的服务器中寻求帮助。<br>✨生活在里面`terminal`.<br>🌱我目前正在学习一些_可恶的_东西。<br>💬什么都别问我。<br>👌我尊重我的时间。<br>⚡有趣的事实：没有乐趣，只有代码。<br>💥继续前进，您将克服一天。<br>📧_你会找到办法_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝计算机具有内存或 RAM，可在不使用时将项目存储在计算机上。处理器存储计算机运行所需的一切。❞</i>
+<i>❝俄罗斯人在 1936 年中期制造了一台可以在水上运行的计算机。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 开启公关[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 合并公关[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
-3.  💪打开PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性VK/自动翻译](https://github.com/offensive-vk/auto-translate)
-4.  🎉合并PR[#304](https://github.com/offensive-vk/UntilEverything/pull/304)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 合并公关[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 合并公关[#43](https://github.com/offensive-vk/auto-issue/pull/43)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
-7.  🎉 合并公关[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)在[进攻性 VK/自动 PR 行动](https://github.com/offensive-vk/auto-pr-action)
-8.  🎉 合并公关[#23](https://github.com/offensive-vk/auto-label/pull/23)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-9.  🎉 合并公关[#5](https://github.com/offensive-vk/auto-contributions/pull/5)在[进攻性VK/自动限额](https://github.com/offensive-vk/auto-contributions)
-10. 🎉 合并公关[#25](https://github.com/offensive-vk/develop-actions/pull/25)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-11. 🎉合并PR[#8](https://github.com/offensive-vk/auto-add-project/pull/8)在[进攻性VK/自动添加项目](https://github.com/offensive-vk/auto-add-project)
-12. 🎉 合并公关[#7](https://github.com/offensive-vk/auto-add-project/pull/7)在[进攻性VK/自动添加项目](https://github.com/offensive-vk/auto-add-project)
-13. 🎉 合并公关[#1](https://github.com/offensive-vk/ReactQuizApp/pull/1)在[进攻-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 合并公关[#303](https://github.com/offensive-vk/UntilEverything/pull/303)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉合并PR[#10031](https://github.com/offensive-vk/Classics/pull/10031)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+1.  🚀发行[v7-测试版](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)在[进攻性 vk/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+2.  🎉 合并公关[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+3.  💪打开PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+4.  💪打开PR[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)在[kamranahmedse/开发者路线图](https://github.com/kamranahmedse/developer-roadmap)
+5.  💪打开PR[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+6.  🎉合并PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性-vk/自动翻译](https://github.com/offensive-vk/auto-translate)
+7.  💪打开PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性VK/自动翻译](https://github.com/offensive-vk/auto-translate)
+8.  🎉合并PR[#304](https://github.com/offensive-vk/UntilEverything/pull/304)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 合并公关[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉合并PR[#43](https://github.com/offensive-vk/auto-issue/pull/43)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+11. 🎉 合并公关[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+12. 🎉合并PR[#23](https://github.com/offensive-vk/auto-label/pull/23)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+13. 🎉合并PR[#5](https://github.com/offensive-vk/auto-contributions/pull/5)在[进攻性-vk/自动贡献](https://github.com/offensive-vk/auto-contributions)
+14. 🎉 合并公关[#25](https://github.com/offensive-vk/develop-actions/pull/25)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+15. 🎉 合并公关[#8](https://github.com/offensive-vk/auto-add-project/pull/8)在[进攻性-vk/自动添加项目](https://github.com/offensive-vk/auto-add-project)
     <!--END_SECTION:activity-->
 
 </p>
@@ -211,7 +211,7 @@
 
 **想看一切吗？**[点击这里](https://github.com/offensive-vk/offensive-vk/actions)
 
-**想查看工作流程文件吗？**[点击这里](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
+**想查看工作流文件吗？**[点击这里](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
 **想查看存储库统计信息吗？**[点击这里](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
