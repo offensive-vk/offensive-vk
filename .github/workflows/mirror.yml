@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: offensive-vk/auto-repo-sync@v7
+      - uses: offensive-vk/auto-repo-sync@master
         with:
           target-url: ${{ secrets.TARGET_URL }}
           target-username: ${{ secrets.TARGET_USER }}
