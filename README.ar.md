@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في الخادم الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
+🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في الخادم الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌 أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: لا متعة ، رمز فقط.<br>💥 استمر في التحرك وستتغلب على يوم واحد.<br>📧_سوف تجد طريقة_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝تحتوي أجهزة الكمبيوتر على ذاكرة أو ذاكرة وصول عشوائي (RAM)، تقوم بتخزين العناصر الموجودة على الكمبيوتر عندما لا تكون قيد الاستخدام. يقوم المعالج بتخزين كل ما يحتاجه جهاز الكمبيوتر الخاص بك لتشغيله.❞</i>
+<i>❝لقد صنع الروس جهاز كمبيوتر يعمل بالماء في منتصف عام 1936.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#304](https://github.com/offensive-vk/UntilEverything/pull/304)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 العلاقات العامة المدمجة[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 العلاقات العامة المدمجة[#43](https://github.com/offensive-vk/auto-issue/pull/43)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
-4.  🎉 العلاقات العامة المدمجة[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-5.  🎉 العلاقات العامة المدمجة[#23](https://github.com/offensive-vk/auto-label/pull/23)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-6.  🎉 العلاقات العامة المدمجة[#5](https://github.com/offensive-vk/auto-contributions/pull/5)في[الهجومية-vk/المساهمات التلقائية](https://github.com/offensive-vk/auto-contributions)
-7.  🎉 العلاقات العامة المدمجة[#25](https://github.com/offensive-vk/develop-actions/pull/25)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
-8.  🎉 العلاقات العامة المدمجة[#8](https://github.com/offensive-vk/auto-add-project/pull/8)في[هجوم-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
-9.  🎉 العلاقات العامة المدمجة[#7](https://github.com/offensive-vk/auto-add-project/pull/7)في[هجوم-vk/auto-add-project](https://github.com/offensive-vk/auto-add-project)
-10. 🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/ReactQuizApp/pull/1)في[الهجوم-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
-11. 🎉 العلاقات العامة المدمجة[#303](https://github.com/offensive-vk/UntilEverything/pull/303)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 العلاقات العامة المدمجة[#10031](https://github.com/offensive-vk/Classics/pull/10031)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-13. 🎉 العلاقات العامة المدمجة[#302](https://github.com/offensive-vk/UntilEverything/pull/302)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-14. 💪 فتح العلاقات العامة[#8040](https://github.com/kamranahmedse/developer-roadmap/pull/8040)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 فتح العلاقات العامة[#8039](https://github.com/kamranahmedse/developer-roadmap/pull/8039)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+1.  🚀إصدار منشور[V7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+2.  🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+3.  💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+4.  💪 فتح العلاقات العامة[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+5.  💪 فتح العلاقات العامة[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
+6.  🎉 اندمج العلاقات العامة[#6](https://github.com/offensive-vk/auto-translate/pull/6)في[الهجوم-VK/ترانسليت التلقائي](https://github.com/offensive-vk/auto-translate)
+7.  💪 فتح العلاقات العامة[#6](https://github.com/offensive-vk/auto-translate/pull/6)في[الهجوم-VK/ترانسليت التلقائي](https://github.com/offensive-vk/auto-translate)
+8.  🎉 اندمج العلاقات العامة[#304](https://github.com/offensive-vk/UntilEverything/pull/304)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 اندمج العلاقات العامة[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 اندمج العلاقات العامة[#43](https://github.com/offensive-vk/auto-issue/pull/43)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
+11. 🎉 اندمج العلاقات العامة[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+12. 🎉 اندمج العلاقات العامة[#23](https://github.com/offensive-vk/auto-label/pull/23)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+13. 🎉 اندمج العلاقات العامة[#5](https://github.com/offensive-vk/auto-contributions/pull/5)في[الهجوم-VK/توسيع تلقائي](https://github.com/offensive-vk/auto-contributions)
+14. 🎉 العلاقات العامة المدمجة[#25](https://github.com/offensive-vk/develop-actions/pull/25)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
+15. 🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-add-project/pull/8)في[هجومي VK/Auto-Add-Project](https://github.com/offensive-vk/auto-add-project)
     <!--END_SECTION:activity-->
 
 </p>
