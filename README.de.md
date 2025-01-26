@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer`code`.<br>🤝 Ich suche Hilfe auf meinem Server.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne derzeit einige_böse_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Fun Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Sie werden einen Weg finden_.
+🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne Computer`code`.<br>🤝 Ich suche Hilfe auf meinem Server.<br>✨ im Inneren leben`terminal`.<br>🌱 Ich lerne derzeit einige_böse_Sachen.<br>💬 Fragen Sie mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und Sie werden es eines Tages schaffen.<br>📧_Sie werden einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Computers haben Speicher oder RAM, der Elemente auf dem Computer speichert, wenn sie nicht verwendet werden. Der Prozessor speichert alles, was Ihr Computer ausführen muss.❞</i>
+<i>❝Russen stellten Mitte 1936 einen Computer her, der mit Wasser lief.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 PR geöffnet[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 Zusammengeführte PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-3.  💪 PR eröffnet[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[Offensiv-VK/Auto-Translate](https://github.com/offensive-vk/auto-translate)
-4.  🎉 Fusions PR[#304](https://github.com/offensive-vk/UntilEverything/pull/304)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Zusammengeführte PR[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 Zusammengeführte PR[#43](https://github.com/offensive-vk/auto-issue/pull/43)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
-7.  🎉 Zusammengeführte PR[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)In[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-8.  🎉 Zusammengeführte PR[#23](https://github.com/offensive-vk/auto-label/pull/23)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-9.  🎉 Zusammengeführte PR[#5](https://github.com/offensive-vk/auto-contributions/pull/5)In[Offensiv-VK/Auto-Contribributions](https://github.com/offensive-vk/auto-contributions)
-10. 🎉 Zusammengeführte PR[#25](https://github.com/offensive-vk/develop-actions/pull/25)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-11. 🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-add-project/pull/8)In[Offensiv-VK/Auto-Add-Project](https://github.com/offensive-vk/auto-add-project)
-12. 🎉 Fusions PR[#7](https://github.com/offensive-vk/auto-add-project/pull/7)In[Offensiv-VK/Auto-Add-Project](https://github.com/offensive-vk/auto-add-project)
-13. 🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/ReactQuizApp/pull/1)In[offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 Zusammengeführte PR[#303](https://github.com/offensive-vk/UntilEverything/pull/303)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 Fusions PR[#10031](https://github.com/offensive-vk/Classics/pull/10031)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+1.  🎉 Zusammengeführte PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Zusammengeführte PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+3.  💪 PR geöffnet[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+4.  🚀 veröffentlichte Veröffentlichung[v7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
+5.  🎉 Fusions PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
+6.  💪 PR geöffnet[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
+7.  💪 PR eröffnet[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 PR geöffnet[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 Zusammengeführte PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[Offensiv-VK/Auto-Translate](https://github.com/offensive-vk/auto-translate)
+10. 💪 PR eröffnet[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[Offensiv-VK/Auto-Translate](https://github.com/offensive-vk/auto-translate)
+11. 🎉 Fusions PR[#304](https://github.com/offensive-vk/UntilEverything/pull/304)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 Zusammengeführte PR[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 Fusions PR[#43](https://github.com/offensive-vk/auto-issue/pull/43)In[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+14. 🎉 Zusammengeführte PR[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+15. 🎉 Fusions PR[#23](https://github.com/offensive-vk/auto-label/pull/23)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
