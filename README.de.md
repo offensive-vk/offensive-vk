@@ -54,7 +54,7 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne Computer`code`.<br>🤝 Ich suche Hilfe auf meinem Server.<br>✨ im Inneren leben`terminal`.<br>🌱 Ich lerne derzeit einige_böse_Sachen.<br>💬 Fragen Sie mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und Sie werden es eines Tages schaffen.<br>📧_Sie werden einen Weg finden_.
+🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne Computer`code`.<br>🤝 Ich suche Hilfe für meinen Server.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne derzeit einige_böse_Sachen.<br>💬 Fragen Sie mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Fun Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
@@ -147,19 +147,19 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 Zusammengeführte PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-3.  💪 PR geöffnet[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-4.  🚀 veröffentlichte Veröffentlichung[v7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
-5.  🎉 Fusions PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
-6.  💪 PR geöffnet[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
-7.  💪 PR eröffnet[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 PR geöffnet[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Zusammengeführte PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[Offensiv-VK/Auto-Translate](https://github.com/offensive-vk/auto-translate)
-10. 💪 PR eröffnet[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[Offensiv-VK/Auto-Translate](https://github.com/offensive-vk/auto-translate)
+1.  🎉 Zusammengeführte PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Zusammengeführte PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+3.  💪 PR eröffnet[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+4.  🚀 Veröffentlichte Veröffentlichung[v7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
+5.  🎉 Zusammengeführte PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+6.  💪 PR geöffnet[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+7.  💪 PR geöffnet[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 PR eröffnet[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 Zusammengeführte PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
+10. 💪 PR geöffnet[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[Offensiv-VK/Auto-Translate](https://github.com/offensive-vk/auto-translate)
 11. 🎉 Fusions PR[#304](https://github.com/offensive-vk/UntilEverything/pull/304)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
 12. 🎉 Zusammengeführte PR[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Fusions PR[#43](https://github.com/offensive-vk/auto-issue/pull/43)In[offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+13. 🎉 Zusammengeführte PR[#43](https://github.com/offensive-vk/auto-issue/pull/43)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
 14. 🎉 Zusammengeführte PR[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
 15. 🎉 Fusions PR[#23](https://github.com/offensive-vk/auto-label/pull/23)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
@@ -168,7 +168,7 @@
 
 * * *
 
-➡️ was? Willst du mehr Aktivität?**[Klicken Sie hier](./RECENT.md)**
+➡️ Was? Lust auf mehr Aktivität?**[Klicken Sie hier](./RECENT.md)**
 
 </details>
 
@@ -211,9 +211,9 @@
 
 **Willst du alles sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/actions)
 
-**Möchten Sie die Workflow-Datei sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
+**Willst du Workflow -Datei sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
-**Willst du Repository -Statistiken sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
+**Möchten Sie Repository-Statistiken sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
 </details>
 
