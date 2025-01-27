@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfección no es el objetivo._.<br>🧑‍💻 Me gusta escribir computadora`code`.<br>🤝 Estoy buscando ayuda en mi servidor.<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo algunos_asqueroso_cosa.<br>💬Preguntame sobre nada.<br>👌 Respeto mi tiempo.<br>⚡ Dato divertido: no es divertido, solo código.<br>💥Sigue moviéndote y algún día lo superarás.<br>📧_Encontrarás una manera_.
+🔭_La perfección no es el objetivo._.<br>🧑‍💻 Me gusta escribir computadora`code`.<br>🤝 Estoy buscando ayuda en mi servidor.<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo algunos_asqueroso_cosa.<br>💬Preguntame sobre nada.<br>👌 Respeto mi tiempo.<br>⚡ Dato curioso: no es divertido, solo código.<br>💥 Sigue moviéndote y superarás algún día.<br>📧_Encontrarás una manera_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Los rusos hicieron una computadora que funcionaba en el agua a mediados de 1936.❞</i>
+<i>❝Los rusos fabricaron una computadora que funcionaba con agua a mediados de 1936.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionado[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
+1.  🎉 PR fusionado[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 PR fusionado[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)en[ofensiva-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
 3.  💪 ABIERTO PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
 4.  🚀 Lanzamiento publicado[V7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
-5.  🎉 Relaciones públicas fusionadas[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
+5.  🎉 PR fusionado[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)en[ofensiva-vk/auto-actividad-de-usuario](https://github.com/offensive-vk/auto-user-activity)
 6.  💪 Relaciones públicas abiertas[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
-7.  💪 ABIERTO PR[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 Relaciones públicas abiertas[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 PR fusionado[#6](https://github.com/offensive-vk/auto-translate/pull/6)en[ofensivo-VK/translato automático](https://github.com/offensive-vk/auto-translate)
-10. 💪 ABIERTO PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
-11. 🎉 PR fusionado[#304](https://github.com/offensive-vk/UntilEverything/pull/304)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+7.  💪 ABIERTO PR[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)en[kamranahmedse/hoja de ruta del desarrollador](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 ABIERTO PR[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 Relaciones públicas fusionadas[#6](https://github.com/offensive-vk/auto-translate/pull/6)en[ofensivo-VK/translato automático](https://github.com/offensive-vk/auto-translate)
+10. 💪 Relaciones públicas abiertas[#6](https://github.com/offensive-vk/auto-translate/pull/6)en[ofensivo-vk/traducción automática](https://github.com/offensive-vk/auto-translate)
+11. 🎉 PR fusionado[#304](https://github.com/offensive-vk/UntilEverything/pull/304)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
 12. 🎉 PR fusionado[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
 13. 🎉 PR fusionado[#43](https://github.com/offensive-vk/auto-issue/pull/43)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
-14. 🎉 Relaciones públicas fusionadas[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)en[ofensiva-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-15. 🎉 Relaciones públicas fusionadas[#23](https://github.com/offensive-vk/auto-label/pull/23)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+14. 🎉 Relaciones públicas fusionadas[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
+15. 🎉 PR fusionado[#23](https://github.com/offensive-vk/auto-label/pull/23)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
@@ -209,7 +209,7 @@
 
 [![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 
-**¿Quieres ver todo?**[Haga clic aquí](https://github.com/offensive-vk/offensive-vk/actions)
+**¿Quieres verlo todo?**[Haga clic aquí](https://github.com/offensive-vk/offensive-vk/actions)
 
 **¿Quieres ver el archivo de flujo de trabajo?**[Haga clic aquí](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
