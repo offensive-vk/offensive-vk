@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في الخادم الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌 أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: لا متعة ، رمز فقط.<br>💥 استمر في التحرك وستتغلب على يوم واحد.<br>📧_سوف تجد طريقة_.
+🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب كتابة الكمبيوتر`code`.<br>🤝 أنا أبحث عن مساعدة في الخادم الخاص بي.<br>✨ العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌 أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: لا متعة ، رمز فقط.<br>💥 استمر في التحرك وستتغلب على يوم واحد.<br>📧_سوف تجد طريقة_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝لقد صنع الروس جهاز كمبيوتر يعمل بالماء في منتصف عام 1936.❞</i>
+<i>❝ "البرنامج يشبه الانتروبيا: من الصعب فهمه ، ولا يزن شيئًا ، ويطيع القانون الثاني للديناميكا الحرارية ؛ على سبيل المثال ، يزداد دائمًا. " - نورمان أوغسطين ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,28 +147,28 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀إصدار منشور[V7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-2.  🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[هجوم-vk/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-3.  💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-4.  💪 فتح العلاقات العامة[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 فتح العلاقات العامة[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)في[Kamranahmedse/خارطة طريق المطور](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 اندمج العلاقات العامة[#6](https://github.com/offensive-vk/auto-translate/pull/6)في[الهجوم-VK/ترانسليت التلقائي](https://github.com/offensive-vk/auto-translate)
-7.  💪 فتح العلاقات العامة[#6](https://github.com/offensive-vk/auto-translate/pull/6)في[الهجوم-VK/ترانسليت التلقائي](https://github.com/offensive-vk/auto-translate)
-8.  🎉 اندمج العلاقات العامة[#304](https://github.com/offensive-vk/UntilEverything/pull/304)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 اندمج العلاقات العامة[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 اندمج العلاقات العامة[#43](https://github.com/offensive-vk/auto-issue/pull/43)في[الهجومية-vk/المشكلة التلقائية](https://github.com/offensive-vk/auto-issue)
-11. 🎉 اندمج العلاقات العامة[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)في[هجوم-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-12. 🎉 اندمج العلاقات العامة[#23](https://github.com/offensive-vk/auto-label/pull/23)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-13. 🎉 اندمج العلاقات العامة[#5](https://github.com/offensive-vk/auto-contributions/pull/5)في[الهجوم-VK/توسيع تلقائي](https://github.com/offensive-vk/auto-contributions)
-14. 🎉 العلاقات العامة المدمجة[#25](https://github.com/offensive-vk/develop-actions/pull/25)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
-15. 🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-add-project/pull/8)في[هجومي VK/Auto-Add-Project](https://github.com/offensive-vk/auto-add-project)
+1.  🎉 اندمج العلاقات العامة[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  💪 فتح العلاقات العامة[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  💪 فتح العلاقات العامة[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  🎉 اندمج العلاقات العامة[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+6.  💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🚀 الإصدار المنشور[V7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+8.  🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+9.  💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+10. 💪 فتح العلاقات العامة[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 فتح العلاقات العامة[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🎉 اندمج العلاقات العامة[#6](https://github.com/offensive-vk/auto-translate/pull/6)في[الهجوم-VK/ترانسليت التلقائي](https://github.com/offensive-vk/auto-translate)
+13. 💪 فتح العلاقات العامة[#6](https://github.com/offensive-vk/auto-translate/pull/6)في[الهجوم-VK/ترانسليت التلقائي](https://github.com/offensive-vk/auto-translate)
+14. 🎉 اندمج العلاقات العامة[#304](https://github.com/offensive-vk/UntilEverything/pull/304)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 اندمج العلاقات العامة[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡️ ماذا؟ هل تريد المزيد من النشاط؟**[انقر هنا](./RECENT.md)**
+➡ ماذا؟ تريد المزيد من النشاط؟**[انقر هنا](./RECENT.md)**
 
 </details>
 
@@ -213,7 +213,7 @@
 
 **هل تريد رؤية ملف سير العمل؟**[انقر هنا](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
-**هل تريد رؤية إحصائيات المستودع؟**[انقر هنا](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
+**هل تريد رؤية احصائيات المستودع؟**[انقر هنا](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
 </details>
 
