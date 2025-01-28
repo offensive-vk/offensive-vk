@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas l'objectif_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'en apprends actuellement_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant: pas de plaisir, seulement du code.<br>💥 Continuez à bouger et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas l'objectif_.<br>🧑‍💻 J'aime écrire un ordinateur`code`.<br>🤝 Je cherche de l'aide dans mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'en apprends actuellement_méchant_truc.<br>💬 Je ne me demande rien.<br>👌 Je respecte mon temps.<br>⚡ Fait amusant: pas de plaisir, seulement du code.<br>💥 Continuez à bouger et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Les Russes ont fabriqué un ordinateur fonctionnant à l'eau au milieu de 1936.❞</i>
+<i>❝ «Le logiciel est comme l'entropie: il est difficile de saisir, ne pèse rien et obéit à la deuxième loi de la thermodynamique; c'est-à-dire qu'il augmente toujours. »- Norman Augustin ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionné[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)dans[offensive-VK / Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-3.  💪 Open a ouvert les relations publiques[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)dans[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-4.  🚀 Version publiée[v7-bêta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-5.  🎉 PR fusionné[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)dans[offensive-VK / Auto-user-activité](https://github.com/offensive-vk/auto-user-activity)
-6.  💪 Open a ouvert les relations publiques[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)dans[offensive-vk/activité-auto-utilisateur](https://github.com/offensive-vk/auto-user-activity)
-7.  💪 RP ouverte[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 RP ouverte[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 PR fusionné[#6](https://github.com/offensive-vk/auto-translate/pull/6)dans[offensive-VK / Auto-Translate](https://github.com/offensive-vk/auto-translate)
-10. 💪 Open a ouvert les relations publiques[#6](https://github.com/offensive-vk/auto-translate/pull/6)dans[offensive-VK / Auto-Translate](https://github.com/offensive-vk/auto-translate)
-11. 🎉 PR fusionné[#304](https://github.com/offensive-vk/UntilEverything/pull/304)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 PR fusionné[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 PR fusionné[#43](https://github.com/offensive-vk/auto-issue/pull/43)dans[Offensive-Vk / Auto-Issue](https://github.com/offensive-vk/auto-issue)
-14. 🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)dans[offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-15. 🎉 PR fusionné[#23](https://github.com/offensive-vk/auto-label/pull/23)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+1.  🎉 PR fusionné[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  💪 Open a ouvert les relations publiques[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  💪 Open a ouvert les relations publiques[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  🎉 PR fusionné[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 PR fusionné[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)dans[offensive-VK / Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+6.  💪 Open a ouvert les relations publiques[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)dans[offensive-VK / Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🚀 Version publiée[V7-bêta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)dans[offensive-VK / Auto-user-activité](https://github.com/offensive-vk/auto-user-activity)
+8.  🎉 PR fusionné[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)dans[offensive-VK / Auto-user-activité](https://github.com/offensive-vk/auto-user-activity)
+9.  💪 Open a ouvert les relations publiques[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)dans[offensive-VK / Auto-user-activité](https://github.com/offensive-vk/auto-user-activity)
+10. 💪 Open a ouvert les relations publiques[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 Open a ouvert les relations publiques[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🎉 PR fusionné[#6](https://github.com/offensive-vk/auto-translate/pull/6)dans[offensive-VK / Auto-Translate](https://github.com/offensive-vk/auto-translate)
+13. 💪 Open a ouvert les relations publiques[#6](https://github.com/offensive-vk/auto-translate/pull/6)dans[offensive-VK / Auto-Translate](https://github.com/offensive-vk/auto-translate)
+14. 🎉 PR fusionné[#304](https://github.com/offensive-vk/UntilEverything/pull/304)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 PR fusionné[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
