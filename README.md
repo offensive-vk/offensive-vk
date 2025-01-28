@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28136](https://github.com/offensive-vk/offensive-vk/pull/28136) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2. 🎉 Merged PR [#9](https://github.com/offensive-vk/auto-repo-sync/pull/9) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-3. 💪 Opened PR [#9](https://github.com/offensive-vk/auto-repo-sync/pull/9) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-4. 🚀 Published release [v7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-5. 🎉 Merged PR [#9](https://github.com/offensive-vk/auto-user-activity/pull/9) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-6. 💪 Opened PR [#9](https://github.com/offensive-vk/auto-user-activity/pull/9) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-7. 💪 Opened PR [#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8. 💪 Opened PR [#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9. 🎉 Merged PR [#6](https://github.com/offensive-vk/auto-translate/pull/6) in [offensive-vk/auto-translate](https://github.com/offensive-vk/auto-translate)
-10. 💪 Opened PR [#6](https://github.com/offensive-vk/auto-translate/pull/6) in [offensive-vk/auto-translate](https://github.com/offensive-vk/auto-translate)
-11. 🎉 Merged PR [#304](https://github.com/offensive-vk/UntilEverything/pull/304) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Merged PR [#28129](https://github.com/offensive-vk/offensive-vk/pull/28129) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Merged PR [#43](https://github.com/offensive-vk/auto-issue/pull/43) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-14. 🎉 Merged PR [#7](https://github.com/offensive-vk/auto-pr-action/pull/7) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-15. 🎉 Merged PR [#23](https://github.com/offensive-vk/auto-label/pull/23) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+1. 🎉 Merged PR [#2](https://github.com/offensive-vk/ReactQuizApp/pull/2) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+2. 💪 Opened PR [#3](https://github.com/offensive-vk/ReactQuizApp/pull/3) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+3. 💪 Opened PR [#2](https://github.com/offensive-vk/ReactQuizApp/pull/2) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+4. 🎉 Merged PR [#28136](https://github.com/offensive-vk/offensive-vk/pull/28136) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5. 🎉 Merged PR [#9](https://github.com/offensive-vk/auto-repo-sync/pull/9) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+6. 💪 Opened PR [#9](https://github.com/offensive-vk/auto-repo-sync/pull/9) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+7. 🚀 Published release [v7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+8. 🎉 Merged PR [#9](https://github.com/offensive-vk/auto-user-activity/pull/9) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+9. 💪 Opened PR [#9](https://github.com/offensive-vk/auto-user-activity/pull/9) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+10. 💪 Opened PR [#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 Opened PR [#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🎉 Merged PR [#6](https://github.com/offensive-vk/auto-translate/pull/6) in [offensive-vk/auto-translate](https://github.com/offensive-vk/auto-translate)
+13. 💪 Opened PR [#6](https://github.com/offensive-vk/auto-translate/pull/6) in [offensive-vk/auto-translate](https://github.com/offensive-vk/auto-translate)
+14. 🎉 Merged PR [#304](https://github.com/offensive-vk/UntilEverything/pull/304) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Merged PR [#28129](https://github.com/offensive-vk/offensive-vk/pull/28129) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
 
 </p>
