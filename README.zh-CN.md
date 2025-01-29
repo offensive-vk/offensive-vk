@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“软件就像熵：很难掌握，什么都没有称重，并遵守热力学的第二定律；即它总是在增加。”  - 诺曼·奥古斯丁❞</i>
+<i>❝Windows的原始名称是接口管理器。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  💪打开PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  💪打开PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-4.  🎉合并PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉合并PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-6.  💪打开PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-7.  🚀发行[v7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-8.  🎉合并PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-9.  💪打开PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-10. 💪打开PR[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪打开PR[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-12. 🎉合并PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性VK/自动翻译](https://github.com/offensive-vk/auto-translate)
-13. 💪打开PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性VK/自动翻译](https://github.com/offensive-vk/auto-translate)
-14. 🎉合并PR[#304](https://github.com/offensive-vk/UntilEverything/pull/304)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉合并PR[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉合并PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  🎉合并PR[#10032](https://github.com/offensive-vk/Classics/pull/10032)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+3.  🎉合并PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  💪打开PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+5.  💪打开PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉合并PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+7.  🎉合并PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+8.  💪打开PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  🚀发行[v7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+10. 🎉合并PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+11. 💪打开PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+12. 💪打开PR[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪打开PR[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉合并PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性VK/自动翻译](https://github.com/offensive-vk/auto-translate)
+15. 💪打开PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性VK/自动翻译](https://github.com/offensive-vk/auto-translate)
     <!--END_SECTION:activity-->
 
 </p>
