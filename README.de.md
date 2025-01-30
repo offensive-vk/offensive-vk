@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne Computer`code`.<br>🤝 Ich suche Hilfe für meinen Server.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne derzeit einige_böse_Sachen.<br>💬 Fragen Sie mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Fun Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne Computer`code`.<br>🤝 Ich suche Hilfe auf meinem Server.<br>✨ im Inneren leben`terminal`.<br>🌱 Ich lerne derzeit einige_böse_Sachen.<br>💬 Fragen Sie mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Fun Tatsache: Kein Spaß, nur Code.<br>💥 Beziehen Sie sich weiter und Sie werden eines Tages überwinden.<br>📧_Sie werden einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Russen stellten Mitte 1936 einen Computer her, der mit Wasser lief.❞</i>
+<i>❝Doug Engelbart hat die erste Computermaus seit 1964 erfunden, die aus Holz bestand.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,28 +147,28 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 Zusammengeführte PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-3.  💪 PR eröffnet[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-4.  🚀 Veröffentlichte Veröffentlichung[v7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
-5.  🎉 Zusammengeführte PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-6.  💪 PR geöffnet[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-7.  💪 PR geöffnet[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 PR eröffnet[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)In[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Zusammengeführte PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[offensive-vk/automatische Übersetzung](https://github.com/offensive-vk/auto-translate)
-10. 💪 PR geöffnet[#6](https://github.com/offensive-vk/auto-translate/pull/6)In[Offensiv-VK/Auto-Translate](https://github.com/offensive-vk/auto-translate)
-11. 🎉 Fusions PR[#304](https://github.com/offensive-vk/UntilEverything/pull/304)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Zusammengeführte PR[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Zusammengeführte PR[#43](https://github.com/offensive-vk/auto-issue/pull/43)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
-14. 🎉 Zusammengeführte PR[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
-15. 🎉 Fusions PR[#23](https://github.com/offensive-vk/auto-label/pull/23)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+1.  ❗ Eröffnete Ausgabe[#25](https://github.com/offensive-vk/auto-label/issues/25)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+2.  💪 PR geöffnet[#8137](https://github.com/kamranahmedse/developer-roadmap/pull/8137)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 Fusions PR[#24](https://github.com/offensive-vk/auto-label/pull/24)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+4.  💪 PR geöffnet[#24](https://github.com/offensive-vk/auto-label/pull/24)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+5.  🎉 Fusions PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉 Fusions PR[#10032](https://github.com/offensive-vk/Classics/pull/10032)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+7.  🎉 Fusions PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+8.  💪 PR geöffnet[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+9.  💪 PR geöffnet[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+10. 🎉 Fusions PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Fusions PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+12. 💪 PR geöffnet[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+13. 🚀 veröffentlichte Veröffentlichung[V7-Beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
+14. 🎉 Fusions PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
+15. 💪 PR geöffnet[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡️ Was? Lust auf mehr Aktivität?**[Klicken Sie hier](./RECENT.md)**
+➡️ was? Willst du mehr Aktivität?**[Klicken Sie hier](./RECENT.md)**
 
 </details>
 
@@ -213,7 +213,7 @@
 
 **Willst du Workflow -Datei sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
-**Möchten Sie Repository-Statistiken sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
+**Willst du Repository -Statistiken sehen?**[Klicken Sie hier](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
 </details>
 
