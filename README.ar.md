@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "البرنامج يشبه الانتروبيا: من الصعب فهمه ، ولا يزن شيئًا ، ويطيع القانون الثاني للديناميكا الحرارية ؛ على سبيل المثال ، يزداد دائمًا. " - نورمان أوغسطين ❞</i>
+<i>لقد اخترع dougg Engelbart أول ماوس كمبيوتر في حوالي عام 1964 والذي كان مصنوعًا من الخشب.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  💪 فتح العلاقات العامة[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  💪 فتح العلاقات العامة[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-4.  🎉 اندمج العلاقات العامة[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-6.  💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-7.  🚀 الإصدار المنشور[V7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-8.  🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-9.  💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-10. 💪 فتح العلاقات العامة[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 فتح العلاقات العامة[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🎉 اندمج العلاقات العامة[#6](https://github.com/offensive-vk/auto-translate/pull/6)في[الهجوم-VK/ترانسليت التلقائي](https://github.com/offensive-vk/auto-translate)
-13. 💪 فتح العلاقات العامة[#6](https://github.com/offensive-vk/auto-translate/pull/6)في[الهجوم-VK/ترانسليت التلقائي](https://github.com/offensive-vk/auto-translate)
-14. 🎉 اندمج العلاقات العامة[#304](https://github.com/offensive-vk/UntilEverything/pull/304)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 اندمج العلاقات العامة[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+1.  ❗ القضية المفتوحة[#25](https://github.com/offensive-vk/auto-label/issues/25)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+2.  💪 فتح العلاقات العامة[#8137](https://github.com/kamranahmedse/developer-roadmap/pull/8137)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 اندمج العلاقات العامة[#24](https://github.com/offensive-vk/auto-label/pull/24)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+4.  💪 فتح العلاقات العامة[#24](https://github.com/offensive-vk/auto-label/pull/24)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+5.  🎉 اندمج العلاقات العامة[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉 اندمج العلاقات العامة[#10032](https://github.com/offensive-vk/Classics/pull/10032)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+7.  🎉 اندمج العلاقات العامة[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+8.  💪 فتح العلاقات العامة[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+9.  💪 فتح العلاقات العامة[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+10. 🎉 اندمج العلاقات العامة[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+12. 💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+13. 🚀 الإصدار المنشور[V7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+14. 🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+15. 💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
     <!--END_SECTION:activity-->
 
 </p>
