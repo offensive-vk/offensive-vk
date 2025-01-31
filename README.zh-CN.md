@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows的原始名称是接口管理器。</i>
+<i>❝DougEngelbart在1964年左右发明了第一只电脑鼠标，该鼠标是由木头制成的。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🎉合并PR[#10032](https://github.com/offensive-vk/Classics/pull/10032)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-3.  🎉合并PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-4.  💪打开PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  💪打开PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  🎉合并PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-7.  🎉合并PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-8.  💪打开PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  🚀发行[v7-beta](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-10. 🎉合并PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-11. 💪打开PR[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-12. 💪打开PR[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪打开PR[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉合并PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性VK/自动翻译](https://github.com/offensive-vk/auto-translate)
-15. 💪打开PR[#6](https://github.com/offensive-vk/auto-translate/pull/6)在[进攻性VK/自动翻译](https://github.com/offensive-vk/auto-translate)
+1.  🎉合并PR[#305](https://github.com/offensive-vk/UntilEverything/pull/305)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉合并PR[#306](https://github.com/offensive-vk/UntilEverything/pull/306)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+3.  💪打开PR[#26](https://github.com/offensive-vk/auto-label/pull/26)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+4.  ❗开了问题[#25](https://github.com/offensive-vk/auto-label/issues/25)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+5.  💪打开PR[#8137](https://github.com/kamranahmedse/developer-roadmap/pull/8137)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+6.  🎉合并PR[#24](https://github.com/offensive-vk/auto-label/pull/24)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+7.  💪打开PR[#24](https://github.com/offensive-vk/auto-label/pull/24)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+8.  🎉合并PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+9.  🎉合并PR[#10032](https://github.com/offensive-vk/Classics/pull/10032)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+10. 🎉合并PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+11. 💪打开PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+12. 💪打开PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+13. 🎉合并PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+14. 🎉合并PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+15. 💪打开PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
     <!--END_SECTION:activity-->
 
 </p>
