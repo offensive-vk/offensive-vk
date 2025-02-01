@@ -112,13 +112,12 @@ jobs:
 
             - **Manual Dispatch Number:** ${{ github.event.inputs.number || 'N/A' }}
             - **Total Workflows:** ${{ env.total_workflows || 'N/A' }}
-            - **Running Workflows:** ${{ env.running_workflows || 'N/A' }}
 
-            ### 📋 Workflows Summary for this Issue/PR
+            ### 📋 Workflows Summary for Context
 
             ${{ env.issue_workflows_summary || 'No workflows found for this issue/PR.' }}
 
-            ### 🔄 General Workflows Status
+            ### 🔄 General Workflows Status (wip)
 
             ${{ env.workflows_summary || 'No active workflows found.' }}
 
