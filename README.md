@@ -26,7 +26,7 @@
   <br>
     <strong> 
     ·
-    <a><code>English</code></a>
+    <a href="README.md">English</a>
     ·
     <a href="README.es.md">Española</a>
     ·
