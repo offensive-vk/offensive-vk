@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Doug Engelbart inventó el primer mouse de computadora alrededor de 1964 que estaba hecho de madera.</i>
+<i>❝ "En una habitación llena de mejores diseñadores de software, si dos están de acuerdo en lo mismo, eso es una mayoría". - Bill Curtis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
