@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝DougEngelbart在1964年左右发明了第一只电脑鼠标，该鼠标是由木头制成的。</i>
+<i>❝“在一个充满顶级软件设计人员的房间里，如果两个人同意同一件事，那就是多数。”  - 比尔·柯蒂斯（Bill Curtis）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
