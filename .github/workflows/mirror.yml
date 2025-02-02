@@ -21,9 +21,3 @@ jobs:
           target-url: ${{ secrets.TARGET_URL }}
           target-username: ${{ secrets.TARGET_USER }}
           target-token: ${{ secrets.TARGET_TOKEN }}
-  
-      - uses: wangchucheng/git-repo-sync@v0.1.0
-        with:
-          target-url: ${{ secrets.TARGET_URL }}
-          target-username: ${{ secrets.TARGET_USER }}
-          target-token: ${{ secrets.TARGET_TOKEN }}
