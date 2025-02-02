@@ -9,8 +9,9 @@ on:
       - 'readme-2022'
       - 'Automation'
       - 'Best-Readme-Ever'
-      - '**-2024'
       - '**-2023'
+      - '**-2024'
+      - '**-2025'
       - 'release-**'
   workflow_dispatch:
 
@@ -24,17 +25,18 @@ jobs:
 
       - name: Create or Update Pull Request
         id: create-pr
-        uses: repo-sync/pull-request@v2
+        uses: offensive-vk/auto-pr-action@v7
         with:
-          github_token: ${{ secrets.BOT_TOKEN }}
+          repo-token: ${{ secrets.BOT_TOKEN }}
           destination_branch: 'master'
-          pr_title:
+          title:
             '🐹 Hamster - (${{ github.event.head_commit.message }})'
-          pr_body: 'Please Wait.... Hamster is working really hard here.'
-          pr_reviewer: 'offensive-vk'
-          pr_label: 'hamster,pull-request'
-          pr_assignee: 'TheHamsterBot'
-          pr_draft: false
+          body: 'Please Wait.... Hamster is working really hard here.'
+          reviewers: 'offensive-vk'
+          labels: 'hamster,pull-request'
+          assignees: 'TheHamsterBot'
+          draft: false
+          debug: true
 
       - name: Save PR Number in ENV
         run:
