@@ -1,8 +1,6 @@
 name: 🛜 Automated Workflows Logs
 
 on:
-  issues:
-    types: [opened]
   pull_request:
     types: [opened]
   workflow_dispatch:
@@ -29,7 +27,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y jq gh
 
-      - name: 📊 Fetch Workflow Statuses for All Workflows
+      - name: 📊 Fetch Workflow Statuses
         id: fetch-status
         env:
           GH_TOKEN: ${{ github.token }}
@@ -110,6 +108,7 @@ jobs:
             > [!TIP]
             > ## 📝 Workflow Status Update
 
+            - **Issue/PR Number:** ${{ github.event.pull_request.number || github.event.issue.number }}
             - **Manual Dispatch Number:** ${{ github.event.inputs.number || 'N/A' }}
             - **Total Workflows:** ${{ env.total_workflows || 'N/A' }}
 

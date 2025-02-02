@@ -30,7 +30,7 @@ jobs:
         🎉 Great work on the Pull Request! 🚀
 
         Please ensure that this pull request should have:
-        - 🧪 The [CI](https://github.com/offensive-vk/offensive-vk/actions/) checks pass ✅
+        - 🧪 The [CI](https://github.com/offensive-vk/offensive-vk/pulls/$pr_number/checks) checks pass ✅
         - 📜 You have read and followed the [contribution guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) to ensure a smooth merge 🔧
         - ⚡ One approval from the final [boss](https://github.com/offensive-vk) 🫅🏻
 
