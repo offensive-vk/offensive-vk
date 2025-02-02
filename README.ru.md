@@ -28,7 +28,7 @@
   <br>
     <strong> 
     ·
-    <a><code>English</code></a>
+    <a href="README.md">English</a>
     ·
     <a href="README.es.md">Española</a>
     ·
@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Совершенство не цель_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь на моем сервере.<br>✨ Жизнь внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Забавный факт: нет веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
+🔭_Совершенство не цель_.<br>🧑‍💻 Я люблю писать компьютер`code`.<br>🤝 Я ищу помощь на своем сервере.<br>✨ Жизнь внутри`terminal`.<br>🌱 Я в настоящее время изучаю некоторые_противный_вещи.<br>💬 Спросите меня ни о чем.<br>👌 Я уважаю свое время.<br>⚡ Забавный факт: нет веселья, только код.<br>💥 Продолжайте двигаться, и вы преодолете один день.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝В середине 1936 года русские создали компьютер, работающий на воде.❞</i>
+<i>❝ «При отладке новички вставляют корректирующий код; Эксперты удаляют дефектный код ». - Ричард Паттис ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,28 +147,28 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 Объединенный Pr[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-3.  💪 Открытый пиар[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-4.  🚀 Опубликованный выпуск[V7-бета](https://github.com/offensive-vk/auto-user-activity/releases/tag/v7-beta)в[Наступление-VK/Auto-USER-Activity](https://github.com/offensive-vk/auto-user-activity)
-5.  🎉 Объединенный Pr[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)в[Наступление-VK/Auto-USER-Activity](https://github.com/offensive-vk/auto-user-activity)
-6.  💪 Открытый пиар[#9](https://github.com/offensive-vk/auto-user-activity/pull/9)в[наступление-вк/авто-активность пользователя](https://github.com/offensive-vk/auto-user-activity)
-7.  💪 открыл Pr[#8104](https://github.com/kamranahmedse/developer-roadmap/pull/8104)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 Открытый пиар[#8098](https://github.com/kamranahmedse/developer-roadmap/pull/8098)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Объединенный Pr[#6](https://github.com/offensive-vk/auto-translate/pull/6)в[наступление-ВК/авто-перевод](https://github.com/offensive-vk/auto-translate)
-10. 💪 Открытый пиар[#6](https://github.com/offensive-vk/auto-translate/pull/6)в[Наступление-VK/Автопертат](https://github.com/offensive-vk/auto-translate)
-11. 🎉 Объединенный пиар[#304](https://github.com/offensive-vk/UntilEverything/pull/304)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Объединенный Pr[#28129](https://github.com/offensive-vk/offensive-vk/pull/28129)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Объединенный Pr[#43](https://github.com/offensive-vk/auto-issue/pull/43)в[наступление-вк/авто-выпуск](https://github.com/offensive-vk/auto-issue)
-14. 🎉 Объединенный пиар[#7](https://github.com/offensive-vk/auto-pr-action/pull/7)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
-15. 🎉 Объединенный пиар[#23](https://github.com/offensive-vk/auto-label/pull/23)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+1.  🎉 Объединенный Pr[#28147](https://github.com/offensive-vk/offensive-vk/pull/28147)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Объединенный Pr[#10033](https://github.com/offensive-vk/Classics/pull/10033)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+3.  🎉 Объединенный Pr[#305](https://github.com/offensive-vk/UntilEverything/pull/305)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 Объединенный Pr[#306](https://github.com/offensive-vk/UntilEverything/pull/306)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+5.  💪 открыл Pr[#26](https://github.com/offensive-vk/auto-label/pull/26)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+6.  ❗ открыл вопрос[#25](https://github.com/offensive-vk/auto-label/issues/25)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+7.  💪 открыл Pr[#8137](https://github.com/kamranahmedse/developer-roadmap/pull/8137)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  🎉 Объединенный Pr[#24](https://github.com/offensive-vk/auto-label/pull/24)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+9.  💪 открыл Pr[#24](https://github.com/offensive-vk/auto-label/pull/24)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+10. 🎉 Объединенный Pr[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+11. 🎉 Объединенный Pr[#10032](https://github.com/offensive-vk/Classics/pull/10032)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+12. 🎉 Объединенный Pr[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+13. 💪 открыл Pr[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+14. 💪 открыл Pr[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 🎉 Объединенный Pr[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡️ Что? Хотите больше активности?**[Кликните сюда](./RECENT.md)**
+➡ Что? Хотите больше активности?**[Кликните сюда](./RECENT.md)**
 
 </details>
 
