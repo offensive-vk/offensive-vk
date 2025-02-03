@@ -28,7 +28,7 @@
   <br>
     <strong> 
     ·
-    <a><code>English</code></a>
+    <a href="README.md">English</a>
     ·
     <a href="README.es.md">Española</a>
     ·
@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "In einem Raum voller Top -Software -Designer, wenn zwei auf dasselbe zustimmen, ist das eine Mehrheit." - Bill Curtis ❞</i>
+<i>❝ "Es ist besser, darauf zu warten, dass ein produktiver Programmierer verfügbar wird, als darauf zu warten, dass der erste verfügbare Programmierer produktiv wird." - Steve McConnell❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#305](https://github.com/offensive-vk/UntilEverything/pull/305)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Fusions PR[#306](https://github.com/offensive-vk/UntilEverything/pull/306)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-3.  💪 PR geöffnet[#26](https://github.com/offensive-vk/auto-label/pull/26)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-4.  ❗ Ausgabe eröffnet[#25](https://github.com/offensive-vk/auto-label/issues/25)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-5.  💪 PR geöffnet[#8137](https://github.com/kamranahmedse/developer-roadmap/pull/8137)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 Fusions PR[#24](https://github.com/offensive-vk/auto-label/pull/24)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-7.  💪 PR geöffnet[#24](https://github.com/offensive-vk/auto-label/pull/24)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-8.  🎉 Fusions PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-9.  🎉 Fusions PR[#10032](https://github.com/offensive-vk/Classics/pull/10032)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-10. 🎉 Fusions PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-11. 💪 PR geöffnet[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-12. 💪 PR geöffnet[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-13. 🎉 Fusions PR[#28136](https://github.com/offensive-vk/offensive-vk/pull/28136)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 Fusions PR[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-15. 💪 PR geöffnet[#9](https://github.com/offensive-vk/auto-repo-sync/pull/9)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+1.  🎉 Fusions PR[#28150](https://github.com/offensive-vk/offensive-vk/pull/28150)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Fusions PR[#28147](https://github.com/offensive-vk/offensive-vk/pull/28147)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 Fusions PR[#10033](https://github.com/offensive-vk/Classics/pull/10033)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+4.  🎉 Fusions PR[#305](https://github.com/offensive-vk/UntilEverything/pull/305)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 Fusions PR[#306](https://github.com/offensive-vk/UntilEverything/pull/306)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+6.  💪 PR geöffnet[#26](https://github.com/offensive-vk/auto-label/pull/26)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+7.  ❗ Eröffnete Ausgabe[#25](https://github.com/offensive-vk/auto-label/issues/25)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+8.  💪 PR geöffnet[#8137](https://github.com/kamranahmedse/developer-roadmap/pull/8137)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 Fusions PR[#24](https://github.com/offensive-vk/auto-label/pull/24)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+10. 💪 PR geöffnet[#24](https://github.com/offensive-vk/auto-label/pull/24)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+11. 🎉 Fusions PR[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+12. 🎉 Fusions PR[#10032](https://github.com/offensive-vk/Classics/pull/10032)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+13. 🎉 Fusions PR[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+14. 💪 PR geöffnet[#3](https://github.com/offensive-vk/ReactQuizApp/pull/3)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪 PR geöffnet[#2](https://github.com/offensive-vk/ReactQuizApp/pull/2)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
