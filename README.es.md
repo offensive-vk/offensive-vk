@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Una persona promedio normalmente parpadea 20 veces por minuto, pero cuando usa una computadora, parpadea solo 7 veces por minuto.</i>
+<i>❝ “Fue una broma, ¿de acuerdo?  ¡Si pensáramos que realmente se usaría, no lo habríamos escrito! " - Mark Andreesen, hablando de la etiqueta HTML Blink ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
