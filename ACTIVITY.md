@@ -32,5 +32,4 @@
 31. 🎉  Merged pull request [#10032](https://github.com/offensive-vk/Classics/pull/10032) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 32. ✅ Approved on pull request [#10032](https://github.com/offensive-vk/Classics/pull/10032) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 33. 🎉  Merged pull request [#2](https://github.com/offensive-vk/ReactQuizApp/pull/2) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
-34. 💪 Opened pull request [#3](https://github.com/offensive-vk/ReactQuizApp/pull/3) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
 <!--END_SECTION:activity-->
