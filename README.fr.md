@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Commentaire votre code, c'est comme nettoyer votre salle de bain - vous ne voulez jamais le faire, mais cela crée vraiment une expérience plus agréable pour vous et vos invités.» - Ryan Campbell ❞</i>
+<i>❝No Human a remporté un jeu d'échecs standard du tournoi contre un ordinateur à haute spécification depuis 2005.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
