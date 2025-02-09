@@ -32,5 +32,4 @@
 31. ❗ Opened issue [#25](https://github.com/offensive-vk/auto-label/issues/25) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 32. 💪 Opened pull request [#8137](https://github.com/kamranahmedse/developer-roadmap/pull/8137) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 33. 🎉  Merged pull request [#24](https://github.com/offensive-vk/auto-label/pull/24) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-34. 💪 Opened pull request [#24](https://github.com/offensive-vk/auto-label/pull/24) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 <!--END_SECTION:activity-->
