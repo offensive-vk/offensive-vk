@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/offensive-vk/auto-label/pull/33) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-2. ❗ Opened issue [#32](https://github.com/offensive-vk/auto-label/issues/32) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-3. ❌ Closed PR [#31](https://github.com/offensive-vk/auto-label/pull/31) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-4. ❗ Opened issue [#30](https://github.com/offensive-vk/auto-label/issues/30) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-5. 🎉 Merged PR [#29](https://github.com/offensive-vk/auto-label/pull/29) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-6. 💪 Opened PR [#29](https://github.com/offensive-vk/auto-label/pull/29) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-7. 🎉 Merged PR [#5](https://github.com/offensive-vk/ReactQuizApp/pull/5) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
-8. 💪 Opened PR [#5](https://github.com/offensive-vk/ReactQuizApp/pull/5) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
-9. 🎉 Merged PR [#307](https://github.com/offensive-vk/UntilEverything/pull/307) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 Merged PR [#28158](https://github.com/offensive-vk/offensive-vk/pull/28158) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 💪 Opened PR [#8168](https://github.com/kamranahmedse/developer-roadmap/pull/8168) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🎉 Merged PR [#28150](https://github.com/offensive-vk/offensive-vk/pull/28150) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 Merged PR [#28147](https://github.com/offensive-vk/offensive-vk/pull/28147) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 Merged PR [#10033](https://github.com/offensive-vk/Classics/pull/10033) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-15. 🎉 Merged PR [#305](https://github.com/offensive-vk/UntilEverything/pull/305) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1. 💪 Opened PR [#7](https://github.com/offensive-vk/ReactQuizApp/pull/7) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+2. 🚀 Published release [v8](https://github.com/offensive-vk/auto-label/releases/tag/v8) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+3. 🎉 Merged PR [#34](https://github.com/offensive-vk/auto-label/pull/34) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+4. 💪 Opened PR [#34](https://github.com/offensive-vk/auto-label/pull/34) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+5. ❌ Closed PR [#33](https://github.com/offensive-vk/auto-label/pull/33) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+6. 💪 Opened PR [#33](https://github.com/offensive-vk/auto-label/pull/33) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+7. ❗ Opened issue [#32](https://github.com/offensive-vk/auto-label/issues/32) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+8. ❌ Closed PR [#31](https://github.com/offensive-vk/auto-label/pull/31) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+9. ❗ Opened issue [#30](https://github.com/offensive-vk/auto-label/issues/30) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+10. 🎉 Merged PR [#29](https://github.com/offensive-vk/auto-label/pull/29) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+11. 💪 Opened PR [#29](https://github.com/offensive-vk/auto-label/pull/29) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
+12. 🎉 Merged PR [#5](https://github.com/offensive-vk/ReactQuizApp/pull/5) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+13. 💪 Opened PR [#5](https://github.com/offensive-vk/ReactQuizApp/pull/5) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉 Merged PR [#307](https://github.com/offensive-vk/UntilEverything/pull/307) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Merged PR [#28158](https://github.com/offensive-vk/offensive-vk/pull/28158) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
 
 </p>
