@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "En un equipo de proyectos de software de 10, probablemente haya 3 personas que producen suficientes defectos para hacerlos productores netos negativos". - Gordon Schulmeyer ❞</i>
+<i>❝Amazon fue un vendedor de libros de portada, pero ahora ahora vende más libros electrónicos que portadas difíciles❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
