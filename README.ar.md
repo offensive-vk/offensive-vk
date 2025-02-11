@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ لم يربح Human لعبة شطرنج قياسية في البطولة ضد جهاز كمبيوتر عالي المواصفات منذ عام 2005.❞</i>
+<i>كان Amazon بائعًا قويًا للكتاب ، ولكنه في الواقع يبيع الآن المزيد من الكتب الإلكترونية أكثر من الأغطية الصلبة</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,28 +147,28 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❗ القضية المفتوحة[#30](https://github.com/offensive-vk/auto-label/issues/30)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-2.  🎉 اندمج العلاقات العامة[#29](https://github.com/offensive-vk/auto-label/pull/29)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-3.  💪 فتح العلاقات العامة[#29](https://github.com/offensive-vk/auto-label/pull/29)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-4.  🎉 اندمج العلاقات العامة[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  💪 فتح العلاقات العامة[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  🎉 اندمج العلاقات العامة[#307](https://github.com/offensive-vk/UntilEverything/pull/307)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 اندمج العلاقات العامة[#28158](https://github.com/offensive-vk/offensive-vk/pull/28158)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-8.  💪 فتح العلاقات العامة[#8168](https://github.com/kamranahmedse/developer-roadmap/pull/8168)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 اندمج العلاقات العامة[#28150](https://github.com/offensive-vk/offensive-vk/pull/28150)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 اندمج العلاقات العامة[#28147](https://github.com/offensive-vk/offensive-vk/pull/28147)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 اندمج العلاقات العامة[#10033](https://github.com/offensive-vk/Classics/pull/10033)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-12. 🎉 اندمج العلاقات العامة[#305](https://github.com/offensive-vk/UntilEverything/pull/305)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 اندمج العلاقات العامة[#306](https://github.com/offensive-vk/UntilEverything/pull/306)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-14. 💪 فتح العلاقات العامة[#26](https://github.com/offensive-vk/auto-label/pull/26)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-15. ❗ القضية المفتوحة[#25](https://github.com/offensive-vk/auto-label/issues/25)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+1.  💪 فتح العلاقات العامة[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+3.  🎉 اندمج العلاقات العامة[#34](https://github.com/offensive-vk/auto-label/pull/34)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+4.  💪 فتح العلاقات العامة[#34](https://github.com/offensive-vk/auto-label/pull/34)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+5.  ❌ مغلق العلاقات العامة[#33](https://github.com/offensive-vk/auto-label/pull/33)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+6.  💪 فتح العلاقات العامة[#33](https://github.com/offensive-vk/auto-label/pull/33)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+7.  ❗ القضية المفتوحة[#32](https://github.com/offensive-vk/auto-label/issues/32)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+8.  ❌ مغلق العلاقات العامة[#31](https://github.com/offensive-vk/auto-label/pull/31)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+9.  ❗ القضية المفتوحة[#30](https://github.com/offensive-vk/auto-label/issues/30)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+10. 🎉 اندمج العلاقات العامة[#29](https://github.com/offensive-vk/auto-label/pull/29)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+11. 💪 فتح العلاقات العامة[#29](https://github.com/offensive-vk/auto-label/pull/29)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+12. 🎉 اندمج العلاقات العامة[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+13. 💪 فتح العلاقات العامة[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉 اندمج العلاقات العامة[#307](https://github.com/offensive-vk/UntilEverything/pull/307)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 اندمج العلاقات العامة[#28158](https://github.com/offensive-vk/offensive-vk/pull/28158)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡️   What? تريد المزيد من النشاط؟**[انقر هنا](./RECENT.md)**
+➡ ماذا؟ تريد المزيد من النشاط؟**[انقر هنا](./RECENT.md)**
 
 </details>
 
