@@ -1,6 +1,7 @@
 name: 📌 Automated Issue Pinner
 
 on:
+  workflow_dispatch:
   issues:
     types: [opened]
   schedule:
@@ -9,7 +10,7 @@ on:
 jobs:
   pin-latest-issues:
     runs-on: ubuntu-latest
-
+    name: Find and Pin Issues
     steps:
       - name: Install GitHub CLI
         run: sudo apt update && sudo apt install -y gh
