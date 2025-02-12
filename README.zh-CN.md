@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mazon是一位硬封面卖家，但实际上，现在卖出的电子书比硬封面更多</i>
+<i>❝当计算机运行时，它们变得很热。计算机有粉丝可以保持他们的凉爽。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪打开PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🚀发行[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-3.  🎉合并PR[#34](https://github.com/offensive-vk/auto-label/pull/34)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-4.  💪打开PR[#34](https://github.com/offensive-vk/auto-label/pull/34)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-5.  ❌关闭PR[#33](https://github.com/offensive-vk/auto-label/pull/33)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-6.  💪打开PR[#33](https://github.com/offensive-vk/auto-label/pull/33)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-7.  ❗开了问题[#32](https://github.com/offensive-vk/auto-label/issues/32)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-8.  ❌关闭PR[#31](https://github.com/offensive-vk/auto-label/pull/31)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-9.  ❗开了问题[#30](https://github.com/offensive-vk/auto-label/issues/30)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-10. 🎉合并PR[#29](https://github.com/offensive-vk/auto-label/pull/29)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-11. 💪打开PR[#29](https://github.com/offensive-vk/auto-label/pull/29)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-12. 🎉合并PR[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-13. 💪打开PR[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉合并PR[#307](https://github.com/offensive-vk/UntilEverything/pull/307)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉合并PR[#28158](https://github.com/offensive-vk/offensive-vk/pull/28158)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❗开了问题[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  🎉合并PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  💪打开PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  🚀发行[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+5.  🎉合并PR[#34](https://github.com/offensive-vk/auto-label/pull/34)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+6.  💪打开PR[#34](https://github.com/offensive-vk/auto-label/pull/34)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+7.  ❌关闭PR[#33](https://github.com/offensive-vk/auto-label/pull/33)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+8.  💪打开PR[#33](https://github.com/offensive-vk/auto-label/pull/33)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+9.  ❗开了问题[#32](https://github.com/offensive-vk/auto-label/issues/32)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+10. ❌关闭PR[#31](https://github.com/offensive-vk/auto-label/pull/31)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+11. ❗开了问题[#30](https://github.com/offensive-vk/auto-label/issues/30)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+12. 🎉合并PR[#29](https://github.com/offensive-vk/auto-label/pull/29)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+13. 💪打开PR[#29](https://github.com/offensive-vk/auto-label/pull/29)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+14. 🎉合并PR[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪打开PR[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
