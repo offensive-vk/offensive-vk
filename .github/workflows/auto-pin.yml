@@ -1,0 +1,34 @@
+name: 📌 Automated Issue Pinner
+
+on:
+  issues:
+    types: [opened]
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  pin-latest-issues:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install GitHub CLI
+        run: sudo apt update && sudo apt install -y gh
+
+      - name: Authenticate GitHub CLI
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+
+      - name: Unpin All Previously Pinned Issues
+        run: |
+          PINNED_ISSUES=$(gh issue list --repo "${{ github.repository }}" --state open --json number,isPinned | jq -r '.[] | select(.isPinned) | .number')
+
+          for ISSUE_NUMBER in $PINNED_ISSUES; do
+            gh issue unpin $ISSUE_NUMBER --repo "${{ github.repository }}"
+          done
+
+      - name: Get Last 3 Open Issues and Pin Them
+        run: |
+          ISSUES=$(gh issue list --repo "${{ github.repository }}" --state open --limit 3 --json number --jq '.[].number')
+
+          for ISSUE_NUMBER in $ISSUES; do
+            gh issue pin $ISSUE_NUMBER --repo "${{ github.repository }}"
+          done
