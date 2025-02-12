@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Dans une équipe de projets logiciels de 10, il y a probablement 3 personnes qui produisent suffisamment de défauts pour les faire des producteurs négatifs nets.» - Gordon Schulmeyer ❞</i>
+<i>Les ordinateurs fonctionnent, ils deviennent chauds. Les ordinateurs ont des ventilateurs pour les garder au frais.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 Open a ouvert les relations publiques[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🚀 Version publiée[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-3.  🎉 PR fusionné[#34](https://github.com/offensive-vk/auto-label/pull/34)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-4.  💪 Open a ouvert les relations publiques[#34](https://github.com/offensive-vk/auto-label/pull/34)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-5.  ❌ PR fermé[#33](https://github.com/offensive-vk/auto-label/pull/33)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-6.  💪 Open a ouvert les relations publiques[#33](https://github.com/offensive-vk/auto-label/pull/33)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-7.  ❗ Problème ouvert[#32](https://github.com/offensive-vk/auto-label/issues/32)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-8.  ❌ PR fermé[#31](https://github.com/offensive-vk/auto-label/pull/31)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-9.  ❗ Problème ouvert[#30](https://github.com/offensive-vk/auto-label/issues/30)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-10. 🎉 PR fusionné[#29](https://github.com/offensive-vk/auto-label/pull/29)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-11. 💪 Open a ouvert les relations publiques[#29](https://github.com/offensive-vk/auto-label/pull/29)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-12. 🎉 PR fusionné[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-13. 💪 Open a ouvert les relations publiques[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 PR fusionné[#307](https://github.com/offensive-vk/UntilEverything/pull/307)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 PR fusionné[#28158](https://github.com/offensive-vk/offensive-vk/pull/28158)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+1.  ❗ Problème ouvert[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)dans[Offensive-Vk / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  🎉 PR fusionné[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  💪 Open a ouvert les relations publiques[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  🚀 Version publiée[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+5.  🎉 PR fusionné[#34](https://github.com/offensive-vk/auto-label/pull/34)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+6.  💪 Open a ouvert les relations publiques[#34](https://github.com/offensive-vk/auto-label/pull/34)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+7.  ❌ PR fermé[#33](https://github.com/offensive-vk/auto-label/pull/33)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+8.  💪 Open a ouvert les relations publiques[#33](https://github.com/offensive-vk/auto-label/pull/33)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+9.  ❗ Problème ouvert[#32](https://github.com/offensive-vk/auto-label/issues/32)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+10. ❌ PR fermé[#31](https://github.com/offensive-vk/auto-label/pull/31)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+11. ❗ Problème ouvert[#30](https://github.com/offensive-vk/auto-label/issues/30)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+12. 🎉 PR fusionné[#29](https://github.com/offensive-vk/auto-label/pull/29)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+13. 💪 Open a ouvert les relations publiques[#29](https://github.com/offensive-vk/auto-label/pull/29)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+14. 🎉 PR fusionné[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪 Open a ouvert les relations publiques[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
