@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Amazon fue un vendedor de libros de portada, pero ahora ahora vende más libros electrónicos que portadas difíciles❞</i>
+<i>❝ Como las computadoras se ejecutan, se calientan. Las computadoras tienen ventiladores para mantenerlos frescos.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 ABIERTO PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-3.  🎉 PR fusionado[#34](https://github.com/offensive-vk/auto-label/pull/34)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-4.  💪 ABIERTO PR[#34](https://github.com/offensive-vk/auto-label/pull/34)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-5.  ❌ Cerrado PR[#33](https://github.com/offensive-vk/auto-label/pull/33)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-6.  💪 ABIERTO PR[#33](https://github.com/offensive-vk/auto-label/pull/33)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-7.  ❗ Problema abierto[#32](https://github.com/offensive-vk/auto-label/issues/32)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-8.  ❌ Cerrado PR[#31](https://github.com/offensive-vk/auto-label/pull/31)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-9.  ❗ Problema abierto[#30](https://github.com/offensive-vk/auto-label/issues/30)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-10. 🎉 PR fusionado[#29](https://github.com/offensive-vk/auto-label/pull/29)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-11. 💪 ABIERTO PR[#29](https://github.com/offensive-vk/auto-label/pull/29)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-12. 🎉 PR fusionado[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-13. 💪 ABIERTO PR[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 PR fusionado[#307](https://github.com/offensive-vk/UntilEverything/pull/307)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 PR fusionado[#28158](https://github.com/offensive-vk/offensive-vk/pull/28158)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+1.  ❗ Problema abierto[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  🎉 PR fusionado[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  💪 ABIERTO PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+5.  🎉 PR fusionado[#34](https://github.com/offensive-vk/auto-label/pull/34)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+6.  💪 ABIERTO PR[#34](https://github.com/offensive-vk/auto-label/pull/34)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+7.  ❌ Cerrado PR[#33](https://github.com/offensive-vk/auto-label/pull/33)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+8.  💪 ABIERTO PR[#33](https://github.com/offensive-vk/auto-label/pull/33)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+9.  ❗ Problema abierto[#32](https://github.com/offensive-vk/auto-label/issues/32)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+10. ❌ Cerrado PR[#31](https://github.com/offensive-vk/auto-label/pull/31)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+11. ❗ Problema abierto[#30](https://github.com/offensive-vk/auto-label/issues/30)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+12. 🎉 PR fusionado[#29](https://github.com/offensive-vk/auto-label/pull/29)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+13. 💪 ABIERTO PR[#29](https://github.com/offensive-vk/auto-label/pull/29)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+14. 🎉 PR fusionado[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪 ABIERTO PR[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
