@@ -1,4 +1,4 @@
-name: 🛜 Automated Workflows Logs
+name: 🛠️ Automated Workflows Logs
 
 on:
   pull_request:
@@ -32,7 +32,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh workflow list --json name,id,state --limit 100 > workflows.json
+          BRANCH=${{ github.head_ref || github.ref_name }}
+          gh workflow list --json name,id,state,path --limit 100 > workflows.json
 
           if [ ! -s workflows.json ]; then
             echo "No workflows found or workflows are unavailable." > workflows_summary.txt
@@ -43,8 +44,8 @@ jobs:
             exit 0
           fi
 
-          # Filter running and completed workflows
-          filtered_workflows=$(jq '[.[] | select(.state == "in_progress" or .state == "completed")]' workflows.json)
+          # Filter workflows enabled for the event branch
+          filtered_workflows=$(jq --arg branch "$BRANCH" '[.[] | select(.path | contains($branch))]' workflows.json)
 
           echo "| Workflow Name           | ID          | State       |" > workflows_summary.md
           echo "|-------------------------|-------------|-------------|" >> workflows_summary.md
@@ -73,8 +74,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           ISSUE_PR_NUMBER=${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number }}
+          BRANCH=${{ github.head_ref || github.ref_name }}
 
-          echo "Fetching workflows for issue/PR #$ISSUE_PR_NUMBER..."
+          echo "Fetching workflows for issue/PR #$ISSUE_PR_NUMBER on branch $BRANCH..."
 
           gh run list --json name,conclusion,status,event,workflowDatabaseId,headBranch,headSha --limit 50 > issue_workflows.json
 
@@ -83,14 +85,14 @@ jobs:
             exit 0
           fi
 
-          relevant_workflows=$(jq '[.[] | select(.status == "completed" or .status == "in_progress")]' issue_workflows.json)
+          relevant_workflows=$(jq --arg branch "$BRANCH" '[.[] | select((.status == "completed" or .status == "in_progress") and .headBranch == $branch)]' issue_workflows.json)
 
-          echo "| Workflow Name           | Conclusion  | Status     | Event   | Branch |" > issue_workflows_summary.md
-          echo "|-------------------------|-------------|-----------|---------|--------|" >> issue_workflows_summary.md
+          echo "| Workflow Name           | Conclusion  | Status     | Event   |" > issue_workflows_summary.md
+          echo "|-------------------------|-------------|-----------|---------|" >> issue_workflows_summary.md
           if [ "$relevant_workflows" != "[]" ]; then
-            jq -r '.[] | "| \(.name) | \(.conclusion // "N/A") | \(.status) | \(.event) | \(.headBranch) |"' <<< "$relevant_workflows" >> issue_workflows_summary.md
+            jq -r '.[] | "| \(.name) | \(.conclusion // "N/A") | \(.status) | \(.event) |"' <<< "$relevant_workflows" >> issue_workflows_summary.md
           else
-            echo "| No relevant workflows for this issue/PR | N/A | N/A | N/A | N/A |" >> issue_workflows_summary.md
+            echo "| No relevant workflows for this issue/PR | N/A | N/A | N/A |" >> issue_workflows_summary.md
           fi
 
           {
@@ -99,20 +101,18 @@ jobs:
             echo "EOF"
           } >> $GITHUB_ENV
 
-      - name: 🗣️ Add Status Comment
+      - name: 👤 Add Status Comment
         uses: peter-evans/create-or-update-comment@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number || 27614 }}
           body: |
             > [!TIP]
-            > ## 📝 Workflow Status Update
+            > **Issue/PR Number:** ${{ github.event.pull_request.number || github.event.issue.number }}
+            > **Manual Dispatch Number:** ${{ github.event.inputs.number || 'N/A' }}
+            > **Total Workflows:** ${{ env.total_workflows || 'N/A' }}
 
-            - **Issue/PR Number:** ${{ github.event.pull_request.number || github.event.issue.number }}
-            - **Manual Dispatch Number:** ${{ github.event.inputs.number || 'N/A' }}
-            - **Total Workflows:** ${{ env.total_workflows || 'N/A' }}
-
-            ### 📋 Workflows Summary for Context
+            ### 👌 Workflows Summary for PR
 
             ${{ env.issue_workflows_summary || 'No workflows found for this issue/PR.' }}
 
