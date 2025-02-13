@@ -1,6 +1,5 @@
 name: 🛜 Automated Workflows Logs
 
-
 on:
   pull_request:
     types: [opened]
