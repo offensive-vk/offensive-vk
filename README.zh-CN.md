@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝当计算机运行时，它们变得很热。计算机有粉丝可以保持他们的凉爽。</i>
+<i>❝无论您使用Mozilla，Chrome Explore，请知道Mosaic是我出生时的第一个浏览器。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❗开了问题[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🎉合并PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  💪打开PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-4.  🚀发行[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-5.  🎉合并PR[#34](https://github.com/offensive-vk/auto-label/pull/34)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-6.  💪打开PR[#34](https://github.com/offensive-vk/auto-label/pull/34)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-7.  ❌关闭PR[#33](https://github.com/offensive-vk/auto-label/pull/33)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-8.  💪打开PR[#33](https://github.com/offensive-vk/auto-label/pull/33)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-9.  ❗开了问题[#32](https://github.com/offensive-vk/auto-label/issues/32)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-10. ❌关闭PR[#31](https://github.com/offensive-vk/auto-label/pull/31)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-11. ❗开了问题[#30](https://github.com/offensive-vk/auto-label/issues/30)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-12. 🎉合并PR[#29](https://github.com/offensive-vk/auto-label/pull/29)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-13. 💪打开PR[#29](https://github.com/offensive-vk/auto-label/pull/29)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-14. 🎉合并PR[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-15. 💪打开PR[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+1.  🎉合并PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
+2.  💪打开PR[#37](https://github.com/offensive-vk/Actionshub/pull/37)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
+3.  💪打开PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
+4.  ❗开了问题[#35](https://github.com/offensive-vk/Actionshub/issues/35)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
+5.  🎉合并PR[#35](https://github.com/offensive-vk/auto-label/pull/35)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+6.  🎉合并PR[#44](https://github.com/offensive-vk/auto-issue/pull/44)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+7.  🎉合并PR[#10](https://github.com/offensive-vk/auto-user-activity/pull/10)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+8.  🎉合并PR[#6](https://github.com/offensive-vk/auto-contributions/pull/6)在[进攻性VK/自动限额](https://github.com/offensive-vk/auto-contributions)
+9.  🎉合并PR[#312](https://github.com/offensive-vk/UntilEverything/pull/312)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉合并PR[#10034](https://github.com/offensive-vk/Classics/pull/10034)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+11. 🎉合并PR[#28206](https://github.com/offensive-vk/offensive-vk/pull/28206)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+12. 🎉合并PR[#29](https://github.com/offensive-vk/develop-actions/pull/29)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+13. ❗开了问题[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉合并PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪打开PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
