@@ -23,11 +23,18 @@ importers:
       octokit:
         specifier: ^4.1.1
         version: 4.1.1
-      pnpm:
-        specifier: 9.0.0
-        version: 9.0.0
+    devDependencies:
+      '@actions/exec':
+        specifier: ^1.1.1
+        version: 1.1.1
 
 packages:
+
+  '@actions/exec@1.1.1':
+    resolution: {integrity: sha512-+sCcHHbVdk93a0XT19ECtO/gIXoxvdsgQLzb2fE2/5sIZmWQuluYyjPQtrtTHdU1YzTZ7bAPN4sITq2xi1679w==}
+
+  '@actions/io@1.1.3':
+    resolution: {integrity: sha512-wi9JjgKLYS7U/z8PPbco+PvTb/nRWjeoFlJ1Qer83k/3C5PHQi28hiVdeE2kHXmIL99mQFawx8qt/JPjZilJ8Q==}
 
   '@octokit/app@15.1.3':
     resolution: {integrity: sha512-injaSv2CN8wZrhhnVky3HcQVEy4rRoIAm+OeCwNQzgQJn1OTglfT7RyMDaCbkiNWXDR0tkWLkWMv4duTTj765g==}
@@ -187,11 +194,6 @@ packages:
     resolution: {integrity: sha512-GMjkrTnGk2PB9MKnK5SVDj4wSrnVX39vldKvYIC3MVNDQY1nZ6ufPrGCUFsQ645q5q+PG+CHUWRB6ZH8MBcyFg==}
     engines: {node: '>= 18'}
 
-  pnpm@9.0.0:
-    resolution: {integrity: sha512-tBBnB8ciWxdIthWVlTzL6/+XtUrQXQAqo2NfYzucU81mb3zpuLxEcE8foEi5pJtVNxqy2enWZ9Hv4u8VFLzVEw==}
-    engines: {node: '>=18.12'}
-    hasBin: true
-
   punycode.js@2.3.1:
     resolution: {integrity: sha512-uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA==}
     engines: {node: '>=6'}
@@ -210,6 +212,12 @@ packages:
     resolution: {integrity: sha512-0JCqzSKnStlRRQfCdowvqy3cy0Dvtlb8xecj/H8JFZuCze4rwjPZQOgvFvn0Ws/usCHQFGpyr+pB9adaGwXn4Q==}
 
 snapshots:
+
+  '@actions/exec@1.1.1':
+    dependencies:
+      '@actions/io': 1.1.3
+
+  '@actions/io@1.1.3': {}
 
   '@octokit/app@15.1.3':
     dependencies:
@@ -415,8 +423,6 @@ snapshots:
       '@octokit/plugin-throttling': 9.4.0(@octokit/core@6.1.3)
       '@octokit/request-error': 6.1.6
       '@octokit/types': 13.8.0
-
-  pnpm@9.0.0: {}
 
   punycode.js@2.3.1: {}
 
