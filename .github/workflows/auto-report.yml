@@ -25,18 +25,28 @@ jobs:
         if: ${{ github.actor != github.repository_owner }}
         run: |
           run_id=${{ github.event.workflow_run.id }}
-          response=$(gh api repos/${{ github.repository }}/actions/runs/$run_id/jobs --jq '.jobs')
-          
+          repo=${{ github.repository }}
+          response=$(gh api repos/$repo/actions/runs/$run_id/jobs --jq '.jobs')
+
           if [ -z "$response" ]; then
             echo "Failed to fetch jobs data. Please verify the token or permissions." >&2
             exit 1
           fi
 
-          failed_jobs=$(echo "$response" | jq -r '[.[] | select(.conclusion == "failure") | .name] | join(", ")')
-          echo "failed_jobs=$failed_jobs" >> $GITHUB_ENV
+          failed_jobs=$(echo "$response" | jq -r '[.[] | select(.conclusion == "failure") | {name: .name, url: .html_url}]')
+          
+          if [ "$failed_jobs" == "[]" ]; then
+            echo "No failed jobs detected."
+            exit 0
+          fi
+
+          failed_jobs_list=$(echo "$failed_jobs" | jq -r '.[] | "- **\(.name)**: [View Job](\(.url))"' | tr '\n' ',' | sed 's/,$//')
+
+          echo "failed_jobs_list=$failed_jobs_list" >> $GITHUB_ENV
+          echo "workflow_url=https://github.com/$repo/actions/runs/$run_id" >> $GITHUB_ENV
 
       - name: Create Issue for Failed Jobs
-        if: env.failed_jobs != '' && github.actor != github.repository_owner
+        if: env.failed_jobs_list != '' && github.actor != github.repository_owner
         uses: offensive-vk/auto-issue@v7
         with:
           github-token: ${{ secrets.BOT_TOKEN }}
@@ -47,15 +57,16 @@ jobs:
           body: |
             > [!CAUTION]  
             > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) encountered failed jobs.
-              
+
             ## **Failed Jobs:**  
-            - ${{ env.failed_jobs }}
+            ${{ env.failed_jobs_list }}
 
             ## **Failure Details:**
             - **Workflow Path**: ${{ github.workflow_ref }}
+            - **Workflow Run**: [View Workflow](${{ env.workflow_url }})
             - **Conclusion**: `${{ github.event.workflow_run.conclusion }}`
-            - **Status Message**: `${{ github.event.workflow_run.status|| 'N/A' }}`
+            - **Status Message**: `${{ github.event.workflow_run.status || 'N/A' }}`
 
             Thanks.  
-            **Your Hamster** 🐹 
+            **Your Hamster** 🐹  
             <code>PF78VAPPKLZ2</code>
