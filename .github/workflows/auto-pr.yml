@@ -20,8 +20,8 @@ jobs:
     name: Create Pull Request
     runs-on: ubuntu-latest
     if:
-      ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name !=
-      'dependabot[bot]' }}
+      github.actor != 'dependabot[bot]' && github.event.pusher.name !=
+      'dependabot[bot]'
     steps:
       - uses: actions/checkout@v4
 
@@ -34,7 +34,7 @@ jobs:
           title: '🐹 Hamster - (${{ github.event.head_commit.message }})'
           body: 'Please Wait.... Hamster is working really hard here.'
           reviewers: 'offensive-vk'
-          labels: 'hamster,pull-request'
+          labels: 'hamster'
           assignees: 'TheHamsterBot'
           draft: false
           debug: true
@@ -47,8 +47,8 @@ jobs:
     name: Update PR Comment
     needs: [create_pr]
     if:
-      ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name !=
-      'dependabot[bot]' }}
+      github.actor != 'dependabot[bot]' && github.event.pusher.name !=
+      'dependabot[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

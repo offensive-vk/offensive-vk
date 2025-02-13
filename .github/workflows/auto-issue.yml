@@ -1,8 +1,6 @@
 name: 🤖 Automated Issue - Hamster 🐹
 
 on:
-  pull_request_target:
-    types: ['opened', 'closed']
   pull_request:
     types: ['opened', 'closed']
   workflow_dispatch:
@@ -51,6 +49,6 @@ jobs:
           title: |
             ${{ github.workflow }} - ${{ github.head_ref }}
           assignees: TheHamsterBot
-          labels: automated,hamster
+          labels: hamster
           body: |
             ${{ env.MARKDOWN_CONTENT }}

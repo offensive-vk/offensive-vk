@@ -1,51 +1,114 @@
 # ** DO NOT MODIFY **
-ci/cd:
-  - '.devcontainer/*'
-  - '*.yml'
-  - '.github/workflows/*.yml'
-  - 'Dockerfile'
-  - 'compose.yaml'
+pnpm:
+  match:
+    - 'pnpm-lock.yaml'
+    - 'pnpm-workspace.yaml'
+    - '.pnpm-debug.log'
+    - '.pnpm'
+  description: 'Related to pnpm.'
+gitlab.com:
+  match:
+    - '.gitlab/**/*'
+    - '.gitlab-ci.yml'
+  description: 'Relating to gitlab workspace'
 
-template:
-  - '.github/Auto_Pull_Request.md'
-  - '.github/Auto_Issue_Template.md'
-
-dotfiles:
-  - '.gitlab-ci.yml'
-  - '.yaml-lint.yml'
-  - '.mailmap'
-  - '.prettierrc.json'
-  - '.prettierignore'
-  - '.gitignore'
-  - '.gitattributes'
-  - '.dockerignore'
-  - 'Dockerfile'
-  - 'LICENSE'
-  - 'package.json'
-  - 'pnpm-lock.yaml'
-  - '*/**.json'
+github.com:
+  match:
+    - '.github/**/*'
+  description: 'Relating to github workspace'
 
 markdown:
-  - '**/*.md'
-  - '**.md'
+  match:
+    - 'markdown'
+    - '**/*.md'
+  description: ''
 
 devcontainer:
-  - '.devcontainer/**/*'
+  match:
+    - '.devcontainer/*'
+  description: 'Devcontainer Configuration'
 
 secrets:
-  - '**/*.mp3'
-  - '**/*.txt'
+  match:
+    - '**/*.mp3'
+    - '**/*.txt'
+    - '.github/secrets.json'
+  description: ''
+
+shell:
+  match:
+    - '**/*.sh'
+  description: 'Relating to Shell Scripts'
+
+ci/cd:
+  match:
+    - '**/*.yml'
+    - '.github/**/*.yml'
+  description: ''
+
+template:
+  match:
+    - '.github/Auto_Pull_Request.md'
+    - '.github/Auto_Issue_Template.md'
+    - '.github/ISSUE_TEMPLATE.md'
+    - '.github/PULL_REQUEST_TEMPLATE.md'
+  description: ''
+
+dotfiles:
+  match:
+    - '.gitlab-ci.yml'
+    - '.yaml-lint.yml'
+    - '.mailmap'
+    - '.languages'
+    - '.node-version'
+    - '.pnpm'
+    - '.prettierrc.json'
+    - '.prettierignore'
+    - '.gitignore'
+    - '.gitattributes'
+    - '.dockerignore'
+    - '.markdownlint.json'
+  description: 'Dotfiles only'
 
 docker:
-  - 'Dockerfile'
-  - 'compose.yaml'
+  match:
+    - 'Dockerfile'
+    - 'compose.yaml'
+  description: 'Relates to docker'
 
 profile:
-  - 'README.md'
-  - 'README.ar.md'
-  - 'README.de.md'
-  - 'README.fr.md'
-  - 'README.es.md'
-  - 'README.ru.md'
-  - 'README.zh-CN.md'
+  match:
+    - 'README.md'
+    - 'README.ar.md'
+    - 'README.de.md'
+    - 'README.fr.md'
+    - 'README.es.md'
+    - 'README.ru.md'
+    - 'README.zh-CN.md'
+  description: 'Related to Readme'
+
+workflow:
+  match:
+    - '**/*.yml'
+    - '**/*.yaml'
+    - '.github/workflows/*.yml'
+  description: ''
+
+assets:
+  match:
+    - '**/*.svg'
+    - '**/*.png'
+    - '**/*.jpg'
+    - '**/*.jpeg'
+    - '**/*.gif'
+    - '**/*.webp'
+    - '**/*.ico'
+    - '**/*.zip'
+    - '**/*.tar.gz'
+    - '**/*.tgz'
+    - '**/*.gz'
+    - '**/*.rar'
+    - '**/*.pdf'
+    - '**/*.exe'
+  description: 'Static files in the repo.'
 # ** DO NOT MODIFY **
