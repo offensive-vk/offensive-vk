@@ -13,31 +13,31 @@ jobs:
     name: Review
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout the repository
-      uses: actions/checkout@v4
+      - name: Checkout the repository
+        uses: actions/checkout@v4
 
-    - name: Install GitHub CLI
-      run: |
-        sudo apt-get install gh -y
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-get install gh -y
 
-    - name: Submit Approval Review
-      env:
-        GH_TOKEN: ${{ github.token }}
-      run: |
-        pr_url="${{ github.event.pull_request.url }}"
-        pr_number="${{ github.event.pull_request.number }}"
-        review_body=" 
-        🎉 Great work on the Pull Request! 🚀
+      - name: Submit Approval Review
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          pr_url="${{ github.event.pull_request.url }}"
+          pr_number="${{ github.event.pull_request.number }}"
+          review_body=" 
+          🎉 Great work on the Pull Request! 🚀
 
-        Please ensure that this pull request should have:
-        
-        - 🤖 [This]($pr_url) PR has recieved the approving review from [github-actions[bot]](https://github.com/features/actions)  
-        - 🧪 The [CI](https://github.com/offensive-vk/offensive-vk/pulls/$pr_number/checks) checks pass ✅
-        - 📜 You have read and followed the [contribution guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) to ensure a smooth merge 🔧
-        - ⚡ One approval from the final [boss](https://github.com/offensive-vk) 🫅🏻
+          Please ensure that this pull request should have:
 
-        However, this is not a final review for this pull request. Kindly wait for a maintainer's approval.
-        Keep up the awesome work and thank you for your contributions! Let's keep writing amazing workflows together! 💪✨"
+          - 🤖 [This]($pr_url) PR has recieved the approving review from [github-actions[bot]](https://github.com/features/actions)  
+          - 🧪 The [CI](https://github.com/offensive-vk/offensive-vk/pulls/$pr_number/checks) checks pass ✅
+          - 📜 You have read and followed the [contribution guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) to ensure a smooth merge 🔧
+          - ⚡ One approval from the final [boss](https://github.com/offensive-vk) 🫅🏻
 
-        gh pr review "$pr_number" --approve --body "$review_body"
-        gh pr edit "$pr_number" --add-label "approved"
+          However, this is not a final review for this pull request. Kindly wait for a maintainer's approval.
+          Keep up the awesome work and thank you for your contributions! Let's keep writing amazing workflows together! 💪✨"
+
+          gh pr review "$pr_number" --approve --body "$review_body"
+          gh pr edit "$pr_number" --add-label "approved"

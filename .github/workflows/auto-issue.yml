@@ -1,8 +1,6 @@
 name: 🤖 Automated Issue - Hamster 🐹
 
 on:
-  pull_request_target:
-    types: ['opened', 'closed']
   pull_request:
     types: ['opened', 'closed']
   workflow_dispatch:
@@ -11,7 +9,9 @@ jobs:
   create_issue:
     name: Create Issue
     runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request' && github.event.pull_request.state == 'open'
+    if:
+      github.event_name == 'pull_request' && github.event.pull_request.state ==
+      'open'
     steps:
       - uses: actions/checkout@v4
       - name: Generate Issue Template
@@ -41,7 +41,7 @@ jobs:
           echo "MARKDOWN_CONTENT<<EOF" >> $GITHUB_ENV
           echo "$markdown" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
-          
+
       - name: Create Dynamic Issue
         uses: offensive-vk/auto-issue@master
         with:
@@ -49,6 +49,6 @@ jobs:
           title: |
             ${{ github.workflow }} - ${{ github.head_ref }}
           assignees: TheHamsterBot
-          labels: automated,hamster
+          labels: hamster
           body: |
             ${{ env.MARKDOWN_CONTENT }}

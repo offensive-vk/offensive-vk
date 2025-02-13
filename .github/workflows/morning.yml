@@ -31,7 +31,7 @@ jobs:
           echo "💾 Disk Usage:"; df -T | lolcat >> $GITHUB_STEP_SUMMARY
 
   greetings:
-    name: 🌞 Morning Greetings 
+    name: 🌞 Morning Greetings
     runs-on: macos-latest
     timeout-minutes: 5
     steps:
@@ -60,7 +60,7 @@ jobs:
           🚀 Keep learning, keep improving.  
           🧑‍💻 Every commit takes you closer to greatness!  
           ```
-          
+
           ✨ *Have a Fantastic Day!* ✨  
           EOF
 

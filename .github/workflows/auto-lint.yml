@@ -21,7 +21,6 @@ jobs:
       fail-fast: false
     steps:
       - name: Checkout
-        id: checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -31,11 +30,60 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Setup pnpm@v9
+      - name: Setup PNPM v10
         uses: pnpm/action-setup@v4
         with:
-          version: 9.0.0
+          version: 10.0.0
 
-      - name: Run Auto Linter
+      - name: Auto Linter
         run: |
           pnpm run fix
+
+      - name: Import GPG Key
+        id: gpg
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_config_global: true
+          trust_level: 5
+
+      - name: Verify GPG Key
+        run: |
+          gpg --list-secret-keys --keyid-format LONG
+          git config --global --list
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          delete-branch: true
+          token: ${{ secrets.BOT_TOKEN }}
+          committer: 'Hamster [bot] <TheHamsterBot@outlook.com>'
+          author: 'Hamster [bot] <TheHamsterBot@outlook.com>'
+          branch: 'upload-linter-fixes'
+          base: 'master'
+          labels: |
+            hamster
+            linter
+            pull-request
+          reviewers: offensive-vk
+          commit-message: 'Upload Linting Changes.'
+          title: '🐹 Upload Linting Changes - Hamster'
+          body: |
+            ## Updated all Files to Latest Prettier Style.
+
+            > [!IMPORTANT]
+            > This PR Brings the Linter Changes
+            >
+            > Commit: ${{ github.sha }}
+            > Workflow Name: ${{ github.workflow }}
+            > Workflow Path: ${{ github.workflow_ref }}
+
+            Please Check the Changes Below and merge asap.
+
+            ---
+
+            Thanks.
+            Your Hamster 🐹 <code>PF78VAPPKLZ2</code>

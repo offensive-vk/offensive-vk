@@ -75,7 +75,6 @@ celebrate:
     - play -n synth 0.5 sin 880
   only:
     - schedule
-
 #####################################################
 # All Rights Reserved. 2020 - Present. (offensive-vk)
 #####################################################

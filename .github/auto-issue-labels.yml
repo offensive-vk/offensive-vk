@@ -1,71 +1,58 @@
-ci/cd:
-  - 'ci/cd'
-  - 'pipeline'
-  - 'workflow'
-  - '.yml'
-  - 'dockerfile'
-  - '*.yml'
-  - '.github/workflows/*.yml'
-  - 'dockerfile'
-  - 'compose.yaml'
+gitlab:
+  match:
+    - '.gitlab'
+    - '.gitlab-ci.yml'
+  description: 'Relating to gitlab'
 
-template:
-  - '.github/Auto_Pull_Request.md'
-  - '.github/Auto_Issue_Template.md'
-  - '.github/ISSUE_TEMPLATE.md'
-  - '.github/PULL_REQUEST_TEMPLATE.md'
+github:
+  match:
+    - '.github'
+  description: 'Relating to github'
+
+ci/cd:
+  match:
+    - 'ci/cd'
+    - 'pipeline'
+    - 'workflow'
+    - 'dockerfile'
+    - 'compose.yaml'
+  description: ''
+
+feat:
+  match:
+    - 'feat'
+    - 'feature'
+    - 'features'
+    - 'enhancement'
+  description: 'Feature or enhancement'
 
 dotfiles:
-  - '.gitlab-ci.yml'
-  - '.gitignore'
-  - '.gitattributes'
-  - '.dockerignore'
-  - 'dockerfile'
-  - 'license'
-  - 'package.json'
-  - 'pnpm-lock.yaml'
-
-markdown:
-  - 'markdown'
-  - '**/*.md'
-  - './**/*'
-
-devcontainer:
-  - '.devcontainer/*'
-  - '*.json'
-
-secrets:
-  - '**/*.mp3'
-  - '**/*.txt'
-
-enhancement:
-  - 'feature'
-  - 'improve'
+  match:
+    - '.gitlab-ci.yml'
+    - '.gitignore'
+    - '.gitattributes'
+    - '.dockerignore'
+  description: ''
 
 question:
-  - '?'
-  - 'question'
-  - 'please'
-  - 'help'
+  match:
+    - '?'
+    - 'question'
+    - 'please help'
+    - 'help'
+  description: ''
 
 schedule:
-  - 'schedule'
-  - 'daily'
-  - 'hamster'
-  - 'ci'
-  - 'cd'
+  match:
+    - 'schedule'
+    - 'daily'
+    - 'ci'
+    - 'cd'
+  description: ''
 
 boss:
-  - 'boss'
-  - 'admin'
-  - 'final-boss'
-
-workflow:
-  - 'yaml'
-  - 'yml'
-  - 'config'
-  - 'yaml/**/*'
-  - '**/*.yml'
-  - '**/*.yaml'
-  - '.github/*.yml'
-  - '.github/workflows/*.yml'
+  match:
+    - 'boss'
+    - 'admin'
+    - 'final-boss'
+  description: ''

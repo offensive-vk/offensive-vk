@@ -58,7 +58,7 @@ jobs:
           total=$(jq '. | length' workflows.json)
           running=$(jq '[.[] | select(.state == "in_progress")] | length' workflows.json)
           successful=$(jq '[.[] | select(.state == "completed")] | length' workflows.json)
-          
+
           echo "total_workflows=$total" >> $GITHUB_ENV
           echo "running_workflows=$running" >> $GITHUB_ENV
           echo "successful_workflows=$successful" >> $GITHUB_ENV
@@ -105,7 +105,9 @@ jobs:
         uses: peter-evans/create-or-update-comment@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          issue-number: ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number || 27614 }}
+          issue-number:
+            ${{ github.event.inputs.number || github.event.pull_request.number
+            || github.event.issue.number || 27614 }}
           body: |
             > [!TIP]
             > **Issue/PR Number:** ${{ github.event.pull_request.number || github.event.issue.number }}

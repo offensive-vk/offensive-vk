@@ -1,0 +1,41 @@
+name: ✌️ Auto React to New Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  react_to_release:
+    runs-on: ubuntu-latest
+    name: React to Release
+    steps:
+      - name: Extract Release ID
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          RELEASE_ID=$(gh release view "${{ github.event.release.tag_name }}" --json id -q ".id")
+          echo "RELEASE_ID=$RELEASE_ID" >> $GITHUB_ENV
+
+      - name: React to Release
+        env:
+          USER1_PAT: ${{ secrets.BOT_TOKEN }}
+          USER2_PAT: ${{ secrets.GITHUB_TOKEN }}
+          USER3_PAT: ${{ secrets.CLASSIC_TOKEN }}
+        run: |
+          react() {
+            USER_TOKEN=$1
+            EMOJI=$2
+            curl -s -X POST https://api.github.com/repos/${{ github.repository }}/releases/${{ env.RELEASE_ID }}/reactions \
+              -H "Accept: application/vnd.github+json" \
+              -H "Authorization: token $USER_TOKEN" \
+              -d "{\"content\":\"$EMOJI\"}"
+          }
+
+          # React with different users' PATs
+          react "$USER1_PAT" "rocket"
+          react "$USER2_PAT" "heart"
+          react "$USER3_PAT" "hooray"
+
+      - name: Log Success
+        run: |
+          echo "Successfully reacted to release: ${{ github.event.release.tag_name }}"
