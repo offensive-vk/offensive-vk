@@ -5,7 +5,7 @@ on:
     inputs:
       number:
         type: number
-        description: "The PR or Issue Number"
+        description: 'The PR or Issue Number'
         required: true
   issues:
     types: [opened]
@@ -27,13 +27,13 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
           issue-message: |
             🙌 Thank you for taking the time to file an issue here. 
-            
+
             If this is a bug report, please include any relevant logs or details that can help us debug the problem. Your help is greatly appreciated! 💡
 
             We'll get back to you as soon as possible, kindly be patient for a response from a maintainer.
           pr-message: |
             🎉 Warm regards and welcome! Thank you for your first ever contribution! 
-            
+
             We appreciate your effort and enthusiasm. Before diving in, we kindly ask you to take a moment to go through our [Contribution Guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) 📘 to ensure your contribution aligns with the project's goals. 
 
             If you are fixing a bug, please reference the associated issue number in your pull request description. 🐛

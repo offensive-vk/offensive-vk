@@ -2,7 +2,7 @@ name: ⚠️ Report Workflow Failures
 
 on:
   workflow_run:
-    workflows: 
+    workflows:
       - '**'
     types: [completed]
   workflow_dispatch:
@@ -18,7 +18,9 @@ jobs:
     steps:
       - name: Check if actor is the repository owner
         if: ${{ github.actor != github.repository_owner }}
-        run: echo "Actor is not the repository owner, proceeding with the workflow."
+        run:
+          echo "Actor is not the repository owner, proceeding with the
+          workflow."
 
       - name: Get Failed Jobs
         id: get-failed-jobs
@@ -34,7 +36,7 @@ jobs:
           fi
 
           failed_jobs=$(echo "$response" | jq -r '[.[] | select(.conclusion == "failure") | {name: .name, url: .html_url}]')
-          
+
           if [ "$failed_jobs" == "[]" ]; then
             echo "No failed jobs detected."
             exit 0
@@ -46,7 +48,8 @@ jobs:
           echo "workflow_url=https://github.com/$repo/actions/runs/$run_id" >> $GITHUB_ENV
 
       - name: Create Issue for Failed Jobs
-        if: env.failed_jobs_list != '' && github.actor != github.repository_owner
+        if:
+          env.failed_jobs_list != '' && github.actor != github.repository_owner
         uses: offensive-vk/auto-issue@v7
         with:
           github-token: ${{ secrets.BOT_TOKEN }}

@@ -11,7 +11,9 @@ jobs:
   create_issue:
     name: Create Issue
     runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request' && github.event.pull_request.state == 'open'
+    if:
+      github.event_name == 'pull_request' && github.event.pull_request.state ==
+      'open'
     steps:
       - uses: actions/checkout@v4
       - name: Generate Issue Template
@@ -41,7 +43,7 @@ jobs:
           echo "MARKDOWN_CONTENT<<EOF" >> $GITHUB_ENV
           echo "$markdown" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
-          
+
       - name: Create Dynamic Issue
         uses: offensive-vk/auto-issue@master
         with:

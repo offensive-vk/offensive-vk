@@ -2,7 +2,7 @@ name: 📦 Automated Monthly Release
 
 on:
   schedule:
-    - cron: "0 0 28 * *"  
+    - cron: '0 0 28 * *'
   workflow_dispatch:
 
 jobs:
@@ -47,7 +47,6 @@ jobs:
             cat release_notes.txt
             echo "EOF"
           } >> $GITHUB_ENV
-
 
       - name: Upload Release Notes as Artifact
         uses: actions/upload-artifact@v4

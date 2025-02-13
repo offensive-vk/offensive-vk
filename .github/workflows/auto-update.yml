@@ -69,7 +69,7 @@ jobs:
             > Commit: ${{ github.sha }}
             > Workflow Name: ${{ github.workflow }}
             > Workflow Path: ${{ github.workflow_ref }}
-            
+
             Please Check the Dependency Updates Below and merge if necessary.
 
             ---

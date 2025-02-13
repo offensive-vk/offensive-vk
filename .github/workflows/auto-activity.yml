@@ -17,10 +17,10 @@ jobs:
       - name: Add Activity to File
         uses: offensive-vk/auto-user-activity@master
         with:
-          username: "offensive-vk"
+          username: 'offensive-vk'
           token: ${{ secrets.CLASSIC_TOKEN || secrets.BOT_TOKEN }}
-          committer: "Hamster [bot]"
-          committer-email: "TheHamsterBot@outlook.com"
+          committer: 'Hamster [bot]'
+          committer-email: 'TheHamsterBot@outlook.com'
           commit-msg: '🚀 Updated User Activity v2.'
           max-lines: '150'
           target-file: 'ACTIVITY.md'

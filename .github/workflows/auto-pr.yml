@@ -19,7 +19,9 @@ jobs:
   create_pr:
     name: Create Pull Request
     runs-on: ubuntu-latest
-    if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
+    if:
+      ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name !=
+      'dependabot[bot]' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -29,8 +31,7 @@ jobs:
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
           destination_branch: 'master'
-          title:
-            '🐹 Hamster - (${{ github.event.head_commit.message }})'
+          title: '🐹 Hamster - (${{ github.event.head_commit.message }})'
           body: 'Please Wait.... Hamster is working really hard here.'
           reviewers: 'offensive-vk'
           labels: 'hamster,pull-request'
@@ -40,11 +41,14 @@ jobs:
 
       - name: Save PR Number in ENV
         run:
-          echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >> $GITHUB_ENV;
+          echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >>
+          $GITHUB_ENV;
   update_pr:
     name: Update PR Comment
     needs: [create_pr]
-    if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
+    if:
+      ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name !=
+      'dependabot[bot]' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
