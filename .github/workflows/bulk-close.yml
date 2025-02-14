@@ -26,8 +26,8 @@ jobs:
         run: |
           for ((i=${{ github.event.inputs.issue_count_begin }}; i<=${{ github.event.inputs.issue_count_end }}; i++)); do
             sleep 2
-            gh issue close $i --reason completed || echo "Failed to close issue #$i"
-            echo "Issue #$i closed."
+            gh issue delete $i --yes || echo "Failed to close issue #$i"
+            echo "Issue #$i deleted."
           done
         env:
           GH_TOKEN: ${{ secrets.MY_TOKEN || secrets.GITHUB_TOKEN }}
