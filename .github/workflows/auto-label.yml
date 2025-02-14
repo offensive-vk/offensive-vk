@@ -25,7 +25,7 @@ jobs:
           debug: true
           create-labels: true
           auth-token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN || github.token }}
-          issue-config: '.github/issue-labels.yml'
+          issue-config: '.github/auto-issue-labels.yml'
           
   label_pull_requests:
     runs-on: ubuntu-latest
@@ -44,7 +44,7 @@ jobs:
           debug: true
           create-labels: true
           auth-token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN || github.token }}
-          issue-config: '.github/pr-labels.yml'
+          issue-config: '.github/auto-pr-labels.yml'
 
   finish_cleanup:
     runs-on: ubuntu-latest
