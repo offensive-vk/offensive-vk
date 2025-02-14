@@ -3,14 +3,14 @@ name: ✅ Automated Linter
 on:
   push:
     branches-ignore: ['master']
-    paths-ignore: ['**/*.md', '*.md', '**/*.svg']
+    paths-ignore: ['**/*.md', '**/*.svg']
   pull_request:
     branches: ['master']
-    paths-ignore: ['**/*.md', '*.md', '**/*.svg']
+    paths-ignore: ['**/*.md', '**/*.svg']
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   packages: read
 
 jobs:
@@ -62,12 +62,11 @@ jobs:
           token: ${{ secrets.BOT_TOKEN }}
           committer: 'Hamster [bot] <TheHamsterBot@outlook.com>'
           author: 'Hamster [bot] <TheHamsterBot@outlook.com>'
-          branch: 'upload-linter-fixes'
+          branch: 'upload-linter-fixes-${{ github.sha }}'
           base: 'master'
           labels: |
             hamster
             linter
-            pull-request
           reviewers: offensive-vk
           commit-message: 'Upload Linting Changes.'
           title: '🐹 Upload Linting Changes - Hamster'

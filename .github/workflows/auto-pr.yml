@@ -13,6 +13,8 @@ on:
       - '**-2024'
       - '**-2025'
       - 'release-**'
+      - 'upload-linter-fixes-**'
+      - 'linter-fixes-**'
   workflow_dispatch:
 
 jobs:
