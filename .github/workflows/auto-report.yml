@@ -18,9 +18,8 @@ jobs:
     steps:
       - name: Check if actor is the repository owner
         if: ${{ github.actor != github.repository_owner }}
-        run:
-          echo "Actor is not the repository owner, proceeding with the
-          workflow."
+        run: |
+          echo "Actor is not the repository owner, proceeding with the workflow."
 
       - name: Get Failed Jobs
         id: get-failed-jobs
@@ -66,7 +65,7 @@ jobs:
 
             ## **Failure Details:**
             - **Workflow Path**: ${{ github.workflow_ref }}
-            - **Workflow Run**: [View Workflow](${{ env.workflow_url }})
+            - **Workflow Run**: ${{ env.workflow_url }}
             - **Conclusion**: `${{ github.event.workflow_run.conclusion }}`
             - **Status Message**: `${{ github.event.workflow_run.status || 'N/A' }}`
 
