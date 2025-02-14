@@ -21,20 +21,21 @@ jobs:
           sudo apt-get install gh -y
 
       - name: Submit Approval Review
+        if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           pr_url="${{ github.event.pull_request.url }}"
           pr_number="${{ github.event.pull_request.number }}"
           review_body=" 
-          🎉 Great work on the Pull Request! 🚀
+          Voila ! 🎉 Great work on the Pull Request! 🚀
 
           Please ensure that this pull request should have:
 
-          - 🤖 [This]($pr_url) PR has recieved the approving review from [github-actions[bot]](https://github.com/features/actions)  
+          - 🤖 [This]($pr_url) PR has recieved the approving review from [github-actions[bot]](https://github.com/features/actions) ⚡
           - 🧪 The [CI](https://github.com/offensive-vk/offensive-vk/pulls/$pr_number/checks) checks pass ✅
           - 📜 You have read and followed the [contribution guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) to ensure a smooth merge 🔧
-          - ⚡ One approval from the final [boss](https://github.com/offensive-vk) 🫅🏻
+          - ⚡ One approval from the *one* and _only_ final [boss](https://github.com/offensive-vk) 🫅🏻
 
           However, this is not a final review for this pull request. Kindly wait for a maintainer's approval.
           Keep up the awesome work and thank you for your contributions! Let's keep writing amazing workflows together! 💪✨"
