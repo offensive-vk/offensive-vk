@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝无论您使用Mozilla，Chrome Explore，请知道Mosaic是我出生时的第一个浏览器。</i>
+<i>❝“我不知道2000年的语言是什么样的，但我知道它会被称为fortran。”  -  Ca Hoare，1982年❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
