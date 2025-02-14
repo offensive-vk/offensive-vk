@@ -22,13 +22,13 @@ jobs:
           sudo apt-get install gh -y
 
       - uses: actions/checkout@v4
-      - name: Create Issues
+      - name: Delete Issues
         run: |
-          for i in $(seq ${{ github.event.inputs.issue_count_begin }} ${{ github.event.inputs.issue_count_end }}); do
-            sleep 3
-            gh issue delete $i --yes
+          for ((i=${{ github.event.inputs.issue_count_begin }}; i<=${{ github.event.inputs.issue_count_end }}; i++)); do
+            sleep 2
+            gh issue close $i --reason completed || echo "Failed to close issue #$i"
             echo "Issue #$i closed."
           done
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN || secrets.GITHUB_TOKEN }}
