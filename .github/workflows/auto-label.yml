@@ -44,7 +44,7 @@ jobs:
           debug: true
           create-labels: true
           auth-token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN || github.token }}
-          issue-config: '.github/auto-pr-labels.yml'
+          pr-config: '.github/auto-pr-labels.yml'
 
   finish_cleanup:
     runs-on: ubuntu-latest
