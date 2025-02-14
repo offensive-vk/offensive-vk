@@ -62,7 +62,7 @@ jobs:
           token: ${{ secrets.BOT_TOKEN }}
           committer: 'Hamster [bot] <TheHamsterBot@outlook.com>'
           author: 'Hamster [bot] <TheHamsterBot@outlook.com>'
-          branch: 'upload-linter-fixes'
+          branch: 'upload-linter-fixes-${{ github.sha }}'
           base: 'master'
           labels: |
             hamster
