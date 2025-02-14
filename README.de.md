@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Wenn Sie Mozilla, Chrome Explore verwenden, wissen Sie bitte, dass Mosaic der erste Browser war, als ich geboren wurde. ❞</i>
+<i>❝ "Ich weiß nicht, wie die Sprache des Jahres 2000 aussehen wird, aber ich weiß, dass es Forstran genannt wird." - Ca Hoare, 1982 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
