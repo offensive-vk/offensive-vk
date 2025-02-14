@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Como las computadoras se ejecutan, se calientan. Las computadoras tienen ventiladores para mantenerlos frescos.</i>
+<i>❝ "No sé cómo será el idioma del año 2000, pero sé que se llamará Fortran". - Ca Hoare, 1982 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❗ Problema abierto[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🎉 PR fusionado[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  💪 ABIERTO PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-4.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-5.  🎉 PR fusionado[#34](https://github.com/offensive-vk/auto-label/pull/34)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-6.  💪 ABIERTO PR[#34](https://github.com/offensive-vk/auto-label/pull/34)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-7.  ❌ Cerrado PR[#33](https://github.com/offensive-vk/auto-label/pull/33)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-8.  💪 ABIERTO PR[#33](https://github.com/offensive-vk/auto-label/pull/33)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-9.  ❗ Problema abierto[#32](https://github.com/offensive-vk/auto-label/issues/32)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-10. ❌ Cerrado PR[#31](https://github.com/offensive-vk/auto-label/pull/31)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-11. ❗ Problema abierto[#30](https://github.com/offensive-vk/auto-label/issues/30)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-12. 🎉 PR fusionado[#29](https://github.com/offensive-vk/auto-label/pull/29)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-13. 💪 ABIERTO PR[#29](https://github.com/offensive-vk/auto-label/pull/29)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-14. 🎉 PR fusionado[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-15. 💪 ABIERTO PR[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+1.  🎉 PR fusionado[#36](https://github.com/offensive-vk/Actionshub/pull/36)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
+2.  💪 ABIERTO PR[#37](https://github.com/offensive-vk/Actionshub/pull/37)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
+3.  💪 ABIERTO PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
+4.  ❗ Problema abierto[#35](https://github.com/offensive-vk/Actionshub/issues/35)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
+5.  🎉 PR fusionado[#35](https://github.com/offensive-vk/auto-label/pull/35)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+6.  🎉 PR fusionado[#44](https://github.com/offensive-vk/auto-issue/pull/44)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
+7.  🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-user-activity/pull/10)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
+8.  🎉 PR fusionado[#6](https://github.com/offensive-vk/auto-contributions/pull/6)en[ofensivo-vk/auto-contribución](https://github.com/offensive-vk/auto-contributions)
+9.  🎉 PR fusionado[#312](https://github.com/offensive-vk/UntilEverything/pull/312)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 PR fusionado[#10034](https://github.com/offensive-vk/Classics/pull/10034)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+11. 🎉 PR fusionado[#28206](https://github.com/offensive-vk/offensive-vk/pull/28206)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+12. 🎉 PR fusionado[#29](https://github.com/offensive-vk/develop-actions/pull/29)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+13. ❗ Problema abierto[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉 PR fusionado[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪 ABIERTO PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
