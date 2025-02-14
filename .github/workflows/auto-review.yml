@@ -21,6 +21,9 @@ jobs:
           sudo apt-get install gh -y
 
       - name: Submit Approval Review
+        if:
+          ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name !=
+          'dependabot[bot]' }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
