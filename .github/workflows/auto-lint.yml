@@ -35,10 +35,6 @@ jobs:
         with:
           version: 10.0.0
 
-      - name: Auto Linter
-        run: |
-          pnpm run fix
-
       - name: Import GPG Key
         id: gpg
         uses: crazy-max/ghaction-import-gpg@v6
@@ -55,21 +51,31 @@ jobs:
           gpg --list-secret-keys --keyid-format LONG
           git config --global --list
 
+      - name: Auto Linter
+        run: |
+          pnpm run fix
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.name "Hamster [bot]"
+          git config --local user.email "TheHamsterBot@outlook.com"
+          git add .
+          git commit -m "Upload Linter Fixes"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
+
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
+        uses: offensive-vk/auto-pr-action@v7
         with:
-          delete-branch: true
-          token: ${{ secrets.BOT_TOKEN }}
-          committer: 'Hamster [bot] <TheHamsterBot@outlook.com>'
-          author: 'Hamster [bot] <TheHamsterBot@outlook.com>'
-          branch: 'upload-linter-fixes-${{ github.sha }}'
-          base: 'master'
-          labels: |
-            hamster
-            linter
-          reviewers: offensive-vk
-          commit-message: 'Upload Linting Changes.'
+          repo-token: ${{ secrets.BOT_TOKEN }}
+          destination_branch: 'master'
           title: '🐹 Upload Linting Changes - Hamster'
+          reviewers: 'offensive-vk'
+          labels: 'hamster,linter'
+          assignees: 'TheHamsterBot'
+          draft: false
+          debug: true
           body: |
             ## Updated all Files to Latest Prettier Style.
 
@@ -79,6 +85,7 @@ jobs:
             > Commit: ${{ github.sha }}
             > Workflow Name: ${{ github.workflow }}
             > Workflow Path: ${{ github.workflow_ref }}
+            > Branch: ${{ github.ref_name }}
 
             Please Check the Changes Below and merge asap.
 
