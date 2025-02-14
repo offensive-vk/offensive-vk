@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Si vous utilisez Mozilla, Chrome Explore, sachez que Mosaic a été le premier navigateur juste au moment où je suis né.</i>
+<i>❝ «Je ne sais pas à quoi ressemblera la langue de l'an 2000, mais je sais que cela s'appellera Fortran.» - CA Hoare, 1982 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
