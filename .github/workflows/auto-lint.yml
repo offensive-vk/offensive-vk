@@ -53,6 +53,7 @@ jobs:
           pnpm run fix
 
       - name: Commit & Push Changes
+        continue-on-error: true
         run: |
           git config --local user.name "Hamster [bot]"
           git config --local user.email "TheHamsterBot@outlook.com"
@@ -65,6 +66,7 @@ jobs:
 
       - name: Create Pull Request
         uses: offensive-vk/auto-pr-action@v7
+        continue-on-error: true
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
           destination_branch: 'master'
