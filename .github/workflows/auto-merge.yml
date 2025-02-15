@@ -9,6 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Auto Merge
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
       - name: Check if review was approved by Boss
         id: check_approval
         run: |
@@ -24,6 +27,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          sudo apt-get update; sudo apt-get install gh -y
           gh pr edit ${{ env.PR_NUMBER }} --add-label "reviewed"
           sleep 360
 
