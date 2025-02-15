@@ -106,8 +106,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number:
-            ${{ github.event.inputs.number || github.event.pull_request.number
-            || github.event.issue.number || 27614 }}
+            ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number || 27614 }}
           body: |
             > [!TIP]
             > **Issue/PR Number:** ${{ github.event.pull_request.number || github.event.issue.number }}
@@ -117,10 +116,6 @@ jobs:
             ### 👌 Workflows Summary for PR
 
             ${{ env.issue_workflows_summary || 'No workflows found for this issue/PR.' }}
-
-            ### 🔄 General Workflows Status (wip)
-
-            ${{ env.workflows_summary || 'No active workflows found.' }}
 
             Thanks  
             Your Hamster 🐹 <code>PF78VAPPKLZ2</code>

@@ -6,8 +6,7 @@ on:
     paths-ignore:
       - '*/**.svg'
       - '*/**.md'
-      - '**.md'
-      - '**.svg'
+      - '*/**.gif'
     branches:
       - 'master'
 
@@ -109,3 +108,13 @@ jobs:
         run: |
           sudo ctr image pull ghcr.io/offensive-vk/offensive-vk:latest
           sudo ctr containers list
+
+  success:
+    name: Log Sucess
+    needs: [containerd-build, containerd-build]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Log Success
+        if: success()
+        run: |
+          echo "All Build Jobs were Successful."

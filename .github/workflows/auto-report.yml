@@ -60,10 +60,12 @@ jobs:
             > [!CAUTION]  
             > The workflow **${{ github.event.workflow_run.name }}** (ID: ${{ github.event.workflow_run.id }}) encountered failed jobs.
 
-            ## **Failed Jobs:**  
+            ## **Failed Jobs:**
+            
             ${{ env.failed_jobs_list }}
 
             ## **Failure Details:**
+
             - **Workflow Path**: ${{ github.workflow_ref }}
             - **Workflow Run**: ${{ env.workflow_url }}
             - **Conclusion**: `${{ github.event.workflow_run.conclusion }}`

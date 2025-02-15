@@ -6,7 +6,7 @@
   "bot": "https://github.com/TheHamsterBot",
   "url": "https://github.com/offensive-vk/offensive-vk",
   "scripts": {
-    "add-pnpx": "npx pnpm add @actions/exec @octokit/rest @octokit/core @octokit/types octokit markdownlint",
+    "add": "npx pnpm add @actions/exec @octokit/rest @octokit/core @octokit/types octokit markdownlint",
     "source": "git clone https://github.com/offensive-vk/offensive-vk.git",
     "dev": "sleep 5; echo 'Development Server Started...' ",
     "fix": "pnpx prettier --write . && pnpx prettier --check .",

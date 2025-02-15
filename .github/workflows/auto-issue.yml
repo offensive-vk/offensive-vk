@@ -28,6 +28,8 @@ jobs:
             - Pull Request Number: #${{ github.event.number }}
             - Pull Request Title: ${{ github.event.pull_request.title }}
 
+            *Issue Labels will be applied accordingly. As for now Sit back and relax !*
+
             ---
 
             Thanks.

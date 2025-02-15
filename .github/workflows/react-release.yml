@@ -1,4 +1,4 @@
-name: ✌️ Auto React to New Release
+name: ✌️ Automated React to Release
 
 on:
   workflow_dispatch:

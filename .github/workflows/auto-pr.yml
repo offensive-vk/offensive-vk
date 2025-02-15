@@ -6,9 +6,9 @@ on:
       - 'main'
       - 'master'
       - 'old'
-      - '**-2022'
       - 'Automation'
       - 'Best-Readme-Ever'
+      - '**-2022'
       - '**-2023'
       - '**-2024'
       - '**-2025'
@@ -27,8 +27,12 @@ jobs:
       github.actor != 'dependabot[bot]' && github.event.pusher.name !=
       'dependabot[bot]'
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
+      - name: Wait
+        run: sleep 120
+        
       - name: Create or Update Pull Request
         id: create-pr
         uses: offensive-vk/auto-pr-action@v7
@@ -47,7 +51,7 @@ jobs:
         run:
           echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >> $GITHUB_ENV;
   update_pr:
-    name: Update PR Comment
+    name: Update PR Body
     needs: [create_pr]
     if:
       github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]'
@@ -66,10 +70,12 @@ jobs:
 
           - Author: @TheHamsterBot
           - Branch: master (base) / ${{ github.ref_name }} (head)
-          - Commit: ${{ github.sha }}
+          - Commit: ${{ github.event.before }}
           - Workflow Path: ${{ github.workflow_ref }}
           - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
           - Most Recent Commit: [${{ github.event.head_commit.message }}](${{ github.sha }})
+
+          *Labels will be applied as per the label [config](https://github.com/offensive-vk/offensive-vk/blob/master/.github/auto-pr-labels.yml). As for now Sit back and let the [Hamster](https://github.com/TheHamsterBot) do the heavy lifting for you. !*
 
           ---
 
