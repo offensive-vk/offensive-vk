@@ -41,9 +41,15 @@ jobs:
           issue-number: ${{ github.event.pull_request.number }}
           comment-author: 'TheHamsterBot'
 
+      - name: Display Comment ID
+        if: ${{ github.event_name == 'pull_request' }}
+        run: |
+          echo "Comment ID: ${{ steps.find.outputs.comment-id }}"
+
       - name: Add Reaction to PR Comments
         if: ${{ github.event_name == 'pull_request' }}
         uses: peter-evans/create-or-update-comment@v4
+        continue-on-error: true
         with:
           comment-id: ${{ steps.find.outputs.comment-id }}
           reactions: rocket
