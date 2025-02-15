@@ -1,6 +1,13 @@
 name: ✌️ Auto React to New Release
 
 on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        type: string
+        required: true
+        description: 'Release Tag Name.'
+        default: '2025-01'
   release:
     types: [published]
 
@@ -13,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          RELEASE_ID=$(gh release view "${{ github.event.release.tag_name }}" --json id -q ".id")
+          RELEASE_ID=$(gh release view "${{ github.event.release.tag_name || github.event.inputs.tag }}" --json id -q ".id")
           echo "RELEASE_ID=$RELEASE_ID" >> $GITHUB_ENV
 
       - name: React to Release
@@ -31,7 +38,6 @@ jobs:
               -d "{\"content\":\"$EMOJI\"}"
           }
 
-          # React with different users' PATs
           react "$USER1_PAT" "rocket"
           react "$USER2_PAT" "heart"
           react "$USER3_PAT" "hooray"

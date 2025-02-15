@@ -61,7 +61,7 @@ jobs:
           ## This Pull Request Was Automated by [Hamster [bot]](https://github.com/TheHamsterBot) 🐹
 
           > [!TIP]
-          > Trigger: ${{ github.event_name }} event at ${{ github.event.ref }}
+          > Trigger: ${{ github.event_name }} event at ${{ github.event.ref }} ${{ github.ref_type }}
           > Details: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
           - Author: @TheHamsterBot
