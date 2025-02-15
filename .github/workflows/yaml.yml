@@ -1,0 +1,16 @@
+name: 🔏 YAML Verification
+
+on:
+  pull_request:
+    branches: [master]
+
+jobs:
+  yaml:
+    runs-on: ubuntu-latest
+    name: YAML Job
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Backup Files
+        run: echo "work in progress. (something cool idk)"
