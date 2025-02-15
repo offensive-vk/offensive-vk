@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "No sé cómo será el idioma del año 2000, pero sé que se llamará Fortran". - Ca Hoare, 1982 ❞</i>
+<i>❝ "La programación de bajo nivel es buena para el alma del programador".-John Carmack ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#36](https://github.com/offensive-vk/Actionshub/pull/36)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
-2.  💪 ABIERTO PR[#37](https://github.com/offensive-vk/Actionshub/pull/37)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
-3.  💪 ABIERTO PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
-4.  ❗ Problema abierto[#35](https://github.com/offensive-vk/Actionshub/issues/35)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
-5.  🎉 PR fusionado[#35](https://github.com/offensive-vk/auto-label/pull/35)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-6.  🎉 PR fusionado[#44](https://github.com/offensive-vk/auto-issue/pull/44)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
-7.  🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-user-activity/pull/10)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
-8.  🎉 PR fusionado[#6](https://github.com/offensive-vk/auto-contributions/pull/6)en[ofensivo-vk/auto-contribución](https://github.com/offensive-vk/auto-contributions)
-9.  🎉 PR fusionado[#312](https://github.com/offensive-vk/UntilEverything/pull/312)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 PR fusionado[#10034](https://github.com/offensive-vk/Classics/pull/10034)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-11. 🎉 PR fusionado[#28206](https://github.com/offensive-vk/offensive-vk/pull/28206)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 PR fusionado[#29](https://github.com/offensive-vk/develop-actions/pull/29)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-13. ❗ Problema abierto[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 PR fusionado[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-15. 💪 ABIERTO PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+1.  🎉 PR fusionado[#28249](https://github.com/offensive-vk/offensive-vk/pull/28249)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 PR fusionado[#28259](https://github.com/offensive-vk/offensive-vk/pull/28259)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 PR fusionado[#28243](https://github.com/offensive-vk/offensive-vk/pull/28243)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 PR fusionado[#28238](https://github.com/offensive-vk/offensive-vk/pull/28238)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 PR fusionado[#317](https://github.com/offensive-vk/UntilEverything/pull/317)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 PR fusionado[#36](https://github.com/offensive-vk/auto-label/pull/36)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+7.  💪 ABIERTO PR[#36](https://github.com/offensive-vk/auto-label/pull/36)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+8.  ❌ Cerrado PR[#316](https://github.com/offensive-vk/UntilEverything/pull/316)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionado[#314](https://github.com/offensive-vk/UntilEverything/pull/314)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 PR fusionado[#315](https://github.com/offensive-vk/UntilEverything/pull/315)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 PR fusionado[#309](https://github.com/offensive-vk/UntilEverything/pull/309)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 PR fusionado[#311](https://github.com/offensive-vk/UntilEverything/pull/311)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 PR fusionado[#36](https://github.com/offensive-vk/Actionshub/pull/36)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
+14. 💪 ABIERTO PR[#37](https://github.com/offensive-vk/Actionshub/pull/37)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
+15. 💪 ABIERTO PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
     <!--END_SECTION:activity-->
 
 </p>

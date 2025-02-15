@@ -14,19 +14,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Add Reaction to Issue or PR Comments
-        if:
-          github.event_name == 'issue_comment' || github.event_name ==
-          'pull_request_review_comment'
+        if: ${{ github.event_name == 'issue_comment' || github.event_name == 'pull_request_review_comment' }}
         uses: peter-evans/create-or-update-comment@v4
         with:
           comment-id: ${{ github.event.comment.id }}
           reactions: rocket
           token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
 
-      # - name: Add Reaction to Issues or PRs
-      #   if: github.event_name == 'issues' || github.event_name == 'pull_request'
-      #   uses: peter-evans/create-or-update-comment@v4
-      #   with:
-      #     issue-number: ${{ github.event.issue.number || github.event.pull_request.number }}
-      #     reactions: rocket
-      #     token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: Add Reaction to Newly Opened PR
+        if: ${{ github.event_name == 'pull_request' && github.event.action == 'opened' }}
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          reactions: rocket
+          token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
