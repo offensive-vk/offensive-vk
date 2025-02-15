@@ -25,6 +25,7 @@ jobs:
         if: ${{ github.event_name == 'pull_request' && github.event.action == 'opened' }}
         uses: peter-evans/create-or-update-comment@v4
         with:
+          body: ${{ github.event.pull_request.body }}
           issue-number: ${{ github.event.pull_request.number }}
           reactions: rocket
           token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
