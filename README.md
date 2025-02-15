@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#28200](https://github.com/offensive-vk/offensive-vk/issues/28200) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2. 🔒 Closed issue [#28199](https://github.com/offensive-vk/offensive-vk/issues/28199) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3. 🔒 Closed issue [#28198](https://github.com/offensive-vk/offensive-vk/issues/28198) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4. 🔒 Closed issue [#28197](https://github.com/offensive-vk/offensive-vk/issues/28197) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5. 🔒 Closed issue [#28196](https://github.com/offensive-vk/offensive-vk/issues/28196) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6. 🔒 Closed issue [#28195](https://github.com/offensive-vk/offensive-vk/issues/28195) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7. 🔒 Closed issue [#28194](https://github.com/offensive-vk/offensive-vk/issues/28194) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8. 🔒 Closed issue [#28193](https://github.com/offensive-vk/offensive-vk/issues/28193) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9. 🔒 Closed issue [#28192](https://github.com/offensive-vk/offensive-vk/issues/28192) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 Closed issue [#28191](https://github.com/offensive-vk/offensive-vk/issues/28191) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 Closed issue [#28190](https://github.com/offensive-vk/offensive-vk/issues/28190) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 Closed issue [#28189](https://github.com/offensive-vk/offensive-vk/issues/28189) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 Closed issue [#28188](https://github.com/offensive-vk/offensive-vk/issues/28188) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Closed issue [#28187](https://github.com/offensive-vk/offensive-vk/issues/28187) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Closed issue [#28186](https://github.com/offensive-vk/offensive-vk/issues/28186) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1. 🎉 Merged PR [#28623](https://github.com/offensive-vk/offensive-vk/pull/28623) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2. 🔒 Closed issue [#28182](https://github.com/offensive-vk/offensive-vk/issues/28182) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3. 🔒 Closed issue [#28184](https://github.com/offensive-vk/offensive-vk/issues/28184) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4. 🔒 Closed issue [#28183](https://github.com/offensive-vk/offensive-vk/issues/28183) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5. 🎉 Merged PR [#28272](https://github.com/offensive-vk/offensive-vk/pull/28272) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6. 🔒 Closed issue [#28200](https://github.com/offensive-vk/offensive-vk/issues/28200) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7. 🔒 Closed issue [#28199](https://github.com/offensive-vk/offensive-vk/issues/28199) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8. 🔒 Closed issue [#28198](https://github.com/offensive-vk/offensive-vk/issues/28198) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9. 🔒 Closed issue [#28197](https://github.com/offensive-vk/offensive-vk/issues/28197) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Closed issue [#28196](https://github.com/offensive-vk/offensive-vk/issues/28196) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Closed issue [#28195](https://github.com/offensive-vk/offensive-vk/issues/28195) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Closed issue [#28194](https://github.com/offensive-vk/offensive-vk/issues/28194) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Closed issue [#28193](https://github.com/offensive-vk/offensive-vk/issues/28193) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Closed issue [#28192](https://github.com/offensive-vk/offensive-vk/issues/28192) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Closed issue [#28191](https://github.com/offensive-vk/offensive-vk/issues/28191) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
 
 </p>
