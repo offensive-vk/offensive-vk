@@ -15,7 +15,7 @@ jobs:
       - name: Check if review was approved by Boss
         id: check_approval
         run: |
-          PR_NUMBER=${{ github.event.pull_request.number }} >> $GITHUB_ENV
+          echo PR_NUMBER=${{ github.event.pull_request.number }} >> $GITHUB_ENV
           if [[ "${{ github.event.review.state }}" == "approved" && "${{ github.event.review.user.login }}" == "offensive-vk" ]]; then
             echo "approved=true" >> $GITHUB_ENV
           else
@@ -28,7 +28,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh pr list
-          gh pr edit ${{ env.PR_NUMBER }} --add-label "reviewed"
+          gh pr edit "${{ env.PR_NUMBER }}" --add-label "reviewed"
           sleep 360
 
       - name: Add Reaction to PR Comments
