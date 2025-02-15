@@ -39,13 +39,12 @@ jobs:
         uses: peter-evans/find-comment@v3
         with:
           issue-number: ${{ github.event.pull_request.number }}
-          comment-author: 'offensive-vk'
+          comment-author: 'TheHamsterBot'
 
       - name: Add Reaction to PR Comments
         if: ${{ github.event_name == 'pull_request' }}
         uses: peter-evans/create-or-update-comment@v4
         with:
-          issue-number: ${{ github.event.pull_request.number }}
           comment-id: ${{ steps.find.outputs.comment-id }}
           reactions: rocket
           token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
