@@ -56,7 +56,6 @@ jobs:
           labels: |
             hamster
             dependencies
-            pull-request
           reviewers: offensive-vk
           commit-message: 'Update Dependencies - package.json'
           title: '🐹 Update Root Dependencies - Hamster'
