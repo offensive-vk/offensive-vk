@@ -1,0 +1,49 @@
+name: ☑️ Automated PR Merge
+
+on:
+  pull_request_review:
+    types: [submitted]
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    name: Auto Merge
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Check if review was approved by Boss
+        id: check_approval
+        run: |
+          echo PR_NUMBER=${{ github.event.pull_request.number }} >> $GITHUB_ENV
+          if [[ "${{ github.event.review.state }}" == "approved" && "${{ github.event.review.user.login }}" == "offensive-vk" ]]; then
+            echo "approved=true" >> $GITHUB_ENV
+          else
+            echo "approved=false" >> $GITHUB_ENV
+          fi
+
+      - name: Add Label
+        if: env.approved == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr list
+          gh pr edit "${{ env.PR_NUMBER }}" --add-label "reviewed"
+
+      - name: Add Reaction to PR Comments
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+            issue-number: ${{ env.PR_NUMBER }}
+            body: |
+              '🚀 Amazing! This Pull Request Has Been Reviewed and Will Merge (Squash) in Next 5 Minutes. ⌛ '
+            reactions: rocket
+            token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
+        
+      - name: Merge PR
+        if: env.approved == 'true'
+        run: |
+          sleep 360
+          gh pr view ${{ env.PR_NUMBER }}
+          gh pr merge ${{ env.PR_NUMBER }} --squash --admin
+        env:
+          GH_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
