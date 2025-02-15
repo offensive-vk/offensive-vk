@@ -7,7 +7,7 @@ on:
     types: [opened, edited, synchronize]
   pull_request_target:
     types: [opened, edited, synchronize]
-  workflow_dispatch:
+
 jobs:
   add_to_project:
     name: Add Everything to Project

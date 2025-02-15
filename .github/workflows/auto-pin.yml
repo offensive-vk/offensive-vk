@@ -2,8 +2,6 @@ name: 📌 Automated Issue Pinner
 
 on:
   workflow_dispatch:
-  issues:
-    types: [opened]
   schedule:
     - cron: '0 */6 * * *'
 
@@ -27,6 +25,7 @@ jobs:
           done
 
       - name: Get Last 3 Open Issues and Pin Them
+        continue-on-error: true
         run: |
           ISSUES=$(gh issue list --repo "${{ github.repository }}" --state open --limit 3 --json number --jq '.[].number')
 

@@ -1,4 +1,4 @@
-name: ⚡ Bulk Issue Deletor 
+name: ⚡ Bulk Issue Remover
 
 on:
   workflow_dispatch:

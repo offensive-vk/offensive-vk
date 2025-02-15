@@ -1,3 +1,5 @@
+# Workflows
+
 [![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
 [![🌨️ Publish Multi Platform Docker Images](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
 [![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
@@ -22,7 +24,7 @@
 [![⛽ Automated Repo Statistics](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-stats.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-stats.yml)
 [![⚠️ Report Workflow Failures](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-report.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-report.yml)
 [![⌚ Cronitor Monitoring Relay](https://github.com/offensive-vk/offensive-vk/actions/workflows/cronitor.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/cronitor.yml)
-[![🚀 Automated Comment Reaction](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-react.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-react.yml)
+[![🚀 Automated Reaction](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-react.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-react.yml)
 [![❤️ Greetings](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-greet.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-greet.yml)
 [![🦅 Sync to Gitlab](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-sync.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-sync.yml)
 [![🛜 Automated Workflows Logs](https://github.com/offensive-vk/offensive-vk/actions/workflows/fetch-workflows.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/fetch-workflows.yml)
@@ -30,3 +32,7 @@
 [![📌 Automated Issue Pinner](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pin.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pin.yml)
 [![🌅 Morning Glory Maintenance](https://github.com/offensive-vk/offensive-vk/actions/workflows/morning.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/morning.yml)
 [![📃 Auto User Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-activity.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-activity.yml)
+[![☑️ Automated PR Merge](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-merge.yml)
+[![⚡ Bulk Issue Deletor](https://github.com/offensive-vk/offensive-vk/actions/workflows/bulk-close.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/bulk-close.yml)
+[![✌️ Auto React to New Release](https://github.com/offensive-vk/offensive-vk/actions/workflows/react-release.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/react-release.yml)
+[![⚡ Automated Bulk Issue Creator](https://github.com/offensive-vk/offensive-vk/actions/workflows/bulk-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/bulk-issue.yml)

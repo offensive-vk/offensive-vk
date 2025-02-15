@@ -24,7 +24,6 @@ jobs:
             ✅ Closed due to inactivity. Thanks for contributing!
           stale-issue-label: 'no-activity'
           stale-pr-label: 'no-activity'
-          close-issue-label: 'final'
           days-before-pr-stale: 3
           days-before-issue-stale: 2
           days-before-issue-close: 3

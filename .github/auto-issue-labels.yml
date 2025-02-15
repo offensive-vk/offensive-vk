@@ -16,7 +16,7 @@ ci/cd:
     - 'workflow'
     - 'dockerfile'
     - 'compose.yaml'
-  description: ''
+  description: 'CI/CD'
 
 feat:
   match:

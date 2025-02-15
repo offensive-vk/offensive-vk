@@ -3,14 +3,12 @@ name: 🦅 Mirror Sync
 on:
   push:
     branches: ['**']
-  schedule:
-    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    name: Ping Repo
+    name: Ping
     steps:
       - uses: actions/checkout@v4
         with:

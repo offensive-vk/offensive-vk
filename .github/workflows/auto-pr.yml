@@ -6,9 +6,9 @@ on:
       - 'main'
       - 'master'
       - 'old'
-      - '**-2022'
       - 'Automation'
       - 'Best-Readme-Ever'
+      - '**-2022'
       - '**-2023'
       - '**-2024'
       - '**-2025'
@@ -23,15 +23,21 @@ jobs:
   create_pr:
     name: Create Pull Request
     runs-on: ubuntu-latest
-    if:
-      github.actor != 'dependabot[bot]' && github.event.pusher.name !=
-      'dependabot[bot]'
+    if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
+      - name: Wait for 2 Minutes
+        run: |
+          for i in 1..120; do
+            sleep 1
+            echo $i;
+          done
+        
       - name: Create or Update Pull Request
         id: create-pr
-        uses: offensive-vk/auto-pr-action@v7
+        uses: offensive-vk/auto-pr-action@v8
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
           destination_branch: 'master'
@@ -47,7 +53,7 @@ jobs:
         run:
           echo "PR_NUMBER=${{ steps.create-pr.outputs.pr_number }}" >> $GITHUB_ENV;
   update_pr:
-    name: Update PR Comment
+    name: Update PR Body
     needs: [create_pr]
     if:
       github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]'
@@ -57,6 +63,9 @@ jobs:
       - name: Generate Pull Request Template
         run: |
           timestamp=$(date '+%b %d, %A %I:%M:%S %p')
+          first_commit=$(git rev-list --reverse origin/${{ github.ref_name }} | head -n 1)
+          first_commit_message=$(git log --format=%s -n 1 $first_commit)
+          
           markdown=$(cat <<EOF
           ### Pull Request Was Automated by [Hamster [bot]](https://github.com/TheHamsterBot) 🐹
 
@@ -66,21 +75,25 @@ jobs:
 
           - Author: @TheHamsterBot
           - Branch: master (base) / ${{ github.ref_name }} (head)
-          - Commit: ${{ github.sha }}
+          - First Commit: [$first_commit_message]($first_commit)
           - Workflow Path: ${{ github.workflow_ref }}
           - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
           - Most Recent Commit: [${{ github.event.head_commit.message }}](${{ github.sha }})
 
+          *Labels will be applied as per the label [config](https://github.com/offensive-vk/offensive-vk/blob/master/.github/auto-pr-labels.yml). As for now, sit back and let the [Hamster](https://github.com/TheHamsterBot) do the heavy lifting for you!*
+
           ---
 
-          Thanks.
-          $timestamp
+          Thanks.  
+          $timestamp  
           Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
           EOF)
+          
           echo "$markdown" > .github/Auto_Pull_Request.md
           echo "MARKDOWN_CONTENT<<EOF" >> $GITHUB_ENV
           echo "$markdown" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
+
 
       - name: Update Pull Request Body
         run: |

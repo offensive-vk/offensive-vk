@@ -1,8 +1,6 @@
-name: ⚠️ Automated Exec
+name: 👾 Testing Docker Images
 
 on:
-  schedule:
-    - cron: '0 */2 * * *'
   workflow_dispatch:
     inputs:
       repeat_count:

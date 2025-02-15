@@ -1,8 +1,6 @@
-name: ⚡ Automated Bulk Issue Creator
+name: ⚡ Bulk Issue Creator
 
 on:
-  schedule:
-    - cron: '0 */1 * * *'
   workflow_dispatch:
     inputs:
       issue_count:
@@ -22,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Create Issues
         run: |
-          for i in $(seq 1 ${{ github.event.inputs.issue_count || 512 }}); do
+          for i in $(seq 1 ${{ github.event.inputs.issue_count || 100 }}); do
             issue_number=$(gh issue create --title "Automated Issue by TheHamsterBot" --body "This is issue $i, created by Hamster [bot]." --label "automated,bot,hamster,issue" --assignee "TheHamsterBot")
             echo "Issue #$issue_number created."
             sleep 3
