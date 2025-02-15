@@ -1,9 +1,6 @@
 name: ✅ Automated Linter
 
 on:
-  push:
-    branches-ignore: ['master']
-    paths-ignore: ['**/*.md', '**/*.svg']
   pull_request:
     branches: ['master']
     paths-ignore: ['**/*.md', '**/*.svg']
