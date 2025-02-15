@@ -2,16 +2,13 @@ name: 🤖 Automated Issue - Hamster 🐹
 
 on:
   pull_request:
-    types: ['opened', 'closed']
+    types: ['opened']
   workflow_dispatch:
 
 jobs:
   create_issue:
     name: Create Issue
     runs-on: ubuntu-latest
-    if:
-      github.event_name == 'pull_request' && github.event.pull_request.state ==
-      'open'
     steps:
       - uses: actions/checkout@v4
       - name: Generate Issue Template
@@ -21,7 +18,7 @@ jobs:
             ## Notification Regarding the Pull Request:
 
             > [!IMPORTANT]
-            > What Happened: ${{ github.event_name }} event by Hamster [bot].
+            > What Happened: ${{ github.event_name }} event by ${{ github.actor }}.
             > Details of Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
             - Author: @TheHamsterBot

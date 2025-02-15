@@ -6,6 +6,7 @@ pnpm:
     - '.pnpm-debug.log'
     - '.pnpm'
   description: 'Related to pnpm.'
+
 gitlab.com:
   match:
     - '.gitlab/**/*'
@@ -19,7 +20,6 @@ github.com:
 
 markdown:
   match:
-    - 'markdown'
     - '**/*.md'
   description: ''
 
@@ -52,7 +52,7 @@ template:
     - '.github/Auto_Issue_Template.md'
     - '.github/ISSUE_TEMPLATE.md'
     - '.github/PULL_REQUEST_TEMPLATE.md'
-  description: ''
+  description: 'Prebuilt Templates'
 
 dotfiles:
   match:
@@ -87,13 +87,6 @@ profile:
     - 'README.zh-CN.md'
   description: 'Related to Readme'
 
-workflow:
-  match:
-    - '**/*.yml'
-    - '**/*.yaml'
-    - '.github/workflows/*.yml'
-  description: ''
-
 assets:
   match:
     - '**/*.svg'
@@ -111,4 +104,5 @@ assets:
     - '**/*.pdf'
     - '**/*.exe'
   description: 'Static files in the repo.'
+
 # ** DO NOT MODIFY **
