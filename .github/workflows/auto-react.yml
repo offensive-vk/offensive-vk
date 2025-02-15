@@ -23,9 +23,7 @@ jobs:
   add-reaction:
     name: Add Reaction
     runs-on: ubuntu-latest
-    strategy: 
-      matrix: 
-        usernames: ['offensive-vk', 'TheHamsterBot', 'github-actions[bot]']
+
     steps:
       - name: Add Reaction to Issue or PR Comments
         if: ${{ github.event_name == 'issue_comment' || github.event_name == 'pull_request_review_comment' }}
@@ -41,14 +39,12 @@ jobs:
         uses: peter-evans/find-comment@v3
         with:
           issue-number: ${{ github.event.pull_request.number }}
-          comment-author: |
-            'offensive-vk' 
-            'TheHamsterBot'
-            'github-actions[bot]'
-            
+          comment-author: 'offensive-vk'
+
       - name: Add Reaction to PR Comments
         uses: peter-evans/create-or-update-comment@v4
         with:
+          issue-number: ${{ github.event.pull_request.number }}
           comment-id: ${{ steps.find.outputs.comment-id }}
           reactions: rocket
           token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
