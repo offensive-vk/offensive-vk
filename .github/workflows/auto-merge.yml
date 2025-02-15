@@ -29,7 +29,6 @@ jobs:
         run: |
           gh pr list
           gh pr edit "${{ env.PR_NUMBER }}" --add-label "reviewed"
-          sleep 360
 
       - name: Add Reaction to PR Comments
         uses: peter-evans/create-or-update-comment@v4
@@ -43,6 +42,7 @@ jobs:
       - name: Merge PR
         if: env.approved == 'true'
         run: |
+          sleep 360
           gh pr view ${{ env.PR_NUMBER }}
           gh pr merge ${{ env.PR_NUMBER }} --squash --admin
         env:
