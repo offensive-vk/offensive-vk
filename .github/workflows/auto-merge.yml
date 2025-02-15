@@ -27,7 +27,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          sudo apt-get update; sudo apt-get install gh -y
+          gh pr list
           gh pr edit ${{ env.PR_NUMBER }} --add-label "reviewed"
           sleep 360
 
