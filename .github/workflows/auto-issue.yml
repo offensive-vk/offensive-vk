@@ -28,7 +28,7 @@ jobs:
             - Pull Request Number: #${{ github.event.number }}
             - Pull Request Title: ${{ github.event.pull_request.title }}
 
-            *Issue Labels will be applied accordingly. As for now Sit back and relax !*
+            *Issue Labels will be applied accordingly. As for now sit back and relax !*
 
             ---
 
@@ -42,7 +42,7 @@ jobs:
           echo "EOF" >> $GITHUB_ENV
 
       - name: Create Dynamic Issue
-        uses: offensive-vk/auto-issue@master
+        uses: offensive-vk/auto-issue@v8
         with:
           github-token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN  }}
           title: |

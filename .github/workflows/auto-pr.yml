@@ -23,23 +23,21 @@ jobs:
   create_pr:
     name: Create Pull Request
     runs-on: ubuntu-latest
-    if:
-      github.actor != 'dependabot[bot]' && github.event.pusher.name !=
-      'dependabot[bot]'
+    if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Wait for 2 Minutes
         run: |
-          for $i in 1..120; do
+          for i in 1..120; do
             sleep 1
             echo $i;
           done
         
       - name: Create or Update Pull Request
         id: create-pr
-        uses: offensive-vk/auto-pr-action@v7
+        uses: offensive-vk/auto-pr-action@v8
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
           destination_branch: 'master'
