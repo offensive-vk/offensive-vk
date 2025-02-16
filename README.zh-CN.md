@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“低级编程对程序员的灵魂有益。”  -  John Carmack❞</i>
+<i>❝“能够打破安全性并不能使您成为黑客的人，而不是能够热火车使您成为汽车工程师。”  -  Eric Raymond❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#28249](https://github.com/offensive-vk/offensive-vk/pull/28249)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉合并PR[#28259](https://github.com/offensive-vk/offensive-vk/pull/28259)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉合并PR[#28243](https://github.com/offensive-vk/offensive-vk/pull/28243)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉合并PR[#28238](https://github.com/offensive-vk/offensive-vk/pull/28238)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉合并PR[#317](https://github.com/offensive-vk/UntilEverything/pull/317)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-6.  🎉合并PR[#36](https://github.com/offensive-vk/auto-label/pull/36)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-7.  💪打开PR[#36](https://github.com/offensive-vk/auto-label/pull/36)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-8.  ❌关闭PR[#316](https://github.com/offensive-vk/UntilEverything/pull/316)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-9.  🎉合并PR[#314](https://github.com/offensive-vk/UntilEverything/pull/314)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉合并PR[#315](https://github.com/offensive-vk/UntilEverything/pull/315)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉合并PR[#309](https://github.com/offensive-vk/UntilEverything/pull/309)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉合并PR[#311](https://github.com/offensive-vk/UntilEverything/pull/311)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉合并PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
-14. 💪打开PR[#37](https://github.com/offensive-vk/Actionshub/pull/37)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
-15. 💪打开PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
+1.  🎉合并PR[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉合并PR[#28623](https://github.com/offensive-vk/offensive-vk/pull/28623)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒封闭问题[#28182](https://github.com/offensive-vk/offensive-vk/issues/28182)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒封闭问题[#28184](https://github.com/offensive-vk/offensive-vk/issues/28184)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒封闭问题[#28183](https://github.com/offensive-vk/offensive-vk/issues/28183)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+6.  🎉合并PR[#28272](https://github.com/offensive-vk/offensive-vk/pull/28272)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒封闭问题[#28200](https://github.com/offensive-vk/offensive-vk/issues/28200)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒封闭问题[#28199](https://github.com/offensive-vk/offensive-vk/issues/28199)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒封闭问题[#28198](https://github.com/offensive-vk/offensive-vk/issues/28198)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒封闭问题[#28197](https://github.com/offensive-vk/offensive-vk/issues/28197)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒封闭问题[#28196](https://github.com/offensive-vk/offensive-vk/issues/28196)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒封闭问题[#28195](https://github.com/offensive-vk/offensive-vk/issues/28195)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒封闭问题[#28194](https://github.com/offensive-vk/offensive-vk/issues/28194)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒封闭问题[#28193](https://github.com/offensive-vk/offensive-vk/issues/28193)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒封闭问题[#28192](https://github.com/offensive-vk/offensive-vk/issues/28192)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
