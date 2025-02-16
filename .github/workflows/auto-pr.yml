@@ -40,7 +40,7 @@ jobs:
         uses: offensive-vk/auto-pr-action@v8
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
-          destination_branch: 'master'
+          destination-branch: 'master'
           title: '🐹 Hamster - (${{ github.event.head_commit.message }})'
           body: 'Please Wait.... Hamster is working really hard here.'
           reviewers: 'offensive-vk'
