@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Je ne sais pas à quoi ressemblera la langue de l'an 2000, mais je sais que cela s'appellera Fortran.» - CA Hoare, 1982 ❞</i>
+<i>❝ «Être capable de briser la sécurité ne fait pas de vous un pirate de pirate que de pouvoir hotwire voitures fait de vous un ingénieur automobile.» - Eric Raymond ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#36](https://github.com/offensive-vk/Actionshub/pull/36)dans[Offensive-VK / ActionShub](https://github.com/offensive-vk/Actionshub)
-2.  💪 Open a ouvert les relations publiques[#37](https://github.com/offensive-vk/Actionshub/pull/37)dans[Offensive-VK / ActionShub](https://github.com/offensive-vk/Actionshub)
-3.  💪 Open a ouvert les relations publiques[#36](https://github.com/offensive-vk/Actionshub/pull/36)dans[Offensive-VK / ActionShub](https://github.com/offensive-vk/Actionshub)
-4.  ❗ Problème ouvert[#35](https://github.com/offensive-vk/Actionshub/issues/35)dans[Offensive-VK / ActionShub](https://github.com/offensive-vk/Actionshub)
-5.  🎉 PR fusionné[#35](https://github.com/offensive-vk/auto-label/pull/35)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-6.  🎉 PR fusionné[#44](https://github.com/offensive-vk/auto-issue/pull/44)dans[Offensive-Vk / Auto-Issue](https://github.com/offensive-vk/auto-issue)
-7.  🎉 PR fusionné[#10](https://github.com/offensive-vk/auto-user-activity/pull/10)dans[offensive-VK / Auto-user-activité](https://github.com/offensive-vk/auto-user-activity)
-8.  🎉 PR fusionné[#6](https://github.com/offensive-vk/auto-contributions/pull/6)dans[Contributions de VK / Auto offensive](https://github.com/offensive-vk/auto-contributions)
-9.  🎉 PR fusionné[#312](https://github.com/offensive-vk/UntilEverything/pull/312)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 PR fusionné[#10034](https://github.com/offensive-vk/Classics/pull/10034)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-11. 🎉 PR fusionné[#28206](https://github.com/offensive-vk/offensive-vk/pull/28206)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 PR fusionné[#29](https://github.com/offensive-vk/develop-actions/pull/29)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-13. ❗ Problème ouvert[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 PR fusionné[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-15. 💪 Open a ouvert les relations publiques[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+1.  🎉 PR fusionné[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 PR fusionné[#28623](https://github.com/offensive-vk/offensive-vk/pull/28623)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Problème fermé[#28182](https://github.com/offensive-vk/offensive-vk/issues/28182)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Problème fermé[#28184](https://github.com/offensive-vk/offensive-vk/issues/28184)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Problème fermé[#28183](https://github.com/offensive-vk/offensive-vk/issues/28183)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 PR fusionné[#28272](https://github.com/offensive-vk/offensive-vk/pull/28272)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Problème fermé[#28200](https://github.com/offensive-vk/offensive-vk/issues/28200)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Problème fermé[#28199](https://github.com/offensive-vk/offensive-vk/issues/28199)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Problème fermé[#28198](https://github.com/offensive-vk/offensive-vk/issues/28198)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Problème fermé[#28197](https://github.com/offensive-vk/offensive-vk/issues/28197)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Problème fermé[#28196](https://github.com/offensive-vk/offensive-vk/issues/28196)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Problème fermé[#28195](https://github.com/offensive-vk/offensive-vk/issues/28195)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Problème fermé[#28194](https://github.com/offensive-vk/offensive-vk/issues/28194)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Problème fermé[#28193](https://github.com/offensive-vk/offensive-vk/issues/28193)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Problème fermé[#28192](https://github.com/offensive-vk/offensive-vk/issues/28192)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
