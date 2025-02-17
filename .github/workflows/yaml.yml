@@ -1,16 +1,45 @@
-name: 🔏 YAML Verification
+name: 🔏 YAML Verification Pro
 
 on:
   pull_request:
-    branches: [master]
+    branches: ['master']
+    types: [ 'opened', 'synchronize' ]
 
 jobs:
-  yaml:
+  yaml-checks:
     runs-on: ubuntu-latest
-    name: YAML Job
+    name: YAML Master Check
     steps:
-      - name: Checkout
+      - name: 🛎 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Backup Files
-        run: echo "work in progress. (something cool idk)"
+      - name: 🚀 Install Dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y yamllint jq
+          pip install yq detect-secrets
+
+      - name: 🔍 Lint YAML Files
+        run: |
+          yamllint -f colored .
+
+      - name: 🛠 Auto-Fix YAML Formatting
+        run: |
+          find . -name "*.yaml" -o -name "*.yml" | xargs -I {} yq eval -P -i {}
+
+      - name: 🔄 Check & Enforce GitHub Actions Schema
+        run: |
+          for file in $(find . -name "*.yaml" -o -name "*.yml"); do
+            jq empty "$file" 2>/dev/null || echo "Invalid JSON structure in $file"
+          done
+
+      - name: 🔑 Detect Secrets in YAML Files
+        run: |
+          detect-secrets scan --all-files | tee secrets-report.json
+          if grep -q '"is_secret": true' secrets-report.json; then
+            echo "🚨 Possible secrets detected! Review secrets-report.json"; exit 1
+          fi
+
+      - name: 📌 Check Diff Against Master
+        run: |
+          git diff --exit-code || (echo "YAML files were modified. Run 'yq eval -P -i <file>'" && exit 1)
