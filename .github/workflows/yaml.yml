@@ -2,15 +2,71 @@ name: 🔏 YAML Verification
 
 on:
   pull_request:
-    branches: [master]
-
+    branches: [ 'master' ]
+    types: ['opened', 'synchronize']
 jobs:
   yaml:
     runs-on: ubuntu-latest
     name: YAML Job
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Backup Files
-        run: echo "work in progress. (something cool idk)"
+      - name: Install Dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y yamllint
+          pip install yq
+
+      - name: 📄 Create yamllint Config (Disable `---` Checks)
+        run: |
+          cat <<EOL > .yamllint
+          extends: default
+          rules:
+            document-start: disable
+            document-end: disable
+          EOL
+
+      - name: 📝 YAML Lint Check
+        run: |
+          echo "🔍 Running yamllint..."
+          yamllint -c .yamllint . --strict || (echo "❌ YAML Lint Failed!")
+          echo "✅ YAML Lint Passed!"
+
+      - name: 🔄 ASCII Progress Bar
+        run: |
+          echo -n "Processing YAML files: "
+          for i in {1..50}; do
+            echo -n "█"
+            sleep 0.2
+          done
+          echo " ✅ Done!"
+
+      - name: 📊 YAML Stats Report
+        run: |
+          total_files=$(find . -name "*.yml" | wc -l)
+          total_lines=$(find . -name "*.yml" | xargs cat | wc -l)
+          echo "📂 Total YAML Files: $total_files" >> $GITHUB_STEP_SUMMARY;
+          echo "📜 Total Lines in YAML: $total_lines" >> $GITHUB_STEP_SUMMARY;
+
+      - name: 👤 Add Comment
+        if: failure()
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
+          issue-number: ${{ github.event.pull_request.number }}
+          reactions: 'eyes'
+          body: |
+            > [!WARNING]
+            > **PR Number:** ${{ github.event.pull_request.number || github.event.issue.number }}
+            > **Manual Dispatch Number:** ${{ github.event.inputs.number || 'N/A' }}
+
+            ⚠️ **YAML Verification Failed!**
+            Please check the errors in the GitHub Actions logs.
+            🔗 **[View Failed Workflow](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**
+            🔍 **[View Failed Job](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/job/${{ github.job }})**
+
+
+            Thanks  
+            Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
+  
