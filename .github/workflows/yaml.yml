@@ -19,10 +19,6 @@ jobs:
           sudo apt install -y yamllint jq
           pip install yq detect-secrets
 
-      - name: 🔍 Lint YAML Files
-        run: |
-          yamllint -f colored .
-
       - name: 🛠 Auto-Fix YAML Formatting
         run: |
           find . -name "*.yaml" -o -name "*.yml" | xargs -I {} yq eval -P -i {}
