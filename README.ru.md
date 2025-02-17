@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Возможность нарушить безопасность не делает вас хакером больше, чем возможность Hotwire Cars делает вас автомобильным инженером». - Эрик Рэймонд ❞</i>
+<i>❝2012 был годом, когда хакерская группа уничтожила веб -сайт Папы Джона, потому что продовольственная компания потратила более двух часов на доставку, как и ожидалось. Группа хакеров называлась ugnazi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 Объединенный Pr[#28623](https://github.com/offensive-vk/offensive-vk/pull/28623)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Закрытая проблема[#28182](https://github.com/offensive-vk/offensive-vk/issues/28182)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Закрытая проблема[#28184](https://github.com/offensive-vk/offensive-vk/issues/28184)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Закрытая проблема[#28183](https://github.com/offensive-vk/offensive-vk/issues/28183)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 Объединенный Pr[#28272](https://github.com/offensive-vk/offensive-vk/pull/28272)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 Закрытая проблема[#28200](https://github.com/offensive-vk/offensive-vk/issues/28200)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 Закрытая проблема[#28199](https://github.com/offensive-vk/offensive-vk/issues/28199)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 Закрытая проблема[#28198](https://github.com/offensive-vk/offensive-vk/issues/28198)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 Закрытая проблема[#28197](https://github.com/offensive-vk/offensive-vk/issues/28197)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 Закрытая проблема[#28196](https://github.com/offensive-vk/offensive-vk/issues/28196)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 Закрытая проблема[#28195](https://github.com/offensive-vk/offensive-vk/issues/28195)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 Закрытая проблема[#28194](https://github.com/offensive-vk/offensive-vk/issues/28194)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 Закрытая проблема[#28193](https://github.com/offensive-vk/offensive-vk/issues/28193)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Закрытая проблема[#28192](https://github.com/offensive-vk/offensive-vk/issues/28192)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+1.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)в[Наступление-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+2.  🎉 Объединенный Pr[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)в[Наступление-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+3.  🎉 Объединенный Pr[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
+4.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+5.  🎉 Объединенный Pr[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+6.  💪 открыл Pr[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
+8.  🎉 Объединенный Pr[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
+9.  🎉 Объединенный Pr[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
+10. 🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
+11. 🎉 Объединенный Pr[#45](https://github.com/offensive-vk/auto-issue/pull/45)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
+12. 💪 открыл Pr[#45](https://github.com/offensive-vk/auto-issue/pull/45)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
+13. 🎉 Объединенный Pr[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 Объединенный Pr[#28623](https://github.com/offensive-vk/offensive-vk/pull/28623)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Закрытая проблема[#28182](https://github.com/offensive-vk/offensive-vk/issues/28182)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
