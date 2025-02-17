@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>كان Amazon بائعًا قويًا للكتاب ، ولكنه في الواقع يبيع الآن المزيد من الكتب الإلكترونية أكثر من الأغطية الصلبة</i>
+<i>❝ "إن القدرة على كسر الأمن لا يجعلك متسللًا بعد الآن بدلاً من أن تكون قادرًا على الحصول على سيارات Hotwire يجعلك مهندسًا للسيارات." - إريك ريموند ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 فتح العلاقات العامة[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-3.  🎉 اندمج العلاقات العامة[#34](https://github.com/offensive-vk/auto-label/pull/34)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-4.  💪 فتح العلاقات العامة[#34](https://github.com/offensive-vk/auto-label/pull/34)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-5.  ❌ مغلق العلاقات العامة[#33](https://github.com/offensive-vk/auto-label/pull/33)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-6.  💪 فتح العلاقات العامة[#33](https://github.com/offensive-vk/auto-label/pull/33)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-7.  ❗ القضية المفتوحة[#32](https://github.com/offensive-vk/auto-label/issues/32)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-8.  ❌ مغلق العلاقات العامة[#31](https://github.com/offensive-vk/auto-label/pull/31)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-9.  ❗ القضية المفتوحة[#30](https://github.com/offensive-vk/auto-label/issues/30)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-10. 🎉 اندمج العلاقات العامة[#29](https://github.com/offensive-vk/auto-label/pull/29)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-11. 💪 فتح العلاقات العامة[#29](https://github.com/offensive-vk/auto-label/pull/29)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-12. 🎉 اندمج العلاقات العامة[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-13. 💪 فتح العلاقات العامة[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 اندمج العلاقات العامة[#307](https://github.com/offensive-vk/UntilEverything/pull/307)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 اندمج العلاقات العامة[#28158](https://github.com/offensive-vk/offensive-vk/pull/28158)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 اندمج العلاقات العامة[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 اندمج العلاقات العامة[#28623](https://github.com/offensive-vk/offensive-vk/pull/28623)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 قضية مغلقة[#28182](https://github.com/offensive-vk/offensive-vk/issues/28182)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 قضية مغلقة[#28184](https://github.com/offensive-vk/offensive-vk/issues/28184)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 قضية مغلقة[#28183](https://github.com/offensive-vk/offensive-vk/issues/28183)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 اندمج العلاقات العامة[#28272](https://github.com/offensive-vk/offensive-vk/pull/28272)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 قضية مغلقة[#28200](https://github.com/offensive-vk/offensive-vk/issues/28200)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 قضية مغلقة[#28199](https://github.com/offensive-vk/offensive-vk/issues/28199)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 قضية مغلقة[#28198](https://github.com/offensive-vk/offensive-vk/issues/28198)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 قضية مغلقة[#28197](https://github.com/offensive-vk/offensive-vk/issues/28197)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 قضية مغلقة[#28196](https://github.com/offensive-vk/offensive-vk/issues/28196)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 قضية مغلقة[#28195](https://github.com/offensive-vk/offensive-vk/issues/28195)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 قضية مغلقة[#28194](https://github.com/offensive-vk/offensive-vk/issues/28194)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 قضية مغلقة[#28193](https://github.com/offensive-vk/offensive-vk/issues/28193)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 قضية مغلقة[#28192](https://github.com/offensive-vk/offensive-vk/issues/28192)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
