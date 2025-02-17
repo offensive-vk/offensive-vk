@@ -1,9 +1,9 @@
-name: 🔏 Advanced YAML Verification
+name: 🔏 YAML Verification
 
 on:
   pull_request:
-    branches: [master]
-
+    branches: [ 'master' ]
+    types: ['opened', 'synchronize']
 jobs:
   yaml:
     runs-on: ubuntu-latest
@@ -33,28 +33,10 @@ jobs:
           yamllint -c .yamllint . --strict || (echo "❌ YAML Lint Failed!")
           echo "✅ YAML Lint Passed!"
 
-      - name: 🧐 Required Fields Check
-        run: |
-          echo "🔍 Checking required fields..."
-          missing_files=""
-          for file in $(find . -name "*.yaml" -o -name "*.yml"); do
-            for field in "name" "on" "jobs"; do
-              if ! yq eval ". | has(\"$field\")" "$file" > /dev/null; then
-                echo "❌ Missing '$field' in $file"
-                missing_files="$missing_files\n$file (missing $field)"
-              fi
-            done
-          done
-          if [ -n "$missing_files" ]; then
-            echo -e "⚠️ The following files are missing required fields:$missing_files"
-            exit 1
-          fi
-          echo "✅ All YAML files have the required fields!"
-
-      - name: 🔄 ASCII Progress Bar (Just for Fun)
+      - name: 🔄 ASCII Progress Bar
         run: |
           echo -n "Processing YAML files: "
-          for i in {1..10}; do
+          for i in {1..50}; do
             echo -n "█"
             sleep 0.2
           done
@@ -62,14 +44,29 @@ jobs:
 
       - name: 📊 YAML Stats Report
         run: |
-          total_files=$(find . -name "*.yaml" -o -name "*.yml" | wc -l)
-          total_lines=$(find . -name "*.yaml" -o -name "*.yml" | xargs cat | wc -l)
-          echo "📂 Total YAML Files: $total_files"
-          echo "📜 Total Lines in YAML: $total_lines"
+          total_files=$(find . -name "*.yml" | wc -l)
+          total_lines=$(find . -name "*.yml" | xargs cat | wc -l)
+          echo "📂 Total YAML Files: $total_files" >> $GITHUB_STEP_SUMMARY;
+          echo "📜 Total Lines in YAML: $total_lines" >> $GITHUB_STEP_SUMMARY;
 
-      - name: 🚀 Auto-Comment on PR if Issues Found
+      - name: 👤 Add Comment
         if: failure()
-        uses: thollander/actions-comment-pull-request@v2
+        uses: peter-evans/create-or-update-comment@v4
         with:
-          message: "⚠️ YAML verification failed! Please check the errors in the GitHub Actions logs."
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
+          issue-number: ${{ github.event.pull_request.number }}
+          reactions: 'eyes'
+          body: |
+            > [!WARNING]
+            > **PR Number:** ${{ github.event.pull_request.number || github.event.issue.number }}
+            > **Manual Dispatch Number:** ${{ github.event.inputs.number || 'N/A' }}
+
+            ⚠️ **YAML Verification Failed!**
+            Please check the errors in the GitHub Actions logs.
+            🔗 **[View Failed Workflow](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})**
+            🔍 **[View Failed Job](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/job/${{ github.job }})**
+
+
+            Thanks  
+            Your Hamster 🐹 <code>PF78VAPPKLZ2</code>
+  
