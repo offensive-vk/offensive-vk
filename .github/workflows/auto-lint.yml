@@ -66,7 +66,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Create Pull Request
-        uses: offensive-vk/auto-pr-action@v7
+        uses: offensive-vk/auto-pr-action@v8
         continue-on-error: true
         with:
           repo-token: ${{ secrets.BOT_TOKEN }}
