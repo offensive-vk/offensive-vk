@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "La programación de bajo nivel es buena para el alma del programador".-John Carmack ❞</i>
+<i>❝2012 fue el año en que un grupo de piratas informáticos derribó el sitio web de Pope John porque una compañía de alimentos pasó más de dos horas para entregar como se esperaba. El grupo de hackers se llamaba Ugnazi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#28249](https://github.com/offensive-vk/offensive-vk/pull/28249)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionado[#28259](https://github.com/offensive-vk/offensive-vk/pull/28259)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 PR fusionado[#28243](https://github.com/offensive-vk/offensive-vk/pull/28243)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 PR fusionado[#28238](https://github.com/offensive-vk/offensive-vk/pull/28238)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 PR fusionado[#317](https://github.com/offensive-vk/UntilEverything/pull/317)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 PR fusionado[#36](https://github.com/offensive-vk/auto-label/pull/36)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-7.  💪 ABIERTO PR[#36](https://github.com/offensive-vk/auto-label/pull/36)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-8.  ❌ Cerrado PR[#316](https://github.com/offensive-vk/UntilEverything/pull/316)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 PR fusionado[#314](https://github.com/offensive-vk/UntilEverything/pull/314)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 PR fusionado[#315](https://github.com/offensive-vk/UntilEverything/pull/315)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 PR fusionado[#309](https://github.com/offensive-vk/UntilEverything/pull/309)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 PR fusionado[#311](https://github.com/offensive-vk/UntilEverything/pull/311)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 PR fusionado[#36](https://github.com/offensive-vk/Actionshub/pull/36)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
-14. 💪 ABIERTO PR[#37](https://github.com/offensive-vk/Actionshub/pull/37)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
-15. 💪 ABIERTO PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)en[ofensivo-vk/actionshub](https://github.com/offensive-vk/Actionshub)
+1.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+2.  🎉 PR fusionado[#37](https://github.com/offensive-vk/auto-label/pull/37)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+3.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)en[ofensivo-vk/auto-compromiso](https://github.com/offensive-vk/auto-commit-push)
+4.  🎉 PR fusionado[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)en[ofensivo-vk/auto-compromiso](https://github.com/offensive-vk/auto-commit-push)
+5.  🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
+6.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
+7.  🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
+8.  💪 ABIERTO PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
+9.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
+10. 🎉 PR fusionado[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
+11. 🎉 PR fusionado[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
+12. 🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
+13. 🎉 PR fusionado[#45](https://github.com/offensive-vk/auto-issue/pull/45)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
+14. 💪 ABIERTO PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
+15. 🎉 PR fusionado[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>

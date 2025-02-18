@@ -23,7 +23,7 @@ jobs:
       - name: Submit Approval Review
         # if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ github.token || secrets.BOT_TOKEN }}
         run: |
           pr_url="${{ github.event.pull_request.url }}"
           pr_number="${{ github.event.pull_request.number }}"
@@ -46,6 +46,6 @@ jobs:
       - name: Request My Review
         if: ${{ github.actor == 'dependabot[bot]' && github.event.pusher.name == 'dependabot[bot]' || github.event.pull_request.user.login == 'dependabot[bot]' }}
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
         run: |
           gh pr review --request "$pr_number" --reviewer offensive-vk

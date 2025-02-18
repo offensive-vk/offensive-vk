@@ -49,7 +49,7 @@ jobs:
       - name: Create Issue for Failed Jobs
         if:
           env.failed_jobs_list != '' && github.actor != github.repository_owner
-        uses: offensive-vk/auto-issue@v7
+        uses: offensive-vk/auto-issue@v8
         with:
           github-token: ${{ secrets.BOT_TOKEN }}
           title: |

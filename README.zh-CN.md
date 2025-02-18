@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“低级编程对程序员的灵魂有益。”  -  John Carmack❞</i>
+<i>❝2012是黑客小组击倒教皇约翰的网站的一年，因为一家食品公司花了两个多小时来按预期交付。黑客小组称为ugnazi。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#28249](https://github.com/offensive-vk/offensive-vk/pull/28249)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉合并PR[#28259](https://github.com/offensive-vk/offensive-vk/pull/28259)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉合并PR[#28243](https://github.com/offensive-vk/offensive-vk/pull/28243)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉合并PR[#28238](https://github.com/offensive-vk/offensive-vk/pull/28238)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉合并PR[#317](https://github.com/offensive-vk/UntilEverything/pull/317)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-6.  🎉合并PR[#36](https://github.com/offensive-vk/auto-label/pull/36)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-7.  💪打开PR[#36](https://github.com/offensive-vk/auto-label/pull/36)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-8.  ❌关闭PR[#316](https://github.com/offensive-vk/UntilEverything/pull/316)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-9.  🎉合并PR[#314](https://github.com/offensive-vk/UntilEverything/pull/314)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉合并PR[#315](https://github.com/offensive-vk/UntilEverything/pull/315)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉合并PR[#309](https://github.com/offensive-vk/UntilEverything/pull/309)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉合并PR[#311](https://github.com/offensive-vk/UntilEverything/pull/311)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉合并PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
-14. 💪打开PR[#37](https://github.com/offensive-vk/Actionshub/pull/37)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
-15. 💪打开PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)在[进攻性VK/ActionsHub](https://github.com/offensive-vk/Actionshub)
+1.  🚀发行[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+2.  🎉合并PR[#37](https://github.com/offensive-vk/auto-label/pull/37)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+3.  🚀发行[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)在[进攻式VK/自动使用量](https://github.com/offensive-vk/auto-commit-push)
+4.  🎉合并PR[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)在[进攻式VK/自动使用量](https://github.com/offensive-vk/auto-commit-push)
+5.  🎉合并PR[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+6.  🚀发行[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🎉合并PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+8.  💪打开PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  🚀发行[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+10. 🎉合并PR[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+11. 🎉合并PR[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+12. 🚀发行[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+13. 🎉合并PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+14. 💪打开PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+15. 🎉合并PR[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>

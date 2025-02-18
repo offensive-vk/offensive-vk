@@ -30,7 +30,7 @@ jobs:
       - name: 📊 Fetch Workflow Statuses
         id: fetch-status
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ github.token || secrets.BOT_TOKEN }}
         run: |
           BRANCH=${{ github.head_ref || github.ref_name }}
           gh workflow list --json name,id,state,path --limit 100 > workflows.json
@@ -71,7 +71,7 @@ jobs:
       - name: 🔎 Fetch Workflow Runs for Current Issue/PR
         id: fetch-specific-status
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ github.token || secrets.BOT_TOKEN }}
         run: |
           ISSUE_PR_NUMBER=${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number }}
           BRANCH=${{ github.head_ref || github.ref_name }}
@@ -104,7 +104,7 @@ jobs:
       - name: 👤 Add Status Comment
         uses: peter-evans/create-or-update-comment@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
           issue-number:
             ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number || 27614 }}
           body: |

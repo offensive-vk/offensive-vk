@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Je ne sais pas à quoi ressemblera la langue de l'an 2000, mais je sais que cela s'appellera Fortran.» - CA Hoare, 1982 ❞</i>
+<i>❝2012 a été l’année où un groupe de pirates a abattu le site Web du pape John parce qu’une entreprise alimentaire a passé plus de deux heures à livrer comme prévu. Le groupe de pirates s'appelait Ugnazi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#36](https://github.com/offensive-vk/Actionshub/pull/36)dans[Offensive-VK / ActionShub](https://github.com/offensive-vk/Actionshub)
-2.  💪 Open a ouvert les relations publiques[#37](https://github.com/offensive-vk/Actionshub/pull/37)dans[Offensive-VK / ActionShub](https://github.com/offensive-vk/Actionshub)
-3.  💪 Open a ouvert les relations publiques[#36](https://github.com/offensive-vk/Actionshub/pull/36)dans[Offensive-VK / ActionShub](https://github.com/offensive-vk/Actionshub)
-4.  ❗ Problème ouvert[#35](https://github.com/offensive-vk/Actionshub/issues/35)dans[Offensive-VK / ActionShub](https://github.com/offensive-vk/Actionshub)
-5.  🎉 PR fusionné[#35](https://github.com/offensive-vk/auto-label/pull/35)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-6.  🎉 PR fusionné[#44](https://github.com/offensive-vk/auto-issue/pull/44)dans[Offensive-Vk / Auto-Issue](https://github.com/offensive-vk/auto-issue)
-7.  🎉 PR fusionné[#10](https://github.com/offensive-vk/auto-user-activity/pull/10)dans[offensive-VK / Auto-user-activité](https://github.com/offensive-vk/auto-user-activity)
-8.  🎉 PR fusionné[#6](https://github.com/offensive-vk/auto-contributions/pull/6)dans[Contributions de VK / Auto offensive](https://github.com/offensive-vk/auto-contributions)
-9.  🎉 PR fusionné[#312](https://github.com/offensive-vk/UntilEverything/pull/312)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 PR fusionné[#10034](https://github.com/offensive-vk/Classics/pull/10034)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-11. 🎉 PR fusionné[#28206](https://github.com/offensive-vk/offensive-vk/pull/28206)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 PR fusionné[#29](https://github.com/offensive-vk/develop-actions/pull/29)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-13. ❗ Problème ouvert[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 PR fusionné[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-15. 💪 Open a ouvert les relations publiques[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+1.  🚀 Version publiée[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)dans[offensive-VK / Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+2.  🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)dans[offensive-VK / Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+3.  🎉 PR fusionné[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)dans[Offensive-VK / Auto-PR-action](https://github.com/offensive-vk/auto-pr-action)
+4.  🚀 Version publiée[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)dans[offensive-VK / Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+5.  🎉 PR fusionné[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)dans[offensive-VK / Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+6.  💪 Open a ouvert les relations publiques[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)dans[offensive-VK / Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🚀 Version publiée[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)dans[Offensive-VK / Auto-PR-action](https://github.com/offensive-vk/auto-pr-action)
+8.  🎉 PR fusionné[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)dans[Offensive-VK / Auto-PR-action](https://github.com/offensive-vk/auto-pr-action)
+9.  🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)dans[Offensive-VK / Auto-PR-action](https://github.com/offensive-vk/auto-pr-action)
+10. 🚀 Version publiée[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)dans[Offensive-Vk / Auto-Issue](https://github.com/offensive-vk/auto-issue)
+11. 🎉 PR fusionné[#45](https://github.com/offensive-vk/auto-issue/pull/45)dans[Offensive-Vk / Auto-Issue](https://github.com/offensive-vk/auto-issue)
+12. 💪 Open a ouvert les relations publiques[#45](https://github.com/offensive-vk/auto-issue/pull/45)dans[Offensive-Vk / Auto-Issue](https://github.com/offensive-vk/auto-issue)
+13. 🎉 PR fusionné[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 PR fusionné[#28623](https://github.com/offensive-vk/offensive-vk/pull/28623)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Problème fermé[#28182](https://github.com/offensive-vk/offensive-vk/issues/28182)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>

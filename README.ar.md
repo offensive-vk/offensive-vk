@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>كان Amazon بائعًا قويًا للكتاب ، ولكنه في الواقع يبيع الآن المزيد من الكتب الإلكترونية أكثر من الأغطية الصلبة</i>
+<i>كان عام 2012 هو العام الذي قامت فيه مجموعة Hacker Group على موقع Pope John على الإنترنت لأن شركة طعام قضت أكثر من ساعتين لتقديمها كما هو متوقع. كانت مجموعة المتسللين تسمى ugnazi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 فتح العلاقات العامة[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-3.  🎉 اندمج العلاقات العامة[#34](https://github.com/offensive-vk/auto-label/pull/34)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-4.  💪 فتح العلاقات العامة[#34](https://github.com/offensive-vk/auto-label/pull/34)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-5.  ❌ مغلق العلاقات العامة[#33](https://github.com/offensive-vk/auto-label/pull/33)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-6.  💪 فتح العلاقات العامة[#33](https://github.com/offensive-vk/auto-label/pull/33)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-7.  ❗ القضية المفتوحة[#32](https://github.com/offensive-vk/auto-label/issues/32)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-8.  ❌ مغلق العلاقات العامة[#31](https://github.com/offensive-vk/auto-label/pull/31)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-9.  ❗ القضية المفتوحة[#30](https://github.com/offensive-vk/auto-label/issues/30)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-10. 🎉 اندمج العلاقات العامة[#29](https://github.com/offensive-vk/auto-label/pull/29)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-11. 💪 فتح العلاقات العامة[#29](https://github.com/offensive-vk/auto-label/pull/29)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-12. 🎉 اندمج العلاقات العامة[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-13. 💪 فتح العلاقات العامة[#5](https://github.com/offensive-vk/ReactQuizApp/pull/5)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 اندمج العلاقات العامة[#307](https://github.com/offensive-vk/UntilEverything/pull/307)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 اندمج العلاقات العامة[#28158](https://github.com/offensive-vk/offensive-vk/pull/28158)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+1.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+2.  🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/auto-label/pull/37)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+3.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)في[هجومي VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+4.  🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)في[هجومي VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+5.  🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
+6.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+8.  💪 فتح العلاقات العامة[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
+10. 🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
+11. 🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
+12. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)في[هجوم VK/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
+13. 🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/auto-issue/pull/45)في[هجوم VK/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
+14. 💪 فتح العلاقات العامة[#45](https://github.com/offensive-vk/auto-issue/pull/45)في[هجوم هجومي/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
+15. 🎉 اندمج العلاقات العامة[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
