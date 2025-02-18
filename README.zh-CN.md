@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀发行[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)在[进攻式VK/自动使用量](https://github.com/offensive-vk/auto-commit-push)
-2.  🎉合并PR[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)在[进攻式VK/自动使用量](https://github.com/offensive-vk/auto-commit-push)
-3.  🎉合并PR[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-4.  🚀发行[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-5.  🎉合并PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-6.  💪打开PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-7.  🚀发行[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-8.  🎉合并PR[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-9.  🎉合并PR[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-10. 🚀发行[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
-11. 🎉合并PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
-12. 💪打开PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
-13. 🎉合并PR[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉合并PR[#28623](https://github.com/offensive-vk/offensive-vk/pull/28623)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒封闭问题[#28182](https://github.com/offensive-vk/offensive-vk/issues/28182)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+1.  🚀发行[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+2.  🎉合并PR[#37](https://github.com/offensive-vk/auto-label/pull/37)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+3.  🚀发行[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)在[进攻式VK/自动使用量](https://github.com/offensive-vk/auto-commit-push)
+4.  🎉合并PR[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)在[进攻式VK/自动使用量](https://github.com/offensive-vk/auto-commit-push)
+5.  🎉合并PR[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+6.  🚀发行[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🎉合并PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+8.  💪打开PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  🚀发行[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+10. 🎉合并PR[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+11. 🎉合并PR[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+12. 🚀发行[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+13. 🎉合并PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+14. 💪打开PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+15. 🎉合并PR[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
