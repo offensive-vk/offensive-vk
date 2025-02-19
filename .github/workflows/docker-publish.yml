@@ -16,6 +16,7 @@ env:
   DOCKERFILE: ./Dockerfile
   DEVCONTAINER: ./devcontainer
   MULTI_ARCH: true
+  REMOTE_CI: false
   OWNER: ${{ github.repository_owner }}
   GLCR: ${{ secrets.GLCR_SLUG }}
   GHCR: ${{ secrets.GHCR_SLUG }}
@@ -30,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Publish Images
     permissions:
-      contents: read
+      contents: write
       packages: write
       id-token: write
       statuses: write
