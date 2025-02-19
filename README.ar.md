@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>كان عام 2012 هو العام الذي قامت فيه مجموعة Hacker Group على موقع Pope John على الإنترنت لأن شركة طعام قضت أكثر من ساعتين لتقديمها كما هو متوقع. كانت مجموعة المتسللين تسمى ugnazi.❞</i>
+<i>كان ❝ibm قويًا جدًا في عام 1983 لدرجة أن الناس يخشون أن يدمر الكمبيوتر المنزلي لـ PCJR Apple و Commodore وجميع المنافسين الآخرين. أصبحت PCJR "واحدة من أكبر التقليب في تاريخ الحوسبة" .❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -160,7 +160,7 @@
 11. 🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
 12. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)في[هجوم VK/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
 13. 🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/auto-issue/pull/45)في[هجوم VK/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
-14. 💪 فتح العلاقات العامة[#45](https://github.com/offensive-vk/auto-issue/pull/45)في[هجوم هجومي/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
+14. 💪 فتح العلاقات العامة[#45](https://github.com/offensive-vk/auto-issue/pull/45)في[هجوم VK/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
 15. 🎉 اندمج العلاقات العامة[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
