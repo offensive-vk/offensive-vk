@@ -28,7 +28,7 @@ RUN apt-get update && apt-get install -y \
 RUN neofetch; df -T; uname -a
 
 # Install pnpm
-RUN npm i -g pnpm@9.0.0; pnpm -v
+RUN npm i -g pnpm@10.0.0; pnpm -v
 
 # Expose the container port
 EXPOSE 9999
