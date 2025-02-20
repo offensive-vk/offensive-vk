@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM在1983年非常强大，以至于人们担心其PCJR家用计算机会摧毁苹果，准将和所有其他竞争对手。 PCJR成为“计算史上最大的拖船之一”。</i>
+<i>❝无论您使用Mozilla，Chrome Explore，请知道Mosaic是我出生时的第一个浏览器。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
