@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Ich weiß nicht, wie die Sprache des Jahres 2000 aussehen wird, aber ich weiß, dass es Forstran genannt wird." - Ca Hoare, 1982 ❞</i>
+<i>❝ Wenn Sie Mozilla, Chrome Explore verwenden, wissen Sie bitte, dass Mosaic der erste Browser war, als ich geboren wurde. ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#36](https://github.com/offensive-vk/Actionshub/pull/36)In[Offensiv-Vk/Actionshub](https://github.com/offensive-vk/Actionshub)
-2.  💪 PR geöffnet[#37](https://github.com/offensive-vk/Actionshub/pull/37)In[Offensiv-Vk/Actionshub](https://github.com/offensive-vk/Actionshub)
-3.  💪 PR geöffnet[#36](https://github.com/offensive-vk/Actionshub/pull/36)In[Offensiv-Vk/Actionshub](https://github.com/offensive-vk/Actionshub)
-4.  ❗ Eröffnete Ausgabe[#35](https://github.com/offensive-vk/Actionshub/issues/35)In[Offensiv-Vk/Actionshub](https://github.com/offensive-vk/Actionshub)
-5.  🎉 Fusions PR[#35](https://github.com/offensive-vk/auto-label/pull/35)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-6.  🎉 Fusions PR[#44](https://github.com/offensive-vk/auto-issue/pull/44)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
-7.  🎉 Fusions PR[#10](https://github.com/offensive-vk/auto-user-activity/pull/10)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
-8.  🎉 Fusions PR[#6](https://github.com/offensive-vk/auto-contributions/pull/6)In[Offensiv-VK/Auto-Contribributions](https://github.com/offensive-vk/auto-contributions)
-9.  🎉 Fusions PR[#312](https://github.com/offensive-vk/UntilEverything/pull/312)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 Fusions PR[#10034](https://github.com/offensive-vk/Classics/pull/10034)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-11. 🎉 Fusions PR[#28206](https://github.com/offensive-vk/offensive-vk/pull/28206)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Fusions PR[#29](https://github.com/offensive-vk/develop-actions/pull/29)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-13. ❗ Eröffnete Ausgabe[#8](https://github.com/offensive-vk/ReactQuizApp/issues/8)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 Fusions PR[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-15. 💪 PR geöffnet[#7](https://github.com/offensive-vk/ReactQuizApp/pull/7)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+1.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+2.  🎉 Fusions PR[#37](https://github.com/offensive-vk/auto-label/pull/37)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+3.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)In[Offensiv-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+4.  🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)In[Offensiv-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+5.  🎉 Fusions PR[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+6.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+7.  🎉 Fusions PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+8.  💪 PR geöffnet[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+10. 🎉 Fusions PR[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+11. 🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+12. 🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
+13. 🎉 Fusions PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
+14. 💪 PR geöffnet[#45](https://github.com/offensive-vk/auto-issue/pull/45)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
+15. 🎉 Fusions PR[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
