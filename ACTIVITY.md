@@ -34,5 +34,4 @@
 33. 🔒 Closed issue [#28182](https://github.com/offensive-vk/offensive-vk/issues/28182) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 34. 🔒 Closed issue [#28184](https://github.com/offensive-vk/offensive-vk/issues/28184) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 35. 🔒 Closed issue [#28183](https://github.com/offensive-vk/offensive-vk/issues/28183) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-36. 🎉  Merged pull request [#28272](https://github.com/offensive-vk/offensive-vk/pull/28272) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
