@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM era tan poderoso en 1983 que la gente temía que su computadora doméstica PCJR destruyera Apple, Commodore y todos los demás competidores. El PCJR se convirtió en "uno de los fracasos más grandes en la historia de la informática" .❞</i>
+<i>❝ Si usa Mozilla, Chrome Explore, por favor sepa que Mosaic fue el primer navegador justo cuando nací.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
