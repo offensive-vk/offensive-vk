@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Используете ли вы Mozilla, Chrome Explore, пожалуйста, знайте, что Mosaic была первым браузером, когда я родился.</i>
+<i>❝ «При отладке новички вставляют корректирующий код; Эксперты удаляют дефектный код ». - Ричард Паттис ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-2.  🎉 Объединенный Pr[#37](https://github.com/offensive-vk/auto-label/pull/37)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-3.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)в[Наступление-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
-4.  🎉 Объединенный Pr[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)в[Наступление-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
-5.  🎉 Объединенный Pr[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
-6.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-7.  🎉 Объединенный Pr[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-8.  💪 открыл Pr[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
-10. 🎉 Объединенный Pr[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 Объединенный Pr[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
-12. 🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
-13. 🎉 Объединенный Pr[#45](https://github.com/offensive-vk/auto-issue/pull/45)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
-14. 💪 открыл Pr[#45](https://github.com/offensive-vk/auto-issue/pull/45)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
-15. 🎉 Объединенный Pr[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+1.  💪 открыл Pr[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+3.  🎉 Объединенный Pr[#37](https://github.com/offensive-vk/auto-label/pull/37)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+4.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)в[Наступление-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+5.  🎉 Объединенный Pr[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)в[Наступление-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+6.  🎉 Объединенный Pr[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
+7.  🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+8.  🎉 Объединенный Pr[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  💪 открыл Pr[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)в[наступление VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+10. 🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
+11. 🎉 Объединенный Pr[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
+12. 🎉 Объединенный Pr[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
+13. 🚀 Опубликованный выпуск[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
+14. 🎉 Объединенный Pr[#45](https://github.com/offensive-vk/auto-issue/pull/45)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
+15. 💪 открыл Pr[#45](https://github.com/offensive-vk/auto-issue/pull/45)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
     <!--END_SECTION:activity-->
 
 </p>
