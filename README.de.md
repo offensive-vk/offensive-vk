@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ “Beim Debuggen fügen Anfänger Korrekturcode ein; Experten entfernen defekten Code. “ - Richard Pattis ❞</i>
+<i>❝ „Bevor die Software wiederverwendbar sein sollte, sollte sie nutzbar sein.“ - Ralph Johnson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 PR geöffnet[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-3.  🎉 Fusions PR[#37](https://github.com/offensive-vk/auto-label/pull/37)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-4.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)In[Offensiv-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
-5.  🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)In[Offensiv-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
-6.  🎉 Fusions PR[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
-7.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-8.  🎉 Fusions PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  💪 PR geöffnet[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-10. 🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 Fusions PR[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
-12. 🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
-13. 🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
-14. 🎉 Fusions PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
-15. 💪 PR geöffnet[#45](https://github.com/offensive-vk/auto-issue/pull/45)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
+1.  💪 PR geöffnet[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 PR geöffnet[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+4.  🎉 Fusions PR[#37](https://github.com/offensive-vk/auto-label/pull/37)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+5.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)In[Offensiv-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+6.  🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)In[Offensiv-VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+7.  🎉 Fusions PR[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+8.  🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+9.  🎉 Fusions PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+10. 💪 PR geöffnet[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)In[Offensiv-VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+11. 🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+12. 🎉 Fusions PR[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+13. 🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+14. 🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
+15. 🎉 Fusions PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
     <!--END_SECTION:activity-->
 
 </p>
