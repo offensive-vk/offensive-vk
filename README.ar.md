@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ قبل إعادة استخدام البرنامج ، يجب أن يكون قابلاً للاستخدام. " - رالف جونسون ❞</i>
+<i>❝ تم بناء بطاقة فيديو Ultra Nvidia Geforce 6800 مع 222 مليون ترانزستورات ويعتبر من بين أفضل Todate.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 فتح العلاقات العامة[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 فتح العلاقات العامة[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-4.  🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/auto-label/pull/37)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-5.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)في[هجومي VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
-6.  🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)في[هجومي VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
-7.  🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
-8.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-10. 💪 فتح العلاقات العامة[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-11. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
-12. 🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
-13. 🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
-14. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)في[هجوم VK/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
-15. 🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/auto-issue/pull/45)في[هجوم VK/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
+1.  🎉 اندمج العلاقات العامة[#31](https://github.com/offensive-vk/Icons/pull/31)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+2.  💪 فتح العلاقات العامة[#31](https://github.com/offensive-vk/Icons/pull/31)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+3.  🎉 اندمج العلاقات العامة[#30](https://github.com/offensive-vk/Icons/pull/30)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+4.  💪 فتح العلاقات العامة[#30](https://github.com/offensive-vk/Icons/pull/30)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+5.  💪 فتح العلاقات العامة[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 فتح العلاقات العامة[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 فتح العلاقات العامة[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+9.  🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/auto-label/pull/37)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+10. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)في[هجومي VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+11. 🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)في[هجومي VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+12. 🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
+13. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+14. 🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+15. 💪 فتح العلاقات العامة[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)في[هجومي VK/Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
     <!--END_SECTION:activity-->
 
 </p>
