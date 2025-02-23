@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Si usa Mozilla, Chrome Explore, por favor sepa que Mosaic fue el primer navegador justo cuando nací.</i>
+<i>❝ La tarjeta de video Ultra Nvidia GeForce 6800 se construyó con 222 millones de transistores y se consideró entre las mejores tareasantes.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-2.  🎉 PR fusionado[#37](https://github.com/offensive-vk/auto-label/pull/37)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-3.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)en[ofensivo-vk/auto-compromiso](https://github.com/offensive-vk/auto-commit-push)
-4.  🎉 PR fusionado[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)en[ofensivo-vk/auto-compromiso](https://github.com/offensive-vk/auto-commit-push)
-5.  🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
-6.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
-7.  🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
-8.  💪 ABIERTO PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
-9.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
-10. 🎉 PR fusionado[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
-11. 🎉 PR fusionado[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
-12. 🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
-13. 🎉 PR fusionado[#45](https://github.com/offensive-vk/auto-issue/pull/45)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
-14. 💪 ABIERTO PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
-15. 🎉 PR fusionado[#29263](https://github.com/offensive-vk/offensive-vk/pull/29263)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 PR fusionado[#31](https://github.com/offensive-vk/Icons/pull/31)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+2.  💪 ABIERTO PR[#31](https://github.com/offensive-vk/Icons/pull/31)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+3.  🎉 PR fusionado[#30](https://github.com/offensive-vk/Icons/pull/30)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+4.  💪 ABIERTO PR[#30](https://github.com/offensive-vk/Icons/pull/30)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+5.  💪 ABIERTO PR[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 ABIERTO PR[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 ABIERTO PR[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+9.  🎉 PR fusionado[#37](https://github.com/offensive-vk/auto-label/pull/37)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+10. 🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)en[ofensivo-vk/auto-compromiso](https://github.com/offensive-vk/auto-commit-push)
+11. 🎉 PR fusionado[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)en[ofensivo-vk/auto-compromiso](https://github.com/offensive-vk/auto-commit-push)
+12. 🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
+13. 🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
+14. 🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
+15. 💪 ABIERTO PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
     <!--END_SECTION:activity-->
 
 </p>
