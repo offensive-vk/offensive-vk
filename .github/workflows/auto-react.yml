@@ -17,8 +17,7 @@ on:
     types: [created]
   pull_request_review_comment:
     types: [created]
-  pull_request:
-    types: [opened, synchronize]
+
 jobs:
   add-reaction:
     name: Add Reaction
@@ -28,7 +27,6 @@ jobs:
           usernames: ['offensive-vk', 'TheHamsterBot', 'github-actions[bot]']
     steps:
       - name: Add Reaction to Issue or PR Comments
-        if: ${{ github.event_name == 'issue_comment' || github.event_name == 'pull_request_review_comment' }}
         uses: peter-evans/create-or-update-comment@v4
         with:
           comment-id: ${{ github.event.comment.id }}
@@ -36,7 +34,6 @@ jobs:
           token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Find the Comment in PR
-        if: ${{ github.event_name == 'pull_request' }}
         id: find
         uses: peter-evans/find-comment@v3
         with:
@@ -44,12 +41,10 @@ jobs:
           comment-author: ${{ matrix.usernames }}
 
       - name: Display Comment ID
-        if: ${{ github.event_name == 'pull_request' }}
         run: |
           echo "Comment ID: ${{ steps.find.outputs.comment-id }}"
 
       - name: Add Reaction to PR Comments
-        if: ${{ github.event_name == 'pull_request' }}
         uses: peter-evans/create-or-update-comment@v4
         continue-on-error: true
         with:

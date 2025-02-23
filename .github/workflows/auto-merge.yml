@@ -35,7 +35,7 @@ jobs:
         with:
             issue-number: ${{ env.PR_NUMBER }}
             body: |
-              '🚀 Amazing! This Pull Request Has Been Reviewed and Will Merge (Squash) in Next 5 Minutes. ⌛ '
+              🚀 Amazing! This Pull Request Has Been Reviewed and Will Merge (Squash) in Next 5 Minutes. ⌛
             reactions: rocket
             token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
         
