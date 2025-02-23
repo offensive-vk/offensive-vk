@@ -31,5 +31,4 @@
 30. 🚀 Published release [v8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
 31. 🎉  Merged pull request [#10](https://github.com/offensive-vk/auto-repo-sync/pull/10) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
 32. 💪 Opened pull request [#10](https://github.com/offensive-vk/auto-repo-sync/pull/10) in [offensive-vk/auto-repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-33. ✅ Approved on pull request [#29266](https://github.com/offensive-vk/offensive-vk/pull/29266) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
