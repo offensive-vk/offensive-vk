@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ La carte vidéo Ultra Nvidia Geforce 6800 a été construite avec 222 millions de transistors et considérée parmi les meilleures todates.</i>
+<i>Les disques, les disques sont si sensibles aux vibrations, que le simple fait de leur crier diminue leurs performances.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#31](https://github.com/offensive-vk/Icons/pull/31)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
-2.  💪 Open a ouvert les relations publiques[#31](https://github.com/offensive-vk/Icons/pull/31)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
-3.  🎉 PR fusionné[#30](https://github.com/offensive-vk/Icons/pull/30)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
-4.  💪 Open a ouvert les relations publiques[#30](https://github.com/offensive-vk/Icons/pull/30)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
-5.  💪 Open a ouvert les relations publiques[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 Open a ouvert les relations publiques[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 Open a ouvert les relations publiques[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  🚀 Version publiée[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-9.  🎉 PR fusionné[#37](https://github.com/offensive-vk/auto-label/pull/37)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-10. 🚀 Version publiée[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)dans[offensive-VK / Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
-11. 🎉 PR fusionné[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)dans[offensive-VK / Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
-12. 🎉 PR fusionné[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)dans[Offensive-VK / Auto-PR-action](https://github.com/offensive-vk/auto-pr-action)
-13. 🚀 Version publiée[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)dans[offensive-VK / Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-14. 🎉 PR fusionné[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)dans[offensive-VK / Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
-15. 💪 Open a ouvert les relations publiques[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)dans[offensive-VK / Auto-Repo-Sync](https://github.com/offensive-vk/auto-repo-sync)
+1.  🎉 PR fusionné[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  🎉 PR fusionné[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  💪 Open a ouvert les relations publiques[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  🎉 PR fusionné[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+5.  💪 Open a ouvert les relations publiques[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉 PR fusionné[#31](https://github.com/offensive-vk/Icons/pull/31)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+7.  💪 Open a ouvert les relations publiques[#31](https://github.com/offensive-vk/Icons/pull/31)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+8.  🎉 PR fusionné[#30](https://github.com/offensive-vk/Icons/pull/30)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+9.  💪 Open a ouvert les relations publiques[#30](https://github.com/offensive-vk/Icons/pull/30)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+10. 💪 Open a ouvert les relations publiques[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 Open a ouvert les relations publiques[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 Open a ouvert les relations publiques[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 🚀 Version publiée[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+14. 🎉 PR fusionné[#37](https://github.com/offensive-vk/auto-label/pull/37)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+15. 🚀 Version publiée[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)dans[offensive-VK / Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
     <!--END_SECTION:activity-->
 
 </p>
