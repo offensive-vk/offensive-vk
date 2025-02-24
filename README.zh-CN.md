@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在可以重复使用软件之前，应该可以使用。”  - 拉尔夫·约翰逊（Ralph Johnson）❞</i>
+<i>hard磁盘对振动非常敏感，只是尖叫会降低其性能。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪打开PR[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪打开PR[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-3.  🚀发行[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-4.  🎉合并PR[#37](https://github.com/offensive-vk/auto-label/pull/37)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-5.  🚀发行[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)在[进攻式VK/自动使用量](https://github.com/offensive-vk/auto-commit-push)
-6.  🎉合并PR[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)在[进攻式VK/自动使用量](https://github.com/offensive-vk/auto-commit-push)
-7.  🎉合并PR[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-8.  🚀发行[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-9.  🎉合并PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-10. 💪打开PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)在[进攻性VK/自动repo-sync](https://github.com/offensive-vk/auto-repo-sync)
-11. 🚀发行[V8](https://github.com/offensive-vk/auto-pr-action/releases/tag/v8)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-12. 🎉合并PR[#9](https://github.com/offensive-vk/auto-pr-action/pull/9)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-13. 🎉合并PR[#8](https://github.com/offensive-vk/auto-pr-action/pull/8)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-14. 🚀发行[V8](https://github.com/offensive-vk/auto-issue/releases/tag/v8)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
-15. 🎉合并PR[#45](https://github.com/offensive-vk/auto-issue/pull/45)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+1.  🎉合并PR[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  🎉合并PR[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  💪打开PR[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  🎉合并PR[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+5.  💪打开PR[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉合并PR[#31](https://github.com/offensive-vk/Icons/pull/31)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
+7.  💪打开PR[#31](https://github.com/offensive-vk/Icons/pull/31)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
+8.  🎉合并PR[#30](https://github.com/offensive-vk/Icons/pull/30)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
+9.  💪打开PR[#30](https://github.com/offensive-vk/Icons/pull/30)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
+10. 💪打开PR[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪打开PR[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪打开PR[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+13. 🚀发行[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+14. 🎉合并PR[#37](https://github.com/offensive-vk/auto-label/pull/37)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+15. 🚀发行[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)在[进攻式VK/自动使用量](https://github.com/offensive-vk/auto-commit-push)
     <!--END_SECTION:activity-->
 
 </p>
