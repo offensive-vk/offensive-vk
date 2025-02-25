@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ الأقراص حساسة للغاية للاهتزاز ، بحيث يصرخ عليهم فقط يقلل من أدائها.</i>
+<i>❝ "دعونا نغير موقفنا التقليدي تجاه بناء البرامج: بدلاً من تخيل أن مهمتنا الرئيسية هي توجيه الكمبيوتر إلى ما يجب القيام به ، دعنا نركز بدلاً من ذلك على شرح البشر ما نريد أن يفعله الكمبيوتر." - دونالد E. Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🎉 اندمج العلاقات العامة[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  💪 فتح العلاقات العامة[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-4.  🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  🎉 اندمج العلاقات العامة[#31](https://github.com/offensive-vk/Icons/pull/31)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
-7.  💪 فتح العلاقات العامة[#31](https://github.com/offensive-vk/Icons/pull/31)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
-8.  🎉 اندمج العلاقات العامة[#30](https://github.com/offensive-vk/Icons/pull/30)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
-9.  💪 فتح العلاقات العامة[#30](https://github.com/offensive-vk/Icons/pull/30)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
-10. 💪 فتح العلاقات العامة[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 فتح العلاقات العامة[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 فتح العلاقات العامة[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-14. 🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/auto-label/pull/37)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-15. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)في[هجومي VK/Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+1.  🎉 اندمج العلاقات العامة[#30](https://github.com/offensive-vk/develop-actions/pull/30)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
+2.  🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  🎉 اندمج العلاقات العامة[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  💪 فتح العلاقات العامة[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+5.  🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+7.  🎉 اندمج العلاقات العامة[#31](https://github.com/offensive-vk/Icons/pull/31)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+8.  💪 فتح العلاقات العامة[#31](https://github.com/offensive-vk/Icons/pull/31)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+9.  🎉 اندمج العلاقات العامة[#30](https://github.com/offensive-vk/Icons/pull/30)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+10. 💪 فتح العلاقات العامة[#30](https://github.com/offensive-vk/Icons/pull/30)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+11. 💪 فتح العلاقات العامة[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 فتح العلاقات العامة[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪 فتح العلاقات العامة[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+15. 🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/auto-label/pull/37)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
