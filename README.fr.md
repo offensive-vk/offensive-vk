@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Les disques, les disques sont si sensibles aux vibrations, que le simple fait de leur crier diminue leurs performances.</i>
+<i>❝ «Changeons notre attitude traditionnelle à la construction de programmes: au lieu d'imaginer que notre tâche principale est d'instruire un ordinateur quoi faire, concentrons-nous plutôt sur l'explication aux êtres humains ce que nous voulons qu'un ordinateur fasse.» - Donald E. Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-2.  🎉 PR fusionné[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  💪 Open a ouvert les relations publiques[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-4.  🎉 PR fusionné[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  💪 Open a ouvert les relations publiques[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  🎉 PR fusionné[#31](https://github.com/offensive-vk/Icons/pull/31)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
-7.  💪 Open a ouvert les relations publiques[#31](https://github.com/offensive-vk/Icons/pull/31)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
-8.  🎉 PR fusionné[#30](https://github.com/offensive-vk/Icons/pull/30)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
-9.  💪 Open a ouvert les relations publiques[#30](https://github.com/offensive-vk/Icons/pull/30)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
-10. 💪 Open a ouvert les relations publiques[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 Open a ouvert les relations publiques[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 Open a ouvert les relations publiques[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 🚀 Version publiée[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-14. 🎉 PR fusionné[#37](https://github.com/offensive-vk/auto-label/pull/37)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-15. 🚀 Version publiée[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)dans[offensive-VK / Auto-Commit-Push](https://github.com/offensive-vk/auto-commit-push)
+1.  🎉 PR fusionné[#30](https://github.com/offensive-vk/develop-actions/pull/30)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+2.  🎉 PR fusionné[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  🎉 PR fusionné[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  💪 Open a ouvert les relations publiques[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+5.  🎉 PR fusionné[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  💪 Open a ouvert les relations publiques[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+7.  🎉 PR fusionné[#31](https://github.com/offensive-vk/Icons/pull/31)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+8.  💪 Open a ouvert les relations publiques[#31](https://github.com/offensive-vk/Icons/pull/31)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+9.  🎉 PR fusionné[#30](https://github.com/offensive-vk/Icons/pull/30)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+10. 💪 Open a ouvert les relations publiques[#30](https://github.com/offensive-vk/Icons/pull/30)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+11. 💪 Open a ouvert les relations publiques[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 Open a ouvert les relations publiques[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪 Open a ouvert les relations publiques[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🚀 Version publiée[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+15. 🎉 PR fusionné[#37](https://github.com/offensive-vk/auto-label/pull/37)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
