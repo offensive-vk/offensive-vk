@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Changeons notre attitude traditionnelle à la construction de programmes: au lieu d'imaginer que notre tâche principale est d'instruire un ordinateur quoi faire, concentrons-nous plutôt sur l'explication aux êtres humains ce que nous voulons qu'un ordinateur fasse.» - Donald E. Knuth ❞</i>
+<i>❝ «Je ne fais pas partie de ceux qui pensent que Bill Gates est le diable.  Je soupçonne simplement que si Microsoft a rencontré le diable, il n'aurait pas besoin d'un interprète. »- Nicholas Petreley ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
