@@ -30,6 +30,4 @@
 29. 🚀 Published release [v8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
 30. 🎉  Merged pull request [#8](https://github.com/offensive-vk/auto-commit-push/pull/8) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
 31. ✅ Approved on pull request [#8](https://github.com/offensive-vk/auto-commit-push/pull/8) in [offensive-vk/auto-commit-push](https://github.com/offensive-vk/auto-commit-push)
-32. 🎉  Merged pull request [#10](https://github.com/offensive-vk/auto-pr-action/pull/10) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-33. ✅ Approved on pull request [#10](https://github.com/offensive-vk/auto-pr-action/pull/10) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
 <!--END_SECTION:activity-->
