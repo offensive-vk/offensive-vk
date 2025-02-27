@@ -26,8 +26,8 @@ importers:
 
 packages:
 
-  '@octokit/app@15.1.4':
-    resolution: {integrity: sha512-PM1MqlPAnItjQIKWRmSoJu02+m7Eif4Am3w5C+Ctkw0//QETWMbW2ejBZhcw3aS7wRcFSbS+lH3NoYm614aZVQ==}
+  '@octokit/app@15.1.5':
+    resolution: {integrity: sha512-6cxLT9U8x7GGQ7lNWsKtFr4ccg9oLkGvowk373sX9HvX5U37kql5d55SzaQUxPE8PwgX2cqkzDm5NF5aPKevqg==}
     engines: {node: '>= 18'}
 
   '@octokit/auth-app@7.1.5':
@@ -203,7 +203,7 @@ packages:
 
 snapshots:
 
-  '@octokit/app@15.1.4':
+  '@octokit/app@15.1.5':
     dependencies:
       '@octokit/auth-app': 7.1.5
       '@octokit/auth-unauthenticated': 6.1.2
@@ -397,7 +397,7 @@ snapshots:
 
   octokit@4.1.2:
     dependencies:
-      '@octokit/app': 15.1.4
+      '@octokit/app': 15.1.5
       '@octokit/core': 6.1.4
       '@octokit/oauth-app': 7.1.6
       '@octokit/plugin-paginate-graphql': 5.2.4(@octokit/core@6.1.4)
