@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ La tarjeta de video Ultra Nvidia GeForce 6800 se construyó con 222 millones de transistores y se consideró entre las mejores tareasantes.</i>
+<i>❝ “Menos del 10% del código tiene que ver con el propósito aparente del sistema; El resto se ocupa de la entrada-salida, la validación de datos, el mantenimiento de la estructura de datos y otro mantenimiento de la limpieza. ”-Mary Shaw ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#31](https://github.com/offensive-vk/Icons/pull/31)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
-2.  💪 ABIERTO PR[#31](https://github.com/offensive-vk/Icons/pull/31)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
-3.  🎉 PR fusionado[#30](https://github.com/offensive-vk/Icons/pull/30)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
-4.  💪 ABIERTO PR[#30](https://github.com/offensive-vk/Icons/pull/30)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
-5.  💪 ABIERTO PR[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 ABIERTO PR[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 ABIERTO PR[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-9.  🎉 PR fusionado[#37](https://github.com/offensive-vk/auto-label/pull/37)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-10. 🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-commit-push/releases/tag/v8)en[ofensivo-vk/auto-compromiso](https://github.com/offensive-vk/auto-commit-push)
-11. 🎉 PR fusionado[#8](https://github.com/offensive-vk/auto-commit-push/pull/8)en[ofensivo-vk/auto-compromiso](https://github.com/offensive-vk/auto-commit-push)
-12. 🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-pr-action/pull/10)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
-13. 🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-repo-sync/releases/tag/v8)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
-14. 🎉 PR fusionado[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
-15. 💪 ABIERTO PR[#10](https://github.com/offensive-vk/auto-repo-sync/pull/10)en[ofensivo-vk/auto-repo-sincronización](https://github.com/offensive-vk/auto-repo-sync)
+1.  🎉 PR fusionado[#10035](https://github.com/offensive-vk/Classics/pull/10035)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+2.  🎉 PR fusionado[#30](https://github.com/offensive-vk/develop-actions/pull/30)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+3.  🎉 PR fusionado[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  🎉 PR fusionado[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+5.  💪 ABIERTO PR[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉 PR fusionado[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+7.  💪 ABIERTO PR[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+8.  🎉 PR fusionado[#31](https://github.com/offensive-vk/Icons/pull/31)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+9.  💪 ABIERTO PR[#31](https://github.com/offensive-vk/Icons/pull/31)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+10. 🎉 PR fusionado[#30](https://github.com/offensive-vk/Icons/pull/30)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+11. 💪 ABIERTO PR[#30](https://github.com/offensive-vk/Icons/pull/30)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+12. 💪 ABIERTO PR[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪 ABIERTO PR[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 💪 ABIERTO PR[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 🚀 Lanzamiento publicado[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
     <!--END_SECTION:activity-->
 
 </p>
