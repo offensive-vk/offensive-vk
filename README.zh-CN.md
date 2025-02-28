@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我不是那些认为比尔·盖茨是魔鬼的人之一。  我只是怀疑，如果微软曾与魔鬼见面，那将不需要口译员。”</i>
+<i>❝第一个网络摄像头在剑桥大学使用。其目的是监视咖啡机，以免浪费到空锅中旅行。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#30](https://github.com/offensive-vk/develop-actions/pull/30)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-2.  🎉合并PR[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  🎉合并PR[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-4.  💪打开PR[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  🎉合并PR[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  💪打开PR[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-7.  🎉合并PR[#31](https://github.com/offensive-vk/Icons/pull/31)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
-8.  💪打开PR[#31](https://github.com/offensive-vk/Icons/pull/31)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
-9.  🎉合并PR[#30](https://github.com/offensive-vk/Icons/pull/30)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
-10. 💪打开PR[#30](https://github.com/offensive-vk/Icons/pull/30)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
-11. 💪打开PR[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪打开PR[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪打开PR[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-14. 🚀发行[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-15. 🎉合并PR[#37](https://github.com/offensive-vk/auto-label/pull/37)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+1.  🎉合并PR[#320](https://github.com/offensive-vk/UntilEverything/pull/320)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉合并PR[#321](https://github.com/offensive-vk/UntilEverything/pull/321)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉合并PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  💪打开PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉合并PR[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  🎉合并PR[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🎉合并PR[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉合并PR[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🎉合并PR[#10035](https://github.com/offensive-vk/Classics/pull/10035)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+10. 🎉合并PR[#30](https://github.com/offensive-vk/develop-actions/pull/30)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+11. 🎉合并PR[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+12. 🎉合并PR[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+13. 💪打开PR[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉合并PR[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪打开PR[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
