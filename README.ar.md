@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "دعونا نغير موقفنا التقليدي تجاه بناء البرامج: بدلاً من تخيل أن مهمتنا الرئيسية هي توجيه الكمبيوتر إلى ما يجب القيام به ، دعنا نركز بدلاً من ذلك على شرح البشر ما نريد أن يفعله الكمبيوتر." - دونالد E. Knuth ❞</i>
+<i>❝ تم استخدام كاميرا الويب الأولى في جامعة كامبريدج. كان الغرض منه هو مراقبة صانع القهوة حتى لا يضيعوا الرحلات إلى وعاء فارغ.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#30](https://github.com/offensive-vk/develop-actions/pull/30)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-2.  🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  🎉 اندمج العلاقات العامة[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-4.  💪 فتح العلاقات العامة[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-7.  🎉 اندمج العلاقات العامة[#31](https://github.com/offensive-vk/Icons/pull/31)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
-8.  💪 فتح العلاقات العامة[#31](https://github.com/offensive-vk/Icons/pull/31)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
-9.  🎉 اندمج العلاقات العامة[#30](https://github.com/offensive-vk/Icons/pull/30)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
-10. 💪 فتح العلاقات العامة[#30](https://github.com/offensive-vk/Icons/pull/30)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
-11. 💪 فتح العلاقات العامة[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 فتح العلاقات العامة[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪 فتح العلاقات العامة[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🚀 الإصدار المنشور[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-15. 🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/auto-label/pull/37)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+1.  🎉 اندمج العلاقات العامة[#320](https://github.com/offensive-vk/UntilEverything/pull/320)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 اندمج العلاقات العامة[#321](https://github.com/offensive-vk/UntilEverything/pull/321)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 اندمج العلاقات العامة[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+4.  💪 فتح العلاقات العامة[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉 اندمج العلاقات العامة[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+6.  🎉 اندمج العلاقات العامة[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+7.  🎉 اندمج العلاقات العامة[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 اندمج العلاقات العامة[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+9.  🎉 اندمج العلاقات العامة[#10035](https://github.com/offensive-vk/Classics/pull/10035)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+10. 🎉 اندمج العلاقات العامة[#30](https://github.com/offensive-vk/develop-actions/pull/30)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
+11. 🎉 اندمج العلاقات العامة[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+12. 🎉 اندمج العلاقات العامة[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+13. 💪 فتح العلاقات العامة[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉 اندمج العلاقات العامة[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪 فتح العلاقات العامة[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
