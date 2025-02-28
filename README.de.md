@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Lassen Sie uns unsere traditionelle Einstellung zur Konstruktion von Programmen ändern: Anstatt sich vorzustellen, dass unsere Hauptaufgabe darin besteht, einen Computer zu unterweisen, was zu tun ist, lassen Sie uns eher darauf konzentrieren, den Menschen zu erklären, was wir von einem Computer wollen.“ - Donald. “ - Donald E. Knuth ❞</i>
+<i>❝Die erste Webcam wurde an der Cambridge University verwendet. Sein Ziel war es, eine Kaffeemaschine zu überwachen, damit sie keine Reisen in einen leeren Topf verschwenden.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#30](https://github.com/offensive-vk/develop-actions/pull/30)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-2.  🎉 Fusions PR[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-3.  🎉 Fusions PR[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-4.  💪 PR geöffnet[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-5.  🎉 Fusions PR[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-6.  💪 PR geöffnet[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-7.  🎉 Fusions PR[#31](https://github.com/offensive-vk/Icons/pull/31)In[Offensiv-VK/Ikonen](https://github.com/offensive-vk/Icons)
-8.  💪 PR geöffnet[#31](https://github.com/offensive-vk/Icons/pull/31)In[Offensiv-VK/Ikonen](https://github.com/offensive-vk/Icons)
-9.  🎉 Fusions PR[#30](https://github.com/offensive-vk/Icons/pull/30)In[Offensiv-VK/Ikonen](https://github.com/offensive-vk/Icons)
-10. 💪 PR geöffnet[#30](https://github.com/offensive-vk/Icons/pull/30)In[Offensiv-VK/Ikonen](https://github.com/offensive-vk/Icons)
-11. 💪 PR geöffnet[#8257](https://github.com/kamranahmedse/developer-roadmap/pull/8257)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 PR geöffnet[#8248](https://github.com/kamranahmedse/developer-roadmap/pull/8248)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪 PR geöffnet[#8245](https://github.com/kamranahmedse/developer-roadmap/pull/8245)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🚀 veröffentlichte Veröffentlichung[V8](https://github.com/offensive-vk/auto-label/releases/tag/v8)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-15. 🎉 Fusions PR[#37](https://github.com/offensive-vk/auto-label/pull/37)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+1.  🎉 Fusions PR[#320](https://github.com/offensive-vk/UntilEverything/pull/320)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 Fusions PR[#321](https://github.com/offensive-vk/UntilEverything/pull/321)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Fusions PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  💪 PR geöffnet[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉 Fusions PR[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  🎉 Fusions PR[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🎉 Fusions PR[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 Fusions PR[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🎉 Fusions PR[#10035](https://github.com/offensive-vk/Classics/pull/10035)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+10. 🎉 Fusions PR[#30](https://github.com/offensive-vk/develop-actions/pull/30)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+11. 🎉 Fusions PR[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+12. 🎉 Fusions PR[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+13. 💪 PR geöffnet[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉 Fusions PR[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪 PR geöffnet[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
