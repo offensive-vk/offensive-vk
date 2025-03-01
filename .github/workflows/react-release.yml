@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     name: React to Release
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
       - name: Extract Release ID
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
