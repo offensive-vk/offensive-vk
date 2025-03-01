@@ -35,7 +35,7 @@ jobs:
           react() {
             USER_TOKEN=$1
             EMOJI=$2
-            curl -s -X POST https://api.github.com/repos/${{ github.repository }}/releases/${{ env.RELEASE_ID }}/reactions \
+            curl -s -X POST https://api.github.com/repos/${{ github.repository }}/releases/tag/${{ env.RELEASE_ID }}/reactions \
               -H "Accept: application/vnd.github+json" \
               -H "Authorization: token $USER_TOKEN" \
               -d "{\"content\":\"$EMOJI\"}"
