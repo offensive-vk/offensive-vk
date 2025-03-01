@@ -27,7 +27,6 @@ jobs:
           USER3_PAT: ${{ secrets.CLASSIC_TOKEN }}
         run: |
           RELEASE_ID="curl https://api.github.com/repos/offensive-vk/offensive-vk/releases/tags/${{ github.event.release.tag_name || github.event.inputs.tag }} | jq ".id""
-          echo "RELEASE_ID=$RELEASE_ID" >> $GITHUB_ENV
           react() {
             USER_TOKEN=$1
             EMOJI=$2
