@@ -27,6 +27,7 @@ jobs:
           usernames: ['offensive-vk', 'TheHamsterBot', 'github-actions[bot]']
     steps:
       - name: Add Reaction to Issue or PR Comments
+        if: ${{ github.event_name == 'issue_comment' }}
         uses: peter-evans/create-or-update-comment@v4
         with:
           comment-id: ${{ github.event.comment.id }}
@@ -35,6 +36,7 @@ jobs:
 
       - name: Find the Comment in PR
         id: find
+        if: ${{ github.event_name != 'issue_comment' || github.event_name != 'workflow_dispatch' }}
         uses: peter-evans/find-comment@v3
         with:
           issue-number: ${{ github.event.pull_request.number }}
@@ -42,7 +44,7 @@ jobs:
 
       - name: Display Comment ID
         run: |
-          echo "Comment ID: ${{ steps.find.outputs.comment-id }}"
+          echo "Comment ID: ${{ steps.find.outputs.comment-id || github.event.comment.id }}"
 
       - name: Add Reaction to PR Comments
         uses: peter-evans/create-or-update-comment@v4
