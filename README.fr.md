@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Le moyen le plus probable que le monde soit détruit, la plupart des experts sont d'accord, est par accident.  C’est là que nous entrons; Nous sommes des professionnels de l'informatique.  Nous provoquons des accidents. »- Nathaniel Borenstein ❞</i>
+<i>❝Le premier nom de domaine enregistré était Symbolics.com gratuitement.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
