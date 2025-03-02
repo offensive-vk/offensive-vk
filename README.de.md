@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Die wahrscheinlichste Möglichkeit für die Zerstörung der Welt, die meisten Experten sind sich einig.  Hier kommen wir ins Spiel. Wir sind Computerprofis.  Wir verursachen Unfälle. “ - Nathaniel Borenstein ❞</i>
+<i>❝Der der erste registrierte Domain-Name war symbolics.com kostenlos.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
