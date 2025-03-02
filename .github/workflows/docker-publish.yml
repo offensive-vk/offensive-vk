@@ -58,17 +58,11 @@ jobs:
           flavor: |
             latest=true
           labels: |
-            org.opencontainers.image.base=Debian-Bullseye
-            org.opencontainers.image.title=Personal
-            org.opencontainers.image.vendor=Vedansh
+            org.opencontainers.image.base=debian-bullseye
+            org.opencontainers.image.title=personal
+            org.opencontainers.image.vendor=vedansh
             org.opencontainers.image.multi-platform=true
             org.opencontainers.image.favorite=true
-
-      - name: Install Cosign
-        if: github.event_name != 'pull_request'
-        uses: sigstore/cosign-installer@d7d6bc7722e3daa8354c50bcb52f4837da5e9b6a #v3.8.1
-        with:
-          cosign-release: 'v2.1.1'
 
       - name: Login to Dockerhub
         if: github.event_name != 'pull_request'
@@ -120,6 +114,18 @@ jobs:
           docker image inspect ${{ env.GHCR }}:${{ steps.meta.outputs.version }}
           docker pull ${{ env.GLCR }}:${{ steps.meta.outputs.version }}
           docker image inspect ${{ env.GLCR }}:${{ steps.meta.outputs.version }}
+
+      - name: Install Cosign
+        if: github.event_name != 'pull_request'
+        uses: sigstore/cosign-installer@d7d6bc7722e3daa8354c50bcb52f4837da5e9b6a #v3.8.1
+        with:
+          cosign-release: 'v2.1.1'
+
+      - name: Sign Docker Images
+        run: |
+          cosign sign --yes ${{ env.DOCKERHUB }}:${{ steps.meta.outputs.version }}
+          cosign sign --yes ${{ env.GLCR }}:${{ steps.meta.outputs.version }}
+          cosign sign --yes ${{ env.GHCR }}:${{ steps.meta.outputs.version }}
 
       - name: Verify Tags and Labels
         run: |
