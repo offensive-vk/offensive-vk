@@ -23,7 +23,7 @@ RUN apt-get update && apt-get install -y --fix-broken libc-bin && dpkg --configu
     htop \
     neofetch \
     && apt-get clean \
-    && rm -rf /var/lib/apt/lists/*
+    && rm -rf /var/lib/apt/lists/* Fgfdgdfg
 
 # Run some basic system checks
 RUN neofetch; df -T; uname -a
