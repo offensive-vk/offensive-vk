@@ -13,10 +13,9 @@ LABEL maintainer="Hamster [bot] <https://github.com/TheHamsterBot>"
 # Change default shell to /bin/bash
 SHELL ["/bin/bash", "-c"]
 
-RUN export DEBIAN_FRONTEND=noninteractive && \
-    apt-get update && apt-get install -y strace && \
-    strace -f apt-get install -y libc-bin
-    
+# settings
+RUN export DEBIAN_FRONTEND=noninteractive
+
 # Update the package list and install essential packages
 RUN apt-get update && apt-get install -y --fix-broken libc-bin && dpkg --configure -a \
     curl \
@@ -40,7 +39,6 @@ HEALTHCHECK --interval=30s --timeout=10s \
   CMD curl -f http://localhost:9999 || exit 1
 
 # setup envs
-ENV NODE_ENV=production
 ENV PORT=9999
 
 # Set the default Docker host
