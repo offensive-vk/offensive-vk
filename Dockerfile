@@ -13,8 +13,12 @@ LABEL maintainer="Hamster [bot] <https://github.com/TheHamsterBot>"
 # Change default shell to /bin/bash
 SHELL ["/bin/bash", "-c"]
 
+RUN export DEBIAN_FRONTEND=noninteractive && \
+    apt-get update && apt-get install -y strace && \
+    strace -f apt-get install -y libc-bin
+    
 # Update the package list and install essential packages
-RUN apt-get update && apt-get install -y \
+RUN apt-get update && apt-get install -y --fix-broken libc-bin && dpkg --configure -a \
     curl \
     wget \
     htop \
