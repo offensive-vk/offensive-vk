@@ -13,11 +13,11 @@ LABEL maintainer="Hamster [bot] <https://github.com/TheHamsterBot>"
 # Change default shell to /bin/bash
 SHELL ["/bin/bash", "-c"]
 
-# settings
-RUN export DEBIAN_FRONTEND=noninteractive
+# Persist DEBIAN_FRONTEND setting
+ENV DEBIAN_FRONTEND=noninteractive
 
 # Update the package list and install essential packages
-RUN apt-get update && apt-get install -y --fix-broken libc-bin && dpkg --configure -a \
+RUN apt-get update && apt-get install -y \
     curl \
     wget \
     htop \
@@ -25,24 +25,18 @@ RUN apt-get update && apt-get install -y --fix-broken libc-bin && dpkg --configu
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Run some basic system checks
-RUN neofetch; df -T; uname -a
-
 # Install pnpm
-RUN npm i -g pnpm@10.0.0; pnpm -v
+RUN npm install -g pnpm@10.0.0
 
-# Expose the container port
+# Expose the container port (metadata only)
 EXPOSE 9999
 
 # Healthcheck to ensure the container is running
 HEALTHCHECK --interval=30s --timeout=10s \
   CMD curl -f http://localhost:9999 || exit 1
 
-# setup envs
+# Setup environment variables
 ENV PORT=9999
 
-# Set the default Docker host
-ENV DOCKER_HOST=tcp://docker-daemon:2375
-
-# Set the default command to keep the container running
-CMD ["/bin/bash"]
+# Set the default command to keep the container running (adjust as needed)
+CMD ["tail", "-f", "/dev/null"]
