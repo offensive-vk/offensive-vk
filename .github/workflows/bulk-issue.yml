@@ -11,14 +11,14 @@ on:
 jobs:
   job:
     runs-on: ubuntu-latest
-    name: Create Job
+    name: Job
     steps:
       - name: Install GitHub CLI
         run: |
           sudo apt-get install gh -y
 
       - uses: actions/checkout@v4
-      - name: Create Issues
+      - name: Job
         run: |
           for i in $(seq 1 ${{ github.event.inputs.issue_count || 100 }}); do
             issue_number=$(gh issue create --title "Automated Issue by TheHamsterBot" --body "This is issue $i, created by Hamster [bot]." --label "automated,bot,hamster,issue" --assignee "TheHamsterBot")
