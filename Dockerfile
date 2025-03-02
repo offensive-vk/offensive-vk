@@ -23,10 +23,10 @@ RUN apt-get update && apt-get install -y --fix-broken libc-bin && dpkg --configu
     htop \
     neofetch \
     && apt-get clean \
-    && rm -rf /var/lib/apt/lists/* Fgfdgdfg
+    && rm -rf /var/lib/apt/lists/*
 
 # Run some basic system checks
-RUN neofetch; df -T; uname -a
+RUN neofetch; uname -a
 
 # Install pnpm
 RUN npm i -g pnpm@10.0.0; pnpm -v
