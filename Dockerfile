@@ -19,8 +19,6 @@ RUN apt-get update && apt-get install -y \
     wget \
     htop \
     neofetch \
-    docker.io \
-    nodejs \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 

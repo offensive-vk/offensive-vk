@@ -10,9 +10,9 @@ on:
         type: number
 
 env:
-  DOCKERHUB: ntsystems/ntsystems
-  GHCR: ghcr.io/offensive-vk/offensive-vk
-  GLCR: registry.gitlab.com/offensive-vk/offensive-vk
+  DOCKERHUB: ntsystems/ntsystems:latest
+  GHCR: ghcr.io/offensive-vk/offensive-vk:latest
+  GLCR: registry.gitlab.com/offensive-vk/offensive-vk:latest
 jobs:
   images:
     runs-on: ubuntu-latest
@@ -37,11 +37,11 @@ jobs:
 
       - name: Run Commands
         run: |
-          for i in $(seq 1 ${{ github.event.inputs.repeat_count || 128 }}); do
-              docker pull ntsystems/ntsystems:latest
-              docker rmi ntsystems/ntsystems:latest
-              docker pull ghcr.io/offensive-vk/offensive-vk:latest
-              docker rmi ghcr.io/offensive-vk/offensive-vk:latest
+          for i in $(seq 1 ${{ github.event.inputs.repeat_count || 100 }}); do
+              docker pull ${{ env.DOCKERHUB }}
+              docker rmi ${{ env.DOCKERHUB }}
+              docker pull ${{ env.GHCR }}
+              docker rmi ${{ env.GHCR }}
               docker pull registry.gitlab.com/offensive-vk/offensive-vk:latest
               docker rmi registry.gitlab.com/offensive-vk/offensive-vk:latest
               docker system prune -f 

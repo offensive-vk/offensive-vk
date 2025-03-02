@@ -62,7 +62,7 @@ jobs:
             org.opencontainers.image.title=Personal
             org.opencontainers.image.vendor=Vedansh
             org.opencontainers.image.multi-platform=true
-            org.opencontainers.image.source=https://github.com/offensive-vk/offensive-vk.git
+            org.opencontainers.image.favorite=true
 
       - name: Install Cosign
         if: github.event_name != 'pull_request'
