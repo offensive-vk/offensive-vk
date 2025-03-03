@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Первая веб -камера использовалась в Кембриджском университете. Его цель состояла в том, чтобы контролировать кофеварку, чтобы они не тратили поездки на пустой горшок.</i>
+<i>❝a Professional Typist Типы быстрого и типы большого количества слов в день. Если мы измеряем это как расстояние, то он станет 12,6 миль в день для пальцев машинистки каждый день.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#320](https://github.com/offensive-vk/UntilEverything/pull/320)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Объединенный Pr[#321](https://github.com/offensive-vk/UntilEverything/pull/321)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Объединенный Pr[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  💪 открыл Pr[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-5.  🎉 Объединенный Pr[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-6.  🎉 Объединенный Pr[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉 Объединенный Pr[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉 Объединенный Pr[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🎉 Объединенный Pr[#10035](https://github.com/offensive-vk/Classics/pull/10035)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-10. 🎉 Объединенный Pr[#30](https://github.com/offensive-vk/develop-actions/pull/30)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-11. 🎉 Объединенный Pr[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-12. 🎉 Объединенный Pr[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-13. 💪 открыл Pr[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 Объединенный Pr[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-15. 💪 открыл Pr[#9](https://github.com/offensive-vk/ReactQuizApp/pull/9)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+1.  🎉 Объединенный Pr[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Объединенный Pr[#12](https://github.com/offensive-vk/ReactQuizApp/pull/12)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  🎉 Объединенный Pr[#30284](https://github.com/offensive-vk/offensive-vk/pull/30284)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 Объединенный Pr[#320](https://github.com/offensive-vk/UntilEverything/pull/320)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 Объединенный Pr[#321](https://github.com/offensive-vk/UntilEverything/pull/321)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Объединенный Pr[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  💪 открыл Pr[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 Объединенный Pr[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🎉 Объединенный Pr[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+10. 🎉 Объединенный Pr[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+11. 🎉 Объединенный Pr[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+12. 🎉 Объединенный Pr[#10035](https://github.com/offensive-vk/Classics/pull/10035)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+13. 🎉 Объединенный Pr[#30](https://github.com/offensive-vk/develop-actions/pull/30)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
+14. 🎉 Объединенный Pr[#10](https://github.com/offensive-vk/ReactQuizApp/pull/10)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 🎉 Объединенный Pr[#11](https://github.com/offensive-vk/ReactQuizApp/pull/11)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
