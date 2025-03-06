@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ El nombre original de Windows era Interface Manager.❞</i>
+<i>❝ “Los humanos usan debilidades en el comportamiento humano para garantizar que sean replicados y distribuidos.  En otras palabras, los engañados se aprovechan del sistema operativo humano. ” - Stewart Kirkpatrick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionado[#31](https://github.com/offensive-vk/develop-actions/pull/31)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-3.  🎉 PR fusionado[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 PR fusionado[#12](https://github.com/offensive-vk/ReactQuizApp/pull/12)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  🎉 PR fusionado[#30284](https://github.com/offensive-vk/offensive-vk/pull/30284)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 PR fusionado[#320](https://github.com/offensive-vk/UntilEverything/pull/320)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 PR fusionado[#321](https://github.com/offensive-vk/UntilEverything/pull/321)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 PR fusionado[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  💪 ABIERTO PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-10. 🎉 PR fusionado[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-11. 🎉 PR fusionado[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-12. 🎉 PR fusionado[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 PR fusionado[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 🎉 PR fusionado[#10035](https://github.com/offensive-vk/Classics/pull/10035)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-15. 🎉 PR fusionado[#30](https://github.com/offensive-vk/develop-actions/pull/30)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+1.  🎉 PR fusionado[#10036](https://github.com/offensive-vk/Classics/pull/10036)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+2.  🎉 PR fusionado[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 PR fusionado[#31](https://github.com/offensive-vk/develop-actions/pull/31)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+4.  🎉 PR fusionado[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 PR fusionado[#12](https://github.com/offensive-vk/ReactQuizApp/pull/12)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉 PR fusionado[#30284](https://github.com/offensive-vk/offensive-vk/pull/30284)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 PR fusionado[#320](https://github.com/offensive-vk/UntilEverything/pull/320)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 PR fusionado[#321](https://github.com/offensive-vk/UntilEverything/pull/321)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionado[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+10. 💪 ABIERTO PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+11. 🎉 PR fusionado[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+12. 🎉 PR fusionado[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+13. 🎉 PR fusionado[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 🎉 PR fusionado[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 🎉 PR fusionado[#10035](https://github.com/offensive-vk/Classics/pull/10035)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
     <!--END_SECTION:activity-->
 
 </p>
