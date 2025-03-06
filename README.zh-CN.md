@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows的原始名称是接口管理器。</i>
+<i>❝“骗局在人类行为中使用弱点来确保它们被复制和分布。  换句话说，骗局对人类操作系统捕食。”  -  Stewart Kirkpatrick❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉合并PR[#31](https://github.com/offensive-vk/develop-actions/pull/31)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-3.  🎉合并PR[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉合并PR[#12](https://github.com/offensive-vk/ReactQuizApp/pull/12)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  🎉合并PR[#30284](https://github.com/offensive-vk/offensive-vk/pull/30284)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉合并PR[#320](https://github.com/offensive-vk/UntilEverything/pull/320)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-7.  🎉合并PR[#321](https://github.com/offensive-vk/UntilEverything/pull/321)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-8.  🎉合并PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  💪打开PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-10. 🎉合并PR[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-11. 🎉合并PR[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-12. 🎉合并PR[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉合并PR[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 🎉合并PR[#10035](https://github.com/offensive-vk/Classics/pull/10035)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-15. 🎉合并PR[#30](https://github.com/offensive-vk/develop-actions/pull/30)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+1.  🎉合并PR[#10036](https://github.com/offensive-vk/Classics/pull/10036)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+2.  🎉合并PR[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉合并PR[#31](https://github.com/offensive-vk/develop-actions/pull/31)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+4.  🎉合并PR[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉合并PR[#12](https://github.com/offensive-vk/ReactQuizApp/pull/12)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉合并PR[#30284](https://github.com/offensive-vk/offensive-vk/pull/30284)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+7.  🎉合并PR[#320](https://github.com/offensive-vk/UntilEverything/pull/320)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+8.  🎉合并PR[#321](https://github.com/offensive-vk/UntilEverything/pull/321)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉合并PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+10. 💪打开PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+11. 🎉合并PR[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+12. 🎉合并PR[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+13. 🎉合并PR[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 🎉合并PR[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+15. 🎉合并PR[#10035](https://github.com/offensive-vk/Classics/pull/10035)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
     <!--END_SECTION:activity-->
 
 </p>
