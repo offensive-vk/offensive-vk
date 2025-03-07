@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ “Los humanos usan debilidades en el comportamiento humano para garantizar que sean replicados y distribuidos.  En otras palabras, los engañados se aprovechan del sistema operativo humano. ” - Stewart Kirkpatrick ❞</i>
+<i>❝ "Niveles de datos todos los argumentos". Anthony W. Richardson❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
