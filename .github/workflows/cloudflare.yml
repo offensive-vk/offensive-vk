@@ -1,0 +1,31 @@
+name: 🖥️ Upload Objects to R2 Server
+
+on: 
+  workflow_dispatch:
+
+jobs:
+   upload: 
+      runs-on: ubuntu-latest
+      name: Upload
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+
+        - name: Authenticate
+          id: upload
+          uses: ryand56/r2-upload-action@latest
+          with:
+            r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+            r2-access-key-id: ${{ secrets.R2_ACCESS_KEY }}
+            r2-secret-access-key: ${{ secrets.R2_SECRET_KEY }}
+            r2-bucket: ${{ secrets.R2_BUCKET_NAME }}
+            source-dir: ./
+            destination-dir: offensive-vk/offensive-vk
+            max-retries: 5
+            output-file-url: true
+            keep-file-fresh: true
+        
+        - name: Report
+          if: ${{ steps.upload.outputs.result != 'success' }}
+          run: |
+             echo "Oops ! Upload Failed !"
