@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“骗局在人类行为中使用弱点来确保它们被复制和分布。  换句话说，骗局对人类操作系统捕食。”  -  Stewart Kirkpatrick❞</i>
+<i>❝“数据级别所有参数。”  -  Anthony W.Richardson❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
