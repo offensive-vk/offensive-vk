@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ “Hoaxen verwenden Schwächen im menschlichen Verhalten, um sicherzustellen, dass sie repliziert und verteilt werden.  Mit anderen Worten, Hoaxes Beute dem menschlichen Betriebssystem. “ - Stewart Kirkpatrick ❞</i>
+<i>❝ "Datenniveaus alle Argumente" - Anthony W. Richardson❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
