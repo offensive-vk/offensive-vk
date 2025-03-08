@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Datenniveaus alle Argumente" - Anthony W. Richardson❞</i>
+<i>❝ Es gibt über 1,5 Milliarden Instant -Messaging -IDs in der Welt. ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#10036](https://github.com/offensive-vk/Classics/pull/10036)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-2.  🎉 Fusions PR[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 Fusions PR[#31](https://github.com/offensive-vk/develop-actions/pull/31)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-4.  🎉 Fusions PR[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 Fusions PR[#12](https://github.com/offensive-vk/ReactQuizApp/pull/12)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-6.  🎉 Fusions PR[#30284](https://github.com/offensive-vk/offensive-vk/pull/30284)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 Fusions PR[#320](https://github.com/offensive-vk/UntilEverything/pull/320)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 Fusions PR[#321](https://github.com/offensive-vk/UntilEverything/pull/321)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 Fusions PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-10. 💪 PR geöffnet[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-11. 🎉 Fusions PR[#85](https://github.com/offensive-vk/AwesomeCloud/pull/85)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-12. 🎉 Fusions PR[#83](https://github.com/offensive-vk/AwesomeCloud/pull/83)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 Fusions PR[#87](https://github.com/offensive-vk/AwesomeCloud/pull/87)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-14. 🎉 Fusions PR[#88](https://github.com/offensive-vk/AwesomeCloud/pull/88)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-15. 🎉 Fusions PR[#10035](https://github.com/offensive-vk/Classics/pull/10035)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+1.  🎉 Fusions PR[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Fusions PR[#323](https://github.com/offensive-vk/UntilEverything/pull/323)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Fusions PR[#324](https://github.com/offensive-vk/UntilEverything/pull/324)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+4.  🔒 geschlossenes Problem[#227274](https://github.com/microsoft/vscode/issues/227274)In[Microsoft/VSCODE](https://github.com/microsoft/vscode)
+5.  🎉 Fusions PR[#325](https://github.com/offensive-vk/UntilEverything/pull/325)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Fusions PR[#322](https://github.com/offensive-vk/UntilEverything/pull/322)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 Fusions PR[#10036](https://github.com/offensive-vk/Classics/pull/10036)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+8.  🎉 Fusions PR[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 Fusions PR[#31](https://github.com/offensive-vk/develop-actions/pull/31)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+10. 🎉 Fusions PR[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Fusions PR[#12](https://github.com/offensive-vk/ReactQuizApp/pull/12)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+12. 🎉 Fusions PR[#30284](https://github.com/offensive-vk/offensive-vk/pull/30284)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 Fusions PR[#320](https://github.com/offensive-vk/UntilEverything/pull/320)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Fusions PR[#321](https://github.com/offensive-vk/UntilEverything/pull/321)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Fusions PR[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
     <!--END_SECTION:activity-->
 
 </p>
