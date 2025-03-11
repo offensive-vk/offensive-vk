@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝facebook имеет более миллиарда пользователей. Если бы это была страна, это была бы третья по величине в мире.</i>
+<i>❝a Компьютерный червь присутствовал до того, как он мог получить доступ к вашей ОС Windows XP, может загрузить патч из Microsoft, чтобы существовать уязвимость, используя ее для заражения системы и после удаления.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 открыл Pr[#8311](https://github.com/kamranahmedse/developer-roadmap/pull/8311)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 Объединенный Pr[#7](https://github.com/offensive-vk/auto-contributions/pull/7)в[Наступление-VK/Автоципликуя](https://github.com/offensive-vk/auto-contributions)
-3.  🎉 Объединенный Pr[#327](https://github.com/offensive-vk/UntilEverything/pull/327)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Объединенный Pr[#326](https://github.com/offensive-vk/UntilEverything/pull/326)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-5.  💪 открыл Pr[#326](https://github.com/offensive-vk/UntilEverything/pull/326)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 Объединенный Pr[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 Объединенный Pr[#323](https://github.com/offensive-vk/UntilEverything/pull/323)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 Объединенный Pr[#324](https://github.com/offensive-vk/UntilEverything/pull/324)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-9.  🔒 Закрытая проблема[#227274](https://github.com/microsoft/vscode/issues/227274)в[Microsoft/Vscode](https://github.com/microsoft/vscode)
-10. 🎉 Объединенный Pr[#325](https://github.com/offensive-vk/UntilEverything/pull/325)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Объединенный Pr[#322](https://github.com/offensive-vk/UntilEverything/pull/322)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Объединенный Pr[#10036](https://github.com/offensive-vk/Classics/pull/10036)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-13. 🎉 Объединенный Pr[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 Объединенный Pr[#31](https://github.com/offensive-vk/develop-actions/pull/31)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-15. 🎉 Объединенный Pr[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+1.  💪 открыл Pr[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  🎉 Объединенный Pr[#13](https://github.com/offensive-vk/ReactQuizApp/pull/13)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  💪 открыл Pr[#8311](https://github.com/kamranahmedse/developer-roadmap/pull/8311)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 Объединенный Pr[#7](https://github.com/offensive-vk/auto-contributions/pull/7)в[Наступление-VK/Автоципликуя](https://github.com/offensive-vk/auto-contributions)
+5.  🎉 Объединенный Pr[#327](https://github.com/offensive-vk/UntilEverything/pull/327)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Объединенный Pr[#326](https://github.com/offensive-vk/UntilEverything/pull/326)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+7.  💪 открыл Pr[#326](https://github.com/offensive-vk/UntilEverything/pull/326)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 Объединенный Pr[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 Объединенный Pr[#323](https://github.com/offensive-vk/UntilEverything/pull/323)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 Объединенный Pr[#324](https://github.com/offensive-vk/UntilEverything/pull/324)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+11. 🔒 Закрытая проблема[#227274](https://github.com/microsoft/vscode/issues/227274)в[Microsoft/Vscode](https://github.com/microsoft/vscode)
+12. 🎉 Объединенный Pr[#325](https://github.com/offensive-vk/UntilEverything/pull/325)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Объединенный Pr[#322](https://github.com/offensive-vk/UntilEverything/pull/322)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Объединенный Pr[#10036](https://github.com/offensive-vk/Classics/pull/10036)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+15. 🎉 Объединенный Pr[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
