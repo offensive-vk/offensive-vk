@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Hay más de 1.500 millones de identificaciones de mensajería instantánea en el mundo.</i>
+<i>❝ Un gusano de computadora estaba presente antes de que pudiera acceder a su sistema operativo Windows XP, podría descargar un parche de Microsoft para existir la vulnerabilidad que se usó para infectar el sistema y después de eliminarlo.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionado[#323](https://github.com/offensive-vk/UntilEverything/pull/323)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionado[#324](https://github.com/offensive-vk/UntilEverything/pull/324)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 Problema cerrado[#227274](https://github.com/microsoft/vscode/issues/227274)en[Microsoft/VScode](https://github.com/microsoft/vscode)
-5.  🎉 PR fusionado[#325](https://github.com/offensive-vk/UntilEverything/pull/325)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 PR fusionado[#322](https://github.com/offensive-vk/UntilEverything/pull/322)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 PR fusionado[#10036](https://github.com/offensive-vk/Classics/pull/10036)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-8.  🎉 PR fusionado[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 PR fusionado[#31](https://github.com/offensive-vk/develop-actions/pull/31)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-10. 🎉 PR fusionado[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 PR fusionado[#12](https://github.com/offensive-vk/ReactQuizApp/pull/12)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-12. 🎉 PR fusionado[#30284](https://github.com/offensive-vk/offensive-vk/pull/30284)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 PR fusionado[#320](https://github.com/offensive-vk/UntilEverything/pull/320)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 PR fusionado[#321](https://github.com/offensive-vk/UntilEverything/pull/321)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 PR fusionado[#89](https://github.com/offensive-vk/AwesomeCloud/pull/89)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  💪 ABIERTO PR[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  🎉 PR fusionado[#13](https://github.com/offensive-vk/ReactQuizApp/pull/13)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  💪 ABIERTO PR[#8311](https://github.com/kamranahmedse/developer-roadmap/pull/8311)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 PR fusionado[#7](https://github.com/offensive-vk/auto-contributions/pull/7)en[ofensivo-vk/auto-contribución](https://github.com/offensive-vk/auto-contributions)
+5.  🎉 PR fusionado[#327](https://github.com/offensive-vk/UntilEverything/pull/327)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 PR fusionado[#326](https://github.com/offensive-vk/UntilEverything/pull/326)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+7.  💪 ABIERTO PR[#326](https://github.com/offensive-vk/UntilEverything/pull/326)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 PR fusionado[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 PR fusionado[#323](https://github.com/offensive-vk/UntilEverything/pull/323)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 PR fusionado[#324](https://github.com/offensive-vk/UntilEverything/pull/324)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+11. 🔒 Problema cerrado[#227274](https://github.com/microsoft/vscode/issues/227274)en[Microsoft/VScode](https://github.com/microsoft/vscode)
+12. 🎉 PR fusionado[#325](https://github.com/offensive-vk/UntilEverything/pull/325)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 PR fusionado[#322](https://github.com/offensive-vk/UntilEverything/pull/322)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 PR fusionado[#10036](https://github.com/offensive-vk/Classics/pull/10036)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+15. 🎉 PR fusionado[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
