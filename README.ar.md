@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ إذا كان هناك جهاز كمبيوتر قوي مثل الدماغ البشري ، فسيكون قادرًا على القيام بـ 38 ألف تريليون عملية في الثانية ويحمل أكثر من 3580 من الذاكرة.</i>
+<i>❝ "XML ليست لغة بمعنى لغة البرمجة أكثر من الرسومات على منديل هي لغة." - تشارلز سيموني ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#327](https://github.com/offensive-vk/UntilEverything/pull/327)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 اندمج العلاقات العامة[#326](https://github.com/offensive-vk/UntilEverything/pull/326)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-3.  💪 فتح العلاقات العامة[#326](https://github.com/offensive-vk/UntilEverything/pull/326)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 اندمج العلاقات العامة[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 اندمج العلاقات العامة[#323](https://github.com/offensive-vk/UntilEverything/pull/323)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 اندمج العلاقات العامة[#324](https://github.com/offensive-vk/UntilEverything/pull/324)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-7.  🔒 قضية مغلقة[#227274](https://github.com/microsoft/vscode/issues/227274)في[Microsoft/vscode](https://github.com/microsoft/vscode)
-8.  🎉 اندمج العلاقات العامة[#325](https://github.com/offensive-vk/UntilEverything/pull/325)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 اندمج العلاقات العامة[#322](https://github.com/offensive-vk/UntilEverything/pull/322)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 اندمج العلاقات العامة[#10036](https://github.com/offensive-vk/Classics/pull/10036)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-11. 🎉 اندمج العلاقات العامة[#30309](https://github.com/offensive-vk/offensive-vk/pull/30309)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 اندمج العلاقات العامة[#31](https://github.com/offensive-vk/develop-actions/pull/31)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-13. 🎉 اندمج العلاقات العامة[#30295](https://github.com/offensive-vk/offensive-vk/pull/30295)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 اندمج العلاقات العامة[#12](https://github.com/offensive-vk/ReactQuizApp/pull/12)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
-15. 🎉 اندمج العلاقات العامة[#30284](https://github.com/offensive-vk/offensive-vk/pull/30284)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 اندمج العلاقات العامة[#10037](https://github.com/offensive-vk/Classics/pull/10037)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+2.  💪 فتح العلاقات العامة[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  🎉 اندمج العلاقات العامة[#13](https://github.com/offensive-vk/ReactQuizApp/pull/13)في[الهجوم-VK/ReactQuizapp](https://github.com/offensive-vk/ReactQuizApp)
+4.  💪 فتح العلاقات العامة[#8311](https://github.com/kamranahmedse/developer-roadmap/pull/8311)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 اندمج العلاقات العامة[#7](https://github.com/offensive-vk/auto-contributions/pull/7)في[الهجوم-VK/توسيع تلقائي](https://github.com/offensive-vk/auto-contributions)
+6.  🎉 اندمج العلاقات العامة[#327](https://github.com/offensive-vk/UntilEverything/pull/327)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 اندمج العلاقات العامة[#326](https://github.com/offensive-vk/UntilEverything/pull/326)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+8.  💪 فتح العلاقات العامة[#326](https://github.com/offensive-vk/UntilEverything/pull/326)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 اندمج العلاقات العامة[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 اندمج العلاقات العامة[#323](https://github.com/offensive-vk/UntilEverything/pull/323)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 اندمج العلاقات العامة[#324](https://github.com/offensive-vk/UntilEverything/pull/324)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+12. 🔒 قضية مغلقة[#227274](https://github.com/microsoft/vscode/issues/227274)في[Microsoft/vscode](https://github.com/microsoft/vscode)
+13. 🎉 اندمج العلاقات العامة[#325](https://github.com/offensive-vk/UntilEverything/pull/325)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 اندمج العلاقات العامة[#322](https://github.com/offensive-vk/UntilEverything/pull/322)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 اندمج العلاقات العامة[#10036](https://github.com/offensive-vk/Classics/pull/10036)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
     <!--END_SECTION:activity-->
 
 </p>
