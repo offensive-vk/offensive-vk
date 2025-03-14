@@ -40,5 +40,4 @@
 39. ✅ Approved on pull request [#30295](https://github.com/offensive-vk/offensive-vk/pull/30295) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 40. 🎉  Merged pull request [#12](https://github.com/offensive-vk/ReactQuizApp/pull/12) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
 41. ✅ Approved on pull request [#12](https://github.com/offensive-vk/ReactQuizApp/pull/12) in [offensive-vk/ReactQuizApp](https://github.com/offensive-vk/ReactQuizApp)
-42. ✅ Approved on pull request [#30288](https://github.com/offensive-vk/offensive-vk/pull/30288) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
