@@ -22,9 +22,6 @@ jobs:
   add-reaction:
     name: Add Reaction
     runs-on: ubuntu-latest
-    strategy:
-        matrix:
-          usernames: ['offensive-vk', 'TheHamsterBot', 'github-actions[bot]']
     steps:
       - name: Add Reaction to Issue or PR Comments
         if: ${{ github.event_name == 'issue_comment' }}
