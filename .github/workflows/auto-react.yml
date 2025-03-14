@@ -38,9 +38,10 @@ jobs:
         id: find
         if: ${{ github.event_name != 'issue_comment' || github.event_name != 'workflow_dispatch' }}
         uses: peter-evans/find-comment@v3
+        continue-on-error: true
         with:
           issue-number: ${{ github.event.pull_request.number }}
-          comment-author: ${{ matrix.usernames }}
+          comment-author: 'github-actions[bot]'
 
       - name: Display Comment ID
         run: |
