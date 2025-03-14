@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le nom d'origine de Windows était le gestionnaire d'interface.</i>
+<i>En mai 1997, un supercalculateur IBM connu sous le nom de Deep Blue Beat puis des échecs le champion du monde Garry Kasparov, qui s'était vanté de ne jamais perdre contre une machine. Après 15 ans, il a été découvert que la décision critique faite par Deep Blue était due à un bogue dans son logiciel.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
