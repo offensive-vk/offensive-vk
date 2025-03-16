@@ -37,6 +37,4 @@
 36. 🎉  Merged pull request [#31](https://github.com/offensive-vk/develop-actions/pull/31) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 37. ✅ Approved on pull request [#31](https://github.com/offensive-vk/develop-actions/pull/31) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 38. ✅ Approved on pull request [#30301](https://github.com/offensive-vk/offensive-vk/pull/30301) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-39. ✅ Approved on pull request [#30298](https://github.com/offensive-vk/offensive-vk/pull/30298) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-40. 🎉  Merged pull request [#30295](https://github.com/offensive-vk/offensive-vk/pull/30295) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
