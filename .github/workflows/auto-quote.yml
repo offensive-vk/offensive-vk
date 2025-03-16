@@ -9,7 +9,7 @@ jobs:
   update-quote:
     name: Update Quote
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,4 +24,3 @@ jobs:
 
 
             Co-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-            Co-authored-by: Vedansh <superuser.ntsystems@outlook.com>
