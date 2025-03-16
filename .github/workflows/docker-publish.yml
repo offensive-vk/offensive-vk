@@ -121,12 +121,6 @@ jobs:
         with:
           cosign-release: 'v2.1.1'
 
-      - name: Sign Docker Images
-        run: |
-          cosign sign --yes ${{ env.DOCKERHUB }}:${{ steps.meta.outputs.version }}
-          cosign sign --yes ${{ env.GLCR }}:${{ steps.meta.outputs.version }}
-          cosign sign --yes ${{ env.GHCR }}:${{ steps.meta.outputs.version }}
-
       - name: Verify Tags and Labels
         run: |
           echo -e "\n \t *** VERIFICATION STARTED ***"
