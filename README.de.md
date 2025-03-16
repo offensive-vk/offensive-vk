@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der ursprünglicher Name von Windows war Interface Manager.❞</i>
+<i>❝ibm 5120 aus dem Jahr 1980 war der schwerste Desktop -Computer, der jemals hergestellt wurde. Es wog ungefähr 105 Pfund, ohne die 130 Pfund externe Diskette.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
