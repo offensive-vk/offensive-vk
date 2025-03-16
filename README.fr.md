@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>En mai 1997, un supercalculateur IBM connu sous le nom de Deep Blue Beat puis des échecs le champion du monde Garry Kasparov, qui s'était vanté de ne jamais perdre contre une machine. Après 15 ans, il a été découvert que la décision critique faite par Deep Blue était due à un bogue dans son logiciel.</i>
+<i>❝IBM 5120 de 1980 a été le plus lourd ordinateur de bureau jamais réalisé. Il pesait environ 105 livres, sans compter les 130 livres de disquette externe.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
