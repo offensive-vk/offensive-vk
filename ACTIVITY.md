@@ -37,5 +37,4 @@
 36. 🎉  Merged pull request [#324](https://github.com/offensive-vk/UntilEverything/pull/324) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 37. ✅ Approved on pull request [#324](https://github.com/offensive-vk/UntilEverything/pull/324) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 38. 🔒 Closed issue [#227274](https://github.com/microsoft/vscode/issues/227274) in [microsoft/vscode](https://github.com/microsoft/vscode)
-39. 🎉  Merged pull request [#325](https://github.com/offensive-vk/UntilEverything/pull/325) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
