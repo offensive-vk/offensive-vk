@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM 5120 de 1980 a été le plus lourd ordinateur de bureau jamais réalisé. Il pesait environ 105 livres, sans compter les 130 livres de disquette externe.</i>
+<i>❝ «Les bonnes spécifications amélioreront toujours la productivité des programmeurs bien mieux que tout outil ou technique de programmation.» - Milt Bryce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#328](https://github.com/offensive-vk/UntilEverything/pull/328)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 PR fusionné[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  🎉 PR fusionné[#10037](https://github.com/offensive-vk/Classics/pull/10037)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-4.  💪 Open a ouvert les relations publiques[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  🎉 PR fusionné[#13](https://github.com/offensive-vk/ReactQuizApp/pull/13)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  💪 Open a ouvert les relations publiques[#8311](https://github.com/kamranahmedse/developer-roadmap/pull/8311)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-contributions/pull/7)dans[Contributions de VK / Auto offensive](https://github.com/offensive-vk/auto-contributions)
-8.  🎉 PR fusionné[#327](https://github.com/offensive-vk/UntilEverything/pull/327)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 PR fusionné[#326](https://github.com/offensive-vk/UntilEverything/pull/326)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-10. 💪 Open a ouvert les relations publiques[#326](https://github.com/offensive-vk/UntilEverything/pull/326)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 PR fusionné[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 PR fusionné[#323](https://github.com/offensive-vk/UntilEverything/pull/323)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 PR fusionné[#324](https://github.com/offensive-vk/UntilEverything/pull/324)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-14. 🔒 Problème fermé[#227274](https://github.com/microsoft/vscode/issues/227274)dans[Microsoft / Vscode](https://github.com/microsoft/vscode)
-15. 🎉 PR fusionné[#325](https://github.com/offensive-vk/UntilEverything/pull/325)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 PR fusionné[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  ❌ PR fermé[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  🗣 a commenté[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+4.  ❗ Problème ouvert[#38](https://github.com/offensive-vk/auto-label/issues/38)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+5.  🎉 PR fusionné[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉 PR fusionné[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+7.  💪 Open a ouvert les relations publiques[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+8.  🎉 PR fusionné[#328](https://github.com/offensive-vk/UntilEverything/pull/328)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionné[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+10. 🎉 PR fusionné[#10037](https://github.com/offensive-vk/Classics/pull/10037)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+11. 💪 Open a ouvert les relations publiques[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+12. 🎉 PR fusionné[#13](https://github.com/offensive-vk/ReactQuizApp/pull/13)dans[Offensive-VK / Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+13. 💪 Open a ouvert les relations publiques[#8311](https://github.com/kamranahmedse/developer-roadmap/pull/8311)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-contributions/pull/7)dans[Contributions de VK / Auto offensive](https://github.com/offensive-vk/auto-contributions)
+15. 🎉 PR fusionné[#327](https://github.com/offensive-vk/UntilEverything/pull/327)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
