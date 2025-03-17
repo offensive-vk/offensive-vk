@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>1980年的IBM 5120是有史以来最重的台式计算机。它重约105磅，不包括130磅的外部软盘驱动器。</i>
+<i>❝“良好的规格总是比任何编程工具或技术都更好地提高程序员的生产率。”  -  Milt Bryce❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#328](https://github.com/offensive-vk/UntilEverything/pull/328)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉合并PR[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  🎉合并PR[#10037](https://github.com/offensive-vk/Classics/pull/10037)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-4.  💪打开PR[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  🎉合并PR[#13](https://github.com/offensive-vk/ReactQuizApp/pull/13)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  💪打开PR[#8311](https://github.com/kamranahmedse/developer-roadmap/pull/8311)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉合并PR[#7](https://github.com/offensive-vk/auto-contributions/pull/7)在[进攻性VK/自动限额](https://github.com/offensive-vk/auto-contributions)
-8.  🎉合并PR[#327](https://github.com/offensive-vk/UntilEverything/pull/327)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-9.  🎉合并PR[#326](https://github.com/offensive-vk/UntilEverything/pull/326)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-10. 💪打开PR[#326](https://github.com/offensive-vk/UntilEverything/pull/326)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉合并PR[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉合并PR[#323](https://github.com/offensive-vk/UntilEverything/pull/323)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉合并PR[#324](https://github.com/offensive-vk/UntilEverything/pull/324)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-14. 🔒封闭问题[#227274](https://github.com/microsoft/vscode/issues/227274)在[Microsoft/vscode](https://github.com/microsoft/vscode)
-15. 🎉合并PR[#325](https://github.com/offensive-vk/UntilEverything/pull/325)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+1.  🎉合并PR[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+2.  ❌关闭PR[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+3.  🗣评论[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+4.  ❗开了问题[#38](https://github.com/offensive-vk/auto-label/issues/38)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+5.  🎉合并PR[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🎉合并PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+7.  💪打开PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+8.  🎉合并PR[#328](https://github.com/offensive-vk/UntilEverything/pull/328)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉合并PR[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+10. 🎉合并PR[#10037](https://github.com/offensive-vk/Classics/pull/10037)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+11. 💪打开PR[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+12. 🎉合并PR[#13](https://github.com/offensive-vk/ReactQuizApp/pull/13)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+13. 💪打开PR[#8311](https://github.com/kamranahmedse/developer-roadmap/pull/8311)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉合并PR[#7](https://github.com/offensive-vk/auto-contributions/pull/7)在[进攻性VK/自动限额](https://github.com/offensive-vk/auto-contributions)
+15. 🎉合并PR[#327](https://github.com/offensive-vk/UntilEverything/pull/327)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
