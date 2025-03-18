@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM 5120 de 1980 fue la computadora de escritorio más pesada jamás realizada. Pesaba alrededor de 105 libras, sin incluir la unidad de disquete externa de 130 libras.</i>
+<i>❝ “Dime y me olvido.  Enséñame y recuerdo.  Me involucra a mí y a mí. ” - Benjamin Franklin ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#328](https://github.com/offensive-vk/UntilEverything/pull/328)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 PR fusionado[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-3.  🎉 PR fusionado[#10037](https://github.com/offensive-vk/Classics/pull/10037)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-4.  💪 ABIERTO PR[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-5.  🎉 PR fusionado[#13](https://github.com/offensive-vk/ReactQuizApp/pull/13)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  💪 ABIERTO PR[#8311](https://github.com/kamranahmedse/developer-roadmap/pull/8311)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉 PR fusionado[#7](https://github.com/offensive-vk/auto-contributions/pull/7)en[ofensivo-vk/auto-contribución](https://github.com/offensive-vk/auto-contributions)
-8.  🎉 PR fusionado[#327](https://github.com/offensive-vk/UntilEverything/pull/327)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 PR fusionado[#326](https://github.com/offensive-vk/UntilEverything/pull/326)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-10. 💪 ABIERTO PR[#326](https://github.com/offensive-vk/UntilEverything/pull/326)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 PR fusionado[#30355](https://github.com/offensive-vk/offensive-vk/pull/30355)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 PR fusionado[#323](https://github.com/offensive-vk/UntilEverything/pull/323)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 PR fusionado[#324](https://github.com/offensive-vk/UntilEverything/pull/324)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-14. 🔒 Problema cerrado[#227274](https://github.com/microsoft/vscode/issues/227274)en[Microsoft/VScode](https://github.com/microsoft/vscode)
-15. 🎉 PR fusionado[#325](https://github.com/offensive-vk/UntilEverything/pull/325)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+1.  🔒 Problema cerrado[#38](https://github.com/offensive-vk/auto-label/issues/38)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+2.  🎉 PR fusionado[#39](https://github.com/offensive-vk/auto-label/pull/39)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+3.  💪 ABIERTO PR[#39](https://github.com/offensive-vk/auto-label/pull/39)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+4.  🎉 PR fusionado[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+5.  ❌ Cerrado PR[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+6.  🗣 Comentó[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+7.  ❗ Problema abierto[#38](https://github.com/offensive-vk/auto-label/issues/38)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+8.  🎉 PR fusionado[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+9.  🎉 PR fusionado[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+10. 💪 ABIERTO PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+11. 🎉 PR fusionado[#328](https://github.com/offensive-vk/UntilEverything/pull/328)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 PR fusionado[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+13. 🎉 PR fusionado[#10037](https://github.com/offensive-vk/Classics/pull/10037)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+14. 💪 ABIERTO PR[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 🎉 PR fusionado[#13](https://github.com/offensive-vk/ReactQuizApp/pull/13)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
