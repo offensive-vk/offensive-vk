@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Я не из тех, кто думает, что Билл Гейтс - это дьявол.</i>
+<i>❝ «Я не боюсь компьютеров. Я боюсь их отсутствия». - Исаак Асимов ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#32](https://github.com/offensive-vk/develop-actions/pull/32)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-2.  🔒 Закрытая проблема[#38](https://github.com/offensive-vk/auto-label/issues/38)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-3.  🎉 Объединенный Pr[#39](https://github.com/offensive-vk/auto-label/pull/39)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-4.  💪 открыл Pr[#39](https://github.com/offensive-vk/auto-label/pull/39)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-5.  🎉 Объединенный Pr[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-6.  ❌ закрытый пиар[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-7.  🗣 прокомментировал[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-8.  ❗ открыл вопрос[#38](https://github.com/offensive-vk/auto-label/issues/38)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-9.  🎉 Объединенный Pr[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-10. 🎉 Объединенный Pr[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-11. 💪 открыл Pr[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-12. 🎉 Объединенный Pr[#328](https://github.com/offensive-vk/UntilEverything/pull/328)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Объединенный Pr[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 Объединенный Pr[#10037](https://github.com/offensive-vk/Classics/pull/10037)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-15. 💪 открыл Pr[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+1.  🎉 Объединенный Pr[#33](https://github.com/offensive-vk/develop-actions/pull/33)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
+2.  🎉 Объединенный Pr[#32](https://github.com/offensive-vk/develop-actions/pull/32)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
+3.  🔒 Закрытая проблема[#38](https://github.com/offensive-vk/auto-label/issues/38)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+4.  🎉 Объединенный Pr[#39](https://github.com/offensive-vk/auto-label/pull/39)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+5.  💪 открыл Pr[#39](https://github.com/offensive-vk/auto-label/pull/39)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+6.  🎉 Объединенный Pr[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+7.  ❌ закрытый пиар[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+8.  🗣 прокомментировал[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+9.  ❗ открыл вопрос[#38](https://github.com/offensive-vk/auto-label/issues/38)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+10. 🎉 Объединенный Pr[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+11. 🎉 Объединенный Pr[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+12. 💪 открыл Pr[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+13. 🎉 Объединенный Pr[#328](https://github.com/offensive-vk/UntilEverything/pull/328)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Объединенный Pr[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)в[Наступление-VK/Reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 🎉 Объединенный Pr[#10037](https://github.com/offensive-vk/Classics/pull/10037)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
     <!--END_SECTION:activity-->
 
 </p>
