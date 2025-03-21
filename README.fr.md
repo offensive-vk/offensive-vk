@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Je ne crains pas les ordinateurs. Je le crains le manque.» - Isaac Asimov ❞</i>
+<i>❝ «La meilleure façon d'apprendre la science des données est de faire la science des données.» - Chanin Nantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
