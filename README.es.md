@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ “No temo a las computadoras. Temo la falta de ellas”. - Isaac Asimov ❞</i>
+<i>❝ "La mejor manera de aprender ciencia de datos es hacer ciencia de datos". - Chanin Nantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
