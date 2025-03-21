@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我不惧怕计算机。我害怕缺乏电脑。”  - 艾萨克·阿西莫夫（Isaac Asimov）❞</i>
+<i>❝“学习数据科学的最佳方法是进行数据科学。”  -  ChaninNantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
