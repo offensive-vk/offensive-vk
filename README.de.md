@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Ich fürchte keine Computer. Ich fürchte, das Fehlen von ihnen.“ - Isaac Asimov ❞</i>
+<i>❝ „Programmierung auf niedriger Ebene ist gut für die Seele des Programmierers.“-John Carmack ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#33](https://github.com/offensive-vk/develop-actions/pull/33)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-2.  🎉 Fusions PR[#32](https://github.com/offensive-vk/develop-actions/pull/32)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-3.  🔒 geschlossenes Problem[#38](https://github.com/offensive-vk/auto-label/issues/38)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-4.  🎉 Fusions PR[#39](https://github.com/offensive-vk/auto-label/pull/39)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-5.  💪 PR geöffnet[#39](https://github.com/offensive-vk/auto-label/pull/39)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-6.  🎉 Fusions PR[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-7.  ❌ geschlossene PR[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-8.  🗣 kommentierte[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-9.  ❗ Eröffnete Ausgabe[#38](https://github.com/offensive-vk/auto-label/issues/38)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-10. 🎉 Fusions PR[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-11. 🎉 Fusions PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-12. 💪 PR geöffnet[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-13. 🎉 Fusions PR[#328](https://github.com/offensive-vk/UntilEverything/pull/328)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 Fusions PR[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
-15. 🎉 Fusions PR[#10037](https://github.com/offensive-vk/Classics/pull/10037)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+1.  🎉 Fusions PR[#30639](https://github.com/offensive-vk/offensive-vk/pull/30639)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+2.  💪 PR geöffnet[#8371](https://github.com/kamranahmedse/developer-roadmap/pull/8371)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 PR geöffnet[#8369](https://github.com/kamranahmedse/developer-roadmap/pull/8369)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 Fusions PR[#33](https://github.com/offensive-vk/develop-actions/pull/33)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+5.  🎉 Fusions PR[#32](https://github.com/offensive-vk/develop-actions/pull/32)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+6.  🔒 geschlossenes Problem[#38](https://github.com/offensive-vk/auto-label/issues/38)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+7.  🎉 Fusions PR[#39](https://github.com/offensive-vk/auto-label/pull/39)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+8.  💪 PR geöffnet[#39](https://github.com/offensive-vk/auto-label/pull/39)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+9.  🎉 Fusions PR[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+10. ❌ geschlossene PR[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+11. 🗣 kommentierte[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+12. ❗ Eröffnete Ausgabe[#38](https://github.com/offensive-vk/auto-label/issues/38)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+13. 🎉 Fusions PR[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉 Fusions PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪 PR geöffnet[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)In[Offensiv-VK/ReactquizApp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
