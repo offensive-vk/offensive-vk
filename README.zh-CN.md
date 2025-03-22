@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“学习数据科学的最佳方法是进行数据科学。”  -  ChaninNantasenamat❞</i>
+<i>❝“低级编程对程序员的灵魂有益。”  -  John Carmack❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#33](https://github.com/offensive-vk/develop-actions/pull/33)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-2.  🎉合并PR[#32](https://github.com/offensive-vk/develop-actions/pull/32)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-3.  🔒封闭问题[#38](https://github.com/offensive-vk/auto-label/issues/38)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-4.  🎉合并PR[#39](https://github.com/offensive-vk/auto-label/pull/39)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-5.  💪打开PR[#39](https://github.com/offensive-vk/auto-label/pull/39)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-6.  🎉合并PR[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-7.  ❌关闭PR[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-8.  🗣评论[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-9.  ❗开了问题[#38](https://github.com/offensive-vk/auto-label/issues/38)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-10. 🎉合并PR[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-11. 🎉合并PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-12. 💪打开PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-13. 🎉合并PR[#328](https://github.com/offensive-vk/UntilEverything/pull/328)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-14. 🎉合并PR[#14](https://github.com/offensive-vk/ReactQuizApp/pull/14)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-15. 🎉合并PR[#10037](https://github.com/offensive-vk/Classics/pull/10037)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+1.  🎉合并PR[#30639](https://github.com/offensive-vk/offensive-vk/pull/30639)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+2.  💪打开PR[#8371](https://github.com/kamranahmedse/developer-roadmap/pull/8371)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪打开PR[#8369](https://github.com/kamranahmedse/developer-roadmap/pull/8369)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉合并PR[#33](https://github.com/offensive-vk/develop-actions/pull/33)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+5.  🎉合并PR[#32](https://github.com/offensive-vk/develop-actions/pull/32)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+6.  🔒封闭问题[#38](https://github.com/offensive-vk/auto-label/issues/38)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+7.  🎉合并PR[#39](https://github.com/offensive-vk/auto-label/pull/39)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+8.  💪打开PR[#39](https://github.com/offensive-vk/auto-label/pull/39)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+9.  🎉合并PR[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+10. ❌关闭PR[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+11. 🗣评论[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+12. ❗开了问题[#38](https://github.com/offensive-vk/auto-label/issues/38)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+13. 🎉合并PR[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+14. 🎉合并PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 💪打开PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)在[进攻性vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
