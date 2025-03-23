@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "La programación de bajo nivel es buena para el alma del programador".-John Carmack ❞</i>
+<i>❝ "Sí, tenemos un código de vestimenta. Tienes que vestirte".-Scott McNealy, cofundador de Sun Microsystems ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#30639](https://github.com/offensive-vk/offensive-vk/pull/30639)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-2.  💪 ABIERTO PR[#8371](https://github.com/kamranahmedse/developer-roadmap/pull/8371)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 ABIERTO PR[#8369](https://github.com/kamranahmedse/developer-roadmap/pull/8369)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4.  🎉 PR fusionado[#33](https://github.com/offensive-vk/develop-actions/pull/33)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-5.  🎉 PR fusionado[#32](https://github.com/offensive-vk/develop-actions/pull/32)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-6.  🔒 Problema cerrado[#38](https://github.com/offensive-vk/auto-label/issues/38)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-7.  🎉 PR fusionado[#39](https://github.com/offensive-vk/auto-label/pull/39)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-8.  💪 ABIERTO PR[#39](https://github.com/offensive-vk/auto-label/pull/39)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-9.  🎉 PR fusionado[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-10. ❌ Cerrado PR[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-11. 🗣 Comentó[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-12. ❗ Problema abierto[#38](https://github.com/offensive-vk/auto-label/issues/38)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-13. 🎉 PR fusionado[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-14. 🎉 PR fusionado[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
-15. 💪 ABIERTO PR[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+1.  🗣 Comentó[#8363](https://github.com/kamranahmedse/developer-roadmap/issues/8363#issuecomment-2745057668)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 PR fusionado[#30639](https://github.com/offensive-vk/offensive-vk/pull/30639)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+3.  💪 ABIERTO PR[#8371](https://github.com/kamranahmedse/developer-roadmap/pull/8371)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪 ABIERTO PR[#8369](https://github.com/kamranahmedse/developer-roadmap/pull/8369)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 PR fusionado[#33](https://github.com/offensive-vk/develop-actions/pull/33)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+6.  🎉 PR fusionado[#32](https://github.com/offensive-vk/develop-actions/pull/32)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+7.  🔒 Problema cerrado[#38](https://github.com/offensive-vk/auto-label/issues/38)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+8.  🎉 PR fusionado[#39](https://github.com/offensive-vk/auto-label/pull/39)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+9.  💪 ABIERTO PR[#39](https://github.com/offensive-vk/auto-label/pull/39)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+10. 🎉 PR fusionado[#18](https://github.com/offensive-vk/ReactQuizApp/pull/18)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+11. ❌ Cerrado PR[#15](https://github.com/offensive-vk/ReactQuizApp/pull/15)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+12. 🗣 Comentó[#38](https://github.com/offensive-vk/auto-label/issues/38#issuecomment-2727543810)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+13. ❗ Problema abierto[#38](https://github.com/offensive-vk/auto-label/issues/38)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+14. 🎉 PR fusionado[#17](https://github.com/offensive-vk/ReactQuizApp/pull/17)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
+15. 🎉 PR fusionado[#16](https://github.com/offensive-vk/ReactQuizApp/pull/16)en[ofensivo-vk/reactquizapp](https://github.com/offensive-vk/ReactQuizApp)
     <!--END_SECTION:activity-->
 
 </p>
