@@ -47,7 +47,7 @@
   "dependencies": {
     "@octokit/core": "^6.1.4",
     "@octokit/rest": "^21.1.1",
-    "@octokit/types": "^13.8.0",
+    "@octokit/types": "^13.10.0",
     "markdownlint": "^0.35.0",
     "octokit": "^4.1.2"
   }
