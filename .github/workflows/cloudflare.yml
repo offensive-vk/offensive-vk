@@ -1,4 +1,4 @@
-name: 🖥️ Upload Objects to R2 Server
+name: 🖥️ Upload Everything to R2 Server
 
 on: 
   workflow_dispatch:
