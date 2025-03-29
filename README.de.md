@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝youtube wurde von 3 ehemaligen Mitarbeitern von Paypal gegründet.</i>
+<i>In 1960 warnte der Computer von Norad mit 99,9% Gewissheit, dass die Sowjets gerade einen vollständigen Raketenangriff gegen Nordamerika gestartet hatten. Norad entdeckte später, dass das Frühwarnsystem in Grönland den Mond interpretiert hatte, der über Norwegen aufstieg, als Raketenangriff aus Sibirien.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
