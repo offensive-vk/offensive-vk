@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Youtube fue fundado por 3 ex empleados de PayPal.❞</i>
+<i>❝ En 1960, la computadora de Norad advirtió con 99.9% de certeza que los soviéticos acababan de lanzar un ataque de misiles a gran escala contra América del Norte. Más tarde, Norad descubrió que el sistema de alerta temprana en Groenlandia había interpretado que la luna se elevaba sobre Noruega como un ataque de misiles de Siberia.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
