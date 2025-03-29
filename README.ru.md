@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Реальное знание - знать степень невежества». - Конфуций ❞</i>
+<i>В 1960 году компьютер в Нораде предупредил с 99,9% уверенностью, что Советы только что начали полномасштабную ракетную атаку против Северной Америки. Позже Норад обнаружил, что система раннего предупреждения в Гренландии интерпретировала луну, поднимающуюся над Норвегией как ракетная атака из Сибири.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 открыл Pr[#21](https://github.com/offensive-vk/reactjs-quiz-app/pull/21)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  🎉 Объединенный Pr[#330](https://github.com/offensive-vk/UntilEverything/pull/330)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Объединенный Pr[#329](https://github.com/offensive-vk/UntilEverything/pull/329)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Объединенный Pr[#20](https://github.com/offensive-vk/reactjs-quiz-app/pull/20)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-5.  💪 открыл Pr[#20](https://github.com/offensive-vk/reactjs-quiz-app/pull/20)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  🎉 Объединенный Pr[#19](https://github.com/offensive-vk/reactjs-quiz-app/pull/19)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  🗣 прокомментировал[#8363](https://github.com/kamranahmedse/developer-roadmap/issues/8363#issuecomment-2745057668)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  🎉 Объединенный Pr[#30639](https://github.com/offensive-vk/offensive-vk/pull/30639)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-9.  💪 открыл Pr[#8371](https://github.com/kamranahmedse/developer-roadmap/pull/8371)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 открыл Pr[#8369](https://github.com/kamranahmedse/developer-roadmap/pull/8369)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 🎉 Объединенный Pr[#33](https://github.com/offensive-vk/develop-actions/pull/33)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-12. 🎉 Объединенный Pr[#32](https://github.com/offensive-vk/develop-actions/pull/32)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-13. 🔒 Закрытая проблема[#38](https://github.com/offensive-vk/auto-label/issues/38)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-14. 🎉 Объединенный Pr[#39](https://github.com/offensive-vk/auto-label/pull/39)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-15. 💪 открыл Pr[#39](https://github.com/offensive-vk/auto-label/pull/39)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+1.  🎉 Объединенный Pr[#334](https://github.com/offensive-vk/UntilEverything/pull/334)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 прокомментировал[#332](https://github.com/offensive-vk/UntilEverything/pull/332#issuecomment-2755158245)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Объединенный Pr[#333](https://github.com/offensive-vk/UntilEverything/pull/333)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 Объединенный Pr[#14](https://github.com/offensive-vk/Temp/pull/14)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+5.  ❗ открыл вопрос[#3](https://github.com/JawherKl/JawherKl/issues/3)в[Джохаркл/Джохаркл](https://github.com/JawherKl/JawherKl)
+6.  💪 открыл Pr[#21](https://github.com/offensive-vk/reactjs-quiz-app/pull/21)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  🎉 Объединенный Pr[#330](https://github.com/offensive-vk/UntilEverything/pull/330)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 Объединенный Pr[#329](https://github.com/offensive-vk/UntilEverything/pull/329)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 Объединенный Pr[#20](https://github.com/offensive-vk/reactjs-quiz-app/pull/20)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+10. 💪 открыл Pr[#20](https://github.com/offensive-vk/reactjs-quiz-app/pull/20)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+11. 🎉 Объединенный Pr[#19](https://github.com/offensive-vk/reactjs-quiz-app/pull/19)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🗣 прокомментировал[#8363](https://github.com/kamranahmedse/developer-roadmap/issues/8363#issuecomment-2745057668)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 🎉 Объединенный Pr[#30639](https://github.com/offensive-vk/offensive-vk/pull/30639)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+14. 💪 открыл Pr[#8371](https://github.com/kamranahmedse/developer-roadmap/pull/8371)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 открыл Pr[#8369](https://github.com/kamranahmedse/developer-roadmap/pull/8369)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
