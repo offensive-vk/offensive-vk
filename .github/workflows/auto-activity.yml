@@ -21,6 +21,6 @@ jobs:
           token: ${{ secrets.CLASSIC_TOKEN || secrets.BOT_TOKEN }}
           committer: 'Hamster [bot]'
           committer-email: 'TheHamsterBot@outlook.com'
-          commit-msg: '🚀 Updated User Activity v2.'
+          commit-msg: '🚀 Updated User Activity'
           max-lines: '150'
           target-file: 'ACTIVITY.md'
