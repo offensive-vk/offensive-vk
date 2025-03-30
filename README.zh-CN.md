@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Youtube由PayPal的3名前雇员创立。</i>
+<i>❝“如果代码和评论不匹配，则可能两者都不正确。”  -  Norm Schryer❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
