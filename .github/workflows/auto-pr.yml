@@ -78,7 +78,7 @@ jobs:
           - First Commit: [$first_commit_message]($first_commit)
           - Workflow Path: ${{ github.workflow_ref }}
           - Pusher Details: ${{ github.event.pusher.name }} - ${{ github.event.pusher.email }}
-          - 
+          
 
           *Labels will be applied as per the label [config](https://github.com/offensive-vk/offensive-vk/blob/master/.github/auto-pr-labels.yml). As for now, sit back and let the [Hamster](https://github.com/TheHamsterBot) do the heavy lifting for you!*
 
