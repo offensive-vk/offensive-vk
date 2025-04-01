@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#10038](https://github.com/offensive-vk/Classics/pull/10038)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-2.  🎉 اندمج العلاقات العامة[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  💪 فتح العلاقات العامة[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🎉 اندمج العلاقات العامة[#25](https://github.com/offensive-vk/reactjs-quiz-app/pull/25)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-5.  🎉 اندمج العلاقات العامة[#24](https://github.com/offensive-vk/reactjs-quiz-app/pull/24)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  🎉 اندمج العلاقات العامة[#334](https://github.com/offensive-vk/UntilEverything/pull/334)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-7.  🗣 علق على[#332](https://github.com/offensive-vk/UntilEverything/pull/332#issuecomment-2755158245)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 اندمج العلاقات العامة[#333](https://github.com/offensive-vk/UntilEverything/pull/333)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 اندمج العلاقات العامة[#14](https://github.com/offensive-vk/Temp/pull/14)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-10. ❗ القضية المفتوحة[#3](https://github.com/JawherKl/JawherKl/issues/3)في[JawherKl/JawherKl](https://github.com/JawherKl/JawherKl)
-11. 💪 فتح العلاقات العامة[#21](https://github.com/offensive-vk/reactjs-quiz-app/pull/21)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🎉 اندمج العلاقات العامة[#330](https://github.com/offensive-vk/UntilEverything/pull/330)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 اندمج العلاقات العامة[#329](https://github.com/offensive-vk/UntilEverything/pull/329)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 اندمج العلاقات العامة[#20](https://github.com/offensive-vk/reactjs-quiz-app/pull/20)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 💪 فتح العلاقات العامة[#20](https://github.com/offensive-vk/reactjs-quiz-app/pull/20)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 اندمج العلاقات العامة[#1](https://github.com/offensive-vk/personal-blog/pull/1)في[الهجوم-VK/المجلس الشخصي](https://github.com/offensive-vk/personal-blog)
+2.  💪 فتح العلاقات العامة[#1](https://github.com/offensive-vk/personal-blog/pull/1)في[الهجوم-VK/المجلس الشخصي](https://github.com/offensive-vk/personal-blog)
+3.  🎉 اندمج العلاقات العامة[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)في[هجومي VK/المجلس البسيط](https://github.com/offensive-vk/simple-slate-blog)
+4.  💪 فتح العلاقات العامة[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)في[هجومي VK/المجلس البسيط](https://github.com/offensive-vk/simple-slate-blog)
+5.  🎉 اندمج العلاقات العامة[#10038](https://github.com/offensive-vk/Classics/pull/10038)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+6.  🎉 اندمج العلاقات العامة[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  💪 فتح العلاقات العامة[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🎉 اندمج العلاقات العامة[#25](https://github.com/offensive-vk/reactjs-quiz-app/pull/25)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  🎉 اندمج العلاقات العامة[#24](https://github.com/offensive-vk/reactjs-quiz-app/pull/24)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+10. 🎉 اندمج العلاقات العامة[#334](https://github.com/offensive-vk/UntilEverything/pull/334)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+11. 🗣 علق على[#332](https://github.com/offensive-vk/UntilEverything/pull/332#issuecomment-2755158245)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 اندمج العلاقات العامة[#333](https://github.com/offensive-vk/UntilEverything/pull/333)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 اندمج العلاقات العامة[#14](https://github.com/offensive-vk/Temp/pull/14)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+14. ❗ القضية المفتوحة[#3](https://github.com/JawherKl/JawherKl/issues/3)في[JawherKl/JawherKl](https://github.com/JawherKl/JawherKl)
+15. 💪 فتح العلاقات العامة[#21](https://github.com/offensive-vk/reactjs-quiz-app/pull/21)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
