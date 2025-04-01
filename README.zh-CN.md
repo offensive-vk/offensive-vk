@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果代码和评论不匹配，则可能两者都不正确。”  -  Norm Schryer❞</i>
+<i>❝在此之前，有一个计算机蠕虫可以访问您的Windows XP OS，可以从Microsoft下载一个补丁以存在用于感染系统并在删除后使用的漏洞。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#334](https://github.com/offensive-vk/UntilEverything/pull/334)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣评论[#332](https://github.com/offensive-vk/UntilEverything/pull/332#issuecomment-2755158245)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉合并PR[#333](https://github.com/offensive-vk/UntilEverything/pull/333)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉合并PR[#14](https://github.com/offensive-vk/Temp/pull/14)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-5.  ❗开了问题[#3](https://github.com/JawherKl/JawherKl/issues/3)在[Joharkle/Joharkle](https://github.com/JawherKl/JawherKl)
-6.  💪打开PR[#21](https://github.com/offensive-vk/reactjs-quiz-app/pull/21)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  🎉合并PR[#330](https://github.com/offensive-vk/UntilEverything/pull/330)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-8.  🎉合并PR[#329](https://github.com/offensive-vk/UntilEverything/pull/329)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-9.  🎉合并PR[#20](https://github.com/offensive-vk/reactjs-quiz-app/pull/20)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-10. 💪打开PR[#20](https://github.com/offensive-vk/reactjs-quiz-app/pull/20)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 🎉合并PR[#19](https://github.com/offensive-vk/reactjs-quiz-app/pull/19)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🗣评论[#8363](https://github.com/kamranahmedse/developer-roadmap/issues/8363#issuecomment-2745057668)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-13. 🎉合并PR[#30639](https://github.com/offensive-vk/offensive-vk/pull/30639)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-14. 💪打开PR[#8371](https://github.com/kamranahmedse/developer-roadmap/pull/8371)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪打开PR[#8369](https://github.com/kamranahmedse/developer-roadmap/pull/8369)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉合并PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+2.  💪打开PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+3.  🎉合并PR[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)在[进攻式VK/简单布局](https://github.com/offensive-vk/simple-slate-blog)
+4.  💪打开PR[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)在[进攻式VK/简单布局](https://github.com/offensive-vk/simple-slate-blog)
+5.  🎉合并PR[#10038](https://github.com/offensive-vk/Classics/pull/10038)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+6.  🎉合并PR[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  💪打开PR[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🎉合并PR[#25](https://github.com/offensive-vk/reactjs-quiz-app/pull/25)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  🎉合并PR[#24](https://github.com/offensive-vk/reactjs-quiz-app/pull/24)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+10. 🎉合并PR[#334](https://github.com/offensive-vk/UntilEverything/pull/334)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣评论[#332](https://github.com/offensive-vk/UntilEverything/pull/332#issuecomment-2755158245)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+12. 🎉合并PR[#333](https://github.com/offensive-vk/UntilEverything/pull/333)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+13. 🎉合并PR[#14](https://github.com/offensive-vk/Temp/pull/14)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+14. ❗开了问题[#3](https://github.com/JawherKl/JawherKl/issues/3)在[Joharkle/Joharkle](https://github.com/JawherKl/JawherKl)
+15. 💪打开PR[#21](https://github.com/offensive-vk/reactjs-quiz-app/pull/21)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
