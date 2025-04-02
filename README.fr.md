@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Une le ver d'ordinateur était présent auparavant qui pouvait accéder à votre système d'exploitation Windows XP, pourrait télécharger un correctif de Microsoft pour exister la vulnérabilité telle qu'elle est utilisée pour infecter le système et après être supprimée.</i>
+<i>❝Surant le jeu Jeopardy d'IBM Watson, il a stocké les 15 téraoctets de ses connaissances en RAM, y compris chaque page de Wikipedia existant.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
