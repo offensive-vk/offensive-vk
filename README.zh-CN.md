@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝在此之前，有一个计算机蠕虫可以访问您的Windows XP OS，可以从Microsoft下载一个补丁以存在用于感染系统并在删除后使用的漏洞。</i>
+<i>在IBM Watson的危险游戏中，它存储了所有15种知识的知识，包括存在的Wikipedia的每一页。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
