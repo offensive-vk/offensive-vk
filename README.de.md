@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Ein Computerwurm war vorhanden, der auf Ihr Windows XP -Betriebssystem zugreifen konnte, einen Patch von Microsoft herunterladen konnte, um die Verwundbarkeit zu existieren, die es verwendet hat, um das System zu infizieren und sich selbst zu löschen.❞</i>
+<i>❝During IBM Watsons Gefährdungsspiel und es speichert alle 15 Terabyte seines Wissens im RAM, einschließlich jeder Seite von Wikipedia, die in der Existenz ist. ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
