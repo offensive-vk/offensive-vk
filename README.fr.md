@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Surant le jeu Jeopardy d'IBM Watson, il a stocké les 15 téraoctets de ses connaissances en RAM, y compris chaque page de Wikipedia existant.</i>
+<i>❝ «La meilleure façon de prédire l'avenir est de la mettre en œuvre.» - David Heinemeier Hansson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
