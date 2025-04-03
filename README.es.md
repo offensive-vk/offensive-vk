@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Un gusano de computadora estaba presente antes de que pudiera acceder a su sistema operativo Windows XP, podría descargar un parche de Microsoft para existir la vulnerabilidad que se usó para infectar el sistema y después de eliminarlo.</i>
+<i>❝ "La mejor manera de predecir el futuro es implementarlo". - David Heinemeier Hansson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
