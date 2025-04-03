@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝During IBM Watsons Gefährdungsspiel und es speichert alle 15 Terabyte seines Wissens im RAM, einschließlich jeder Seite von Wikipedia, die in der Existenz ist. ❞</i>
+<i>❝ „Der beste Weg, die Zukunft vorherzusagen, besteht darin, sie umzusetzen.“ - David Heinemeier Hansson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
