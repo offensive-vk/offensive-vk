@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>在IBM Watson的危险游戏中，它存储了所有15种知识的知识，包括存在的Wikipedia的每一页。</i>
+<i>❝“预测未来的最佳方法是实施它。”  -  David Heinemeier Hansson❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
