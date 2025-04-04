@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «La meilleure façon de prédire l'avenir est de la mettre en œuvre.» - David Heinemeier Hansson ❞</i>
+<i>❝ «Je ne sais pas à quoi ressemblera la langue de l'an 2000, mais je sais que cela s'appellera Fortran.» - CA Hoare, 1982 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
