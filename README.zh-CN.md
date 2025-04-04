@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“预测未来的最佳方法是实施它。”  -  David Heinemeier Hansson❞</i>
+<i>❝“我不知道2000年的语言是什么样的，但我知道它会被称为fortran。”  -  Ca Hoare，1982年❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
