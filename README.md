@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-2. 🎉 Merged PR [#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3. 💪 Opened PR [#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4. 🎉 Merged PR [#1](https://github.com/offensive-vk/personal-blog/pull/1) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
-5. 💪 Opened PR [#1](https://github.com/offensive-vk/personal-blog/pull/1) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
-6. 🎉 Merged PR [#1](https://github.com/offensive-vk/simple-slate-blog/pull/1) in [offensive-vk/simple-slate-blog](https://github.com/offensive-vk/simple-slate-blog)
-7. 💪 Opened PR [#1](https://github.com/offensive-vk/simple-slate-blog/pull/1) in [offensive-vk/simple-slate-blog](https://github.com/offensive-vk/simple-slate-blog)
-8. 🎉 Merged PR [#10038](https://github.com/offensive-vk/Classics/pull/10038) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-9. 🎉 Merged PR [#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-10. 💪 Opened PR [#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 🎉 Merged PR [#25](https://github.com/offensive-vk/reactjs-quiz-app/pull/25) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🎉 Merged PR [#24](https://github.com/offensive-vk/reactjs-quiz-app/pull/24) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉 Merged PR [#334](https://github.com/offensive-vk/UntilEverything/pull/334) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🗣 Commented on [#332](https://github.com/offensive-vk/UntilEverything/pull/332#issuecomment-2755158245) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 Merged PR [#333](https://github.com/offensive-vk/UntilEverything/pull/333) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1. ❌ Closed PR [#336](https://github.com/offensive-vk/UntilEverything/pull/336) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2. 🎉 Merged PR [#337](https://github.com/offensive-vk/UntilEverything/pull/337) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3. 🎉 Merged PR [#335](https://github.com/offensive-vk/UntilEverything/pull/335) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4. 🎉 Merged PR [#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+5. 🎉 Merged PR [#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6. 💪 Opened PR [#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+7. 🎉 Merged PR [#1](https://github.com/offensive-vk/personal-blog/pull/1) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
+8. 💪 Opened PR [#1](https://github.com/offensive-vk/personal-blog/pull/1) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
+9. 🎉 Merged PR [#1](https://github.com/offensive-vk/simple-slate-blog/pull/1) in [offensive-vk/simple-slate-blog](https://github.com/offensive-vk/simple-slate-blog)
+10. 💪 Opened PR [#1](https://github.com/offensive-vk/simple-slate-blog/pull/1) in [offensive-vk/simple-slate-blog](https://github.com/offensive-vk/simple-slate-blog)
+11. 🎉 Merged PR [#10038](https://github.com/offensive-vk/Classics/pull/10038) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+12. 🎉 Merged PR [#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 💪 Opened PR [#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 🎉 Merged PR [#25](https://github.com/offensive-vk/reactjs-quiz-app/pull/25) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 🎉 Merged PR [#24](https://github.com/offensive-vk/reactjs-quiz-app/pull/24) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 <!--END_SECTION:activity-->
 
 </p>
