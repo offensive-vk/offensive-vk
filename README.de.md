@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Der beste Weg, die Zukunft vorherzusagen, besteht darin, sie umzusetzen.“ - David Heinemeier Hansson ❞</i>
+<i>❝ „Je mehr Sie wissen, desto mehr merkt Sie, dass Sie nichts wissen.“ - Sokrates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
