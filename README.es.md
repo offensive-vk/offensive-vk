@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "La mejor manera de predecir el futuro es implementarlo". - David Heinemeier Hansson ❞</i>
+<i>❝ “Cuanto más sepas, más te das cuenta de que no sabes nada”. - Sócrates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
