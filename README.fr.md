@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Si vous avez une procédure avec dix paramètres, vous en avez probablement manqué.» - Alan Perlis ❞</i>
+<i>❝ «La meilleure façon d'apprendre la science des données est de faire la science des données.» - Chanin Nantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
