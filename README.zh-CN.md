@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果您有一个带有十个参数的程序，则可能错过了一些。”  -  Alan Perlis❞</i>
+<i>❝“学习数据科学的最佳方法是进行数据科学。”  -  ChaninNantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
