@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «La meilleure façon d'apprendre la science des données est de faire la science des données.» - Chanin Nantasenamat❞</i>
+<i>❝ «Lors du débogage, les novices insérent le code correctif; les experts suppriment le code défectueux.» - Richard Pattis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ PR fermé[#336](https://github.com/offensive-vk/UntilEverything/pull/336)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 PR fusionné[#337](https://github.com/offensive-vk/UntilEverything/pull/337)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionné[#335](https://github.com/offensive-vk/UntilEverything/pull/335)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 PR fusionné[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-5.  🎉 PR fusionné[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  💪 Open a ouvert les relations publiques[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  🎉 PR fusionné[#1](https://github.com/offensive-vk/personal-blog/pull/1)dans[Offensive-Vk / Personal-blog](https://github.com/offensive-vk/personal-blog)
-8.  💪 Open a ouvert les relations publiques[#1](https://github.com/offensive-vk/personal-blog/pull/1)dans[Offensive-Vk / Personal-blog](https://github.com/offensive-vk/personal-blog)
-9.  🎉 PR fusionné[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)dans[offensif-VK / simple-blog-blog](https://github.com/offensive-vk/simple-slate-blog)
-10. 💪 Open a ouvert les relations publiques[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)dans[offensif-VK / simple-blog-blog](https://github.com/offensive-vk/simple-slate-blog)
-11. 🎉 PR fusionné[#10038](https://github.com/offensive-vk/Classics/pull/10038)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-12. 🎉 PR fusionné[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 💪 Open a ouvert les relations publiques[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉 PR fusionné[#25](https://github.com/offensive-vk/reactjs-quiz-app/pull/25)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 🎉 PR fusionné[#24](https://github.com/offensive-vk/reactjs-quiz-app/pull/24)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 PR fusionné[#339](https://github.com/offensive-vk/UntilEverything/pull/339)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionné[#10039](https://github.com/offensive-vk/Classics/pull/10039)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+3.  ❌ PR fermé[#336](https://github.com/offensive-vk/UntilEverything/pull/336)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 PR fusionné[#337](https://github.com/offensive-vk/UntilEverything/pull/337)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 PR fusionné[#335](https://github.com/offensive-vk/UntilEverything/pull/335)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 PR fusionné[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  🎉 PR fusionné[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  💪 Open a ouvert les relations publiques[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  🎉 PR fusionné[#1](https://github.com/offensive-vk/personal-blog/pull/1)dans[Offensive-Vk / Personal-blog](https://github.com/offensive-vk/personal-blog)
+10. 💪 Open a ouvert les relations publiques[#1](https://github.com/offensive-vk/personal-blog/pull/1)dans[Offensive-Vk / Personal-blog](https://github.com/offensive-vk/personal-blog)
+11. 🎉 PR fusionné[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)dans[offensif-VK / simple-blog-blog](https://github.com/offensive-vk/simple-slate-blog)
+12. 💪 Open a ouvert les relations publiques[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)dans[offensif-VK / simple-blog-blog](https://github.com/offensive-vk/simple-slate-blog)
+13. 🎉 PR fusionné[#10038](https://github.com/offensive-vk/Classics/pull/10038)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+14. 🎉 PR fusionné[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪 Open a ouvert les relations publiques[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
