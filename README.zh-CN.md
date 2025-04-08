@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“学习数据科学的最佳方法是进行数据科学。”  -  ChaninNantasenamat❞</i>
+<i>❝“调试时，新手插入纠正码；专家删除了有缺陷的代码。”  - 理查德·帕蒂斯（Richard Pattis）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌关闭PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉合并PR[#337](https://github.com/offensive-vk/UntilEverything/pull/337)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉合并PR[#335](https://github.com/offensive-vk/UntilEverything/pull/335)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉合并PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-5.  🎉合并PR[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  💪打开PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  🎉合并PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
-8.  💪打开PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
-9.  🎉合并PR[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)在[进攻式VK/简单布局](https://github.com/offensive-vk/simple-slate-blog)
-10. 💪打开PR[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)在[进攻式VK/简单布局](https://github.com/offensive-vk/simple-slate-blog)
-11. 🎉合并PR[#10038](https://github.com/offensive-vk/Classics/pull/10038)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-12. 🎉合并PR[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 💪打开PR[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉合并PR[#25](https://github.com/offensive-vk/reactjs-quiz-app/pull/25)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 🎉合并PR[#24](https://github.com/offensive-vk/reactjs-quiz-app/pull/24)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉合并PR[#339](https://github.com/offensive-vk/UntilEverything/pull/339)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉合并PR[#10039](https://github.com/offensive-vk/Classics/pull/10039)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+3.  ❌关闭PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+4.  🎉合并PR[#337](https://github.com/offensive-vk/UntilEverything/pull/337)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+5.  🎉合并PR[#335](https://github.com/offensive-vk/UntilEverything/pull/335)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉合并PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  🎉合并PR[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  💪打开PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  🎉合并PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+10. 💪打开PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+11. 🎉合并PR[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)在[进攻式VK/简单布局](https://github.com/offensive-vk/simple-slate-blog)
+12. 💪打开PR[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)在[进攻式VK/简单布局](https://github.com/offensive-vk/simple-slate-blog)
+13. 🎉合并PR[#10038](https://github.com/offensive-vk/Classics/pull/10038)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+14. 🎉合并PR[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪打开PR[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
