@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“调试时，新手插入纠正码；专家删除了有缺陷的代码。”  - 理查德·帕蒂斯（Richard Pattis）❞</i>
+<i>❝“在人类到达月球之前，邮件将在纽约到加利福尼亚州，英国，印度或澳大利亚的数小时内交付。”  -  Arthur Summerfield，1959年，美国邮政❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
