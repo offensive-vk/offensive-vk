@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Al depurar, los novatos inserta el código correctivo; los expertos eliminan el código defectuoso". - Richard Pattis ❞</i>
+<i>❝ "Antes de que el hombre llegue a la luna, el correo se entregará en cuestión de horas desde Nueva York a California, Gran Bretaña, India o Australia". - Arthur Summerfield, 1959, Estados Unidos Post❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
