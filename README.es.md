@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Antes de que el hombre llegue a la luna, el correo se entregará en cuestión de horas desde Nueva York a California, Gran Bretaña, India o Australia". - Arthur Summerfield, 1959, Estados Unidos Post❞</i>
+<i>❝ "El conocimiento real es conocer el alcance de la ignorancia de uno". - Confucio ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
