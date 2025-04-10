@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Beim Debuggen fügen Anfänger Korrekturcode ein; Experten entfernen defekten Code.“ - Richard Pattis ❞</i>
+<i>❝ "Wirkliche Erkenntnis ist es, das Ausmaß der Unwissenheit zu kennen." - Konfuzius ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
