@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Lors du débogage, les novices insérent le code correctif; les experts suppriment le code défectueux.» - Richard Pattis ❞</i>
+<i>❝ «La connaissance réelle est de connaître l'étendue de son ignorance.» - Confucius ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
