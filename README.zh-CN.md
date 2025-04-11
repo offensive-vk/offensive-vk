@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在人类到达月球之前，邮件将在纽约到加利福尼亚州，英国，印度或澳大利亚的数小时内交付。”  -  Arthur Summerfield，1959年，美国邮政❞</i>
+<i>❝“已经发现，C ++为隐藏程序的琐碎细节（例如其错误所在的位置）提供了一个了不起的设施。”  -  David Keppel❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#339](https://github.com/offensive-vk/UntilEverything/pull/339)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉合并PR[#10039](https://github.com/offensive-vk/Classics/pull/10039)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-3.  ❌关闭PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉合并PR[#337](https://github.com/offensive-vk/UntilEverything/pull/337)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉合并PR[#335](https://github.com/offensive-vk/UntilEverything/pull/335)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-6.  🎉合并PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  🎉合并PR[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  💪打开PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🎉合并PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
-10. 💪打开PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
-11. 🎉合并PR[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)在[进攻式VK/简单布局](https://github.com/offensive-vk/simple-slate-blog)
-12. 💪打开PR[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)在[进攻式VK/简单布局](https://github.com/offensive-vk/simple-slate-blog)
-13. 🎉合并PR[#10038](https://github.com/offensive-vk/Classics/pull/10038)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-14. 🎉合并PR[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 💪打开PR[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉合并PR[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+2.  🎉合并PR[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  💪打开PR[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪打开PR[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+5.  💪打开PR[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  🎉合并PR[#339](https://github.com/offensive-vk/UntilEverything/pull/339)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+7.  🎉合并PR[#10039](https://github.com/offensive-vk/Classics/pull/10039)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+8.  ❌关闭PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉合并PR[#337](https://github.com/offensive-vk/UntilEverything/pull/337)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉合并PR[#335](https://github.com/offensive-vk/UntilEverything/pull/335)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+11. 🎉合并PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🎉合并PR[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 💪打开PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 🎉合并PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+15. 💪打开PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
     <!--END_SECTION:activity-->
 
 </p>
