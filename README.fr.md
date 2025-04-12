@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Il a été découvert que C ++ fournit une installation remarquable pour dissimuler les détails triviaux d'un programme - comme où se trouvent ses bugs.» - David Keppel ❞</i>
+<i>Les noms de domaine tels que Google, se connecter ou s'inscrire étaient gratuits jusqu'en 1995, mais maintenant tout le monde doit payer pour chaque nouveau nom de domaine.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
