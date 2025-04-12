@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Wirkliche Erkenntnis ist es, das Ausmaß der Unwissenheit zu kennen." - Konfuzius ❞</i>
+<i>❝ Alle Domainnamen wie Google, Anmeldung oder Anmeldung waren bis 1995 kostenlos, aber jetzt muss jeder für jeden neuen Domain -Namen bezahlen.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#339](https://github.com/offensive-vk/UntilEverything/pull/339)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Fusions PR[#10039](https://github.com/offensive-vk/Classics/pull/10039)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-3.  ❌ geschlossene PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Fusions PR[#337](https://github.com/offensive-vk/UntilEverything/pull/337)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Fusions PR[#335](https://github.com/offensive-vk/UntilEverything/pull/335)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 Fusions PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  🎉 Fusions PR[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  💪 PR geöffnet[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🎉 Fusions PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)In[Offensiv-VK/Personal-Blog](https://github.com/offensive-vk/personal-blog)
-10. 💪 PR geöffnet[#1](https://github.com/offensive-vk/personal-blog/pull/1)In[Offensiv-VK/Personal-Blog](https://github.com/offensive-vk/personal-blog)
-11. 🎉 Fusions PR[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)In[Offensiv-VK/Simple-Slate-Blog](https://github.com/offensive-vk/simple-slate-blog)
-12. 💪 PR geöffnet[#1](https://github.com/offensive-vk/simple-slate-blog/pull/1)In[Offensiv-VK/Simple-Slate-Blog](https://github.com/offensive-vk/simple-slate-blog)
-13. 🎉 Fusions PR[#10038](https://github.com/offensive-vk/Classics/pull/10038)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-14. 🎉 Fusions PR[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 💪 PR geöffnet[#26](https://github.com/offensive-vk/reactjs-quiz-app/pull/26)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 Fusions PR[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+2.  🎉 Fusions PR[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  💪 PR geöffnet[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪 PR geöffnet[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  💪 PR geöffnet[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  🎉 Fusions PR[#339](https://github.com/offensive-vk/UntilEverything/pull/339)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 Fusions PR[#10039](https://github.com/offensive-vk/Classics/pull/10039)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+8.  ❌ geschlossene PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 Fusions PR[#337](https://github.com/offensive-vk/UntilEverything/pull/337)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 Fusions PR[#335](https://github.com/offensive-vk/UntilEverything/pull/335)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 Fusions PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🎉 Fusions PR[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 💪 PR geöffnet[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 🎉 Fusions PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)In[Offensiv-VK/Personal-Blog](https://github.com/offensive-vk/personal-blog)
+15. 💪 PR geöffnet[#1](https://github.com/offensive-vk/personal-blog/pull/1)In[Offensiv-VK/Personal-Blog](https://github.com/offensive-vk/personal-blog)
     <!--END_SECTION:activity-->
 
 </p>
