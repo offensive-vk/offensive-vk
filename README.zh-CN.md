@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“已经发现，C ++为隐藏程序的琐碎细节（例如其错误所在的位置）提供了一个了不起的设施。”  -  David Keppel❞</i>
+<i>❝所有域名，例如Google，登录或注册，直到1995年才免费，但是现在每个人都必须为每个新域名付费。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
