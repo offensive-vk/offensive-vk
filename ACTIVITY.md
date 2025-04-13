@@ -44,5 +44,4 @@
 43. ✅ Approved on pull request [#13](https://github.com/offensive-vk/Temp/pull/13) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 44. 🎉  Merged pull request [#14](https://github.com/offensive-vk/Temp/pull/14) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 45. ✅ Approved on pull request [#14](https://github.com/offensive-vk/Temp/pull/14) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-46. ✅ Approved on pull request [#23](https://github.com/offensive-vk/reactjs-quiz-app/pull/23) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 <!--END_SECTION:activity-->
