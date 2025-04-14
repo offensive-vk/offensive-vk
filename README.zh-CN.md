@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝所有域名，例如Google，登录或注册，直到1995年才免费，但是现在每个人都必须为每个新域名付费。</i>
+<i>❝第一台电子电脑ENIAC重27吨，占地1800平方英尺。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
