@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Se ha descubierto que C ++ proporciona una instalación notable para ocultar los detalles triviales de un programa, como dónde están sus errores". - David Keppel ❞</i>
+<i>❝ La primera computadora electrónica ENIAC pesó más de 27 toneladas y tomó 1800 pies cuadrados.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
