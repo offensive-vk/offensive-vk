@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Les noms de domaine tels que Google, se connecter ou s'inscrire étaient gratuits jusqu'en 1995, mais maintenant tout le monde doit payer pour chaque nouveau nom de domaine.</i>
+<i>❝La première ordinateur électronique ENIAC a pesé plus de 27 tonnes et a pris 1800 pieds carrés.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
