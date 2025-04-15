@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ La primera computadora electrónica ENIAC pesó más de 27 toneladas y tomó 1800 pies cuadrados.</i>
+<i>❝ La casa donde vive Bill Gates, fue diseñada usando una computadora Macintosh.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  🎉 PR fusionado[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  💪 ABIERTO PR[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4.  💪 ABIERTO PR[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 ABIERTO PR[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  🎉 PR fusionado[#339](https://github.com/offensive-vk/UntilEverything/pull/339)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 PR fusionado[#10039](https://github.com/offensive-vk/Classics/pull/10039)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-8.  ❌ Cerrado PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 PR fusionado[#337](https://github.com/offensive-vk/UntilEverything/pull/337)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 PR fusionado[#335](https://github.com/offensive-vk/UntilEverything/pull/335)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 PR fusionado[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🎉 PR fusionado[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 💪 ABIERTO PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉 PR fusionado[#1](https://github.com/offensive-vk/personal-blog/pull/1)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
-15. 💪 ABIERTO PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
+1.  💪 ABIERTO PR[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+2.  💪 ABIERTO PR[#36](https://github.com/offensive-vk/reactjs-quiz-app/pull/36)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  🎉 PR fusionado[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉 PR fusionado[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+5.  💪 ABIERTO PR[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 ABIERTO PR[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 ABIERTO PR[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🎉 PR fusionado[#339](https://github.com/offensive-vk/UntilEverything/pull/339)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionado[#10039](https://github.com/offensive-vk/Classics/pull/10039)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+10. ❌ Cerrado PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 PR fusionado[#337](https://github.com/offensive-vk/UntilEverything/pull/337)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 PR fusionado[#335](https://github.com/offensive-vk/UntilEverything/pull/335)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 PR fusionado[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 🎉 PR fusionado[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪 ABIERTO PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
