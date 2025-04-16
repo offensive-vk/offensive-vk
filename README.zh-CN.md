@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝第一台电子电脑ENIAC重27吨，占地1800平方英尺。</i>
+<i>❝“我认为人们不可避免地编程很糟糕。培训将无济于事。我们必须学会与之生活。”  - 艾伦·佩里斯（Alan Perlis）</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  🎉合并PR[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  💪打开PR[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-4.  💪打开PR[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪打开PR[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  🎉合并PR[#339](https://github.com/offensive-vk/UntilEverything/pull/339)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-7.  🎉合并PR[#10039](https://github.com/offensive-vk/Classics/pull/10039)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-8.  ❌关闭PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-9.  🎉合并PR[#337](https://github.com/offensive-vk/UntilEverything/pull/337)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉合并PR[#335](https://github.com/offensive-vk/UntilEverything/pull/335)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉合并PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🎉合并PR[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 💪打开PR[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉合并PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
-15. 💪打开PR[#1](https://github.com/offensive-vk/personal-blog/pull/1)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+1.  🎉合并PR[#342](https://github.com/offensive-vk/UntilEverything/pull/342)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉合并PR[#341](https://github.com/offensive-vk/UntilEverything/pull/341)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉合并PR[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉合并PR[#30661](https://github.com/offensive-vk/offensive-vk/pull/30661)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+5.  💪打开PR[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  💪打开PR[#36](https://github.com/offensive-vk/reactjs-quiz-app/pull/36)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  🎉合并PR[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🎉合并PR[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  💪打开PR[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪打开PR[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪打开PR[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🎉合并PR[#339](https://github.com/offensive-vk/UntilEverything/pull/339)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+13. 🎉合并PR[#10039](https://github.com/offensive-vk/Classics/pull/10039)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+14. ❌关闭PR[#336](https://github.com/offensive-vk/UntilEverything/pull/336)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+15. 🎉合并PR[#337](https://github.com/offensive-vk/UntilEverything/pull/337)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
