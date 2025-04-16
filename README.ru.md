@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Все доменные имена, такие как Google, войти в систему или регистрацию, были бесплатными до 1995 года, но теперь каждый должен платить за каждое новое доменное имя.</i>
+<i>❝ «Я думаю, что это неизбежно, что люди плохо программируют. Обучение существенно не поможет. Мы должны научиться жить с этим». - Алан Перлис</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  🎉 Объединенный Pr[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  💪 открыл Pr[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4.  💪 открыл Pr[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 открыл Pr[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  🎉 Объединенный Pr[#339](https://github.com/offensive-vk/UntilEverything/pull/339)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 Объединенный Pr[#10039](https://github.com/offensive-vk/Classics/pull/10039)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-8.  ❌ закрытый пиар[#336](https://github.com/offensive-vk/UntilEverything/pull/336)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 Объединенный Pr[#337](https://github.com/offensive-vk/UntilEverything/pull/337)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 Объединенный Pr[#335](https://github.com/offensive-vk/UntilEverything/pull/335)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Объединенный Pr[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🎉 Объединенный Pr[#28](https://github.com/offensive-vk/reactjs-quiz-app/pull/28)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 💪 открыл Pr[#29](https://github.com/offensive-vk/reactjs-quiz-app/pull/29)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉 Объединенный Pr[#1](https://github.com/offensive-vk/personal-blog/pull/1)в[Наступление-VK/личный блог](https://github.com/offensive-vk/personal-blog)
-15. 💪 открыл Pr[#1](https://github.com/offensive-vk/personal-blog/pull/1)в[Наступление-VK/личный блог](https://github.com/offensive-vk/personal-blog)
+1.  🎉 Объединенный Pr[#342](https://github.com/offensive-vk/UntilEverything/pull/342)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 Объединенный Pr[#341](https://github.com/offensive-vk/UntilEverything/pull/341)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Объединенный Pr[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉 Объединенный Pr[#30661](https://github.com/offensive-vk/offensive-vk/pull/30661)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+5.  💪 открыл Pr[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  💪 открыл Pr[#36](https://github.com/offensive-vk/reactjs-quiz-app/pull/36)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  🎉 Объединенный Pr[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🎉 Объединенный Pr[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  💪 открыл Pr[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 открыл Pr[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 открыл Pr[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🎉 Объединенный Pr[#339](https://github.com/offensive-vk/UntilEverything/pull/339)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Объединенный Pr[#10039](https://github.com/offensive-vk/Classics/pull/10039)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+14. ❌ закрытый пиар[#336](https://github.com/offensive-vk/UntilEverything/pull/336)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Объединенный Pr[#337](https://github.com/offensive-vk/UntilEverything/pull/337)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
