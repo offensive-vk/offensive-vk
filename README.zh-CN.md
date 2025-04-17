@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我认为人们不可避免地编程很糟糕。培训将无济于事。我们必须学会与之生活。”  - 艾伦·佩里斯（Alan Perlis）</i>
+<i>❝“是的，我们有着装。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
