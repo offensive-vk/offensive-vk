@@ -37,5 +37,4 @@
 36. 🎉  Merged pull request [#1](https://github.com/offensive-vk/simple-slate-blog/pull/1) in [offensive-vk/simple-slate-blog](https://github.com/offensive-vk/simple-slate-blog)
 37. 💪 Opened pull request [#1](https://github.com/offensive-vk/simple-slate-blog/pull/1) in [offensive-vk/simple-slate-blog](https://github.com/offensive-vk/simple-slate-blog)
 38. 🎉  Merged pull request [#10038](https://github.com/offensive-vk/Classics/pull/10038) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-39. ✅ Approved on pull request [#10038](https://github.com/offensive-vk/Classics/pull/10038) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 <!--END_SECTION:activity-->
