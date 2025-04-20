@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Il convient de noter qu'aucun ingénieur logiciel formé au niveau éthique ne consenterait jamais à rédiger une procédure de destrustbaghdad. L'éthique professionnelle de base lui obligerait plutôt à rédiger une procédure de destruction, à laquelle Baghdad pourrait être donné en tant que paramètre.» - Nathaniel S. Borenstein ❞</i>
+<i>Les ordinateurs ont de la mémoire ou de la RAM, qui stocke les éléments sur l'ordinateur lorsqu'ils ne sont pas utilisés. Le processeur stocke tout ce que votre ordinateur a besoin pour exécuter.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
