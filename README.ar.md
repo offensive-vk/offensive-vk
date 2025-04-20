@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "تجدر الإشارة إلى أنه لن يوافق أي مهندس برمجيات مدرب أخلاقياً على كتابة إجراء Destroybaghdad. من شأن الأخلاقيات المهنية الأساسية بدلاً من ذلك أن يكتب إجراء تدمير ، يمكن أن يعطى به بغداد كمعلمة."-Nathaniel S. Borenstein ❞</i>
+<i>لدى computers الذاكرة أو ذاكرة الوصول العشوائي ، التي تخزن العناصر على الكمبيوتر عندما لا تكون قيد الاستخدام. يقوم المعالج بتخزين كل ما يحتاج جهاز الكمبيوتر الخاص بك إلى تشغيله.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -157,7 +157,7 @@
 8.  💪 فتح العلاقات العامة[#36](https://github.com/offensive-vk/reactjs-quiz-app/pull/36)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
 9.  🎉 اندمج العلاقات العامة[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
 10. 🎉 اندمج العلاقات العامة[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 💪 فتح العلاقات العامة[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 فتح العلاقات العامة[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
 12. 💪 فتح العلاقات العامة[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
 13. 💪 فتح العلاقات العامة[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
 14. 🎉 اندمج العلاقات العامة[#339](https://github.com/offensive-vk/UntilEverything/pull/339)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
