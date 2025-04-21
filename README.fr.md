@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Les ordinateurs ont de la mémoire ou de la RAM, qui stocke les éléments sur l'ordinateur lorsqu'ils ne sont pas utilisés. Le processeur stocke tout ce que votre ordinateur a besoin pour exécuter.</i>
+<i>❝ «La programmation peut être amusante, la cryptographie peut également être combinée.» - Kreitzberg et Shneiderman ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  💪 Open a ouvert les relations publiques[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  🎉 PR fusionné[#342](https://github.com/offensive-vk/UntilEverything/pull/342)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 PR fusionné[#341](https://github.com/offensive-vk/UntilEverything/pull/341)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionné[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  🎉 PR fusionné[#30661](https://github.com/offensive-vk/offensive-vk/pull/30661)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-7.  💪 Open a ouvert les relations publiques[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  💪 Open a ouvert les relations publiques[#36](https://github.com/offensive-vk/reactjs-quiz-app/pull/36)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🎉 PR fusionné[#30](https://github.com/offensive-vk/reactjs-quiz-app/pull/30)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-10. 🎉 PR fusionné[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 💪 Open a ouvert les relations publiques[#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 Open a ouvert les relations publiques[#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪 Open a ouvert les relations publiques[#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉 PR fusionné[#339](https://github.com/offensive-vk/UntilEverything/pull/339)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 PR fusionné[#10039](https://github.com/offensive-vk/Classics/pull/10039)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+1.  💪 Open a ouvert les relations publiques[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 Open a ouvert les relations publiques[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 Open a ouvert les relations publiques[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🗣 a commenté[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🗣 a commenté[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 Open a ouvert les relations publiques[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 Open a ouvert les relations publiques[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  🎉 PR fusionné[#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  🎉 PR fusionné[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+10. 💪 Open a ouvert les relations publiques[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+11. 🎉 PR fusionné[#342](https://github.com/offensive-vk/UntilEverything/pull/342)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 PR fusionné[#341](https://github.com/offensive-vk/UntilEverything/pull/341)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 PR fusionné[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 🎉 PR fusionné[#30661](https://github.com/offensive-vk/offensive-vk/pull/30661)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+15. 💪 Open a ouvert les relations publiques[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
