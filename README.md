@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 💪 Opened PR [#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 💪 Opened PR [#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 💪 Opened PR [#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-5. 🗣 Commented on [#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6. 🗣 Commented on [#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7. 💪 Opened PR [#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8. 💪 Opened PR [#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9. 🎉 Merged PR [#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-10. 🎉 Merged PR [#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 💪 Opened PR [#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🎉 Merged PR [#342](https://github.com/offensive-vk/UntilEverything/pull/342) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Merged PR [#341](https://github.com/offensive-vk/UntilEverything/pull/341) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 Merged PR [#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 🎉 Merged PR [#30661](https://github.com/offensive-vk/offensive-vk/pull/30661) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1. 🎉 Merged PR [#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+2. 💪 Opened PR [#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+3. 🎉 Merged PR [#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+4. 💪 Opened PR [#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. 💪 Opened PR [#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6. 💪 Opened PR [#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7. 💪 Opened PR [#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8. 🗣 Commented on [#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9. 🗣 Commented on [#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 Opened PR [#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 Opened PR [#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🎉 Merged PR [#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🎉 Merged PR [#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 💪 Opened PR [#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 🎉 Merged PR [#342](https://github.com/offensive-vk/UntilEverything/pull/342) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
 
 </p>
