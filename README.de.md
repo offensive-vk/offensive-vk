@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Programmierung kann Spaß machen, auch Kryptographie; sie sollten jedoch nicht kombiniert werden.“ - Kreitzberg und Shreiderman ❞</i>
+<i>❝ "Standards sind immer veraltet. Das macht sie Standards." - Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 PR geöffnet[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 PR geöffnet[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 PR geöffnet[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🗣 kommentierte[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 kommentierte[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 PR geöffnet[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 PR geöffnet[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  🎉 Fusions PR[#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🎉 Fusions PR[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-10. 💪 PR geöffnet[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 🎉 Fusions PR[#342](https://github.com/offensive-vk/UntilEverything/pull/342)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Fusions PR[#341](https://github.com/offensive-vk/UntilEverything/pull/341)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 Fusions PR[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉 Fusions PR[#30661](https://github.com/offensive-vk/offensive-vk/pull/30661)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-15. 💪 PR geöffnet[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 Fusions PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+2.  💪 PR geöffnet[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  🎉 Fusions PR[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  💪 PR geöffnet[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  💪 PR geöffnet[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 PR geöffnet[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 PR geöffnet[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🗣 kommentierte[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🗣 kommentierte[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 PR geöffnet[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 PR geöffnet[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🎉 Fusions PR[#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🎉 Fusions PR[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 💪 PR geöffnet[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 🎉 Fusions PR[#342](https://github.com/offensive-vk/UntilEverything/pull/342)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
