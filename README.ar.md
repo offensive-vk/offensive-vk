@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "يمكن أن تكون البرمجة ممتعة ، لذا يمكن تشفيرها ؛ ومع ذلك لا ينبغي دمجها." - Kreitzberg و Shneiderman ❞</i>
+<i>❝ "المعايير هي دائما قديمة. هذا ما يجعلها معايير." - آلان بينيت ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 فتح العلاقات العامة[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 فتح العلاقات العامة[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 فتح العلاقات العامة[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🗣 علق على[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 علق على[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 فتح العلاقات العامة[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 فتح العلاقات العامة[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  🎉 اندمج العلاقات العامة[#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🎉 اندمج العلاقات العامة[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-10. 💪 فتح العلاقات العامة[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 🎉 اندمج العلاقات العامة[#342](https://github.com/offensive-vk/UntilEverything/pull/342)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 اندمج العلاقات العامة[#341](https://github.com/offensive-vk/UntilEverything/pull/341)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉 اندمج العلاقات العامة[#30661](https://github.com/offensive-vk/offensive-vk/pull/30661)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-15. 💪 فتح العلاقات العامة[#37](https://github.com/offensive-vk/reactjs-quiz-app/pull/37)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 اندمج العلاقات العامة[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+2.  💪 فتح العلاقات العامة[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  🎉 اندمج العلاقات العامة[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  💪 فتح العلاقات العامة[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  💪 فتح العلاقات العامة[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 فتح العلاقات العامة[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 فتح العلاقات العامة[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🗣 علق على[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🗣 علق على[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 فتح العلاقات العامة[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 فتح العلاقات العامة[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🎉 اندمج العلاقات العامة[#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🎉 اندمج العلاقات العامة[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 💪 فتح العلاقات العامة[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 🎉 اندمج العلاقات العامة[#342](https://github.com/offensive-vk/UntilEverything/pull/342)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
