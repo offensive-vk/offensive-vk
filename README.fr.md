@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Les normes sont toujours obsolètes. C'est ce qui en fait des normes.» - Alan Bennett ❞</i>
+<i>❝Doug Engelbart a inventé la première souris d'ordinateur vers 1964 qui était en bois.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
