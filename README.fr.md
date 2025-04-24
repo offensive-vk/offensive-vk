@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Doug Engelbart a inventé la première souris d'ordinateur vers 1964 qui était en bois.</i>
+<i>❝ «L'ordinateur est né pour résoudre des problèmes qui n'existaient pas auparavant.» - Bill Gates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
