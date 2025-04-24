@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Standards sind immer veraltet. Das macht sie Standards." - Alan Bennett ❞</i>
+<i>❝ „Der Computer wurde geboren, um Probleme zu lösen, die vorher nicht existierten.“ - Bill Gates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
