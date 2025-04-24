@@ -37,5 +37,4 @@
 36. 🎉  Merged pull request [#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 37. 💪 Opened pull request [#8485](https://github.com/kamranahmedse/developer-roadmap/pull/8485) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 38. 💪 Opened pull request [#8484](https://github.com/kamranahmedse/developer-roadmap/pull/8484) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-39. 💪 Opened pull request [#32](https://github.com/offensive-vk/reactjs-quiz-app/pull/32) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 <!--END_SECTION:activity-->
