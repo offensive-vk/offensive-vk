@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Doug Engelbart inventó el primer mouse de computadora alrededor de 1964 que estaba hecho de madera.</i>
+<i>❝ La primera computadora electrónica ENIAC pesó más de 27 toneladas y tomó 1800 pies cuadrados.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  💪 ABIERTO PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  🎉 PR fusionado[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  💪 ABIERTO PR[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 ABIERTO PR[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 ABIERTO PR[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 ABIERTO PR[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  🗣 Comentó[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🗣 Comentó[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 ABIERTO PR[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 ABIERTO PR[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🎉 PR fusionado[#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉 PR fusionado[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 💪 ABIERTO PR[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 🎉 PR fusionado[#342](https://github.com/offensive-vk/UntilEverything/pull/342)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 PR fusionado[#343](https://github.com/offensive-vk/UntilEverything/pull/343)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionado[#344](https://github.com/offensive-vk/UntilEverything/pull/344)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+3.  💪 ABIERTO PR[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪 ABIERTO PR[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 PR fusionado[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  💪 ABIERTO PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  🎉 PR fusionado[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  💪 ABIERTO PR[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 ABIERTO PR[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 ABIERTO PR[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 ABIERTO PR[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🗣 Comentó[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 🗣 Comentó[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 💪 ABIERTO PR[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 ABIERTO PR[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
