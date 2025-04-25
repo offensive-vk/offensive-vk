@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机诞生是为了解决以前从未存在的问题。”  - 比尔·盖茨（Bill Gates）</i>
+<i>❝第一台电子电脑ENIAC重27吨，占地1800平方英尺。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  💪打开PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  🎉合并PR[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  💪打开PR[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪打开PR[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪打开PR[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪打开PR[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  🗣评论[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-9.  🗣评论[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪打开PR[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪打开PR[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-12. 🎉合并PR[#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉合并PR[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 💪打开PR[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 🎉合并PR[#342](https://github.com/offensive-vk/UntilEverything/pull/342)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+1.  🎉合并PR[#343](https://github.com/offensive-vk/UntilEverything/pull/343)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉合并PR[#344](https://github.com/offensive-vk/UntilEverything/pull/344)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+3.  💪打开PR[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪打开PR[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉合并PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  💪打开PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  🎉合并PR[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  💪打开PR[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪打开PR[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪打开PR[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪打开PR[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🗣评论[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+13. 🗣评论[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+14. 💪打开PR[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪打开PR[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
