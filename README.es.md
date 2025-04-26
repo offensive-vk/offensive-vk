@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ La primera computadora electrónica ENIAC pesó más de 27 toneladas y tomó 1800 pies cuadrados.</i>
+<i>"" Las buenas especificaciones siempre mejorarán la productividad del programador mucho mejor que cualquier herramienta o técnica de programación ". - Milt Bryce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
