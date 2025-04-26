@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Компьютер родился для решения проблем, которых раньше не было». - Билл Гейтс ❞</i>
+<i>❝ «Хорошие спецификации всегда будут повысить производительность программиста намного лучше, чем любой инструмент или техника программирования». - Милт Брайс ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  💪 открыл Pr[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  🎉 Объединенный Pr[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  💪 открыл Pr[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 открыл Pr[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 открыл Pr[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 открыл Pr[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  🗣 прокомментировал[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🗣 прокомментировал[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 открыл Pr[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 открыл Pr[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🎉 Объединенный Pr[#40](https://github.com/offensive-vk/reactjs-quiz-app/pull/40)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉 Объединенный Pr[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 💪 открыл Pr[#39](https://github.com/offensive-vk/reactjs-quiz-app/pull/39)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 🎉 Объединенный Pr[#342](https://github.com/offensive-vk/UntilEverything/pull/342)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 Объединенный Pr[#343](https://github.com/offensive-vk/UntilEverything/pull/343)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 Объединенный Pr[#344](https://github.com/offensive-vk/UntilEverything/pull/344)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+3.  💪 открыл Pr[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪 открыл Pr[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 Объединенный Pr[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  💪 открыл Pr[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  🎉 Объединенный Pr[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  💪 открыл Pr[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 открыл Pr[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 открыл Pr[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 открыл Pr[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🗣 прокомментировал[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 🗣 прокомментировал[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 💪 открыл Pr[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 открыл Pr[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
