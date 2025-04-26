@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝第一台电子电脑ENIAC重27吨，占地1800平方英尺。</i>
+<i>❝“良好的规格总是比任何编程工具或技术都更好地提高程序员的生产率。”  -  Milt Bryce❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
