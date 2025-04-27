@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Les bonnes spécifications amélioreront toujours la productivité des programmeurs bien mieux que tout outil ou technique de programmation.» - Milt Bryce ❞</i>
+<i>❝IMDB est l'un des plus anciens sites Web d'Internet et a commencé sur Usenet en 1990 comme une liste de «actrices avec de beaux yeux». ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#343](https://github.com/offensive-vk/UntilEverything/pull/343)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 PR fusionné[#344](https://github.com/offensive-vk/UntilEverything/pull/344)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-3.  💪 Open a ouvert les relations publiques[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4.  💪 Open a ouvert les relations publiques[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉 PR fusionné[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  💪 Open a ouvert les relations publiques[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  🎉 PR fusionné[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  💪 Open a ouvert les relations publiques[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  💪 Open a ouvert les relations publiques[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 Open a ouvert les relations publiques[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 Open a ouvert les relations publiques[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🗣 a commenté[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 🗣 a commenté[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 💪 Open a ouvert les relations publiques[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 Open a ouvert les relations publiques[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  💪 Open a ouvert les relations publiques[#8561](https://github.com/kamranahmedse/developer-roadmap/pull/8561)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 PR fusionné[#343](https://github.com/offensive-vk/UntilEverything/pull/343)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 PR fusionné[#344](https://github.com/offensive-vk/UntilEverything/pull/344)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+4.  💪 Open a ouvert les relations publiques[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  💪 Open a ouvert les relations publiques[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  🎉 PR fusionné[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  💪 Open a ouvert les relations publiques[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🎉 PR fusionné[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  💪 Open a ouvert les relations publiques[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 Open a ouvert les relations publiques[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 💪 Open a ouvert les relations publiques[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 💪 Open a ouvert les relations publiques[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🗣 a commenté[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🗣 a commenté[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 Open a ouvert les relations publiques[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
