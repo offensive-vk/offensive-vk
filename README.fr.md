@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IMDB est l'un des plus anciens sites Web d'Internet et a commencé sur Usenet en 1990 comme une liste de «actrices avec de beaux yeux». ❞</i>
+<i>❝ «Rendez tout aussi simple que possible, mais pas plus simple.» - Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
