@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝imdb ist eine der ältesten Websites im Internet und begann 1990 mit Ussenet als Liste der „Schauspielerinnen mit schönen Augen“. ❞</i>
+<i>❝ „Machen Sie alles so einfach wie möglich, aber nicht einfacher.“ - Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
