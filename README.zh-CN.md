@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“使一切尽可能简单，但并不简单。”  - 艾伯特·爱因斯坦（Albert Einstein）❞</i>
+<i>❝“目标是将数据转化为信息，并将信息转化为洞察力。”  -  CarlyFiorina❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
