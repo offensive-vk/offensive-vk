@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Machen Sie alles so einfach wie möglich, aber nicht einfacher.“ - Albert Einstein ❞</i>
+<i>❝ „Das Ziel ist es, Daten in Informationen und Informationen in Einblick umzuwandeln.“ - Carly Fiorina❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
