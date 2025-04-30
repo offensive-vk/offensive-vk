@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "اجعل كل شيء بسيطًا قدر الإمكان ، ولكن ليس أكثر بساطة." - ألبرت أينشتاين ❞</i>
+<i>❝ "الهدف هو تحويل البيانات إلى معلومات ، والمعلومات إلى رؤية." - كارلي فيورينا❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -160,7 +160,7 @@
 11. 💪 فتح العلاقات العامة[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
 12. 💪 فتح العلاقات العامة[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
 13. 🗣 علق على[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 علق على[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)في[kamranahmedse/مطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🗣 علق على[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
 15. 💪 فتح العلاقات العامة[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
