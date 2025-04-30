@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Rendez tout aussi simple que possible, mais pas plus simple.» - Albert Einstein ❞</i>
+<i>❝ «L'objectif est de transformer les données en informations et d'informations en perspicacité.» - Carly Fiorina❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
