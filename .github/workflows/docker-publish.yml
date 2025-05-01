@@ -58,7 +58,7 @@ jobs:
           flavor: |
             latest=true
           labels: |
-            org.opencontainers.image.base=debian-bullseye
+            org.opencontainers.image.base=debian-lts-bullseye
             org.opencontainers.image.title=personal
             org.opencontainers.image.vendor=vedansh
             org.opencontainers.image.multi-platform=true
