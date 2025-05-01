@@ -11,8 +11,31 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
+
+      - name: Early Exit if Already Reviewed or Merged
+        id: early_exit
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pr_number="${{ github.event.pull_request.number }}"
+          # Fetch PR details
+          pr_info=$(gh pr view "$pr_number" --json labels,mergeStateStatus --jq '.')
+          
+          is_merged=$(echo "$pr_info" | jq -r '.mergeStateStatus')
+          has_label=$(echo "$pr_info" | jq -r '.labels[].name' | grep -c '^reviewed$' || true)
+
+          echo "PR merged: $is_merged"
+          echo "PR has 'reviewed' label: $has_label"
+
+          if [[ "$is_merged" == "true" || "$has_label" -gt 0 ]]; then
+            echo "Already merged or reviewed, skipping."
+            echo "exit_early=true" >> $GITHUB_ENV
+          else
+            echo "exit_early=false" >> $GITHUB_ENV
+          fi
+
       - name: Check if review was approved by Boss
+        if: env.exit_early == 'false'
         id: check_approval
         run: |
           echo PR_NUMBER=${{ github.event.pull_request.number }} >> $GITHUB_ENV
@@ -27,23 +50,22 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh pr list
           gh pr edit "${{ env.PR_NUMBER }}" --add-label "reviewed"
 
       - name: Add Reaction to PR Comments
+        if: env.approved == 'true'
         uses: peter-evans/create-or-update-comment@v4
         with:
-            issue-number: ${{ env.PR_NUMBER }}
-            body: |
-              🚀 Amazing! This Pull Request Has Been Reviewed and Will Merge (Squash) in Next 5 Minutes. ⌛
-            reactions: rocket
-            token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
-        
+          issue-number: ${{ env.PR_NUMBER }}
+          body: |
+            🚀 Amazing! This Pull Request Has Been Reviewed and Will Merge (Squash) in Next 5 Minutes. ⌛
+          reactions: rocket
+          token: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
+          
       - name: Merge PR
         if: env.approved == 'true'
-        run: |
-          sleep 360
-          gh pr view ${{ env.PR_NUMBER }}
-          gh pr merge ${{ env.PR_NUMBER }} --squash --admin
         env:
           GH_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          sleep 300
+          gh pr merge "${{ env.PR_NUMBER }}" --squash --admin

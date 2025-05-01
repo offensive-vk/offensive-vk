@@ -18,14 +18,15 @@ jobs:
 
       - name: Install GitHub CLI
         run: |
-          sudo apt-get install gh -y
+          sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
+          sudo apt update
+          sudo apt install gh -y
 
       - name: Submit Approval Review
-        # if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' }}
         env:
-          GH_TOKEN: ${{ github.token || secrets.BOT_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN}}
         run: |
-          pr_url="${{ github.event.pull_request.url }}"
+          pr_url="${{ github.event.pull_request.html_url }}"
           pr_number="${{ github.event.pull_request.number }}"
           review_body=" 
           Voila ! 🎉 Great work on the Pull Request! 🚀
@@ -43,9 +44,10 @@ jobs:
           gh pr review "$pr_number" --approve --body "$review_body"
           gh pr edit "$pr_number" --add-label "approved"
 
-      - name: Request My Review
-        if: ${{ github.actor == 'dependabot[bot]' && github.event.pusher.name == 'dependabot[bot]' || github.event.pull_request.user.login == 'dependabot[bot]' }}
+      - name: Request Review
+        if: ${{ github.event.pull_request.user.login == 'dependabot[bot]' }}
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          pr_number="${{ github.event.pull_request.number }}"
           gh pr review --request "$pr_number" --reviewer offensive-vk
