@@ -3,7 +3,7 @@
 #####################################################
 
 # Use the Debian Bullseye base image
-FROM node:current-bullseye
+FROM node:lts-bullseye
 
 # The Owner of this environment & this file (The Real OG)
 LABEL owner="Vedansh <https://github.com/offensive-vk/>"
