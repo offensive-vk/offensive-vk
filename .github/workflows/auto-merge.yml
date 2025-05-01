@@ -19,9 +19,9 @@ jobs:
         run: |
           pr_number="${{ github.event.pull_request.number }}"
           # Fetch PR details
-          pr_info=$(gh pr view "$pr_number" --json labels,mergedStateStatus --jq '.')
+          pr_info=$(gh pr view "$pr_number" --json labels,mergeStateStatus --jq '.')
           
-          is_merged=$(echo "$pr_info" | jq -r '.mergedStateStatus')
+          is_merged=$(echo "$pr_info" | jq -r '.mergeStateStatus')
           has_label=$(echo "$pr_info" | jq -r '.labels[].name' | grep -c '^reviewed$' || true)
 
           echo "PR merged: $is_merged"
