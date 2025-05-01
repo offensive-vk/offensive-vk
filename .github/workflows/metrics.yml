@@ -155,23 +155,23 @@ jobs:
           plugin_languages_sections: most-used, recently-used
 
   # Achievements, fake awards showing that i have no life
-  achievement-metrics:
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.CLASSIC_TOKEN }}
-          filename: assets/achievements.svg
-          committer_message: '📊 Updated Metrics - Achievements'
-          committer_token: ${{ secrets.BOT_TOKEN }}
-          user: offensive-vk
-          base: ''
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_display: detailed
+  # achievement-metrics:
+  #   runs-on: ubuntu-latest
+  #   timeout-minutes: 15
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - uses: lowlighter/metrics@latest
+  #       with:
+  #         token: ${{ secrets.CLASSIC_TOKEN }}
+  #         filename: assets/achievements.svg
+  #         committer_message: '📊 Updated Metrics - Achievements'
+  #         committer_token: ${{ secrets.BOT_TOKEN }}
+  #         user: offensive-vk
+  #         base: ''
+  #         plugin_achievements: yes
+  #         plugin_achievements_threshold: B
+  #         plugin_achievements_display: detailed
 
   # Notable contributions, if there are any lol
   notable-metrics:

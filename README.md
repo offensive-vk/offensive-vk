@@ -98,7 +98,7 @@
         <a href="https://github.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" alt="github"/> </a>
         <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="37" width="37" alt="pnpm"/> </a>
     </p>
 </details>
 
@@ -176,12 +176,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=offensive-vk&theme=shades-of-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-vk&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+-->
 
 <details>
-  <summary><h4>👻 Quick Snapshot of Past ✅</h4></summary>
-    <img src="./assets/all.svg" alt="..." height=auto width=auto />
+  <summary><h4>👻 What did I do? ✅</h4></summary>
+    <img src="./assets/activity.svg" alt="..." height=auto width=auto />
 </details>
--->
 
 <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
