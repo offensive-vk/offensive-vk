@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «L'objectif est de transformer les données en informations et d'informations en perspicacité.» - Carly Fiorina❞</i>
+<i>❝La première webcam a été utilisée à l'Université de Cambridge. Son but était de surveiller une cafetière afin qu'ils n'aient pas déchet des voyages dans un pot vide.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 Open a ouvert les relations publiques[#8561](https://github.com/kamranahmedse/developer-roadmap/pull/8561)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 PR fusionné[#343](https://github.com/offensive-vk/UntilEverything/pull/343)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionné[#344](https://github.com/offensive-vk/UntilEverything/pull/344)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-4.  💪 Open a ouvert les relations publiques[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 Open a ouvert les relations publiques[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 PR fusionné[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  💪 Open a ouvert les relations publiques[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  🎉 PR fusionné[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  💪 Open a ouvert les relations publiques[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 Open a ouvert les relations publiques[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 Open a ouvert les relations publiques[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 Open a ouvert les relations publiques[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🗣 a commenté[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 a commenté[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 Open a ouvert les relations publiques[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 PR fusionné[#93](https://github.com/offensive-vk/AwesomeCloud/pull/93)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 PR fusionné[#91](https://github.com/offensive-vk/AwesomeCloud/pull/91)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉 PR fusionné[#43](https://github.com/offensive-vk/reactjs-quiz-app/pull/43)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉 PR fusionné[#10041](https://github.com/offensive-vk/Classics/pull/10041)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+5.  🎉 PR fusionné[#34](https://github.com/offensive-vk/develop-actions/pull/34)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+6.  💪 Open a ouvert les relations publiques[#8561](https://github.com/kamranahmedse/developer-roadmap/pull/8561)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  🎉 PR fusionné[#343](https://github.com/offensive-vk/UntilEverything/pull/343)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 PR fusionné[#344](https://github.com/offensive-vk/UntilEverything/pull/344)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+9.  💪 Open a ouvert les relations publiques[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 Open a ouvert les relations publiques[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 🎉 PR fusionné[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 💪 Open a ouvert les relations publiques[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🎉 PR fusionné[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 💪 Open a ouvert les relations publiques[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 Open a ouvert les relations publiques[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
