@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IMDB es uno de los sitios web más antiguos en Internet, y comenzó en Usenet en 1990 como una lista de "actrices con ojos hermosos".</i>
+<i>❝ La primera cámara web se utilizó en la Universidad de Cambridge. Su propósito era monitorear una cafetera para que no desperdiciaran viajes a una olla vacía.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 ABIERTO PR[#8561](https://github.com/kamranahmedse/developer-roadmap/pull/8561)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 PR fusionado[#343](https://github.com/offensive-vk/UntilEverything/pull/343)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionado[#344](https://github.com/offensive-vk/UntilEverything/pull/344)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-4.  💪 ABIERTO PR[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 ABIERTO PR[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 PR fusionado[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  💪 ABIERTO PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  🎉 PR fusionado[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  💪 ABIERTO PR[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 ABIERTO PR[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 ABIERTO PR[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 ABIERTO PR[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🗣 Comentó[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 Comentó[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 ABIERTO PR[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 PR fusionado[#93](https://github.com/offensive-vk/AwesomeCloud/pull/93)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 PR fusionado[#91](https://github.com/offensive-vk/AwesomeCloud/pull/91)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉 PR fusionado[#43](https://github.com/offensive-vk/reactjs-quiz-app/pull/43)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉 PR fusionado[#10041](https://github.com/offensive-vk/Classics/pull/10041)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+5.  🎉 PR fusionado[#34](https://github.com/offensive-vk/develop-actions/pull/34)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+6.  💪 ABIERTO PR[#8561](https://github.com/kamranahmedse/developer-roadmap/pull/8561)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  🎉 PR fusionado[#343](https://github.com/offensive-vk/UntilEverything/pull/343)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+8.  🎉 PR fusionado[#344](https://github.com/offensive-vk/UntilEverything/pull/344)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+9.  💪 ABIERTO PR[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 ABIERTO PR[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 🎉 PR fusionado[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 💪 ABIERTO PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🎉 PR fusionado[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 💪 ABIERTO PR[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 ABIERTO PR[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
