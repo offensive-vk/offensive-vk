@@ -103,6 +103,7 @@ jobs:
 
       - name: 👤 Add Status Comment
         uses: peter-evans/create-or-update-comment@v4
+        if: ${{ github.actor != 'dependabot[bot]' && github.event.pusher.name != 'dependabot[bot]' || github.event.pull_request.user.login != 'dependabot[bot]' }}
         with:
           token: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
           issue-number:
