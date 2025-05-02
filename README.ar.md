@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ تم استخدام كاميرا الويب الأولى في جامعة كامبريدج. كان الغرض منه هو مراقبة صانع القهوة حتى لا يضيعوا الرحلات إلى وعاء فارغ.</i>
+<i>❝HP و Microsoft و Apple لديها شيء مثير للاهتمام للغاية - لقد بدأوا جميعًا في مرآب.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -103,7 +103,7 @@
         <a href="https://github.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" alt="github"/> </a>
         <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="37" width="37" alt="pnpm"/> </a>
     </p>
 </details>
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#93](https://github.com/offensive-vk/AwesomeCloud/pull/93)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-2.  🎉 اندمج العلاقات العامة[#91](https://github.com/offensive-vk/AwesomeCloud/pull/91)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-3.  🎉 اندمج العلاقات العامة[#43](https://github.com/offensive-vk/reactjs-quiz-app/pull/43)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🎉 اندمج العلاقات العامة[#10041](https://github.com/offensive-vk/Classics/pull/10041)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-5.  🎉 اندمج العلاقات العامة[#34](https://github.com/offensive-vk/develop-actions/pull/34)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-6.  💪 فتح العلاقات العامة[#8561](https://github.com/kamranahmedse/developer-roadmap/pull/8561)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉 اندمج العلاقات العامة[#343](https://github.com/offensive-vk/UntilEverything/pull/343)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 اندمج العلاقات العامة[#344](https://github.com/offensive-vk/UntilEverything/pull/344)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-9.  💪 فتح العلاقات العامة[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 فتح العلاقات العامة[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 🎉 اندمج العلاقات العامة[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 💪 فتح العلاقات العامة[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉 اندمج العلاقات العامة[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 💪 فتح العلاقات العامة[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 فتح العلاقات العامة[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 اندمج العلاقات العامة[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 اندمج العلاقات العامة[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+3.  🔒 قضية مغلقة[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 قضية مغلقة[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 قضية مغلقة[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 قضية مغلقة[#30668](https://github.com/offensive-vk/offensive-vk/issues/30668)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 قضية مغلقة[#30667](https://github.com/offensive-vk/offensive-vk/issues/30667)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 اندمج العلاقات العامة[#11](https://github.com/offensive-vk/auto-user-activity/pull/11)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+9.  🎉 اندمج العلاقات العامة[#347](https://github.com/offensive-vk/UntilEverything/pull/347)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+10. 🗣 علق على[#347](https://github.com/offensive-vk/UntilEverything/pull/347#issuecomment-2844420241)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 اندمج العلاقات العامة[#346](https://github.com/offensive-vk/UntilEverything/pull/346)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 اندمج العلاقات العامة[#345](https://github.com/offensive-vk/UntilEverything/pull/345)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 اندمج العلاقات العامة[#348](https://github.com/offensive-vk/UntilEverything/pull/348)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 اندمج العلاقات العامة[#44](https://github.com/offensive-vk/reactjs-quiz-app/pull/44)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 🎉 اندمج العلاقات العامة[#95](https://github.com/offensive-vk/AwesomeCloud/pull/95)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
     <!--END_SECTION:activity-->
 
 </p>
@@ -186,12 +186,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=offensive-vk&theme=shades-of-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-vk&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+-->
 
 <details>
-  <summary><h4>👻 Quick Snapshot of Past ✅</h4></summary>
-    <img src="./assets/all.svg" alt="..." height=auto width=auto />
+  <summary><h4>👻 What did I do? ✅</h4></summary>
+    <img src="./assets/activity.svg" alt="..." height=auto width=auto />
 </details>
--->
 
 <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
