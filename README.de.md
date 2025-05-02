@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Das Ziel ist es, Daten in Informationen und Informationen in Einblick umzuwandeln.“ - Carly Fiorina❞</i>
+<i>❝HP, Microsoft und Apple haben eine sehr interessante Sache gemeinsam - sie wurden alle in einer Garage begonnen. ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -103,7 +103,7 @@
         <a href="https://github.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" alt="github"/> </a>
         <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="37" width="37" alt="pnpm"/> </a>
     </p>
 </details>
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 PR geöffnet[#8561](https://github.com/kamranahmedse/developer-roadmap/pull/8561)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 Fusions PR[#343](https://github.com/offensive-vk/UntilEverything/pull/343)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Fusions PR[#344](https://github.com/offensive-vk/UntilEverything/pull/344)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-4.  💪 PR geöffnet[#8537](https://github.com/kamranahmedse/developer-roadmap/pull/8537)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 PR geöffnet[#8536](https://github.com/kamranahmedse/developer-roadmap/pull/8536)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 Fusions PR[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  💪 PR geöffnet[#42](https://github.com/offensive-vk/reactjs-quiz-app/pull/42)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  🎉 Fusions PR[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  💪 PR geöffnet[#8527](https://github.com/kamranahmedse/developer-roadmap/pull/8527)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 PR geöffnet[#8521](https://github.com/kamranahmedse/developer-roadmap/pull/8521)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 PR geöffnet[#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 💪 PR geöffnet[#41](https://github.com/offensive-vk/reactjs-quiz-app/pull/41)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🗣 kommentierte[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817183929)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 kommentierte[#8518](https://github.com/kamranahmedse/developer-roadmap/pull/8518#issuecomment-2817180752)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 PR geöffnet[#8519](https://github.com/kamranahmedse/developer-roadmap/pull/8519)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 Fusions PR[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 Fusions PR[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🔒 geschlossenes Problem[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 geschlossenes Problem[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 geschlossenes Problem[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 geschlossenes Problem[#30668](https://github.com/offensive-vk/offensive-vk/issues/30668)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 geschlossenes Problem[#30667](https://github.com/offensive-vk/offensive-vk/issues/30667)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 Fusions PR[#11](https://github.com/offensive-vk/auto-user-activity/pull/11)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
+9.  🎉 Fusions PR[#347](https://github.com/offensive-vk/UntilEverything/pull/347)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+10. 🗣 kommentierte[#347](https://github.com/offensive-vk/UntilEverything/pull/347#issuecomment-2844420241)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 Fusions PR[#346](https://github.com/offensive-vk/UntilEverything/pull/346)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 Fusions PR[#345](https://github.com/offensive-vk/UntilEverything/pull/345)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Fusions PR[#348](https://github.com/offensive-vk/UntilEverything/pull/348)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Fusions PR[#44](https://github.com/offensive-vk/reactjs-quiz-app/pull/44)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 🎉 Fusions PR[#95](https://github.com/offensive-vk/AwesomeCloud/pull/95)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
     <!--END_SECTION:activity-->
 
 </p>
@@ -186,12 +186,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=offensive-vk&theme=shades-of-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-vk&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+-->
 
 <details>
-  <summary><h4>👻 Quick Snapshot of Past ✅</h4></summary>
-    <img src="./assets/all.svg" alt="..." height=auto width=auto />
+  <summary><h4>👻 What did I do? ✅</h4></summary>
+    <img src="./assets/activity.svg" alt="..." height=auto width=auto />
 </details>
--->
 
 <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
