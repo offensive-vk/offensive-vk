@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝HP, Microsoft y Apple tienen una cosa muy interesante en común: todos comenzaron en un garaje.</i>
+<i>❝ElGoog.im (Google Spelled Backward) es un sitio web reflejado de Google Search con resultados de búsqueda volcados horizontalmente, también conocido como un "espejo de Google". Un sitio web de elgoog no oficial fue creado por todo "para la diversión", que comenzó a ganar popularidad en 2002❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
