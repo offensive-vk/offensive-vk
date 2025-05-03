@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝HP, Microsoft und Apple haben eine sehr interessante Sache gemeinsam - sie wurden alle in einer Garage begonnen. ❞</i>
+<i>❝elgoog.im (Google rückwärts geschrieben) ist eine gespiegelte Website von Google Search mit horizontal geflippten Suchergebnissen, die auch als „Google Mirror“ bezeichnet werden. Eine inoffizielle Elgoog -Website wurde von All Too To Flat „for Fun“ erstellt, die 2002 Popularität erlangte.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
