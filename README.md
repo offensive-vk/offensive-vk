@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-2. 🎉 Merged PR [#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3. 💪 Opened PR [#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4. 💪 Opened PR [#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. 🎉 Merged PR [#92](https://github.com/offensive-vk/AwesomeCloud/pull/92) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-6. 🎉 Merged PR [#94](https://github.com/offensive-vk/AwesomeCloud/pull/94) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7. 🔒 Closed issue [#30672](https://github.com/offensive-vk/offensive-vk/issues/30672) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8. 🔒 Closed issue [#30671](https://github.com/offensive-vk/offensive-vk/issues/30671) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9. 🔒 Closed issue [#30670](https://github.com/offensive-vk/offensive-vk/issues/30670) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 Closed issue [#30668](https://github.com/offensive-vk/offensive-vk/issues/30668) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 Closed issue [#30667](https://github.com/offensive-vk/offensive-vk/issues/30667) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Merged PR [#11](https://github.com/offensive-vk/auto-user-activity/pull/11) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-13. 🎉 Merged PR [#347](https://github.com/offensive-vk/UntilEverything/pull/347) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🗣 Commented on [#347](https://github.com/offensive-vk/UntilEverything/pull/347#issuecomment-2844420241) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 Merged PR [#346](https://github.com/offensive-vk/UntilEverything/pull/346) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1. 🚀 Published release [Quizzly.dev - May Edition](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+2. 🎉 Merged PR [#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+3. 💪 Opened PR [#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+4. 🎉 Merged PR [#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+5. 💪 Opened PR [#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6. 💪 Opened PR [#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7. 🎉 Merged PR [#92](https://github.com/offensive-vk/AwesomeCloud/pull/92) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+8. 🎉 Merged PR [#94](https://github.com/offensive-vk/AwesomeCloud/pull/94) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9. 🔒 Closed issue [#30672](https://github.com/offensive-vk/offensive-vk/issues/30672) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Closed issue [#30671](https://github.com/offensive-vk/offensive-vk/issues/30671) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Closed issue [#30670](https://github.com/offensive-vk/offensive-vk/issues/30670) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Closed issue [#30668](https://github.com/offensive-vk/offensive-vk/issues/30668) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Closed issue [#30667](https://github.com/offensive-vk/offensive-vk/issues/30667) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 Merged PR [#11](https://github.com/offensive-vk/auto-user-activity/pull/11) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
+15. 🎉 Merged PR [#347](https://github.com/offensive-vk/UntilEverything/pull/347) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
 
 </p>
