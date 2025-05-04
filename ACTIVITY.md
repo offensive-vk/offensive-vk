@@ -49,5 +49,4 @@
 48. 💬 Commented on pull request [#8520](https://github.com/kamranahmedse/developer-roadmap/pull/8520) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 49. 💬 Commented on pull request [#33](https://github.com/offensive-vk/reactjs-quiz-app/pull/33) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 50. 💬 Commented on pull request [#33](https://github.com/offensive-vk/reactjs-quiz-app/pull/33) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-51. 🎉  Merged pull request [#343](https://github.com/offensive-vk/UntilEverything/pull/343) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
