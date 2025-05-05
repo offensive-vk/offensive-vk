@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "كلمات المرور مثل الملابس الداخلية: لا تدع الناس يرونها ، يجب عليك تغييرها كثيرًا ، ويجب ألا تشاركها مع الغرباء." - كريس بيريلو ❞</i>
+<i>❝ شخص متوسط ​​عادة ما يكون يومض 20 مرة في الدقيقة ، ولكن عند استخدام جهاز كمبيوتر ، يومض بعد 7 مرات في الدقيقة فقط.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 فتح العلاقات العامة[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  💪 فتح العلاقات العامة[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  💪 فتح العلاقات العامة[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉 اندمج العلاقات العامة[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-6.  🎉 اندمج العلاقات العامة[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-7.  🔒 قضية مغلقة[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 قضية مغلقة[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 قضية مغلقة[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 قضية مغلقة[#30668](https://github.com/offensive-vk/offensive-vk/issues/30668)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 قضية مغلقة[#30667](https://github.com/offensive-vk/offensive-vk/issues/30667)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 اندمج العلاقات العامة[#11](https://github.com/offensive-vk/auto-user-activity/pull/11)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
-13. 🎉 اندمج العلاقات العامة[#347](https://github.com/offensive-vk/UntilEverything/pull/347)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-14. 🗣 علق على[#347](https://github.com/offensive-vk/UntilEverything/pull/347#issuecomment-2844420241)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 اندمج العلاقات العامة[#346](https://github.com/offensive-vk/UntilEverything/pull/346)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+1.  🚀 الإصدار المنشور[Quizzly.dev - May Edition](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+2.  🎉 اندمج العلاقات العامة[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  💪 فتح العلاقات العامة[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+5.  💪 فتح العلاقات العامة[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  💪 فتح العلاقات العامة[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  🎉 اندمج العلاقات العامة[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 اندمج العلاقات العامة[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+9.  🔒 قضية مغلقة[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 قضية مغلقة[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 قضية مغلقة[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 قضية مغلقة[#30668](https://github.com/offensive-vk/offensive-vk/issues/30668)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 قضية مغلقة[#30667](https://github.com/offensive-vk/offensive-vk/issues/30667)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 اندمج العلاقات العامة[#11](https://github.com/offensive-vk/auto-user-activity/pull/11)في[الهجوم-VK/نشاط المستخدم التلقائي](https://github.com/offensive-vk/auto-user-activity)
+15. 🎉 اندمج العلاقات العامة[#347](https://github.com/offensive-vk/UntilEverything/pull/347)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
