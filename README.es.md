@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ElGoog.im (Google Spelled Backward) es un sitio web reflejado de Google Search con resultados de búsqueda volcados horizontalmente, también conocido como un "espejo de Google". Un sitio web de elgoog no oficial fue creado por todo "para la diversión", que comenzó a ganar popularidad en 2002❞</i>
+<i>Una persona promedio normalmente parpadea 20 veces por minuto, pero cuando usa una computadora, parpadea solo 7 veces por minuto.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🎉 PR fusionado[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🔒 Problema cerrado[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Problema cerrado[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Problema cerrado[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-6.  🔒 Problema cerrado[#30668](https://github.com/offensive-vk/offensive-vk/issues/30668)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 Problema cerrado[#30667](https://github.com/offensive-vk/offensive-vk/issues/30667)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 PR fusionado[#11](https://github.com/offensive-vk/auto-user-activity/pull/11)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
-9.  🎉 PR fusionado[#347](https://github.com/offensive-vk/UntilEverything/pull/347)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-10. 🗣 Comentó[#347](https://github.com/offensive-vk/UntilEverything/pull/347#issuecomment-2844420241)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 PR fusionado[#346](https://github.com/offensive-vk/UntilEverything/pull/346)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 PR fusionado[#345](https://github.com/offensive-vk/UntilEverything/pull/345)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 PR fusionado[#348](https://github.com/offensive-vk/UntilEverything/pull/348)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 PR fusionado[#44](https://github.com/offensive-vk/reactjs-quiz-app/pull/44)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 🎉 PR fusionado[#95](https://github.com/offensive-vk/AwesomeCloud/pull/95)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🚀 Lanzamiento publicado[Quizzly.dev - Edición de mayo](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+2.  🎉 PR fusionado[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  💪 ABIERTO PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉 PR fusionado[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+5.  💪 ABIERTO PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  💪 ABIERTO PR[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  🎉 PR fusionado[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 PR fusionado[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🔒 Problema cerrado[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Problema cerrado[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Problema cerrado[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Problema cerrado[#30668](https://github.com/offensive-vk/offensive-vk/issues/30668)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Problema cerrado[#30667](https://github.com/offensive-vk/offensive-vk/issues/30667)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+14. 🎉 PR fusionado[#11](https://github.com/offensive-vk/auto-user-activity/pull/11)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
+15. 🎉 PR fusionado[#347](https://github.com/offensive-vk/UntilEverything/pull/347)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
