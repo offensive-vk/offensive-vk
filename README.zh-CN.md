@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝一个普通人通常每分钟眨眼20次，但是使用计算机时，他/她每分钟只眨眼7次。</i>
+<i>❝“真正的知识就是知道一个人的无知程度。”  - 孔子❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🚀发行[quizzly.dev-五月版](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  🎉合并PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  💪打开PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🎉合并PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-5.  💪打开PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  💪打开PR[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉合并PR[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉合并PR[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🔒封闭问题[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒封闭问题[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒封闭问题[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-12. 🔒封闭问题[#30668](https://github.com/offensive-vk/offensive-vk/issues/30668)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-13. 🔒封闭问题[#30667](https://github.com/offensive-vk/offensive-vk/issues/30667)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉合并PR[#11](https://github.com/offensive-vk/auto-user-activity/pull/11)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-15. 🎉合并PR[#347](https://github.com/offensive-vk/UntilEverything/pull/347)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+1.  🎉合并PR[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+2.  🎉合并PR[#349](https://github.com/offensive-vk/UntilEverything/pull/349)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+3.  🚀发行[quizzly.dev-五月版](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉合并PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+5.  💪打开PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  🎉合并PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  💪打开PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  💪打开PR[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉合并PR[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+10. 🎉合并PR[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+11. 🔒封闭问题[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒封闭问题[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒封闭问题[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒封闭问题[#30668](https://github.com/offensive-vk/offensive-vk/issues/30668)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒封闭问题[#30667](https://github.com/offensive-vk/offensive-vk/issues/30667)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
