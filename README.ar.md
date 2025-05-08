@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "المعرفة الحقيقية هي معرفة مدى جهل الفرد" - كونفوشيوس ❞</i>
+<i>❝A كانت دودة الكمبيوتر موجودة قبل أن تتمكن من الوصول إلى نظام التشغيل Windows XP OS ، ويمكن تنزيل رقعة من Microsoft لوجود الضعف كما هو مستخدم لإصابة النظام وبعد حذف نفسه.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  🎉 اندمج العلاقات العامة[#349](https://github.com/offensive-vk/UntilEverything/pull/349)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-3.  🚀 الإصدار المنشور[Quizzly.dev - May Edition](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🎉 اندمج العلاقات العامة[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-5.  💪 فتح العلاقات العامة[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  💪 فتح العلاقات العامة[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  💪 فتح العلاقات العامة[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 اندمج العلاقات العامة[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-10. 🎉 اندمج العلاقات العامة[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-11. 🔒 قضية مغلقة[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-12. 🔒 قضية مغلقة[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-13. 🔒 قضية مغلقة[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-14. 🔒 قضية مغلقة[#30668](https://github.com/offensive-vk/offensive-vk/issues/30668)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 قضية مغلقة[#30667](https://github.com/offensive-vk/offensive-vk/issues/30667)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+1.  🎉 اندمج العلاقات العامة[#10043](https://github.com/offensive-vk/Classics/pull/10043)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+2.  🎉 اندمج العلاقات العامة[#10042](https://github.com/offensive-vk/Classics/pull/10042)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+3.  🎉 اندمج العلاقات العامة[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉 اندمج العلاقات العامة[#349](https://github.com/offensive-vk/UntilEverything/pull/349)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+5.  🚀 الإصدار المنشور[Quizzly.dev - May Edition](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  🎉 اندمج العلاقات العامة[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  💪 فتح العلاقات العامة[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  💪 فتح العلاقات العامة[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+10. 💪 فتح العلاقات العامة[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 🎉 اندمج العلاقات العامة[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+12. 🎉 اندمج العلاقات العامة[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+13. 🔒 قضية مغلقة[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 قضية مغلقة[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 قضية مغلقة[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
