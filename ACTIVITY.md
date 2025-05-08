@@ -49,5 +49,4 @@
 48. ✅ Approved on pull request [#93](https://github.com/offensive-vk/AwesomeCloud/pull/93) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 49. 🎉  Merged pull request [#91](https://github.com/offensive-vk/AwesomeCloud/pull/91) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 50. ✅ Approved on pull request [#91](https://github.com/offensive-vk/AwesomeCloud/pull/91) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-51. 🎉  Merged pull request [#43](https://github.com/offensive-vk/reactjs-quiz-app/pull/43) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 <!--END_SECTION:activity-->
