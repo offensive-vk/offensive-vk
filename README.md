@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the goal_. <br>🧑‍💻 I like to write computer `code`. <br>🤝 I’m looking for help in my server. <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _nasty_ stuff. <br>💬 Ask me about nothing. <br>👌 I respect my time. <br>⚡ Fun fact: no fun, only code. <br>💥 Keep moving and you'll overcome one day. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A computer worm was present before that could access your Windows XP OS, could download a patch from Microsoft to exist the vulnerability as used it to infect the system and after delete itself.❞</i>
+<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
