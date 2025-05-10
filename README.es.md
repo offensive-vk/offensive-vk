@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "El objetivo es convertir los datos en información y la información en información". - Carly Fiorina❞</i>
+<i>❝ "¿Dónde está la tecla" alguna "?" - Homer Simpson, en respuesta al mensaje, "Presione cualquier tecla" ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
