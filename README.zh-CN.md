@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝在此之前，有一个计算机蠕虫可以访问您的Windows XP OS，可以从Microsoft下载一个补丁以存在用于感染系统并在删除后使用的漏洞。</i>
+<i>❝“'任何'键在哪里？”  - 荷马·辛普森（Homer Simpson）回应消息“按任何键”。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#10043](https://github.com/offensive-vk/Classics/pull/10043)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-2.  🎉合并PR[#10042](https://github.com/offensive-vk/Classics/pull/10042)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-3.  🎉合并PR[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🎉合并PR[#349](https://github.com/offensive-vk/UntilEverything/pull/349)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-5.  🚀发行[quizzly.dev-五月版](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  🎉合并PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-7.  💪打开PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  🎉合并PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  💪打开PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-10. 💪打开PR[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-11. 🎉合并PR[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-12. 🎉合并PR[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🔒封闭问题[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-14. 🔒封闭问题[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒封闭问题[#30670](https://github.com/offensive-vk/offensive-vk/issues/30670)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣评论[#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉合并PR[#10043](https://github.com/offensive-vk/Classics/pull/10043)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+3.  🎉合并PR[#10042](https://github.com/offensive-vk/Classics/pull/10042)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+4.  🎉合并PR[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+5.  🎉合并PR[#349](https://github.com/offensive-vk/UntilEverything/pull/349)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+6.  🚀发行[quizzly.dev-五月版](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+7.  🎉合并PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  💪打开PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  🎉合并PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+10. 💪打开PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+11. 💪打开PR[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+12. 🎉合并PR[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+13. 🎉合并PR[#94](https://github.com/offensive-vk/AwesomeCloud/pull/94)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+14. 🔒封闭问题[#30672](https://github.com/offensive-vk/offensive-vk/issues/30672)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒封闭问题[#30671](https://github.com/offensive-vk/offensive-vk/issues/30671)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
