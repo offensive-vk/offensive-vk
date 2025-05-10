@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Das Ziel ist es, Daten in Informationen und Informationen in Einblick umzuwandeln.“ - Carly Fiorina❞</i>
+<i>❝ "Wo ist die Taste" Any "?" - Homer Simpson als Antwort auf die Nachricht "Drücken Sie eine Taste" ❞ ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
