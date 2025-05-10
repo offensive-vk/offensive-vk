@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «L'objectif est de transformer les données en informations et d'informations en perspicacité.» - Carly Fiorina❞</i>
+<i>❝ «Où est la touche« n'importe quelle »?» - Homer Simpson, en réponse au message, «appuyez sur n'importe quelle touche» ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
