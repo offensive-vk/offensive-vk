@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“'任何'键在哪里？”  - 荷马·辛普森（Homer Simpson）回应消息“按任何键”。</i>
+<i>❝“想象力比知识更重要。因为知识是有限的，而想象力包含了整个世界，刺激进步，诞生了进化。”  - 艾伯特·爱因斯坦（Albert Einstein）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
