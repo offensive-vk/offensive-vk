@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "¿Dónde está la tecla" alguna "?" - Homer Simpson, en respuesta al mensaje, "Presione cualquier tecla" ❞</i>
+<i>❝ "La imaginación es más importante que el conocimiento. Porque el conocimiento es limitado, mientras que la imaginación abarca todo el mundo, estimulando el progreso, dando a luz a la evolución". - Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
