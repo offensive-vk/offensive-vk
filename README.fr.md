@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Où est la touche« n'importe quelle »?» - Homer Simpson, en réponse au message, «appuyez sur n'importe quelle touche» ❞</i>
+<i>❝ «L'imagination est plus importante que la connaissance. Car la connaissance est limitée, tandis que l'imagination embrasse le monde entier, stimulant le progrès, donnant naissance à l'évolution.» - Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
