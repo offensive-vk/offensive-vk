@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Wo ist die Taste" Any "?" - Homer Simpson als Antwort auf die Nachricht "Drücken Sie eine Taste" ❞ ❞</i>
+<i>❝ „Vorstellungskraft ist wichtiger als Wissen. Für das Wissen ist begrenzt, während Vorstellungskraft die ganze Welt umfasst, den Fortschritt anregt, Evolution hervorbringt.“ - Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
