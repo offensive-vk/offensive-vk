@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Vorstellungskraft ist wichtiger als Wissen. Für das Wissen ist begrenzt, während Vorstellungskraft die ganze Welt umfasst, den Fortschritt anregt, Evolution hervorbringt.“ - Albert Einstein ❞</i>
+<i>❝AMERICAN MATHEMATIAN MARION TINSLEY spielte 45 Jahre lang Checkern und verlor nur 7 Spiele. Er schlug einmal ein Computerprogramm und später zeigte eine Analyse, dass Tinsley die einzige mögliche Gewinnstrategie aus 64 Moves gespielt hatte. ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
