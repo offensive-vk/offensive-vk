@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "La imaginación es más importante que el conocimiento. Porque el conocimiento es limitado, mientras que la imaginación abarca todo el mundo, estimulando el progreso, dando a luz a la evolución". - Albert Einstein ❞</i>
+<i>❝Merican Mathematican Marion Tinsley jugó a los damas durante 45 años y perdió solo 7 juegos. Una vez venció a un programa de computadora, y el análisis posterior mostró que Tinsley había jugado la única estrategia ganadora posible de 64 movimientos.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
