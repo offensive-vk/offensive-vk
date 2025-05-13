@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «L'imagination est plus importante que la connaissance. Car la connaissance est limitée, tandis que l'imagination embrasse le monde entier, stimulant le progrès, donnant naissance à l'évolution.» - Albert Einstein ❞</i>
+<i>❝ «Il convient de noter qu'aucun ingénieur logiciel formé au niveau éthique ne consenterait jamais à rédiger une procédure de destrustbaghdad. L'éthique professionnelle de base lui obligerait plutôt à rédiger une procédure de destruction, à laquelle Baghdad pourrait être donné en tant que paramètre.» - Nathaniel S. Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
