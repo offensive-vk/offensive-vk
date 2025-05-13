@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“想象力比知识更重要。因为知识是有限的，而想象力包含了整个世界，刺激进步，诞生了进化。”  - 艾伯特·爱因斯坦（Albert Einstein）❞</i>
+<i>❝“应该指出的是，没有道德培训的软件工程师都不会同意编写《销毁袋》程序。基本的职业道德将要求他编写一个销毁的程序，可以将巴格达作为参数提供。”  -  Nathaniel S. Borenstein❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
