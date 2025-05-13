@@ -47,6 +47,4 @@
 46. 🎉  Merged pull request [#348](https://github.com/offensive-vk/UntilEverything/pull/348) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 47. ✅ Approved on pull request [#348](https://github.com/offensive-vk/UntilEverything/pull/348) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 48. 🎉  Merged pull request [#44](https://github.com/offensive-vk/reactjs-quiz-app/pull/44) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-49. ✅ Approved on pull request [#44](https://github.com/offensive-vk/reactjs-quiz-app/pull/44) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-50. 🎉  Merged pull request [#95](https://github.com/offensive-vk/AwesomeCloud/pull/95) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 <!--END_SECTION:activity-->
