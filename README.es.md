@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Merican Mathematican Marion Tinsley jugó a los damas durante 45 años y perdió solo 7 juegos. Una vez venció a un programa de computadora, y el análisis posterior mostró que Tinsley había jugado la única estrategia ganadora posible de 64 movimientos.</i>
+<i>❝ "Cabe señalar que ningún ingeniero de software capacitado éticamente consentiría para escribir un procedimiento Destroybaghdad. La ética profesional básica requeriría que escriba un procedimiento de DestroyCity, al que Bagdad podría darse como un parámetro".-Nathaniel S. Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
