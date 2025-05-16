@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>En mayo de 1997, una supercomputadora de IBM conocida como Deep Blue Beat y luego el campeón mundial de ajedrez Garry Kasparov, quien una vez se había jactado de que nunca perdería ante una máquina. Después de 15 años, se descubrió que el movimiento crítico realizado por Deep Blue se debió a un error en su software.</i>
+<i>❝ La computadora en su teléfono celular hoy es millones de veces más barata y miles de veces más potente y aproximadamente cien miles de veces más pequeña que la única computadora en el MIT en 1965.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
