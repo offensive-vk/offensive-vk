@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝今天您手机中的计算机比1965年的一台计算机便宜一百万倍，比一千万倍。</i>
+<i>❝“代码的不到10％与系统的表面目的有关；其余的涉及输入输出，数据验证，数据结构维护和其他家政管理。”  - 玛丽·肖❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#350](https://github.com/offensive-vk/UntilEverything/pull/350)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉合并PR[#351](https://github.com/offensive-vk/UntilEverything/pull/351)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉合并PR[#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🗣评论[#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉合并PR[#10043](https://github.com/offensive-vk/Classics/pull/10043)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-6.  🎉合并PR[#10042](https://github.com/offensive-vk/Classics/pull/10042)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-7.  🎉合并PR[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  🎉合并PR[#349](https://github.com/offensive-vk/UntilEverything/pull/349)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-9.  🚀发行[quizzly.dev-五月版](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-10. 🎉合并PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 💪打开PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🎉合并PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 💪打开PR[#45](https://github.com/offensive-vk/reactjs-quiz-app/pull/45)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 💪打开PR[#8590](https://github.com/kamranahmedse/developer-roadmap/pull/8590)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-15. 🎉合并PR[#92](https://github.com/offensive-vk/AwesomeCloud/pull/92)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🎉合并PR[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+2.  🎉合并PR[#46](https://github.com/offensive-vk/auto-issue/pull/46)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+3.  🎉合并PR[#8](https://github.com/offensive-vk/auto-contributions/pull/8)在[进攻性VK/自动限额](https://github.com/offensive-vk/auto-contributions)
+4.  🎉合并PR[#35](https://github.com/offensive-vk/develop-actions/pull/35)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+5.  💪打开PR[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+6.  🎉合并PR[#350](https://github.com/offensive-vk/UntilEverything/pull/350)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+7.  🎉合并PR[#351](https://github.com/offensive-vk/UntilEverything/pull/351)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+8.  🎉合并PR[#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  🗣评论[#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉合并PR[#10043](https://github.com/offensive-vk/Classics/pull/10043)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+11. 🎉合并PR[#10042](https://github.com/offensive-vk/Classics/pull/10042)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+12. 🎉合并PR[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🎉合并PR[#349](https://github.com/offensive-vk/UntilEverything/pull/349)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+14. 🚀发行[quizzly.dev-五月版](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 🎉合并PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
