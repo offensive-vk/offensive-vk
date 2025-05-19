@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Moins de 10% du code a à voir avec l'objectif ostensible du système; le reste traite de l'entrée-sortie, de la validation des données, de la maintenance de la structure des données et des autres ménages.» - Mary Shaw ❞</i>
+<i>❝ «Dans une économie de l'information, les actifs de l'entreprise les plus utiles se rendent à la maison tous les soirs. S'ils ne sont pas bien traités, ils ne reviennent pas le lendemain matin.» - Peter Chang ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
