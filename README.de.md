@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Weniger als 10% des Codes haben mit dem angeblichen Zweck des Systems zu tun; der Rest befasst sich mit Eingabe-Output, Datenvalidierung, Aufrechterhaltung der Datenstruktur und anderer Haushalt.“-Mary Shaw ❞</i>
+<i>❝ „In einer Informationswirtschaft fahren die wertvollsten Unternehmensvermögen jeden Abend nach Hause. Wenn sie nicht gut behandelt werden, kehren sie am nächsten Morgen nicht zurück.“ - Peter Chang ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
