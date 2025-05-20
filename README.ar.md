@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ في اقتصاد المعلومات ، فإن أصول الشركة الأكثر قيمة تقود نفسها إلى المنزل كل ليلة. إذا لم يتم التعامل معها بشكل جيد ، فإنها لا تعود في صباح اليوم التالي. " - بيتر تشانغ ❞</i>
+<i>❝ "بعد عامين من الآن ، سيتم حل البريد العشوائي." - بيل غيتس ، 2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
-2.  🎉 اندمج العلاقات العامة[#46](https://github.com/offensive-vk/auto-issue/pull/46)في[هجوم VK/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
-3.  🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-contributions/pull/8)في[الهجوم-VK/توسيع تلقائي](https://github.com/offensive-vk/auto-contributions)
-4.  🎉 اندمج العلاقات العامة[#35](https://github.com/offensive-vk/develop-actions/pull/35)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-5.  💪 فتح العلاقات العامة[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 اندمج العلاقات العامة[#350](https://github.com/offensive-vk/UntilEverything/pull/350)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 اندمج العلاقات العامة[#351](https://github.com/offensive-vk/UntilEverything/pull/351)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-8.  🎉 اندمج العلاقات العامة[#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🗣 علق على[#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 اندمج العلاقات العامة[#10043](https://github.com/offensive-vk/Classics/pull/10043)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-11. 🎉 اندمج العلاقات العامة[#10042](https://github.com/offensive-vk/Classics/pull/10042)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-12. 🎉 اندمج العلاقات العامة[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉 اندمج العلاقات العامة[#349](https://github.com/offensive-vk/UntilEverything/pull/349)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-14. 🚀 الإصدار المنشور[Quizzly.dev - May Edition](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 🎉 اندمج العلاقات العامة[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 اندمج العلاقات العامة[#10044](https://github.com/offensive-vk/Classics/pull/10044)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+2.  🎉 اندمج العلاقات العامة[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 اندمج العلاقات العامة[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉 اندمج العلاقات العامة[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)في[الهجوم-VK/Auto-PR-ACTION](https://github.com/offensive-vk/auto-pr-action)
+5.  🎉 اندمج العلاقات العامة[#46](https://github.com/offensive-vk/auto-issue/pull/46)في[هجوم VK/قضية تلقائية](https://github.com/offensive-vk/auto-issue)
+6.  🎉 اندمج العلاقات العامة[#8](https://github.com/offensive-vk/auto-contributions/pull/8)في[الهجوم-VK/توسيع تلقائي](https://github.com/offensive-vk/auto-contributions)
+7.  🎉 اندمج العلاقات العامة[#35](https://github.com/offensive-vk/develop-actions/pull/35)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
+8.  💪 فتح العلاقات العامة[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 اندمج العلاقات العامة[#350](https://github.com/offensive-vk/UntilEverything/pull/350)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 اندمج العلاقات العامة[#351](https://github.com/offensive-vk/UntilEverything/pull/351)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 اندمج العلاقات العامة[#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🗣 علق على[#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 🎉 اندمج العلاقات العامة[#10043](https://github.com/offensive-vk/Classics/pull/10043)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+14. 🎉 اندمج العلاقات العامة[#10042](https://github.com/offensive-vk/Classics/pull/10042)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+15. 🎉 اندمج العلاقات العامة[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
