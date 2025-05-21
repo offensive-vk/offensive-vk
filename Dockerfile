@@ -26,7 +26,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Install pnpm
-RUN npm install -g pnpm@10.0.0
+RUN npm install -g pnpm@10.10.0
 
 # Expose the container port (metadata only)
 EXPOSE 9999
