@@ -19,7 +19,7 @@
     "docker": "docker run -it -d --name docker-in-docker -p 9998:9999 --privileged -v /var/run/docker.sock:/var/run/docker.sock docker:dind",
     "spawn": "docker run -it -d --name my-container --rm -p 9997:9999 -v $(pwd):/shared/offensive-vk ghcr.io/offensive-vk/offensive-vk:latest",
     "reset": "docker system prune -f",
-    "all": "npm i pnpm@9.0.0; pnpm run install; pnpm run dev; pnpm run image; pnpm run info; pnpm run pull; pnpm run compose; pnpm run spawn; pnpm run list; pnpm run exec"
+    "all": "npm i pnpm@10.10.0; pnpm run install; pnpm run dev; pnpm run image; pnpm run info; pnpm run pull; pnpm run compose; pnpm run spawn; pnpm run list; pnpm run exec"
   },
   "keywords": [
     "readme",
@@ -35,7 +35,7 @@
     "url": "https://github.com/offensive-vk/"
   },
   "license": "MIT",
-  "packageManager": "pnpm@10.0.0",
+  "packageManager": "pnpm@10.10.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/offensive-vk/"
