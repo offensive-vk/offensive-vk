@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Dos años a partir de ahora, se resolverá el spam". - Bill Gates, 2004 ❞</i>
+<i>❝ "El único sistema verdaderamente seguro es uno que está encendido, fundido en un bloque de concreto y sellado en una habitación forrada de plomo con guardias armados".-Gene Spafford ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
