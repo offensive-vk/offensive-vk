@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "El único sistema verdaderamente seguro es uno que está encendido, fundido en un bloque de concreto y sellado en una habitación forrada de plomo con guardias armados".-Gene Spafford ❞</i>
+<i>❝ “Todas las partes deben ir juntas sin forzar. Debe recordar que las partes que está reensamblando fueron desmontadas por usted. Por lo tanto, si no puede reunirlas nuevamente, debe haber una razón. Por todos los medios, no use un martillo”. - Manual de IBM, 1925 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
