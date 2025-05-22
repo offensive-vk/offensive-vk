@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „In zwei Jahren wird Spam gelöst.“ - Bill Gates, 2004 ❞</i>
+<i>❝ „Alle Teile sollten zusammen passieren, ohne erzwingen.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
