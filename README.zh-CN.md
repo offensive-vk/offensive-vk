@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在信息经济中，最有价值的公司资产每天晚上都会带回家。如果它们的对待不好，第二天早上就不会返回。”  - 彼得·昌（Peter Chang）</i>
+<i>❝“所有零件都应该在一起而不强迫。您必须记住，您要重新组装的部分被您拆卸。因此，如果您不能再次将它们放在一起，则必须有一个原因。一定要使用锤子。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-2.  🎉合并PR[#46](https://github.com/offensive-vk/auto-issue/pull/46)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
-3.  🎉合并PR[#8](https://github.com/offensive-vk/auto-contributions/pull/8)在[进攻性VK/自动限额](https://github.com/offensive-vk/auto-contributions)
-4.  🎉合并PR[#35](https://github.com/offensive-vk/develop-actions/pull/35)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-5.  💪打开PR[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉合并PR[#350](https://github.com/offensive-vk/UntilEverything/pull/350)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-7.  🎉合并PR[#351](https://github.com/offensive-vk/UntilEverything/pull/351)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-8.  🎉合并PR[#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🗣评论[#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉合并PR[#10043](https://github.com/offensive-vk/Classics/pull/10043)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-11. 🎉合并PR[#10042](https://github.com/offensive-vk/Classics/pull/10042)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-12. 🎉合并PR[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉合并PR[#349](https://github.com/offensive-vk/UntilEverything/pull/349)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-14. 🚀发行[quizzly.dev-五月版](https://github.com/offensive-vk/reactjs-quiz-app/releases/tag/2025.3.0)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 🎉合并PR[#46](https://github.com/offensive-vk/reactjs-quiz-app/pull/46)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉合并PR[#10044](https://github.com/offensive-vk/Classics/pull/10044)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+2.  🎉合并PR[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+3.  🎉合并PR[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉合并PR[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+5.  🎉合并PR[#46](https://github.com/offensive-vk/auto-issue/pull/46)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+6.  🎉合并PR[#8](https://github.com/offensive-vk/auto-contributions/pull/8)在[进攻性VK/自动限额](https://github.com/offensive-vk/auto-contributions)
+7.  🎉合并PR[#35](https://github.com/offensive-vk/develop-actions/pull/35)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+8.  💪打开PR[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉合并PR[#350](https://github.com/offensive-vk/UntilEverything/pull/350)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉合并PR[#351](https://github.com/offensive-vk/UntilEverything/pull/351)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+11. 🎉合并PR[#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 🗣评论[#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+13. 🎉合并PR[#10043](https://github.com/offensive-vk/Classics/pull/10043)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+14. 🎉合并PR[#10042](https://github.com/offensive-vk/Classics/pull/10042)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+15. 🎉合并PR[#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
