@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Toutes les parties devraient aller de pair sans forcer. Vous devez vous rappeler que les pièces que vous remontez ont été démontées par vous. Par conséquent, si vous ne pouvez pas les réunir à nouveau, il doit y avoir une raison. Par tous les moyens, n'utilisez pas de marteau.» - IBM Manual, 1925 ❞ ❞ ❞ ❞</i>
+<i>Les ordinateurs fonctionnent, ils deviennent chauds. Les ordinateurs ont des ventilateurs pour les garder au frais.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
