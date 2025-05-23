@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Alle Teile sollten zusammen passieren, ohne erzwingen.</i>
+<i>❝ Wie Computer laufen, werden sie heiß. Computer haben Fans, um sie cool zu halten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
