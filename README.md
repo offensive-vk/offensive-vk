@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10044](https://github.com/offensive-vk/Classics/pull/10044) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-2. 🎉 Merged PR [#30689](https://github.com/offensive-vk/offensive-vk/pull/30689) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3. 🎉 Merged PR [#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4. 🎉 Merged PR [#11](https://github.com/offensive-vk/auto-pr-action/pull/11) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-5. 🎉 Merged PR [#46](https://github.com/offensive-vk/auto-issue/pull/46) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
-6. 🎉 Merged PR [#8](https://github.com/offensive-vk/auto-contributions/pull/8) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
-7. 🎉 Merged PR [#35](https://github.com/offensive-vk/develop-actions/pull/35) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-8. 💪 Opened PR [#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9. 🎉 Merged PR [#350](https://github.com/offensive-vk/UntilEverything/pull/350) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 Merged PR [#351](https://github.com/offensive-vk/UntilEverything/pull/351) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Merged PR [#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🗣 Commented on [#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 🎉 Merged PR [#10043](https://github.com/offensive-vk/Classics/pull/10043) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-14. 🎉 Merged PR [#10042](https://github.com/offensive-vk/Classics/pull/10042) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-15. 🎉 Merged PR [#47](https://github.com/offensive-vk/reactjs-quiz-app/pull/47) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+1. 💪 Opened PR [#2](https://github.com/offensive-vk/personal-blog/pull/2) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
+2. 🎉 Merged PR [#10044](https://github.com/offensive-vk/Classics/pull/10044) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+3. 🎉 Merged PR [#30689](https://github.com/offensive-vk/offensive-vk/pull/30689) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4. 🎉 Merged PR [#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+5. 🎉 Merged PR [#11](https://github.com/offensive-vk/auto-pr-action/pull/11) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+6. 🎉 Merged PR [#46](https://github.com/offensive-vk/auto-issue/pull/46) in [offensive-vk/auto-issue](https://github.com/offensive-vk/auto-issue)
+7. 🎉 Merged PR [#8](https://github.com/offensive-vk/auto-contributions/pull/8) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
+8. 🎉 Merged PR [#35](https://github.com/offensive-vk/develop-actions/pull/35) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+9. 💪 Opened PR [#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 Merged PR [#350](https://github.com/offensive-vk/UntilEverything/pull/350) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 Merged PR [#351](https://github.com/offensive-vk/UntilEverything/pull/351) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🎉 Merged PR [#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🗣 Commented on [#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 Merged PR [#10043](https://github.com/offensive-vk/Classics/pull/10043) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+15. 🎉 Merged PR [#10042](https://github.com/offensive-vk/Classics/pull/10042) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 <!--END_SECTION:activity-->
 
 </p>
