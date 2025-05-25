@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Standards sind immer veraltet. Das macht sie Standards." - Alan Bennett ❞</i>
+<i>❝ Es gab eine Zeit, in der AMD und Intel CPUs denselben Sockel (Socket 7) verwendeten und auf demselben Motherboard laufen konnten.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 PR geöffnet[#2](https://github.com/offensive-vk/personal-blog/pull/2)In[Offensiv-VK/Personal-Blog](https://github.com/offensive-vk/personal-blog)
-2.  🎉 Fusions PR[#10044](https://github.com/offensive-vk/Classics/pull/10044)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-3.  🎉 Fusions PR[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 Fusions PR[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-5.  🎉 Fusions PR[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
-6.  🎉 Fusions PR[#46](https://github.com/offensive-vk/auto-issue/pull/46)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
-7.  🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-contributions/pull/8)In[Offensiv-VK/Auto-Contribributions](https://github.com/offensive-vk/auto-contributions)
-8.  🎉 Fusions PR[#35](https://github.com/offensive-vk/develop-actions/pull/35)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-9.  💪 PR geöffnet[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 Fusions PR[#350](https://github.com/offensive-vk/UntilEverything/pull/350)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Fusions PR[#351](https://github.com/offensive-vk/UntilEverything/pull/351)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 Fusions PR[#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🗣 kommentierte[#8615](https://github.com/kamranahmedse/developer-roadmap/issues/8615#issuecomment-2861479884)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉 Fusions PR[#10043](https://github.com/offensive-vk/Classics/pull/10043)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-15. 🎉 Fusions PR[#10042](https://github.com/offensive-vk/Classics/pull/10042)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+1.  🎉 Fusions PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+2.  💪 PR geöffnet[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  🎉 Fusions PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)In[Offensiv-VK/Personal-Blog](https://github.com/offensive-vk/personal-blog)
+4.  💪 PR geöffnet[#2](https://github.com/offensive-vk/personal-blog/pull/2)In[Offensiv-VK/Personal-Blog](https://github.com/offensive-vk/personal-blog)
+5.  🎉 Fusions PR[#10044](https://github.com/offensive-vk/Classics/pull/10044)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+6.  🎉 Fusions PR[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 Fusions PR[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  🎉 Fusions PR[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)In[Offensiv-VK/Auto-Pr-Action](https://github.com/offensive-vk/auto-pr-action)
+9.  🎉 Fusions PR[#46](https://github.com/offensive-vk/auto-issue/pull/46)In[Offensiv-VK/Auto-Ausgabe](https://github.com/offensive-vk/auto-issue)
+10. 🎉 Fusions PR[#8](https://github.com/offensive-vk/auto-contributions/pull/8)In[Offensiv-VK/Auto-Contribributions](https://github.com/offensive-vk/auto-contributions)
+11. 🎉 Fusions PR[#35](https://github.com/offensive-vk/develop-actions/pull/35)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+12. 💪 PR geöffnet[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 🎉 Fusions PR[#350](https://github.com/offensive-vk/UntilEverything/pull/350)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Fusions PR[#351](https://github.com/offensive-vk/UntilEverything/pull/351)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Fusions PR[#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
