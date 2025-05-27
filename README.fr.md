@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝L'il y avait un moment où les processeurs AMD et Intel ont utilisé la même prise (socket 7) et pouvaient fonctionner sur la même carte mère.</i>
+<i>❝Doug Engelbart a inventé la première souris d'ordinateur vers 1964 qui était en bois.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
