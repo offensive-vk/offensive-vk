@@ -17,8 +17,6 @@ Remember: **You are a part of something bigger**! Open source thrives because of
 7. **Be Patient and Trust the Process**: Your pull request will be reviewed and merged (or closed) accordingly. We’ll work together to make it shine! ✨
 8. **Thank You for Contributing**: You are truly amazing, and your work will help others learn and grow. 🙌
 
----
-
 ### ⚡ **For Our Experienced Contributors: You Are the Backbone of This Project!** ⚡
 
 1. **Create an Issue First**: Even if you’re an expert, please create an issue for the change you wish to make via [GitHub Issues](https://github.com/offensive-vk/offensive-vk/issues). This helps us stay organized and ensures your contribution aligns with the project's goals. 🎯
@@ -26,8 +24,6 @@ Remember: **You are a part of something bigger**! Open source thrives because of
 3. **Code Review**: We’ll review your PR, and at least one maintainer will be assigned to give feedback. We want your contribution to be the best it can be, so we’ll work together to perfect it! 💬
 4. **Patience and Collaboration**: Every PR is a collaborative effort, so please wait patiently while one of the maintainers reviews your work. We’ll make sure everything is in order. ⏳
 5. **Help Spread the Word**: If you love this project, leave a star 🌟 to help us grow and reach more amazing contributors like you. Your support makes a difference!
-
----
 
 ### 💖 **Final Words: Keep Pushing Forward, You're Amazing!** 💖
 
