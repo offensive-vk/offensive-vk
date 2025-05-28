@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝doug Engelbart изобрел первую компьютерную мышь примерно в 1964 году, которая была сделана из дерева.</i>
+<i>❝ Есть язык программирования, называемый интеркальным, который имеет ключевые слова, такие как игнорирование, пожалуйста, забудьте. Если вы не используете, пожалуйста, достаточно времени во время кодирования, компилятор отклоняет код.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-2.  💪 открыл Pr[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  🎉 Объединенный Pr[#2](https://github.com/offensive-vk/personal-blog/pull/2)в[Наступление-VK/личный блог](https://github.com/offensive-vk/personal-blog)
-4.  💪 открыл Pr[#2](https://github.com/offensive-vk/personal-blog/pull/2)в[Наступление-VK/личный блог](https://github.com/offensive-vk/personal-blog)
-5.  🎉 Объединенный Pr[#10044](https://github.com/offensive-vk/Classics/pull/10044)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-6.  🎉 Объединенный Pr[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 Объединенный Pr[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-8.  🎉 Объединенный Pr[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
-9.  🎉 Объединенный Pr[#46](https://github.com/offensive-vk/auto-issue/pull/46)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
-10. 🎉 Объединенный Pr[#8](https://github.com/offensive-vk/auto-contributions/pull/8)в[Наступление-VK/Автоципликуя](https://github.com/offensive-vk/auto-contributions)
-11. 🎉 Объединенный Pr[#35](https://github.com/offensive-vk/develop-actions/pull/35)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-12. 💪 открыл Pr[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 🎉 Объединенный Pr[#350](https://github.com/offensive-vk/UntilEverything/pull/350)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-14. 🎉 Объединенный Pr[#351](https://github.com/offensive-vk/UntilEverything/pull/351)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 Объединенный Pr[#48](https://github.com/offensive-vk/reactjs-quiz-app/pull/48)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 Объединенный Pr[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)в[Наступление-VK/Auto-USER-Activity](https://github.com/offensive-vk/auto-user-activity)
+2.  🎉 Объединенный Pr[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  💪 открыл Pr[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+4.  🎉 Объединенный Pr[#2](https://github.com/offensive-vk/personal-blog/pull/2)в[Наступление-VK/личный блог](https://github.com/offensive-vk/personal-blog)
+5.  💪 открыл Pr[#2](https://github.com/offensive-vk/personal-blog/pull/2)в[Наступление-VK/личный блог](https://github.com/offensive-vk/personal-blog)
+6.  🎉 Объединенный Pr[#10044](https://github.com/offensive-vk/Classics/pull/10044)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+7.  🎉 Объединенный Pr[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 Объединенный Pr[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  🎉 Объединенный Pr[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)в[Наступление-VK/Авто-PR-действие](https://github.com/offensive-vk/auto-pr-action)
+10. 🎉 Объединенный Pr[#46](https://github.com/offensive-vk/auto-issue/pull/46)в[Наступление-VK/Автозадаение](https://github.com/offensive-vk/auto-issue)
+11. 🎉 Объединенный Pr[#8](https://github.com/offensive-vk/auto-contributions/pull/8)в[Наступление-VK/Автоципликуя](https://github.com/offensive-vk/auto-contributions)
+12. 🎉 Объединенный Pr[#35](https://github.com/offensive-vk/develop-actions/pull/35)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
+13. 💪 открыл Pr[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 Объединенный Pr[#350](https://github.com/offensive-vk/UntilEverything/pull/350)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+15. 🎉 Объединенный Pr[#351](https://github.com/offensive-vk/UntilEverything/pull/351)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
