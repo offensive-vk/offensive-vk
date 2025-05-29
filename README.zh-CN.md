@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝是一种称为Intercal的编程语言，它具有忽略，请忘记的关键字。如果您在编码时不使用足够的时间，则编译器会拒绝代码。</i>
+<i>❝“知识的最大敌人不是无知，而是知识的幻想。”  - 斯蒂芬·霍金（Stephen Hawking）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
