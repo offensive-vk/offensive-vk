@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>«Il y a un langage de programmation appelé Intercal qui a des mots clés comme Ignore, s'il vous plaît, oubliez. Si vous n'utilisez pas s'il vous plaît suffisamment de fois pendant le codage, le compilateur rejette le code.</i>
+<i>Le maillot a été inventé avant Internet. Choqué !!!! "J'ai également été choqué après avoir entendu cela." ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
