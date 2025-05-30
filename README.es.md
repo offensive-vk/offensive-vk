@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Hay un lenguaje de programación llamado Intercal que tiene palabras clave como ignorar, por favor, olvide. Si no usa suficientes veces mientras codifica, el compilador rechaza el código.</i>
+<i>❝e-mail fue inventado antes de Internet. ¡¡¡¡Sorprendido!!!! "También me sorprendió después de escuchar esto". ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
