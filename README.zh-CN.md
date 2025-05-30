@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“知识的最大敌人不是无知，而是知识的幻想。”  - 斯蒂芬·霍金（Stephen Hawking）❞</i>
+<i>邮件是在互联网之前发明的。震惊！！！ “听到这句话，我也感到震惊。”❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
