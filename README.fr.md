@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Le maillot a été inventé avant Internet. Choqué !!!! "J'ai également été choqué après avoir entendu cela." ❞</i>
+<i>❝ «Je pense que les virus informatiques devraient compter comme la vie. Je pense que cela dit quelque chose sur la nature humaine que la seule forme de vie que nous avons créée jusqu'à présent est purement destructrice. Nous avons créé la vie à notre propre image.» - Stephen Hawking ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
