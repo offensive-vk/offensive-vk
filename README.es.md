@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝e-mail fue inventado antes de Internet. ¡¡¡¡Sorprendido!!!! "También me sorprendió después de escuchar esto". ❞</i>
+<i>❝ "Creo que los virus informáticos deberían contar como la vida. Creo que dice algo sobre la naturaleza humana que la única forma de vida que hemos creado hasta ahora es puramente destructiva. Hemos creado la vida a nuestra propia imagen". - Stephen Hawking ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
