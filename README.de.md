@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>E-Mail wurde vor dem Internet erfunden. Schockiert!!!! "Ich wurde auch schockiert, nachdem ich das gehört habe."</i>
+<i>❝ „Ich denke, Computerviren sollten als Leben gelten. Ich denke, es sagt etwas über die menschliche Natur aus, dass die einzige Lebensform, die wir bisher geschaffen haben, rein destruktiv ist. Wir haben das Leben in unserem eigenen Bild geschaffen.“ - Stephen Hawking ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
