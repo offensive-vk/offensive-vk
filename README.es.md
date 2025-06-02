@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Creo que los virus informáticos deberían contar como la vida. Creo que dice algo sobre la naturaleza humana que la única forma de vida que hemos creado hasta ahora es puramente destructiva. Hemos creado la vida a nuestra propia imagen". - Stephen Hawking ❞</i>
+<i>❝2012 fue el año en que un grupo de piratas informáticos derribó el sitio web de Pope John porque una compañía de alimentos pasó más de dos horas para entregar como se esperaba. El grupo de hackers se llamaba Ugnazi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
-2.  🎉 PR fusionado[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  💪 ABIERTO PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🎉 PR fusionado[#2](https://github.com/offensive-vk/personal-blog/pull/2)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
-5.  💪 ABIERTO PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
-6.  🎉 PR fusionado[#10044](https://github.com/offensive-vk/Classics/pull/10044)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-7.  🎉 PR fusionado[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 PR fusionado[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🎉 PR fusionado[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
-10. 🎉 PR fusionado[#46](https://github.com/offensive-vk/auto-issue/pull/46)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
-11. 🎉 PR fusionado[#8](https://github.com/offensive-vk/auto-contributions/pull/8)en[ofensivo-vk/auto-contribución](https://github.com/offensive-vk/auto-contributions)
-12. 🎉 PR fusionado[#35](https://github.com/offensive-vk/develop-actions/pull/35)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-13. 💪 ABIERTO PR[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉 PR fusionado[#350](https://github.com/offensive-vk/UntilEverything/pull/350)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 PR fusionado[#351](https://github.com/offensive-vk/UntilEverything/pull/351)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 PR fusionado[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 PR fusionado[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  🎉 PR fusionado[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
+4.  🎉 PR fusionado[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+5.  💪 ABIERTO PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  🎉 PR fusionado[#2](https://github.com/offensive-vk/personal-blog/pull/2)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
+7.  💪 ABIERTO PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
+8.  🎉 PR fusionado[#10044](https://github.com/offensive-vk/Classics/pull/10044)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+9.  🎉 PR fusionado[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 PR fusionado[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+11. 🎉 PR fusionado[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
+12. 🎉 PR fusionado[#46](https://github.com/offensive-vk/auto-issue/pull/46)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
+13. 🎉 PR fusionado[#8](https://github.com/offensive-vk/auto-contributions/pull/8)en[ofensivo-vk/auto-contribución](https://github.com/offensive-vk/auto-contributions)
+14. 🎉 PR fusionado[#35](https://github.com/offensive-vk/develop-actions/pull/35)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+15. 💪 ABIERTO PR[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
