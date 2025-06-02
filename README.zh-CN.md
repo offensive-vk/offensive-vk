@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我认为计算机病毒应该算作生命。我认为这说明了人性的话，我们到目前为止创造的唯一生活形式纯粹是破坏性的。我们已经以自己的形象创造了生活。”  - 斯蒂芬·霍金❞</i>
+<i>❝2012是黑客小组击倒教皇约翰的网站的一年，因为一家食品公司花了两个多小时来按预期交付。黑客小组称为ugnazi。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-2.  🎉合并PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  💪打开PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-4.  🎉合并PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
-5.  💪打开PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
-6.  🎉合并PR[#10044](https://github.com/offensive-vk/Classics/pull/10044)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-7.  🎉合并PR[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉合并PR[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🎉合并PR[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
-10. 🎉合并PR[#46](https://github.com/offensive-vk/auto-issue/pull/46)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
-11. 🎉合并PR[#8](https://github.com/offensive-vk/auto-contributions/pull/8)在[进攻性VK/自动限额](https://github.com/offensive-vk/auto-contributions)
-12. 🎉合并PR[#35](https://github.com/offensive-vk/develop-actions/pull/35)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-13. 💪打开PR[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉合并PR[#350](https://github.com/offensive-vk/UntilEverything/pull/350)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-15. 🎉合并PR[#351](https://github.com/offensive-vk/UntilEverything/pull/351)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+1.  🎉合并PR[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉合并PR[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+3.  🎉合并PR[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+4.  🎉合并PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+5.  💪打开PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  🎉合并PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+7.  💪打开PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+8.  🎉合并PR[#10044](https://github.com/offensive-vk/Classics/pull/10044)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+9.  🎉合并PR[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+10. 🎉合并PR[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+11. 🎉合并PR[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)在[进攻vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
+12. 🎉合并PR[#46](https://github.com/offensive-vk/auto-issue/pull/46)在[进攻性VK/自动发行](https://github.com/offensive-vk/auto-issue)
+13. 🎉合并PR[#8](https://github.com/offensive-vk/auto-contributions/pull/8)在[进攻性VK/自动限额](https://github.com/offensive-vk/auto-contributions)
+14. 🎉合并PR[#35](https://github.com/offensive-vk/develop-actions/pull/35)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+15. 💪打开PR[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
