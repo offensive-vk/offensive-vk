@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝2012 fue el año en que un grupo de piratas informáticos derribó el sitio web de Pope John porque una compañía de alimentos pasó más de dos horas para entregar como se esperaba. El grupo de hackers se llamaba Ugnazi.❞</i>
+<i>❝ "La programación de bajo nivel es buena para el alma del programador".-John Carmack ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
