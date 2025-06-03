@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝2012是黑客小组击倒教皇约翰的网站的一年，因为一家食品公司花了两个多小时来按预期交付。黑客小组称为ugnazi。</i>
+<i>❝“低级编程对程序员的灵魂有益。”  -  John Carmack❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
