@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Nur 2 der Top 500 Supercomputer unter Windows und 485 sind Linux.❞</i>
+<i>❝ „Gute Spezifikationen verbessert die Programmiererproduktivität immer weitaus besser als jedes Programmierwerkzeug oder jede Programmierwerkzeug oder Technik.“ - Milt Bryce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
