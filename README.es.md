@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "La programación de bajo nivel es buena para el alma del programador".-John Carmack ❞</i>
+<i>"" Las buenas especificaciones siempre mejorarán la productividad del programador mucho mejor que cualquier herramienta o técnica de programación ". - Milt Bryce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🎉 PR fusionado[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-3.  🎉 PR fusionado[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
-4.  🎉 PR fusionado[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-5.  💪 ABIERTO PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-6.  🎉 PR fusionado[#2](https://github.com/offensive-vk/personal-blog/pull/2)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
-7.  💪 ABIERTO PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
-8.  🎉 PR fusionado[#10044](https://github.com/offensive-vk/Classics/pull/10044)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-9.  🎉 PR fusionado[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 PR fusionado[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 🎉 PR fusionado[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
-12. 🎉 PR fusionado[#46](https://github.com/offensive-vk/auto-issue/pull/46)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
-13. 🎉 PR fusionado[#8](https://github.com/offensive-vk/auto-contributions/pull/8)en[ofensivo-vk/auto-contribución](https://github.com/offensive-vk/auto-contributions)
-14. 🎉 PR fusionado[#35](https://github.com/offensive-vk/develop-actions/pull/35)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-15. 💪 ABIERTO PR[#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 PR fusionado[#357](https://github.com/offensive-vk/UntilEverything/pull/357)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Comentó[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 PR fusionado[#10045](https://github.com/offensive-vk/Classics/pull/10045)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+4.  🎉 PR fusionado[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉 PR fusionado[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+6.  🎉 PR fusionado[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)en[ofensivo-vk/auto-usuario-actividad](https://github.com/offensive-vk/auto-user-activity)
+7.  🎉 PR fusionado[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+8.  💪 ABIERTO PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+9.  🎉 PR fusionado[#2](https://github.com/offensive-vk/personal-blog/pull/2)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
+10. 💪 ABIERTO PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)en[ofensivo-vk/blog personal](https://github.com/offensive-vk/personal-blog)
+11. 🎉 PR fusionado[#10044](https://github.com/offensive-vk/Classics/pull/10044)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+12. 🎉 PR fusionado[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+13. 🎉 PR fusionado[#49](https://github.com/offensive-vk/reactjs-quiz-app/pull/49)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 🎉 PR fusionado[#11](https://github.com/offensive-vk/auto-pr-action/pull/11)en[ofensivo-vk/auto-pr-acción](https://github.com/offensive-vk/auto-pr-action)
+15. 🎉 PR fusionado[#46](https://github.com/offensive-vk/auto-issue/pull/46)en[VK ofensivo/Auto-emisión](https://github.com/offensive-vk/auto-issue)
     <!--END_SECTION:activity-->
 
 </p>
