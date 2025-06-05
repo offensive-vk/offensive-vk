@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Only 2 des 500 supérieurs supérieurs fonctionnent sur Windows, et 485 sont Linux.</i>
+<i>❝ «Les bonnes spécifications amélioreront toujours la productivité des programmeurs bien mieux que tout outil ou technique de programmation.» - Milt Bryce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
