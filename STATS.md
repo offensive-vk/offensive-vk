@@ -1,5 +1,5 @@
 # 📊 Daily Repository Statistics
-Generated on ⏰ **Jun 05, Thursday 10:10:34 PM**
+Generated on ⏰ **Jun 06, Friday 12:36:05 AM**
 
 ## 📂 File Character Counts (Alphabetically)
 - ACTIVITY.md: **8521** characters
@@ -18,52 +18,52 @@ Generated on ⏰ **Jun 05, Thursday 10:10:34 PM**
 - RECENT.md: **5539** characters
 - SECURITY.md: **1171** characters
 - STARRED.md: **9739** characters
-- STATS.md: **86** characters
+- STATS.md: **84** characters
 - WORKFLOWS.md: **7482** characters
 - assets/achievements.svg: **38666** characters
-- assets/activity.svg: **24026** characters
+- assets/activity.svg: **24308** characters
 - assets/default.svg: **42017** characters
-- assets/github-snake-dark.svg: **123137** characters
-- assets/github-snake-light.svg: **123137** characters
-- assets/github-snake.gif: **394401** characters
+- assets/github-snake-dark.svg: **123183** characters
+- assets/github-snake-light.svg: **123183** characters
+- assets/github-snake.gif: **414838** characters
 - assets/habits.svg: **12404** characters
-- assets/intro.svg: **2843** characters
+- assets/intro.svg: **3369** characters
 - assets/languages.svg: **17909** characters
 - assets/lines-of-code.svg: **3308** characters
 - assets/mine-dark.svg: **38492** characters
 - assets/mine-light.svg: **38465** characters
-- assets/notable.svg: **328738** characters
-- assets/people.svg: **3553** characters
-- assets/reactions.svg: **9768** characters
+- assets/notable.svg: **324832** characters
+- assets/people.svg: **64374** characters
+- assets/reactions.svg: **11043** characters
 - assets/shocked.gif: **952063** characters
-- assets/stargazers.svg: **53758** characters
+- assets/stargazers.svg: **53762** characters
 - assets/starlists.svg: **8497** characters
-- assets/summary.svg: **26253** characters
-- assets/tickets.svg: **22414** characters
+- assets/summary.svg: **28077** characters
+- assets/tickets.svg: **22442** characters
 - assets/topics.svg: **3277** characters
 - compose.yaml: **1006** characters
 - package.json: **2073** characters
 - pnpm-lock.yaml: **15513** characters
-- profile-3d-contrib/profile-gitblock.svg: **302896** characters
-- profile-3d-contrib/profile-green-animate.svg: **277873** characters
-- profile-3d-contrib/profile-green.svg: **171675** characters
-- profile-3d-contrib/profile-night-green.svg: **277872** characters
-- profile-3d-contrib/profile-night-rainbow.svg: **476415** characters
-- profile-3d-contrib/profile-night-view.svg: **277898** characters
-- profile-3d-contrib/profile-season-animate.svg: **294863** characters
-- profile-3d-contrib/profile-season.svg: **188665** characters
-- profile-3d-contrib/profile-south-season-animate.svg: **294863** characters
-- profile-3d-contrib/profile-south-season.svg: **188665** characters
+- profile-3d-contrib/profile-gitblock.svg: **303364** characters
+- profile-3d-contrib/profile-green-animate.svg: **278306** characters
+- profile-3d-contrib/profile-green.svg: **172108** characters
+- profile-3d-contrib/profile-night-green.svg: **278305** characters
+- profile-3d-contrib/profile-night-rainbow.svg: **477376** characters
+- profile-3d-contrib/profile-night-view.svg: **278331** characters
+- profile-3d-contrib/profile-season-animate.svg: **295308** characters
+- profile-3d-contrib/profile-season.svg: **189110** characters
+- profile-3d-contrib/profile-south-season-animate.svg: **295308** characters
+- profile-3d-contrib/profile-south-season.svg: **189110** characters
 
 ## 📋 Summary
 - 🗂️ **Total files:** 52
-- ✒️ **Total character count:** 5232481
-- 📊 **Average characters per file:** 100624
-- 📝 **Total word count:** 262730
-- 🧾 **Total lines:** 15247
-- 📐 **Average words per file:** 5052
+- ✒️ **Total character count:** 5318803
+- 📊 **Average characters per file:** 102284
+- 📝 **Total word count:** 263444
+- 🧾 **Total lines:** 15275
+- 📐 **Average words per file:** 5066
 - 🏆 **Largest file:** assets/shocked.gif (**952063** characters)
-- 🥉 **Smallest file:** STATS.md (**86** characters)
+- 🥉 **Smallest file:** STATS.md (**84** characters)
 
 ## 🌟 Miscellaneous Stats
 - ⌛ **Average Processing Time Per file:** ~0.5s (estimated)
