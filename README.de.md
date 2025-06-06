@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Gute Spezifikationen verbessert die Programmiererproduktivität immer weitaus besser als jedes Programmierwerkzeug oder jede Programmierwerkzeug oder Technik.“ - Milt Bryce ❞</i>
+<i>❝ "Java ist das belastendste, um das Computer seit MS-DOS zu erreichen."-Alan Kay ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
