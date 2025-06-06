@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>"" Las buenas especificaciones siempre mejorarán la productividad del programador mucho mejor que cualquier herramienta o técnica de programación ". - Milt Bryce ❞</i>
+<i>❝ "Java es lo más angustiante para llegar a la computación desde MS-DOS".-Alan Kay ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
