@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Java es lo más angustiante para llegar a la computación desde MS-DOS".-Alan Kay ❞</i>
+<i>❝ "Las computadoras son buenas para seguir instrucciones, pero no para leer tu mente". - Donald Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
