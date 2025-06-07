@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Java ist das belastendste, um das Computer seit MS-DOS zu erreichen."-Alan Kay ❞</i>
+<i>❝ „Computer sind gut in den folgenden Anweisungen, aber nicht darin, Ihre Gedanken zu lesen.“ - Donald Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
