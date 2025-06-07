@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Les bonnes spécifications amélioreront toujours la productivité des programmeurs bien mieux que tout outil ou technique de programmation.» - Milt Bryce ❞</i>
+<i>❝ «Les ordinateurs sont bons pour suivre les instructions, mais pas pour lire votre esprit.» - Donald Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
