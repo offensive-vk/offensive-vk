@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“ Java是MS-DOS以来最令人痛苦的事情。”  -  Alan Kay❞</i>
+<i>❝“计算机擅长遵循说明，但不读取您的思想。”  - 唐纳德·诺斯（Donald Knuth）</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
