@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Computer sind gut in den folgenden Anweisungen, aber nicht darin, Ihre Gedanken zu lesen.“ - Donald Knuth ❞</i>
+<i>❝Der ursprünglicher Name von Windows war Interface Manager.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
