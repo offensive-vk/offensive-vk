@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机擅长遵循说明，但不读取您的思想。”  - 唐纳德·诺斯（Donald Knuth）</i>
+<i>❝Windows的原始名称是接口管理器。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
