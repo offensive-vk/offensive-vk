@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Las computadoras son buenas para seguir instrucciones, pero no para leer tu mente". - Donald Knuth ❞</i>
+<i>❝ El nombre original de Windows era Interface Manager.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
