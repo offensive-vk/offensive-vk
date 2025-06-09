@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ El nombre original de Windows era Interface Manager.❞</i>
+<i>❝500 horas de video se suben a Facebook cada minuto según el pronóstico.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
