@@ -48,5 +48,5 @@ jobs:
           COMMIT_NAME: Hamster [bot]
           COMMIT_EMAIL: TheHamsterBot@outlook.com
           COMMIT_MSG: 🧑‍💻 Updated Recent Activity
-          MAX_LINES: 150
+          MAX_LINES: 200
           TARGET_FILE: './RECENT.md'

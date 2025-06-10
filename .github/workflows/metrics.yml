@@ -329,31 +329,31 @@ jobs:
   #         plugin_discussions: yes
 
   # Main Metrics - Short
-  shorter-metrics:
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.CLASSIC_TOKEN }}
-          filename: assets/summary.svg
-          committer_message: '📊 Updated Metrics - Quick Summary'
-          committer_token: ${{ secrets.BOT_TOKEN }}
-          user: offensive-vk
-          template: classic
-          base: activity, community, repositories
-          config_timezone: Asia/Kolkata
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_traffic: yes
-          plugin_lines: yes
-          plugin_discussions: yes
-          plugin_discussions_categories: no
+  # shorter-metrics:
+  #   runs-on: ubuntu-latest
+  #   timeout-minutes: 15
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - uses: lowlighter/metrics@latest
+  #       with:
+  #         token: ${{ secrets.CLASSIC_TOKEN }}
+  #         filename: assets/summary.svg
+  #         committer_message: '📊 Updated Metrics - Quick Summary'
+  #         committer_token: ${{ secrets.BOT_TOKEN }}
+  #         user: offensive-vk
+  #         template: classic
+  #         base: activity, community, repositories
+  #         config_timezone: Asia/Kolkata
+  #         plugin_habits: yes
+  #         plugin_habits_charts_type: classic
+  #         plugin_habits_days: 14
+  #         plugin_habits_facts: yes
+  #         plugin_habits_from: 200
+  #         plugin_traffic: yes
+  #         plugin_lines: yes
+  #         plugin_discussions: yes
+  #         plugin_discussions_categories: no
 ###########################################################
 # All Rights Reserved. 2022 - Present. (offensive-vk)
 ###########################################################

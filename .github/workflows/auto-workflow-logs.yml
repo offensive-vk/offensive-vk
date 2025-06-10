@@ -8,7 +8,7 @@ on:
       number:
         description: 'Issue or PR Number to Execute Workflow'
         required: true
-        default: '27000'
+        default: '30000'
 
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -107,7 +107,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
           issue-number:
-            ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number || 27614 }}
+            ${{ github.event.inputs.number || github.event.pull_request.number || github.event.issue.number }}
           body: |
             > [!TIP]
             > **Issue/PR Number:** ${{ github.event.pull_request.number || github.event.issue.number }}
