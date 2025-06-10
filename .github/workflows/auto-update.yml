@@ -20,7 +20,7 @@ jobs:
       - name: Setup pnpm@v10
         uses: pnpm/action-setup@v4
         with:
-          version: 10.0.0
+          version: 10.10.0
 
       - name: Install & Upgrade Dependencies
         run: |

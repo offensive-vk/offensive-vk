@@ -14,8 +14,6 @@ jobs:
   prettier_linter:
     name: Prettier
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,7 +28,7 @@ jobs:
       - name: Setup PNPM v10
         uses: pnpm/action-setup@v4
         with:
-          version: 10.0.0
+          version: 10.10.0
 
       - name: Import GPG Key
         id: gpg
