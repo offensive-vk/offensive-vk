@@ -1,6 +1,6 @@
 {
   "name": "offensive-vk",
-  "version": "25.5.0",
+  "version": "25.6.0",
   "description": "My Personal Github Repository. (Fully Automated). MIT Licensed 2020 - Present",
   "main": "README.md",
   "bot": "https://github.com/TheHamsterBot",
@@ -31,7 +31,7 @@
     "bot-managed"
   ],
   "author": {
-    "name": "Vedansh ✨",
+    "name": "Vedansh",
     "url": "https://github.com/offensive-vk/"
   },
   "license": "MIT",

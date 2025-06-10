@@ -1,26 +1,6 @@
 #####################################################
 # All Rights Reserved. 2020 - Present. (offensive-vk)
 #####################################################
-# version: '3'
-# services:
-#   docker-daemon:
-#     image: docker:dind
-#     privileged: true
-#     volumes:
-#       - type: tmpfs
-#         target: /var/lib/docker
-#         tmpfs:
-#           size: 4096m
-#     ports:
-#       - "2375:2375"
-#   my-container:
-#     build: .
-#     environment:
-#       DOCKER_HOST: tcp://docker-daemon:2375
-#     depends_on:
-#       - docker-daemon
-#     container_name: Vedansh_Dev_Container
-#     tty: true
 version: '3'
 
 services:
