@@ -5,3 +5,4 @@ node_modules/
 assets/
 profile-3d-contrib/
 *.md
+*.mdx
