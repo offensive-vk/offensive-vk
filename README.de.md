@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝500 Stunden Video werden nach Prognose jede Minute auf Facebook hochgeladen.❞</i>
+<i>❝ "Einige Leute, wenn sie mit einem Problem konfrontiert sind, denken Sie:" Ich weiß, ich werde regelmäßige Ausdrücke verwenden. "Jetzt haben sie zwei Probleme." - Jamie Zawinski ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
