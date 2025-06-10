@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows的原始名称是接口管理器。</i>
+<i>❝“有些人，当面对问题时，想想'我知道，我会使用正则表达式。’现在他们有两个问题。”</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
