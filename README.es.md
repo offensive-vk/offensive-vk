@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝500 horas de video se suben a Facebook cada minuto según el pronóstico.</i>
+<i>"" Algunas personas, cuando se enfrentan a un problema, piensan "Lo sé, usaré expresiones regulares". Ahora tienen dos problemas ". - Jamie Zawinski ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
