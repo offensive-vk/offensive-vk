@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝这花了29小时的时间来渲染怪物大学的单个框架。如果在单个CPU上完成，那将花费10，000年才能完成。</i>
+<i>❝“程序测试可能是显示错误存在的一种非常有效的方法，但由于显示出其缺席而无可救药。”  -  Edsger Dijkstra❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
