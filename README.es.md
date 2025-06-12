@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Tomó Pixar 29 horas para emitir un solo cuadro de la Universidad de Monsters. Si se hace en una sola CPU, habría tardado 10,000 años en terminar.</i>
+<i>"" Las pruebas de programa pueden ser una forma muy efectiva de mostrar la presencia de errores, pero es irremediablemente inadecuada para mostrar su ausencia ". - Edsger Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
