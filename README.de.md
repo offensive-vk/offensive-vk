@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝T brauchte Pixar 29 Stunden, um einen einzelnen Rahmen von der Monsters University zu rendern. Wenn es auf einer einzelnen CPU durchgeführt wurde, hätte es 10.000 Jahre gedauert, bis sie abgeschlossen sind.❞</i>
+<i>❝ „Programmtests können ein sehr effektiver Weg sein, um das Vorhandensein von Bugs zu zeigen, ist jedoch hoffnungslos unzureichend, um ihre Abwesenheit zu zeigen.“ - Edsger Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
