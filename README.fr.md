@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝It a pris Pixar 29 heures pour rendre un seul cadre de l'Université Monsters. S'il est fait sur un seul processeur, il aurait fallu 10 000 ans pour terminer.</i>
+<i>❝ «Les tests de programme peuvent être un moyen très efficace de montrer la présence de bugs, mais est désespérément inadéquat pour montrer leur absence.» - Edsger Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
