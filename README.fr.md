@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Les tests de programme peuvent être un moyen très efficace de montrer la présence de bugs, mais est désespérément inadéquat pour montrer leur absence.» - Edsger Dijkstra ❞</i>
+<i>❝Sé à Statista, d'ici 2023, plus de 50 milliards d'appareils seront connectés sur Internet.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
