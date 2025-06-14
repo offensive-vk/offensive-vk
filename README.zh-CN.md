@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“程序测试可能是显示错误存在的一种非常有效的方法，但由于显示出其缺席而无可救药。”  -  Edsger Dijkstra❞</i>
+<i>tate statista，到2023年，将在Internet上连接超过500亿个设备。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
