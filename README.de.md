@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Programmtests können ein sehr effektiver Weg sein, um das Vorhandensein von Bugs zu zeigen, ist jedoch hoffnungslos unzureichend, um ihre Abwesenheit zu zeigen.“ - Edsger Dijkstra ❞</i>
+<i>❝According nach Statista bis 2023 werden über 50 Milliarden Geräte im Internet verbunden.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
