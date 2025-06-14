@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>"" Las pruebas de programa pueden ser una forma muy efectiva de mostrar la presencia de errores, pero es irremediablemente inadecuada para mostrar su ausencia ". - Edsger Dijkstra ❞</i>
+<i>❝ El control de Statista, para 2023, se conectarán más de 50 mil millones de dispositivos en Internet.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
