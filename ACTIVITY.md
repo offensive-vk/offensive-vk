@@ -41,6 +41,4 @@
 40. ✅ Approved on pull request [#8](https://github.com/offensive-vk/auto-contributions/pull/8) in [offensive-vk/auto-contributions](https://github.com/offensive-vk/auto-contributions)
 41. 🎉  Merged pull request [#35](https://github.com/offensive-vk/develop-actions/pull/35) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 42. ✅ Approved on pull request [#35](https://github.com/offensive-vk/develop-actions/pull/35) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-43. 💪 Opened pull request [#8654](https://github.com/kamranahmedse/developer-roadmap/pull/8654) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-44. 💬 Commented on pull request [#8652](https://github.com/kamranahmedse/developer-roadmap/pull/8652) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
