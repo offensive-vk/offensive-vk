@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ En 2010, una escuela secundaria llamada Distrito Escolar de Lower Merion en Pensilvania emitió un MacBook a cada uno de sus 2,306 estudiantes, luego activó remotamente las cámaras web para espiar a los estudiantes en casa.</i>
+<i>❝ "Desde el punto de vista de un programador, el usuario es un periférico que tipos cuando emite una solicitud de lectura". - P. Williams ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
