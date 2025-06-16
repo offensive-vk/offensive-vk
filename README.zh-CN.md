@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>2010年，一所名为Pennsylvania的Lower Merion学区的高中向其2,306名学生中的每个学生发行了MacBook，然后远程激活了网络摄像头，以监视家中的学生。</i>
+<i>❝“从程序员的角度来看，用户是发出读取请求时类型的外围设备。”  -  P. Williams❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
