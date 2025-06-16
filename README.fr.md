@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ en 2010, un lycée nommé Lower Merion School District en Pennsylvanie a publié un MacBook à chacun de ses 2 306 élèves, puis a activé à distance les webcams pour espionner les élèves à la maison.</i>
+<i>❝ «Du point de vue d'un programmeur, l'utilisateur est un périphérique qui type lorsque vous émettez une demande de lecture.» - P. Williams ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
