@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“从程序员的角度来看，用户是发出读取请求时类型的外围设备。”  -  P. Williams❞</i>
+<i>❝时期，AMD和Intel CPU使用了相同的插座（插座7），并且可以在同一主板上运行。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#359](https://github.com/offensive-vk/UntilEverything/pull/359)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉合并PR[#36](https://github.com/offensive-vk/develop-actions/pull/36)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-3.  🎉合并PR[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)在[进攻性vk/自动升级引用](https://github.com/offensive-vk/auto-update-quote)
-4.  🎉合并PR[#357](https://github.com/offensive-vk/UntilEverything/pull/357)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-5.  🗣评论[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-6.  🎉合并PR[#10045](https://github.com/offensive-vk/Classics/pull/10045)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-7.  🎉合并PR[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉合并PR[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-9.  🎉合并PR[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-10. 🎉合并PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-11. 💪打开PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 🎉合并PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
-13. 💪打开PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
-14. 🎉合并PR[#10044](https://github.com/offensive-vk/Classics/pull/10044)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-15. 🎉合并PR[#30689](https://github.com/offensive-vk/offensive-vk/pull/30689)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+1.  🎉合并PR[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉合并PR[#359](https://github.com/offensive-vk/UntilEverything/pull/359)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉合并PR[#36](https://github.com/offensive-vk/develop-actions/pull/36)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+4.  🎉合并PR[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)在[进攻性vk/自动升级引用](https://github.com/offensive-vk/auto-update-quote)
+5.  🎉合并PR[#357](https://github.com/offensive-vk/UntilEverything/pull/357)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+6.  🗣评论[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+7.  🎉合并PR[#10045](https://github.com/offensive-vk/Classics/pull/10045)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+8.  🎉合并PR[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🎉合并PR[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+10. 🎉合并PR[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
+11. 🎉合并PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+12. 💪打开PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🎉合并PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+14. 💪打开PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)在[进攻性VK/个人博客](https://github.com/offensive-vk/personal-blog)
+15. 🎉合并PR[#10044](https://github.com/offensive-vk/Classics/pull/10044)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
     <!--END_SECTION:activity-->
 
 </p>
