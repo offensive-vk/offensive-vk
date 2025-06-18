@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Es gab eine Zeit, in der AMD und Intel CPUs denselben Sockel (Socket 7) verwendeten und auf demselben Motherboard laufen konnten.</i>
+<i>❝Mortal Kombat II war so beliebt, als es auf die Spielhalle traf, dass einige der Maschinen später mit Deadlock -Sicherheits -Panels auf dem Rücken installiert wurden, um zu verhindern, dass Diebe das Motherboard des Spiels direkt aus der Maschine rissen und nach Hause nehmen.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
