@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝时期，AMD和Intel CPU使用了相同的插座（插座7），并且可以在同一主板上运行。</i>
+<i>❝在此之前，有一个计算机蠕虫可以访问您的Windows XP OS，可以从Microsoft下载一个补丁以存在用于感染系统并在删除后使用的漏洞。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
