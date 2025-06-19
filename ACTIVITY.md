@@ -28,6 +28,4 @@
 27. 💪 Opened pull request [#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 28. 🎉  Merged pull request [#2](https://github.com/offensive-vk/personal-blog/pull/2) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
 29. 💪 Opened pull request [#2](https://github.com/offensive-vk/personal-blog/pull/2) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
-30. 🎉  Merged pull request [#10044](https://github.com/offensive-vk/Classics/pull/10044) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-31. ✅ Approved on pull request [#10044](https://github.com/offensive-vk/Classics/pull/10044) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 <!--END_SECTION:activity-->
