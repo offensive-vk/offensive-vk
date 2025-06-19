@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mortal Kombat II war so beliebt, als es auf die Spielhalle traf, dass einige der Maschinen später mit Deadlock -Sicherheits -Panels auf dem Rücken installiert wurden, um zu verhindern, dass Diebe das Motherboard des Spiels direkt aus der Maschine rissen und nach Hause nehmen.</i>
+<i>❝ Ein Computerwurm war vorhanden, der auf Ihr Windows XP -Betriebssystem zugreifen konnte, einen Patch von Microsoft herunterladen konnte, um die Verwundbarkeit zu existieren, die es verwendet hat, um das System zu infizieren und sich selbst zu löschen.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
