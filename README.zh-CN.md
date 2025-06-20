@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝在此之前，有一个计算机蠕虫可以访问您的Windows XP OS，可以从Microsoft下载一个补丁以存在用于感染系统并在删除后使用的漏洞。</i>
+<i>每月发布5000多个新计算机病毒。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
