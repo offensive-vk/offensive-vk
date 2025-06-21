@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Ein Computerwurm war vorhanden, der auf Ihr Windows XP -Betriebssystem zugreifen konnte, einen Patch von Microsoft herunterladen konnte, um die Verwundbarkeit zu existieren, die es verwendet hat, um das System zu infizieren und sich selbst zu löschen.❞</i>
+<i>❝ „Ich denke, Computerviren sollten als Leben gelten. Ich denke, es sagt etwas über die menschliche Natur aus, dass die einzige Lebensform, die wir bisher geschaffen haben, rein destruktiv ist. Wir haben das Leben in unserem eigenen Bild geschaffen.“ - Stephen Hawking ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 Fusions PR[#359](https://github.com/offensive-vk/UntilEverything/pull/359)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Fusions PR[#36](https://github.com/offensive-vk/develop-actions/pull/36)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-4.  🎉 Fusions PR[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)In[Offensiv-VK/Auto-Update-Quote](https://github.com/offensive-vk/auto-update-quote)
-5.  🎉 Fusions PR[#357](https://github.com/offensive-vk/UntilEverything/pull/357)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-6.  🗣 kommentierte[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 Fusions PR[#10045](https://github.com/offensive-vk/Classics/pull/10045)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-8.  🎉 Fusions PR[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🎉 Fusions PR[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-10. 🎉 Fusions PR[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
-11. 🎉 Fusions PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 💪 PR geöffnet[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉 Fusions PR[#2](https://github.com/offensive-vk/personal-blog/pull/2)In[Offensiv-VK/Personal-Blog](https://github.com/offensive-vk/personal-blog)
-14. 💪 PR geöffnet[#2](https://github.com/offensive-vk/personal-blog/pull/2)In[Offensiv-VK/Personal-Blog](https://github.com/offensive-vk/personal-blog)
-15. 🎉 Fusions PR[#10044](https://github.com/offensive-vk/Classics/pull/10044)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+1.  💪 PR geöffnet[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 Fusions PR[#360](https://github.com/offensive-vk/UntilEverything/pull/360)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+3.  💪 PR geöffnet[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 Fusions PR[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 Fusions PR[#359](https://github.com/offensive-vk/UntilEverything/pull/359)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Fusions PR[#36](https://github.com/offensive-vk/develop-actions/pull/36)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+7.  🎉 Fusions PR[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)In[Offensiv-VK/Auto-Update-Quote](https://github.com/offensive-vk/auto-update-quote)
+8.  🎉 Fusions PR[#357](https://github.com/offensive-vk/UntilEverything/pull/357)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+9.  🗣 kommentierte[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 Fusions PR[#10045](https://github.com/offensive-vk/Classics/pull/10045)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+11. 🎉 Fusions PR[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+12. 🎉 Fusions PR[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+13. 🎉 Fusions PR[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
+14. 🎉 Fusions PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪 PR geöffnet[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
