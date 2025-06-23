@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Commentaire votre code, c'est comme nettoyer votre salle de bain - vous ne voulez jamais le faire, mais cela crée vraiment une expérience plus agréable pour vous et vos invités.» - Ryan Campbell ❞</i>
+<i>❝Le registre fédéral américain utilise toujours des disquettes envoyées par Courier parce qu'un système de messagerie sécurisé est «trop cher».</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 Open a ouvert les relations publiques[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 PR fusionné[#360](https://github.com/offensive-vk/UntilEverything/pull/360)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-3.  💪 Open a ouvert les relations publiques[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4.  🎉 PR fusionné[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 PR fusionné[#359](https://github.com/offensive-vk/UntilEverything/pull/359)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 PR fusionné[#36](https://github.com/offensive-vk/develop-actions/pull/36)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-7.  🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)dans[offensive-VK / Auto-update-Quote](https://github.com/offensive-vk/auto-update-quote)
-8.  🎉 PR fusionné[#357](https://github.com/offensive-vk/UntilEverything/pull/357)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-9.  🗣 a commenté[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-10. 🎉 PR fusionné[#10045](https://github.com/offensive-vk/Classics/pull/10045)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-11. 🎉 PR fusionné[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-12. 🎉 PR fusionné[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉 PR fusionné[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)dans[offensive-VK / Auto-user-activité](https://github.com/offensive-vk/auto-user-activity)
-14. 🎉 PR fusionné[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 💪 Open a ouvert les relations publiques[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 PR fusionné[#32](https://github.com/offensive-vk/Icons/pull/32)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+2.  💪 Open a ouvert les relations publiques[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 PR fusionné[#360](https://github.com/offensive-vk/UntilEverything/pull/360)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+4.  💪 Open a ouvert les relations publiques[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 PR fusionné[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+6.  🎉 PR fusionné[#359](https://github.com/offensive-vk/UntilEverything/pull/359)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 PR fusionné[#36](https://github.com/offensive-vk/develop-actions/pull/36)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+8.  🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)dans[offensive-VK / Auto-update-Quote](https://github.com/offensive-vk/auto-update-quote)
+9.  🎉 PR fusionné[#357](https://github.com/offensive-vk/UntilEverything/pull/357)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+10. 🗣 a commenté[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 PR fusionné[#10045](https://github.com/offensive-vk/Classics/pull/10045)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+12. 🎉 PR fusionné[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+13. 🎉 PR fusionné[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+14. 🎉 PR fusionné[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)dans[offensive-VK / Auto-user-activité](https://github.com/offensive-vk/auto-user-activity)
+15. 🎉 PR fusionné[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)dans[offensive-vk / reactjs-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
