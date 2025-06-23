@@ -37,7 +37,4 @@
 36. 🎉  Merged pull request [#13](https://github.com/offensive-vk/auto-user-activity/pull/13) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
 37. ✅ Approved on pull request [#13](https://github.com/offensive-vk/auto-user-activity/pull/13) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
 38. 💬 Commented on pull request [#8705](https://github.com/kamranahmedse/developer-roadmap/pull/8705) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-39. 🎉  Merged pull request [#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-40. 💪 Opened pull request [#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-41. 🎉  Merged pull request [#2](https://github.com/offensive-vk/personal-blog/pull/2) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
 <!--END_SECTION:activity-->
