@@ -40,5 +40,4 @@
 39. 🎉  Merged pull request [#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 40. 💪 Opened pull request [#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 41. 🎉  Merged pull request [#2](https://github.com/offensive-vk/personal-blog/pull/2) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
-42. 💪 Opened pull request [#2](https://github.com/offensive-vk/personal-blog/pull/2) in [offensive-vk/personal-blog](https://github.com/offensive-vk/personal-blog)
 <!--END_SECTION:activity-->
