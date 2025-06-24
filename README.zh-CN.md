@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝美国联邦公报仍在使用信使发送的软盘，因为安全的电子邮件系统“太昂贵”。</i>
+<i>❝“能够打破安全性并不能使您成为黑客的人，而不是能够热火车使您成为汽车工程师。”  -  Eric Raymond❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
