@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Das US-Bundesregister verwendet immer noch Disketten, die von Courier gesendet wurden, da ein sicheres E-Mail-System „zu teuer“ ist .❞ ❞</i>
+<i>❝ "Ich denke, es ist eine neue Funktion. Sagen Sie niemandem, dass es ein Unfall war." - Larry Wall ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#32](https://github.com/offensive-vk/Icons/pull/32)In[Offensiv-VK/Ikonen](https://github.com/offensive-vk/Icons)
-2.  💪 PR geöffnet[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3.  🎉 Fusions PR[#360](https://github.com/offensive-vk/UntilEverything/pull/360)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-4.  💪 PR geöffnet[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉 Fusions PR[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉 Fusions PR[#359](https://github.com/offensive-vk/UntilEverything/pull/359)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 Fusions PR[#36](https://github.com/offensive-vk/develop-actions/pull/36)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-8.  🎉 Fusions PR[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)In[Offensiv-VK/Auto-Update-Quote](https://github.com/offensive-vk/auto-update-quote)
-9.  🎉 Fusions PR[#357](https://github.com/offensive-vk/UntilEverything/pull/357)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-10. 🗣 kommentierte[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Fusions PR[#10045](https://github.com/offensive-vk/Classics/pull/10045)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-12. 🎉 Fusions PR[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉 Fusions PR[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉 Fusions PR[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)In[Offensiv-VK/Auto-User-Aktivität](https://github.com/offensive-vk/auto-user-activity)
-15. 🎉 Fusions PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🗣 kommentierte[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 Fusions PR[#37](https://github.com/offensive-vk/develop-actions/pull/37)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+3.  🎉 Fusions PR[#10047](https://github.com/offensive-vk/Classics/pull/10047)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+4.  🎉 Fusions PR[#32](https://github.com/offensive-vk/Icons/pull/32)In[Offensiv-VK/Ikonen](https://github.com/offensive-vk/Icons)
+5.  💪 PR geöffnet[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  🎉 Fusions PR[#360](https://github.com/offensive-vk/UntilEverything/pull/360)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+7.  💪 PR geöffnet[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  🎉 Fusions PR[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 Fusions PR[#359](https://github.com/offensive-vk/UntilEverything/pull/359)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉 Fusions PR[#36](https://github.com/offensive-vk/develop-actions/pull/36)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+11. 🎉 Fusions PR[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)In[Offensiv-VK/Auto-Update-Quote](https://github.com/offensive-vk/auto-update-quote)
+12. 🎉 Fusions PR[#357](https://github.com/offensive-vk/UntilEverything/pull/357)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+13. 🗣 kommentierte[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉 Fusions PR[#10045](https://github.com/offensive-vk/Classics/pull/10045)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+15. 🎉 Fusions PR[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
     <!--END_SECTION:activity-->
 
 </p>
