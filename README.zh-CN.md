@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“能够打破安全性并不能使您成为黑客的人，而不是能够热火车使您成为汽车工程师。”  -  Eric Raymond❞</i>
+<i>❝“我认为这是一项新功能。不要告诉任何人这是偶然的。”  - 拉里·沃尔（Larry Wall）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#32](https://github.com/offensive-vk/Icons/pull/32)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
-2.  💪打开PR[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-3.  🎉合并PR[#360](https://github.com/offensive-vk/UntilEverything/pull/360)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-4.  💪打开PR[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-5.  🎉合并PR[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-6.  🎉合并PR[#359](https://github.com/offensive-vk/UntilEverything/pull/359)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-7.  🎉合并PR[#36](https://github.com/offensive-vk/develop-actions/pull/36)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-8.  🎉合并PR[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)在[进攻性vk/自动升级引用](https://github.com/offensive-vk/auto-update-quote)
-9.  🎉合并PR[#357](https://github.com/offensive-vk/UntilEverything/pull/357)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-10. 🗣评论[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉合并PR[#10045](https://github.com/offensive-vk/Classics/pull/10045)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-12. 🎉合并PR[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-13. 🎉合并PR[#51](https://github.com/offensive-vk/reactjs-quiz-app/pull/51)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-14. 🎉合并PR[#13](https://github.com/offensive-vk/auto-user-activity/pull/13)在[进攻性VK/自动用户活动](https://github.com/offensive-vk/auto-user-activity)
-15. 🎉合并PR[#50](https://github.com/offensive-vk/reactjs-quiz-app/pull/50)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🗣评论[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉合并PR[#37](https://github.com/offensive-vk/develop-actions/pull/37)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+3.  🎉合并PR[#10047](https://github.com/offensive-vk/Classics/pull/10047)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+4.  🎉合并PR[#32](https://github.com/offensive-vk/Icons/pull/32)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
+5.  💪打开PR[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+6.  🎉合并PR[#360](https://github.com/offensive-vk/UntilEverything/pull/360)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+7.  💪打开PR[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+8.  🎉合并PR[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉合并PR[#359](https://github.com/offensive-vk/UntilEverything/pull/359)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+10. 🎉合并PR[#36](https://github.com/offensive-vk/develop-actions/pull/36)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+11. 🎉合并PR[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)在[进攻性vk/自动升级引用](https://github.com/offensive-vk/auto-update-quote)
+12. 🎉合并PR[#357](https://github.com/offensive-vk/UntilEverything/pull/357)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+13. 🗣评论[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+14. 🎉合并PR[#10045](https://github.com/offensive-vk/Classics/pull/10045)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+15. 🎉合并PR[#96](https://github.com/offensive-vk/AwesomeCloud/pull/96)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
     <!--END_SECTION:activity-->
 
 </p>
