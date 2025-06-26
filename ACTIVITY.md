@@ -44,5 +44,4 @@
 43. ✅ Approved on pull request [#30695](https://github.com/offensive-vk/offensive-vk/pull/30695) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 44. 🎉  Merged pull request [#13](https://github.com/offensive-vk/auto-user-activity/pull/13) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
 45. ✅ Approved on pull request [#13](https://github.com/offensive-vk/auto-user-activity/pull/13) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
-46. 💬 Commented on pull request [#8705](https://github.com/kamranahmedse/developer-roadmap/pull/8705) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
