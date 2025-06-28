@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Это была шутка, хорошо? Если бы мы думали, что это действительно будет использовано, мы бы не написали!» - Марк Андрезен, говоря о мигании HTML ❞</i>
+<i>❝ «Я не усердно трудился, чтобы сделать Ruby идеально подходящим для всех, потому что вы чувствуете себя не так, как я. Ни один язык не может быть идеальным для всех. Я пытался сделать Ruby идеальным для меня, но, возможно, он не идеально для вас. Идеальный язык для Гвидо Ван Россума - это, вероятно, Python». Юкихиро Мацумото, он же «Мац», создатель Руби.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 открыл Pr[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🗣 прокомментировал[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 Объединенный Pr[#37](https://github.com/offensive-vk/develop-actions/pull/37)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-4.  🎉 Объединенный Pr[#10047](https://github.com/offensive-vk/Classics/pull/10047)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-5.  🎉 Объединенный Pr[#32](https://github.com/offensive-vk/Icons/pull/32)в[наступление-VK/иконки](https://github.com/offensive-vk/Icons)
-6.  💪 открыл Pr[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉 Объединенный Pr[#360](https://github.com/offensive-vk/UntilEverything/pull/360)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-8.  💪 открыл Pr[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Объединенный Pr[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 Объединенный Pr[#359](https://github.com/offensive-vk/UntilEverything/pull/359)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Объединенный Pr[#36](https://github.com/offensive-vk/develop-actions/pull/36)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-12. 🎉 Объединенный Pr[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)в[наступление VK/Auto-Update-Quote](https://github.com/offensive-vk/auto-update-quote)
-13. 🎉 Объединенный Pr[#357](https://github.com/offensive-vk/UntilEverything/pull/357)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-14. 🗣 прокомментировал[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-15. 🎉 Объединенный Pr[#10045](https://github.com/offensive-vk/Classics/pull/10045)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+1.  🗣 прокомментировал[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🗣 прокомментировал[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 открыл Pr[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  🗣 прокомментировал[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 Объединенный Pr[#37](https://github.com/offensive-vk/develop-actions/pull/37)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
+6.  🎉 Объединенный Pr[#10047](https://github.com/offensive-vk/Classics/pull/10047)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+7.  🎉 Объединенный Pr[#32](https://github.com/offensive-vk/Icons/pull/32)в[наступление-VK/иконки](https://github.com/offensive-vk/Icons)
+8.  💪 открыл Pr[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 Объединенный Pr[#360](https://github.com/offensive-vk/UntilEverything/pull/360)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+10. 💪 открыл Pr[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 🎉 Объединенный Pr[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+12. 🎉 Объединенный Pr[#359](https://github.com/offensive-vk/UntilEverything/pull/359)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+13. 🎉 Объединенный Pr[#36](https://github.com/offensive-vk/develop-actions/pull/36)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
+14. 🎉 Объединенный Pr[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)в[наступление VK/Auto-Update-Quote](https://github.com/offensive-vk/auto-update-quote)
+15. 🎉 Объединенный Pr[#357](https://github.com/offensive-vk/UntilEverything/pull/357)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
