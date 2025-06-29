@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the goal_. <br>🧑‍💻 I like to write computer `code`. <br>🤝 I’m looking for help in my server. <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _nasty_ stuff. <br>💬 Ask me about nothing. <br>👌 I respect my time. <br>⚡ Fun fact: no fun, only code. <br>💥 Keep moving and you'll overcome one day. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   ❞</i>
+<i>❝“Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.”— Danny Thorpe   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
