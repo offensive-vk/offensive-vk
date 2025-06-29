@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Je n'ai pas travaillé dur pour rendre Ruby parfaite pour tout le monde, parce que vous vous sentez différemment de moi. Aucune langue ne peut être parfaite pour tout le monde. J'ai essayé de rendre Ruby parfaite pour moi, mais peut-être que ce n'est pas parfait pour vous. Le langage parfait pour Guido Van Rossum est probablement Python." - Yukihiro Matsumoto, aka "Matz", Creator of Ruby ❞ ❞ ❞ ❞ ❞ ❞</i>
+<i>❝ "La programmation sans architecture ou conception globale à l'esprit, c'est comme explorer une grotte avec seulement une lampe de poche: vous ne savez pas où vous avez été, vous ne savez pas où vous allez et vous ne savez pas tout à fait où vous êtes." - Danny Thorpe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3.  💪 Open a ouvert les relations publiques[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4.  🗣 a commenté[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 PR fusionné[#37](https://github.com/offensive-vk/develop-actions/pull/37)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-6.  🎉 PR fusionné[#10047](https://github.com/offensive-vk/Classics/pull/10047)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-7.  🎉 PR fusionné[#32](https://github.com/offensive-vk/Icons/pull/32)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
-8.  💪 Open a ouvert les relations publiques[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 PR fusionné[#360](https://github.com/offensive-vk/UntilEverything/pull/360)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-10. 💪 Open a ouvert les relations publiques[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 🎉 PR fusionné[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 PR fusionné[#359](https://github.com/offensive-vk/UntilEverything/pull/359)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-13. 🎉 PR fusionné[#36](https://github.com/offensive-vk/develop-actions/pull/36)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-14. 🎉 PR fusionné[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)dans[offensive-VK / Auto-update-Quote](https://github.com/offensive-vk/auto-update-quote)
-15. 🎉 PR fusionné[#357](https://github.com/offensive-vk/UntilEverything/pull/357)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 PR fusionné[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 PR fusionné[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉 PR fusionné[#41](https://github.com/offensive-vk/auto-label/pull/41)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+4.  🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 Open a ouvert les relations publiques[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  🗣 a commenté[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 PR fusionné[#37](https://github.com/offensive-vk/develop-actions/pull/37)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+9.  🎉 PR fusionné[#10047](https://github.com/offensive-vk/Classics/pull/10047)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+10. 🎉 PR fusionné[#32](https://github.com/offensive-vk/Icons/pull/32)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+11. 💪 Open a ouvert les relations publiques[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🎉 PR fusionné[#360](https://github.com/offensive-vk/UntilEverything/pull/360)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+13. 💪 Open a ouvert les relations publiques[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 PR fusionné[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 PR fusionné[#359](https://github.com/offensive-vk/UntilEverything/pull/359)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
