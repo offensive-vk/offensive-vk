@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 95 fue la segunda pieza de software más instalada en computadoras en 1995, el videojuego Doom fue el primero.</i>
+<i>❝ "La programación sin una arquitectura o diseño general en mente es como explorar una cueva con solo una linterna: no sabes dónde has estado, no sabes a dónde vas y no sabes dónde estás". - Danny Thorpe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 ABIERTO PR[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3.  🗣 Comentó[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 PR fusionado[#37](https://github.com/offensive-vk/develop-actions/pull/37)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-5.  🎉 PR fusionado[#10047](https://github.com/offensive-vk/Classics/pull/10047)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-6.  🎉 PR fusionado[#32](https://github.com/offensive-vk/Icons/pull/32)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
-7.  💪 ABIERTO PR[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  🎉 PR fusionado[#360](https://github.com/offensive-vk/UntilEverything/pull/360)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-9.  💪 ABIERTO PR[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 PR fusionado[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-11. 🎉 PR fusionado[#359](https://github.com/offensive-vk/UntilEverything/pull/359)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 PR fusionado[#36](https://github.com/offensive-vk/develop-actions/pull/36)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-13. 🎉 PR fusionado[#7](https://github.com/offensive-vk/auto-update-quote/pull/7)en[ofensivo-vk/automovilismo](https://github.com/offensive-vk/auto-update-quote)
-14. 🎉 PR fusionado[#357](https://github.com/offensive-vk/UntilEverything/pull/357)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-15. 🗣 Comentó[#356](https://github.com/offensive-vk/UntilEverything/pull/356#issuecomment-2934412956)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 PR fusionado[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 PR fusionado[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉 PR fusionado[#41](https://github.com/offensive-vk/auto-label/pull/41)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+4.  🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  💪 ABIERTO PR[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  🗣 Comentó[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 PR fusionado[#37](https://github.com/offensive-vk/develop-actions/pull/37)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+9.  🎉 PR fusionado[#10047](https://github.com/offensive-vk/Classics/pull/10047)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+10. 🎉 PR fusionado[#32](https://github.com/offensive-vk/Icons/pull/32)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+11. 💪 ABIERTO PR[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🎉 PR fusionado[#360](https://github.com/offensive-vk/UntilEverything/pull/360)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+13. 💪 ABIERTO PR[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 PR fusionado[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 PR fusionado[#359](https://github.com/offensive-vk/UntilEverything/pull/359)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
