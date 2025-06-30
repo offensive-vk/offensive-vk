@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "La programmation sans architecture ou conception globale à l'esprit, c'est comme explorer une grotte avec seulement une lampe de poche: vous ne savez pas où vous avez été, vous ne savez pas où vous allez et vous ne savez pas tout à fait où vous êtes." - Danny Thorpe ❞</i>
+<i>❝ «Du point de vue d'un programmeur, l'utilisateur est un périphérique qui type lorsque vous émettez une demande de lecture.» - P. Williams ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
