@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🎉 Fusions PR[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🎉 Fusions PR[#41](https://github.com/offensive-vk/auto-label/pull/41)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
-4.  🗣 kommentierte[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  🗣 kommentierte[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  💪 PR geöffnet[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  🗣 kommentierte[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 Fusions PR[#37](https://github.com/offensive-vk/develop-actions/pull/37)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-9.  🎉 Fusions PR[#10047](https://github.com/offensive-vk/Classics/pull/10047)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-10. 🎉 Fusions PR[#32](https://github.com/offensive-vk/Icons/pull/32)In[Offensiv-VK/Ikonen](https://github.com/offensive-vk/Icons)
-11. 💪 PR geöffnet[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🎉 Fusions PR[#360](https://github.com/offensive-vk/UntilEverything/pull/360)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-13. 💪 PR geöffnet[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉 Fusions PR[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Fusions PR[#359](https://github.com/offensive-vk/UntilEverything/pull/359)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+1.  💪 PR geöffnet[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 Fusions PR[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉 Fusions PR[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  🎉 Fusions PR[#41](https://github.com/offensive-vk/auto-label/pull/41)In[Offensiv-VK/Auto-Label](https://github.com/offensive-vk/auto-label)
+5.  🗣 kommentierte[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+6.  🗣 kommentierte[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 PR geöffnet[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  🗣 kommentierte[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
+9.  🎉 Fusions PR[#37](https://github.com/offensive-vk/develop-actions/pull/37)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+10. 🎉 Fusions PR[#10047](https://github.com/offensive-vk/Classics/pull/10047)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+11. 🎉 Fusions PR[#32](https://github.com/offensive-vk/Icons/pull/32)In[Offensiv-VK/Ikonen](https://github.com/offensive-vk/Icons)
+12. 💪 PR geöffnet[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 🎉 Fusions PR[#360](https://github.com/offensive-vk/UntilEverything/pull/360)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+14. 💪 PR geöffnet[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 🎉 Fusions PR[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
