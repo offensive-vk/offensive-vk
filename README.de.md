@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Aus Sicht eines Programmierers ist der Benutzer ein peripherer, der beim Ausstellen einer Leseanforderung eingeht." - P. Williams ❞</i>
+<i>❝ Wenn Sie Mozilla, Chrome Explore verwenden, wissen Sie bitte, dass Mosaic der erste Browser war, als ich geboren wurde. ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
