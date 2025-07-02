@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Desde el punto de vista de un programador, el usuario es un periférico que tipos cuando emite una solicitud de lectura". - P. Williams ❞</i>
+<i>❝ Si usa Mozilla, Chrome Explore, por favor sepa que Mosaic fue el primer navegador justo cuando nací.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
