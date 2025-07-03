@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Wenn Sie Mozilla, Chrome Explore verwenden, wissen Sie bitte, dass Mosaic der erste Browser war, als ich geboren wurde. ❞</i>
+<i>❝ "Standards sind immer veraltet. Das macht sie Standards." - Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
