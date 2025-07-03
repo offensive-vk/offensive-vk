@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“从程序员的角度来看，用户是发出读取请求时类型的外围设备。”  -  P. Williams❞</i>
+<i>❝“标准总是过时的。这就是使它们标准的原因。”  - 艾伦·贝内特（Alan Bennett）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
