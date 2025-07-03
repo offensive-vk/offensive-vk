@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Si usa Mozilla, Chrome Explore, por favor sepa que Mosaic fue el primer navegador justo cuando nací.</i>
+<i>❝ "Los estándares siempre están desactualizados. Eso es lo que los convierte en estándares". - Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
