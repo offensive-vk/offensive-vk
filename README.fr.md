@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le premier mot prononcé sur Internet était «lo». C'était censé être «connecté» mais l'ordinateur s'est écrasé après les deux premières lettres.</i>
+<i>❝ «Je ne crains pas les ordinateurs. Je le crains le manque.» - Isaac Asimov ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
