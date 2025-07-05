@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>whathsy تستخدم Mozilla ، استكشاف Chrome ، يرجى العلم أن Mosaic كان أول متصفح في فقط عندما ولدت.</i>
+<i>❝ "أنا لا أخاف أجهزة الكمبيوتر. أخشى عدم وجودها". - إسحاق أسيموف ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 فتح العلاقات العامة[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 اندمج العلاقات العامة[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-3.  🎉 اندمج العلاقات العامة[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-4.  🎉 اندمج العلاقات العامة[#41](https://github.com/offensive-vk/auto-label/pull/41)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-5.  🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 فتح العلاقات العامة[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  🗣 علق على[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-9.  🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/develop-actions/pull/37)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-10. 🎉 اندمج العلاقات العامة[#10047](https://github.com/offensive-vk/Classics/pull/10047)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-11. 🎉 اندمج العلاقات العامة[#32](https://github.com/offensive-vk/Icons/pull/32)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
-12. 💪 فتح العلاقات العامة[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 🎉 اندمج العلاقات العامة[#360](https://github.com/offensive-vk/UntilEverything/pull/360)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-14. 💪 فتح العلاقات العامة[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 🎉 اندمج العلاقات العامة[#30711](https://github.com/offensive-vk/offensive-vk/pull/30711)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 علق على[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  💪 فتح العلاقات العامة[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  🎉 اندمج العلاقات العامة[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+4.  🎉 اندمج العلاقات العامة[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉 اندمج العلاقات العامة[#41](https://github.com/offensive-vk/auto-label/pull/41)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+6.  🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  💪 فتح العلاقات العامة[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🗣 علق على[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/develop-actions/pull/37)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
+11. 🎉 اندمج العلاقات العامة[#10047](https://github.com/offensive-vk/Classics/pull/10047)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+12. 🎉 اندمج العلاقات العامة[#32](https://github.com/offensive-vk/Icons/pull/32)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+13. 💪 فتح العلاقات العامة[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🎉 اندمج العلاقات العامة[#360](https://github.com/offensive-vk/UntilEverything/pull/360)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+15. 💪 فتح العلاقات العامة[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
