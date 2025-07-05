@@ -5,7 +5,7 @@
 # Use the Debian Bullseye base image
 FROM node:lts-bullseye
 
-# The Owner of this environment & this file (The Real OG)
+# The Owner of this environment & this file
 LABEL url="https://github.com/offensive-vk/offensive-vk"
 LABEL owner="Vedansh <https://github.com/offensive-vk/>"
 LABEL maintainer="Hamster <https://github.com/TheHamsterBot>"
