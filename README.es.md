@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ La primera palabra pronunciada en Internet fue "Lo". Se suponía que era "iniciar sesión", pero la computadora se bloqueó después de las dos primeras letras.</i>
+<i>❝ “No temo a las computadoras. Temo la falta de ellas”. - Isaac Asimov ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
