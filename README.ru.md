@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Я не боюсь компьютеров. Я боюсь их отсутствия». - Исаак Асимов ❞</i>
+<i>❝ «В основном, когда вы видите программистов, они ничего не делают. Одна из привлекательных вещей о программистах заключается в том, что вы не можете сказать, работают ли они, просто глядя на них. Очень часто они сидят там, кажется, пьют кофе и сплетни или просто смотрят в космос. То, что программист пытается сделать, - это справка на всех индивидуальных и невыразированных идеях.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 прокомментировал[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 открыл Pr[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3.  🎉 Объединенный Pr[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  🎉 Объединенный Pr[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-5.  🎉 Объединенный Pr[#41](https://github.com/offensive-vk/auto-label/pull/41)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
-6.  🗣 прокомментировал[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  🗣 прокомментировал[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 открыл Pr[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🗣 прокомментировал[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 Объединенный Pr[#37](https://github.com/offensive-vk/develop-actions/pull/37)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-11. 🎉 Объединенный Pr[#10047](https://github.com/offensive-vk/Classics/pull/10047)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-12. 🎉 Объединенный Pr[#32](https://github.com/offensive-vk/Icons/pull/32)в[наступление-VK/иконки](https://github.com/offensive-vk/Icons)
-13. 💪 открыл Pr[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉 Объединенный Pr[#360](https://github.com/offensive-vk/UntilEverything/pull/360)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-15. 💪 открыл Pr[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 Объединенный Pr[#10048](https://github.com/offensive-vk/Classics/pull/10048)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+2.  🗣 прокомментировал[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3.  💪 открыл Pr[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 Объединенный Pr[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉 Объединенный Pr[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  🎉 Объединенный Pr[#41](https://github.com/offensive-vk/auto-label/pull/41)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
+7.  🗣 прокомментировал[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  🗣 прокомментировал[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 открыл Pr[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 🗣 прокомментировал[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+11. 🎉 Объединенный Pr[#37](https://github.com/offensive-vk/develop-actions/pull/37)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
+12. 🎉 Объединенный Pr[#10047](https://github.com/offensive-vk/Classics/pull/10047)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+13. 🎉 Объединенный Pr[#32](https://github.com/offensive-vk/Icons/pull/32)в[наступление-VK/иконки](https://github.com/offensive-vk/Icons)
+14. 💪 открыл Pr[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 🎉 Объединенный Pr[#360](https://github.com/offensive-vk/UntilEverything/pull/360)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
     <!--END_SECTION:activity-->
 
 </p>
