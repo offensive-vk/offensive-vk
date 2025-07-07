@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ “No temo a las computadoras. Temo la falta de ellas”. - Isaac Asimov ❞</i>
+<i>❝ “Todas las partes deben ir juntas sin forzar. Debe recordar que las partes que está reensamblando fueron desmontadas por usted. Por lo tanto, si no puede reunirlas nuevamente, debe haber una razón. Por todos los medios, no use un martillo”. - Manual de IBM, 1925 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentó[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  💪 ABIERTO PR[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3.  🎉 PR fusionado[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  🎉 PR fusionado[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-5.  🎉 PR fusionado[#41](https://github.com/offensive-vk/auto-label/pull/41)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-6.  🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  💪 ABIERTO PR[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🗣 Comentó[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 PR fusionado[#37](https://github.com/offensive-vk/develop-actions/pull/37)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-11. 🎉 PR fusionado[#10047](https://github.com/offensive-vk/Classics/pull/10047)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-12. 🎉 PR fusionado[#32](https://github.com/offensive-vk/Icons/pull/32)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
-13. 💪 ABIERTO PR[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🎉 PR fusionado[#360](https://github.com/offensive-vk/UntilEverything/pull/360)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-15. 💪 ABIERTO PR[#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  ❌ Cerrado PR[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 PR fusionado[#10048](https://github.com/offensive-vk/Classics/pull/10048)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+3.  🗣 Comentó[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  💪 ABIERTO PR[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5.  🎉 PR fusionado[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  🎉 PR fusionado[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🎉 PR fusionado[#41](https://github.com/offensive-vk/auto-label/pull/41)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+8.  🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 ABIERTO PR[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+11. 🗣 Comentó[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+12. 🎉 PR fusionado[#37](https://github.com/offensive-vk/develop-actions/pull/37)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+13. 🎉 PR fusionado[#10047](https://github.com/offensive-vk/Classics/pull/10047)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+14. 🎉 PR fusionado[#32](https://github.com/offensive-vk/Icons/pull/32)en[ofensivo-vk/iconos](https://github.com/offensive-vk/Icons)
+15. 💪 ABIERTO PR[#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
