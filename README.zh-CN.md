@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>1997年5月，IBM超级计算机被称为“深蓝色节拍”，然后是国际象棋世界冠军加里·卡斯帕罗夫（Garry Kasparov），他曾经吹嘘自己永远不会输给机器。 15年后，发现深蓝色的关键举动是由于其软件中的错误。</i>
+<i>❝“ Perl：RSA加密前后唯一看起来相同的语言。”  -  Keith Bostic❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
