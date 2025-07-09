@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Im Mai 1997, ein IBM -Supercomputer bekannt als Deep Blue Beat, dann der Schach -Weltmeister Garry Kasparov, der einst damit prahlte, dass er niemals gegen eine Maschine verlieren würde. Nach 15 Jahren wurde festgestellt, dass der kritische Schritt von Deep Blue auf einen Fehler in seiner Software zurückzuführen war.</i>
+<i>❝ "Perl: Die einzige Sprache, die vor und nach der RSA -Verschlüsselung gleich aussieht." - Keith Bostic ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
