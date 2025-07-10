@@ -42,7 +42,4 @@
 41. ✅ Approved on pull request [#36](https://github.com/offensive-vk/develop-actions/pull/36) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 42. 🎉  Merged pull request [#7](https://github.com/offensive-vk/auto-update-quote/pull/7) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
 43. ✅ Approved on pull request [#7](https://github.com/offensive-vk/auto-update-quote/pull/7) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
-44. ✅ Approved on pull request [#30706](https://github.com/offensive-vk/offensive-vk/pull/30706) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-45. ✅ Approved on pull request [#30708](https://github.com/offensive-vk/offensive-vk/pull/30708) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-46. ✅ Approved on pull request [#30703](https://github.com/offensive-vk/offensive-vk/pull/30703) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
