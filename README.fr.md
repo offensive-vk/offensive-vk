@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>En mai 1997, un supercalculateur IBM connu sous le nom de Blue Deep Blue puis des échecs le champion du monde Garry Kasparov, qui s'était vanté de ne jamais perdre contre une machine. Après 15 ans, il a été découvert que la décision critique faite par Deep Blue était due à un bogue dans son logiciel.</i>
+<i>❝ «La grande chose à propos des prédictions est que vous pouvez vous tromper.» - Chris Wiggins❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
