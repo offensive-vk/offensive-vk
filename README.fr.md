@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «La grande chose à propos des prédictions est que vous pouvez vous tromper.» - Chris Wiggins❞</i>
+<i>❝ "Je n'ai pas travaillé dur pour rendre Ruby parfaite pour tout le monde, parce que vous vous sentez différemment de moi. Aucune langue ne peut être parfaite pour tout le monde. J'ai essayé de rendre Ruby parfaite pour moi, mais peut-être que ce n'est pas parfait pour vous. Le langage parfait pour Guido Van Rossum est probablement Python." - Yukihiro Matsumoto, aka "Matz", Creator de Ruby ❞ ❞ ❞ ❞ ❞ ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
