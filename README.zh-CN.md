@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“关于预测的伟大之处是你可能错了。”  - 克里斯·威金斯（Chris Wiggins）</i>
+<i>❝“我并没有努力使Ruby适合所有人，因为您的感觉与我不同。没有语言对每个人都很完美。我试图使Ruby适合我，但也许对您来说并不完美。吉多·范·罗苏姆（Guido van Rossum）的理想语言可能是python。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
