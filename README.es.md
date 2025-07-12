@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ “Todas las partes deben ir juntas sin forzar. Debe recordar que las partes que está reensamblando fueron desmontadas por usted. Por lo tanto, si no puede reunirlas nuevamente, debe haber una razón. Por todos los medios, no use un martillo”. - Manual de IBM, 1925 ❞</i>
+<i>❝ En 1960, la computadora de Norad advirtió con 99.9% de certeza que los soviéticos acababan de lanzar un ataque de misiles a gran escala contra América del Norte. Más tarde, Norad descubrió que el sistema de alerta temprana en Groenlandia había interpretado que la luna se elevaba sobre Noruega como un ataque de misiles de Siberia.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
