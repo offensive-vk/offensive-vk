@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>In 1960 warnte der Computer von Norad mit 99,9% Gewissheit, dass die Sowjets gerade einen vollständigen Raketenangriff gegen Nordamerika gestartet hatten. Norad entdeckte später, dass das Frühwarnsystem in Grönland den Mond interpretiert hatte, der über Norwegen aufstieg, als Raketenangriff aus Sibirien.❞</i>
+<i>❝ "Ich bin keiner von denen, die denken, dass Bill Gates der Teufel ist. Ich vermute einfach, dass Microsoft, wenn er sich jemals mit dem Teufel getroffen habe, keinen Dolmetscher benötigen würde." - Nicholas Petreley ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
