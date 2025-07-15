@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Je ne fais pas partie de ceux qui pensent que Bill Gates est le diable. Je soupçonne simplement que si Microsoft a rencontré le diable, il n'aurait pas besoin d'un interprète." - Nicholas Petreleley ❞</i>
+<i>❝ «L'ordinateur est né pour résoudre des problèmes qui n'existaient pas auparavant.» - Bill Gates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
