@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我并没有努力使Ruby适合所有人，因为您的感觉与我不同。没有语言对每个人都很完美。我试图使Ruby适合我，但也许对您来说并不完美。吉多·范·罗苏姆（Guido van Rossum）的理想语言可能是python。</i>
+<i>❝“计算机诞生是为了解决以前从未存在的问题。”  - 比尔·盖茨（Bill Gates）</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
