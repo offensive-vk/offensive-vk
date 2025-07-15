@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Ich bin keiner von denen, die denken, dass Bill Gates der Teufel ist. Ich vermute einfach, dass Microsoft, wenn er sich jemals mit dem Teufel getroffen habe, keinen Dolmetscher benötigen würde." - Nicholas Petreley ❞</i>
+<i>❝ „Der Computer wurde geboren, um Probleme zu lösen, die vorher nicht existierten.“ - Bill Gates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
