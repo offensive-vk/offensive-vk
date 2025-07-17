@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝原始光环是第三人称，并为Mac设计。在2000年，微软购买了Bungie，并将其成为原始Xbox的独家。</i>
+<i>❝“没有系统的启动方式和保持数据清洁的方式，将会发生不良数据。”  -  DonatoDiorio❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
