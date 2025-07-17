@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ El halo original era tercero y diseñado para Mac. En 2000, Microsoft compró Bungie y lo hizo exclusivo para la Xbox original.</i>
+<i>❝ "Sin una forma sistemática de comenzar y mantener los datos limpios, se producirán datos malos". - Donato Diorio❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
