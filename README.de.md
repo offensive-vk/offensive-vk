@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der ursprünglicher Halo war die dritte Person und für Mac entwickelt. Im Jahr 2000 kaufte Microsoft Bungie und machte es zu einem exklusiven für die ursprüngliche Xbox.❞</i>
+<i>❝ Wie Computer laufen, werden sie heiß. Computer haben Fans, um sie cool zu halten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
