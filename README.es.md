@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Sin una forma sistemática de comenzar y mantener los datos limpios, se producirán datos malos". - Donato Diorio❞</i>
+<i>❝ Como las computadoras se ejecutan, se calientan. Las computadoras tienen ventiladores para mantenerlos frescos.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
