@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“没有系统的启动方式和保持数据清洁的方式，将会发生不良数据。”  -  DonatoDiorio❞</i>
+<i>❝当计算机运行时，它们变得很热。计算机有粉丝可以保持他们的凉爽。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
