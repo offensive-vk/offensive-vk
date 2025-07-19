@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le halo d'origine était de la 3e personne et conçu pour Mac. En 2000, Microsoft a acheté Bungie et en a fait une exclusivité pour la Xbox originale.</i>
+<i>Un des premiers cas d'un programme informatique stocké était en 1801 lorsque Joseph Marie Jacquard a démontré un métier à tisser qui tissait des tissus basés sur des cartes bordées de trou qui ont été introduites dans la machine.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
