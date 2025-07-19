@@ -29,7 +29,6 @@ Remember: **You are a part of something bigger**! Open source thrives because of
 
 We believe in you, and we believe in the power of open source. Together, we’re building something bigger than ourselves. Whether you're submitting your first PR or your hundredth, **keep going**. Each line of code is a step towards greatness. **Never stop learning**, **never stop creating**, and **never stop believing** in the value of your contributions. You’ve got this! 🌟
 
-
 ---
 
 <p align="center">
@@ -38,4 +37,3 @@ We believe in you, and we believe in the power of open source. Together, we’re
   <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <kbd>Thanks for visiting :)</kbd>
 </p>
-</details>
