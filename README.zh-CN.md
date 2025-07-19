@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝当计算机运行时，它们变得很热。计算机有粉丝可以保持他们的凉爽。</i>
+<i>❝在1801年，约瑟夫·玛丽·雅克（Joseph Marie Jacquard）展示了一个织机，该织机基于插入机器中的孔贴，其中一个织机展示了一个织机。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
