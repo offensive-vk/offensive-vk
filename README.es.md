@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Como las computadoras se ejecutan, se calientan. Las computadoras tienen ventiladores para mantenerlos frescos.</i>
+<i>❝ Uno de los primeros casos de un programa de computadora almacenado fue en 1801 cuando Joseph Marie Jacquard demostró un telar que tejió telas basadas en tarjetas perforadas que fueron alimentadas en la máquina.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
