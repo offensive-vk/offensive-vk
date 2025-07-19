@@ -77,8 +77,8 @@
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
         <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/githubactions/githubactions-original.svg" alt="gh-actions" width="40" height="40" /> </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+        <a href="https://www.astro.build" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/astro/astro-original.svg" alt="java" width="40" height="40" /> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -109,7 +109,7 @@
 
 <!-- Outer switch START -->
 <details>
-  <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
+  <summary><h4>💻 Click here to See ⬇️</h4></summary>
     <a href="https://github.com/offensive-vk">
        <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/offensive-vk?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">

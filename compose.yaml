@@ -1,8 +1,6 @@
 #####################################################
 # All Rights Reserved. 2020 - Present. (offensive-vk)
 #####################################################
-version: '3'
-
 services:
   docker-daemon:
     image: docker:dind
