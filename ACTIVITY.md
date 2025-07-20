@@ -32,12 +32,4 @@
 31. 💬 Commented on pull request [#32](https://github.com/offensive-vk/Icons/pull/32) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
 32. 💬 Commented on pull request [#32](https://github.com/offensive-vk/Icons/pull/32) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
 33. 💪 Opened pull request [#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-34. 💬 Commented on pull request [#9681](https://github.com/cloudflare/workers-sdk/pull/9681) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
-35. 💬 Commented on pull request [#251842](https://github.com/microsoft/vscode/pull/251842) in [microsoft/vscode](https://github.com/microsoft/vscode)
-36. ✅ Approved on pull request [#22808](https://github.com/docker/docs/pull/22808) in [docker/docs](https://github.com/docker/docs)
-37. 💬 Commented on pull request [#22808](https://github.com/docker/docs/pull/22808) in [docker/docs](https://github.com/docker/docs)
-38. ✅ Approved on pull request [#30714](https://github.com/offensive-vk/offensive-vk/pull/30714) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-39. 🎉  Merged pull request [#360](https://github.com/offensive-vk/UntilEverything/pull/360) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-40. ✅ Approved on pull request [#360](https://github.com/offensive-vk/UntilEverything/pull/360) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-41. 💪 Opened pull request [#8811](https://github.com/kamranahmedse/developer-roadmap/pull/8811) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
