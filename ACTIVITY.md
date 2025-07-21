@@ -31,5 +31,4 @@
 30. ✅ Approved on pull request [#32](https://github.com/offensive-vk/Icons/pull/32) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
 31. 💬 Commented on pull request [#32](https://github.com/offensive-vk/Icons/pull/32) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
 32. 💬 Commented on pull request [#32](https://github.com/offensive-vk/Icons/pull/32) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
-33. 💪 Opened pull request [#8813](https://github.com/kamranahmedse/developer-roadmap/pull/8813) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
