@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Un des premiers cas d'un programme informatique stocké était en 1801 lorsque Joseph Marie Jacquard a démontré un métier à tisser qui tissait des tissus basés sur des cartes bordées de trou qui ont été introduites dans la machine.</i>
+<i>❝ «Un ordinateur m'a une fois battu aux échecs, mais ce n'était pas un match pour moi à Kick Boxing.» - Emo Philips ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -82,8 +82,8 @@
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
         <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/githubactions/githubactions-original.svg" alt="gh-actions" width="40" height="40" /> </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+        <a href="https://www.astro.build" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/astro/astro-original.svg" alt="java" width="40" height="40" /> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -116,7 +116,7 @@
 <!-- Outer switch START -->
 
 <details>
-  <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
+  <summary><h4>💻 Click here to See ⬇️</h4></summary>
     <a href="https://github.com/offensive-vk">
        <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/offensive-vk?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#364](https://github.com/offensive-vk/UntilEverything/pull/364)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-2.  ❌ PR fermé[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 PR fusionné[#10048](https://github.com/offensive-vk/Classics/pull/10048)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-4.  🗣 a commenté[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 Open a ouvert les relations publiques[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 PR fusionné[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉 PR fusionné[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉 PR fusionné[#41](https://github.com/offensive-vk/auto-label/pull/41)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-9.  🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 Open a ouvert les relations publiques[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🗣 a commenté[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 PR fusionné[#37](https://github.com/offensive-vk/develop-actions/pull/37)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-14. 🎉 PR fusionné[#10047](https://github.com/offensive-vk/Classics/pull/10047)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-15. 🎉 PR fusionné[#32](https://github.com/offensive-vk/Icons/pull/32)dans[Icônes offensive-VK /](https://github.com/offensive-vk/Icons)
+1.  🎉 PR fusionné[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 PR fusionné[#39](https://github.com/offensive-vk/develop-actions/pull/39)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+3.  🎉 PR fusionné[#364](https://github.com/offensive-vk/UntilEverything/pull/364)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+4.  ❌ PR fermé[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 PR fusionné[#10048](https://github.com/offensive-vk/Classics/pull/10048)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+6.  🗣 a commenté[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 Open a ouvert les relations publiques[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  🎉 PR fusionné[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🎉 PR fusionné[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+10. 🎉 PR fusionné[#41](https://github.com/offensive-vk/auto-label/pull/41)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+11. 🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪 Open a ouvert les relations publiques[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🗣 a commenté[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 PR fusionné[#37](https://github.com/offensive-vk/develop-actions/pull/37)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
     <!--END_SECTION:activity-->
 
 </p>
