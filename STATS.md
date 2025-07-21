@@ -1,5 +1,5 @@
 # 📊 Daily Repository Statistics
-Generated on ⏰ **Jul 20, Sunday 10:10:39 PM**
+Generated on ⏰ **Jul 21, Monday 12:41:41 AM**
 
 ## 📂 File Character Counts (Alphabetically)
 - ACTIVITY.md: **5719** characters
@@ -23,44 +23,44 @@ Generated on ⏰ **Jul 20, Sunday 10:10:39 PM**
 - assets/achievements.svg: **38666** characters
 - assets/activity.svg: **23305** characters
 - assets/default.svg: **42017** characters
-- assets/github-snake-dark.svg: **117861** characters
-- assets/github-snake-light.svg: **117861** characters
-- assets/github-snake.gif: **414825** characters
-- assets/habits.svg: **11998** characters
+- assets/github-snake-dark.svg: **117907** characters
+- assets/github-snake-light.svg: **117907** characters
+- assets/github-snake.gif: **410973** characters
+- assets/habits.svg: **12012** characters
 - assets/intro.svg: **3340** characters
 - assets/languages.svg: **17909** characters
 - assets/lines-of-code.svg: **3308** characters
 - assets/mine-dark.svg: **38492** characters
 - assets/mine-light.svg: **38465** characters
-- assets/notable.svg: **376362** characters
-- assets/people.svg: **63396** characters
-- assets/reactions.svg: **10944** characters
+- assets/notable.svg: **3537** characters
+- assets/people.svg: **59934** characters
+- assets/reactions.svg: **10354** characters
 - assets/shocked.gif: **952063** characters
-- assets/stargazers.svg: **54566** characters
+- assets/stargazers.svg: **3422** characters
 - assets/starlists.svg: **8497** characters
 - assets/summary.svg: **28077** characters
-- assets/tickets.svg: **22417** characters
+- assets/tickets.svg: **22452** characters
 - assets/topics.svg: **3277** characters
 - compose.yaml: **551** characters
 - package.json: **2069** characters
 - pnpm-lock.yaml: **15547** characters
-- profile-3d-contrib/profile-gitblock.svg: **291978** characters
-- profile-3d-contrib/profile-green-animate.svg: **267071** characters
-- profile-3d-contrib/profile-green.svg: **169824** characters
-- profile-3d-contrib/profile-night-green.svg: **267070** characters
-- profile-3d-contrib/profile-night-rainbow.svg: **463225** characters
-- profile-3d-contrib/profile-night-view.svg: **267096** characters
-- profile-3d-contrib/profile-season-animate.svg: **284013** characters
-- profile-3d-contrib/profile-season.svg: **186766** characters
-- profile-3d-contrib/profile-south-season-animate.svg: **284013** characters
-- profile-3d-contrib/profile-south-season.svg: **186766** characters
+- profile-3d-contrib/profile-gitblock.svg: **292448** characters
+- profile-3d-contrib/profile-green-animate.svg: **267506** characters
+- profile-3d-contrib/profile-green.svg: **170259** characters
+- profile-3d-contrib/profile-night-green.svg: **267505** characters
+- profile-3d-contrib/profile-night-rainbow.svg: **464188** characters
+- profile-3d-contrib/profile-night-view.svg: **267531** characters
+- profile-3d-contrib/profile-season-animate.svg: **284460** characters
+- profile-3d-contrib/profile-season.svg: **187213** characters
+- profile-3d-contrib/profile-south-season-animate.svg: **284460** characters
+- profile-3d-contrib/profile-south-season.svg: **187213** characters
 
 ## 📋 Summary
 - 🗂️ **Total files:** 52
-- ✒️ **Total character count:** 5265505
-- 📊 **Average characters per file:** 101259
-- 📝 **Total word count:** 257983
-- 🧾 **Total lines:** 14936
+- ✒️ **Total character count:** 4838734
+- 📊 **Average characters per file:** 93052
+- 📝 **Total word count:** 258011
+- 🧾 **Total lines:** 15974
 - 📐 **Average words per file:** 4961
 - 🏆 **Largest file:** assets/shocked.gif (**952063** characters)
 - 🥉 **Smallest file:** STATS.md (**84** characters)
