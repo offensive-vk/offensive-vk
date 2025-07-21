@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ كان أحد الحالات الأولى لبرنامج كمبيوتر مخزن في عام 1801 عندما أظهر جوزيف ماري جاكار نولًا يليحه أقمشة تنسج على أساس البطاقات التي تم تغذيتها في الجهاز.</i>
+<i>❝ "كمبيوتر يضربني مرة واحدة على الشطرنج ، لكنه لم يكن متطابقًا بالنسبة لي في Kick Boxing." - Emo Philips ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -82,8 +82,8 @@
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
         <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/githubactions/githubactions-original.svg" alt="gh-actions" width="40" height="40" /> </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+        <a href="https://www.astro.build" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/astro/astro-original.svg" alt="java" width="40" height="40" /> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -116,7 +116,7 @@
 <!-- Outer switch START -->
 
 <details>
-  <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
+  <summary><h4>💻 Click here to See ⬇️</h4></summary>
     <a href="https://github.com/offensive-vk">
        <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/offensive-vk?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#364](https://github.com/offensive-vk/UntilEverything/pull/364)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-2.  ❌ مغلق العلاقات العامة[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 اندمج العلاقات العامة[#10048](https://github.com/offensive-vk/Classics/pull/10048)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-4.  🗣 علق على[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪 فتح العلاقات العامة[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉 اندمج العلاقات العامة[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉 اندمج العلاقات العامة[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉 اندمج العلاقات العامة[#41](https://github.com/offensive-vk/auto-label/pull/41)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-9.  🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪 فتح العلاقات العامة[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🗣 علق على[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-13. 🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/develop-actions/pull/37)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-14. 🎉 اندمج العلاقات العامة[#10047](https://github.com/offensive-vk/Classics/pull/10047)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-15. 🎉 اندمج العلاقات العامة[#32](https://github.com/offensive-vk/Icons/pull/32)في[الهجوم VK/أيقونات](https://github.com/offensive-vk/Icons)
+1.  🎉 اندمج العلاقات العامة[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 اندمج العلاقات العامة[#39](https://github.com/offensive-vk/develop-actions/pull/39)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
+3.  🎉 اندمج العلاقات العامة[#364](https://github.com/offensive-vk/UntilEverything/pull/364)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+4.  ❌ مغلق العلاقات العامة[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 اندمج العلاقات العامة[#10048](https://github.com/offensive-vk/Classics/pull/10048)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+6.  🗣 علق على[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪 فتح العلاقات العامة[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+8.  🎉 اندمج العلاقات العامة[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+9.  🎉 اندمج العلاقات العامة[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+10. 🎉 اندمج العلاقات العامة[#41](https://github.com/offensive-vk/auto-label/pull/41)في[هجوم هجومي (VK/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+11. 🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+12. 🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪 فتح العلاقات العامة[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🗣 علق على[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+15. 🎉 اندمج العلاقات العامة[#37](https://github.com/offensive-vk/develop-actions/pull/37)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
     <!--END_SECTION:activity-->
 
 </p>
