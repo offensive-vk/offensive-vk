@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝在1801年，约瑟夫·玛丽·雅克（Joseph Marie Jacquard）展示了一个织机，该织机基于插入机器中的孔贴，其中一个织机展示了一个织机。</i>
+<i>❝“一台电脑曾经在国际象棋击败我，但这对我来说是我的拳头。”  -  Emo Philips❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -82,8 +82,8 @@
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
         <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/githubactions/githubactions-original.svg" alt="gh-actions" width="40" height="40" /> </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+        <a href="https://www.astro.build" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/astro/astro-original.svg" alt="java" width="40" height="40" /> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -116,7 +116,7 @@
 <!-- Outer switch START -->
 
 <details>
-  <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
+  <summary><h4>💻 Click here to See ⬇️</h4></summary>
     <a href="https://github.com/offensive-vk">
        <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/offensive-vk?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#364](https://github.com/offensive-vk/UntilEverything/pull/364)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-2.  ❌关闭PR[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-3.  🎉合并PR[#10048](https://github.com/offensive-vk/Classics/pull/10048)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-4.  🗣评论[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-5.  💪打开PR[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-6.  🎉合并PR[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉合并PR[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉合并PR[#41](https://github.com/offensive-vk/auto-label/pull/41)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
-9.  🗣评论[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-10. 🗣评论[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-11. 💪打开PR[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-12. 🗣评论[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-13. 🎉合并PR[#37](https://github.com/offensive-vk/develop-actions/pull/37)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-14. 🎉合并PR[#10047](https://github.com/offensive-vk/Classics/pull/10047)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-15. 🎉合并PR[#32](https://github.com/offensive-vk/Icons/pull/32)在[进攻性VK/图标](https://github.com/offensive-vk/Icons)
+1.  🎉合并PR[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+2.  🎉合并PR[#39](https://github.com/offensive-vk/develop-actions/pull/39)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+3.  🎉合并PR[#364](https://github.com/offensive-vk/UntilEverything/pull/364)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+4.  ❌关闭PR[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+5.  🎉合并PR[#10048](https://github.com/offensive-vk/Classics/pull/10048)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+6.  🗣评论[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+7.  💪打开PR[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+8.  🎉合并PR[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🎉合并PR[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+10. 🎉合并PR[#41](https://github.com/offensive-vk/auto-label/pull/41)在[进攻性VK/自动标签](https://github.com/offensive-vk/auto-label)
+11. 🗣评论[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+12. 🗣评论[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+13. 💪打开PR[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+14. 🗣评论[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+15. 🎉合并PR[#37](https://github.com/offensive-vk/develop-actions/pull/37)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
     <!--END_SECTION:activity-->
 
 </p>
