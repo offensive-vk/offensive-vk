@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝o de los primeros casos de un programa de computadora almacenado fue en 1801 cuando Joseph Marie Jacquard demostró un telar que tejió telas basadas en tarjetas perforadas con agujeros que fueron alimentados en la máquina.</i>
+<i>❝ "La forma más probable para que el mundo sea destruido, la mayoría de los expertos están de acuerdo, es por accidente. Ahí es donde entramos; somos profesionales de la informática. Causamos accidentes". - Nathaniel Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
