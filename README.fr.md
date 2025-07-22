@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Un ordinateur m'a une fois battu aux échecs, mais ce n'était pas un match pour moi à Kick Boxing.» - Emo Philips ❞</i>
+<i>❝ «Le moyen le plus probable que le monde soit détruit, la plupart des experts sont d'accord, est par accident. C'est là que nous entrons; nous sommes des professionnels de l'informatique. Nous provoquons des accidents.» - Nathaniel Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
