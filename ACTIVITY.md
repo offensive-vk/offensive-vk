@@ -31,8 +31,4 @@
 30. 🎉  Merged pull request [#10047](https://github.com/offensive-vk/Classics/pull/10047) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 31. ✅ Approved on pull request [#10047](https://github.com/offensive-vk/Classics/pull/10047) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 32. ✅ Approved on pull request [#37](https://github.com/offensive-vk/develop-actions/pull/37) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-33. 🎉  Merged pull request [#32](https://github.com/offensive-vk/Icons/pull/32) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
-34. ✅ Approved on pull request [#32](https://github.com/offensive-vk/Icons/pull/32) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
-35. 💬 Commented on pull request [#32](https://github.com/offensive-vk/Icons/pull/32) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
-36. 💬 Commented on pull request [#32](https://github.com/offensive-vk/Icons/pull/32) in [offensive-vk/Icons](https://github.com/offensive-vk/Icons)
 <!--END_SECTION:activity-->
