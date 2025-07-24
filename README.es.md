@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>"" La mejor manera de obtener información precisa sobre Usenet es publicar algo mal y esperar correcciones ". - Matthew Austern ❞</i>
+<i>❝ La primera computadora electrónica ENIAC pesó más de 27 toneladas y tomó 1800 pies cuadrados.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
