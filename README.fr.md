@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Un ordinateur m'a une fois battu aux échecs, mais ce n'était pas un match pour moi à Kick Boxing.» - Emo Philips ❞</i>
+<i>❝La première ordinateur électronique ENIAC a pesé plus de 27 tonnes et a pris 1800 pieds carrés.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionné[#39](https://github.com/offensive-vk/develop-actions/pull/39)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-3.  🎉 PR fusionné[#364](https://github.com/offensive-vk/UntilEverything/pull/364)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-4.  ❌ PR fermé[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 PR fusionné[#10048](https://github.com/offensive-vk/Classics/pull/10048)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-6.  🗣 a commenté[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  💪 Open a ouvert les relations publiques[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-8.  🎉 PR fusionné[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🎉 PR fusionné[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-10. 🎉 PR fusionné[#41](https://github.com/offensive-vk/auto-label/pull/41)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
-11. 🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-12. 🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-13. 💪 Open a ouvert les relations publiques[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 a commenté[#30730](https://github.com/offensive-vk/offensive-vk/pull/30730#issuecomment-2999962665)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 PR fusionné[#37](https://github.com/offensive-vk/develop-actions/pull/37)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+1.  🎉 PR fusionné[#10049](https://github.com/offensive-vk/Classics/pull/10049)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+2.  🎉 PR fusionné[#365](https://github.com/offensive-vk/UntilEverything/pull/365)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 PR fusionné[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+4.  🎉 PR fusionné[#39](https://github.com/offensive-vk/develop-actions/pull/39)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+5.  🎉 PR fusionné[#364](https://github.com/offensive-vk/UntilEverything/pull/364)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+6.  ❌ PR fermé[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 PR fusionné[#10048](https://github.com/offensive-vk/Classics/pull/10048)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+8.  🗣 a commenté[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  💪 Open a ouvert les relations publiques[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 🎉 PR fusionné[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+11. 🎉 PR fusionné[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+12. 🎉 PR fusionné[#41](https://github.com/offensive-vk/auto-label/pull/41)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+13. 🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+14. 🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+15. 💪 Open a ouvert les relations publiques[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     <!--END_SECTION:activity-->
 
 </p>
