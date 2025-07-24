@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“获取有关Usenet准确信息的最佳方法是发布错误并等待更正。”  -  Matthew Austern</i>
+<i>❝第一台电子电脑ENIAC重27吨，占地1800平方英尺。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
