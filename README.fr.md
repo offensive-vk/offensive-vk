@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «La meilleure façon d'obtenir des informations précises sur Usenet est de publier quelque chose de mal et d'attendre les corrections.» - Matthew Austern ❞</i>
+<i>❝La première ordinateur électronique ENIAC a pesé plus de 27 tonnes et a pris 1800 pieds carrés.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
