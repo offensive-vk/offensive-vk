@@ -12,6 +12,9 @@ jobs:
   review-pr:
     name: Review
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read 
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v4
@@ -24,7 +27,7 @@ jobs:
 
       - name: Submit Approval Review
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN}}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pr_url="${{ github.event.pull_request.html_url }}"
           pr_number="${{ github.event.pull_request.number }}"
