@@ -23,5 +23,4 @@
 22. ✅ Approved on pull request [#41](https://github.com/offensive-vk/auto-label/pull/41) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 23. 🗣 Commented on issue [#8828](https://github.com/kamranahmedse/developer-roadmap/issues/8828) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 24. 🗣 Commented on issue [#8828](https://github.com/kamranahmedse/developer-roadmap/issues/8828) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-25. 💪 Opened pull request [#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
