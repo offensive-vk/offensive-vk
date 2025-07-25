@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La première ordinateur électronique ENIAC a pesé plus de 27 tonnes et a pris 1800 pieds carrés.</i>
+<i>En 1960, l'ordinateur de Norad a prévenu avec une certitude de 99,9% que les Soviétiques venaient de lancer une attaque de missiles à grande échelle contre l'Amérique du Nord. Norad a découvert plus tard que le système d'alerte précoce au Groenland avait interprété la lune s'élevant sur la Norvège comme une attaque de missiles de la Sibérie.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
