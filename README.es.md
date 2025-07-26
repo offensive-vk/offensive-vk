@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ La primera computadora electrónica ENIAC pesó más de 27 toneladas y tomó 1800 pies cuadrados.</i>
+<i>❝ Hay más de 1.500 millones de identificación de mensajería instantánea en el mundo.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
