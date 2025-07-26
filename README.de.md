@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der erster elektronischer Computer Eniac wog mehr als 27 Tonnen und nahm 1800 Quadratfuß.</i>
+<i>❝ Es gibt über 1,5 Milliarden Instant -Messaging -ID in der Welt. ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
