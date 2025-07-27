@@ -24,6 +24,4 @@
 23. ✅ Approved on pull request [#100](https://github.com/offensive-vk/AwesomeCloud/pull/100) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 24. 🎉  Merged pull request [#41](https://github.com/offensive-vk/auto-label/pull/41) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 25. ✅ Approved on pull request [#41](https://github.com/offensive-vk/auto-label/pull/41) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-26. 🗣 Commented on issue [#8828](https://github.com/kamranahmedse/developer-roadmap/issues/8828) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-27. 🗣 Commented on issue [#8828](https://github.com/kamranahmedse/developer-roadmap/issues/8828) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
