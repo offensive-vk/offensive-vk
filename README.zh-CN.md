@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝第一台电子电脑ENIAC重27吨，占地1800平方英尺。</i>
+<i>❝世界上有超过15亿的即时消息ID。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
