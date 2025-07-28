@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Hay más de 1.500 millones de identificación de mensajería instantánea en el mundo.</i>
+<i>❝ "En un equipo de proyectos de software de 10, probablemente haya 3 personas que producen suficientes defectos para hacerlos productores netos negativos". - Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
