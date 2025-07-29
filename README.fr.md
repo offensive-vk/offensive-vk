@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝EILLE y a plus de 1,5 milliard d'identité de messagerie instantanée dans le monde entier.</i>
+<i>❝CaptCha est un acronyme pour «Test de Turing public complètement automatisé pour distinguer les ordinateurs et les humains» ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
