@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Es gibt über 1,5 Milliarden Instant -Messaging -ID in der Welt. ❞</i>
+<i>❝Captcha ist ein Akronym für „vollständig automatisierte öffentliche Turing -Test, um Computern und Menschen auseinander zu sagen“ ❞ ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
