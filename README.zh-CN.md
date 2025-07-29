@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝世界上有超过15亿的即时消息ID。</i>
+<i>Captcha是“完全自动化的公共图灵测试，以告诉计算机和人类分开”的首字母缩写词。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
