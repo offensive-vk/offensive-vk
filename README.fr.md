@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CaptCha est un acronyme pour «Test de Turing public complètement automatisé pour distinguer les ordinateurs et les humains» ❞</i>
+<i>❝Une Type professionnel Types rapidement et tape une grande quantité de mots par jour. Si nous mesurons cela comme une distance, il deviendra 12,6 miles par jour pour que les doigts de la dactylo</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
