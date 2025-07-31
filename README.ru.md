@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝a Professional Typist Типы быстрого и типы большого количества слов в день. Если мы измеряем это как расстояние, то он станет 12,6 миль в день для пальцев машинистки каждый день.</i>
+<i>❝ В мире превышает 1,5 миллиарда мгновенных идентификаторов обмена сообщениями.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,16 +147,16 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#10049](https://github.com/offensive-vk/Classics/pull/10049)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-2.  🎉 Объединенный Pr[#365](https://github.com/offensive-vk/UntilEverything/pull/365)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Объединенный Pr[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 Объединенный Pr[#39](https://github.com/offensive-vk/develop-actions/pull/39)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-5.  🎉 Объединенный Pr[#364](https://github.com/offensive-vk/UntilEverything/pull/364)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-6.  ❌ закрытый пиар[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 Объединенный Pr[#10048](https://github.com/offensive-vk/Classics/pull/10048)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-8.  🗣 прокомментировал[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  💪 открыл Pr[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 Объединенный Pr[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  💪 открыл Pr[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 Объединенный Pr[#10049](https://github.com/offensive-vk/Classics/pull/10049)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+3.  🎉 Объединенный Pr[#365](https://github.com/offensive-vk/UntilEverything/pull/365)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 Объединенный Pr[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 Объединенный Pr[#39](https://github.com/offensive-vk/develop-actions/pull/39)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
+6.  🎉 Объединенный Pr[#364](https://github.com/offensive-vk/UntilEverything/pull/364)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+7.  ❌ закрытый пиар[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 Объединенный Pr[#10048](https://github.com/offensive-vk/Classics/pull/10048)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+9.  🗣 прокомментировал[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 открыл Pr[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 11. 🎉 Объединенный Pr[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
 12. 🎉 Объединенный Pr[#41](https://github.com/offensive-vk/auto-label/pull/41)в[Наступление-VK/Автомально-маршрута](https://github.com/offensive-vk/auto-label)
 13. 🗣 прокомментировал[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
