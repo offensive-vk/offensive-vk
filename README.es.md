@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "En un equipo de proyectos de software de 10, probablemente haya 3 personas que producen suficientes defectos para hacerlos productores netos negativos". - Gordon Schulmeyer ❞</i>
+<i>❝ Hay más de 1.500 millones de identificación de mensajería instantánea en el mundo.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,16 +147,16 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#10049](https://github.com/offensive-vk/Classics/pull/10049)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-2.  🎉 PR fusionado[#365](https://github.com/offensive-vk/UntilEverything/pull/365)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionado[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-4.  🎉 PR fusionado[#39](https://github.com/offensive-vk/develop-actions/pull/39)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-5.  🎉 PR fusionado[#364](https://github.com/offensive-vk/UntilEverything/pull/364)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-6.  ❌ Cerrado PR[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 PR fusionado[#10048](https://github.com/offensive-vk/Classics/pull/10048)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-8.  🗣 Comentó[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  💪 ABIERTO PR[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 🎉 PR fusionado[#99](https://github.com/offensive-vk/AwesomeCloud/pull/99)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  💪 ABIERTO PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2.  🎉 PR fusionado[#10049](https://github.com/offensive-vk/Classics/pull/10049)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+3.  🎉 PR fusionado[#365](https://github.com/offensive-vk/UntilEverything/pull/365)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 PR fusionado[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+5.  🎉 PR fusionado[#39](https://github.com/offensive-vk/develop-actions/pull/39)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+6.  🎉 PR fusionado[#364](https://github.com/offensive-vk/UntilEverything/pull/364)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+7.  ❌ Cerrado PR[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+8.  🎉 PR fusionado[#10048](https://github.com/offensive-vk/Classics/pull/10048)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+9.  🗣 Comentó[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+10. 💪 ABIERTO PR[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 11. 🎉 PR fusionado[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
 12. 🎉 PR fusionado[#41](https://github.com/offensive-vk/auto-label/pull/41)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
 13. 🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
