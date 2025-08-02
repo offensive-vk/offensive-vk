@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝EILLE y a plus de 1,5 milliard d'identité de messagerie instantanée dans le monde entier.</i>
+<i>Un des premiers cas d'un programme informatique stocké était en 1801 lorsque Joseph Marie Jacquard a démontré un métier à tisser qui tissait des tissus basés sur des cartes bouchées de trou qui ont été introduites dans la machine.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
