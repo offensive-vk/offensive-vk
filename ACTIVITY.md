@@ -17,5 +17,4 @@
 16. ✅ Approved on pull request [#30746](https://github.com/offensive-vk/offensive-vk/pull/30746) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 17. 🎉  Merged pull request [#10048](https://github.com/offensive-vk/Classics/pull/10048) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 18. ✅ Approved on pull request [#10048](https://github.com/offensive-vk/Classics/pull/10048) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-19. 🗣 Commented on issue [#8874](https://github.com/kamranahmedse/developer-roadmap/issues/8874) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
