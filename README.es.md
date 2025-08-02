@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Hay más de 1.500 millones de identificación de mensajería instantánea en el mundo.</i>
+<i>❝o de los primeros casos de un programa de computadora almacenado fue en 1801 cuando Joseph Marie Jacquard demostró un telar que tejió telas basadas en tarjetas perforadas con agujeros que fueron alimentados en la máquina.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
