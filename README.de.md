@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Es gibt über 1,5 Milliarden Instant -Messaging -ID in der Welt. ❞</i>
+<i>❝ „Wir müssen aufhören, für Programmierer zu optimieren und für Benutzer zu optimieren.“ - Jeff Atwood ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
