@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝在1801年，约瑟夫·玛丽·雅克（Joseph Marie Jacquard）展示了一个织机，该织机基于插入机器中的孔贴，其中一个织机展示了一个织机。</i>
+<i>❝“我们必须停止为程序员优化并开始为用户优化。”  -  Jeff Atwood❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
