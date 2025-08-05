@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Nous devons arrêter d'optimiser pour les programmeurs et commencer à optimiser les utilisateurs.» - Jeff Atwood ❞</i>
+<i>Plus de 80% des e-mails envoyés quotidiennement sont des spams.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
