@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Plus de 80% des e-mails envoyés quotidiennement sont des spams.</i>
+<i>❝Well, il y a deux jeux qui ont été les premiers aux États-Unis appelés astéroïdes et Lunar Lander en 1980.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
