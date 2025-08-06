@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我们必须停止为程序员优化并开始为用户优化。”  -  Jeff Atwood❞</i>
+<i>❝韦尔，有两场比赛是1980年在美国首次制作的小行星和月球兰德。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
