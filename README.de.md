@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Wir müssen aufhören, für Programmierer zu optimieren und für Benutzer zu optimieren.“ - Jeff Atwood ❞</i>
+<i>❝Well, es gibt zwei Spiele, die 1980 in den USA als Asteroiden und Lunar Lander hergestellt wurden. ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
