@@ -139,14 +139,14 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#369](https://github.com/offensive-vk/UntilEverything/pull/369) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2. 💪 Opened PR [#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🎉 Merged PR [#10049](https://github.com/offensive-vk/Classics/pull/10049) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-4. 🎉 Merged PR [#365](https://github.com/offensive-vk/UntilEverything/pull/365) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5. 🎉 Merged PR [#30768](https://github.com/offensive-vk/offensive-vk/pull/30768) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6. 🎉 Merged PR [#39](https://github.com/offensive-vk/develop-actions/pull/39) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-7. 🎉 Merged PR [#364](https://github.com/offensive-vk/UntilEverything/pull/364) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-8. 🎉 Merged PR [#10048](https://github.com/offensive-vk/Classics/pull/10048) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+1. 🎉 Merged PR [#366](https://github.com/offensive-vk/UntilEverything/pull/366) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2. 🎉 Merged PR [#369](https://github.com/offensive-vk/UntilEverything/pull/369) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3. 💪 Opened PR [#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 🎉 Merged PR [#10049](https://github.com/offensive-vk/Classics/pull/10049) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+5. 🎉 Merged PR [#365](https://github.com/offensive-vk/UntilEverything/pull/365) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6. 🎉 Merged PR [#30768](https://github.com/offensive-vk/offensive-vk/pull/30768) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7. 🎉 Merged PR [#39](https://github.com/offensive-vk/develop-actions/pull/39) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+8. 🎉 Merged PR [#364](https://github.com/offensive-vk/UntilEverything/pull/364) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 9. 🗣 Commented on [#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 10. 💪 Opened PR [#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 11. 🎉 Merged PR [#100](https://github.com/offensive-vk/AwesomeCloud/pull/100) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
