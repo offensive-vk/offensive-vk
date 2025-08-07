@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝韦尔，有两场比赛是1980年在美国首次制作的小行星和月球兰德。</i>
+<i>❝“关于预测的伟大之处是你可能错了。”  - 克里斯·威金斯（Chris Wiggins）</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,14 +147,14 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪打开PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉合并PR[#10049](https://github.com/offensive-vk/Classics/pull/10049)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-3.  🎉合并PR[#365](https://github.com/offensive-vk/UntilEverything/pull/365)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉合并PR[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-5.  🎉合并PR[#39](https://github.com/offensive-vk/develop-actions/pull/39)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-6.  🎉合并PR[#364](https://github.com/offensive-vk/UntilEverything/pull/364)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-7.  ❌关闭PR[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-8.  🎉合并PR[#10048](https://github.com/offensive-vk/Classics/pull/10048)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+1.  🎉合并PR[#366](https://github.com/offensive-vk/UntilEverything/pull/366)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉合并PR[#369](https://github.com/offensive-vk/UntilEverything/pull/369)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+3.  💪打开PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉合并PR[#10049](https://github.com/offensive-vk/Classics/pull/10049)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+5.  🎉合并PR[#365](https://github.com/offensive-vk/UntilEverything/pull/365)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉合并PR[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
+7.  🎉合并PR[#39](https://github.com/offensive-vk/develop-actions/pull/39)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+8.  🎉合并PR[#364](https://github.com/offensive-vk/UntilEverything/pull/364)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
 9.  🗣评论[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
 10. 💪打开PR[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
 11. 🎉合并PR[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
