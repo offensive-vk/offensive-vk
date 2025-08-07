@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ ، هناك مباراتان كانتان أولهما تم صنعهما على الإطلاق في الولايات المتحدة التي تسمى الكويكبات و Lunar Lander في عام 1980.❞</i>
+<i>❝ "الشيء العظيم في التنبؤات هو أنه يمكنك أن تكون مخطئًا." - كريس ويغينز</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,14 +147,14 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 فتح العلاقات العامة[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 اندمج العلاقات العامة[#10049](https://github.com/offensive-vk/Classics/pull/10049)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-3.  🎉 اندمج العلاقات العامة[#365](https://github.com/offensive-vk/UntilEverything/pull/365)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 اندمج العلاقات العامة[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 اندمج العلاقات العامة[#39](https://github.com/offensive-vk/develop-actions/pull/39)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-6.  🎉 اندمج العلاقات العامة[#364](https://github.com/offensive-vk/UntilEverything/pull/364)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-7.  ❌ مغلق العلاقات العامة[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 اندمج العلاقات العامة[#10048](https://github.com/offensive-vk/Classics/pull/10048)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+1.  🎉 اندمج العلاقات العامة[#366](https://github.com/offensive-vk/UntilEverything/pull/366)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 اندمج العلاقات العامة[#369](https://github.com/offensive-vk/UntilEverything/pull/369)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+3.  💪 فتح العلاقات العامة[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 اندمج العلاقات العامة[#10049](https://github.com/offensive-vk/Classics/pull/10049)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+5.  🎉 اندمج العلاقات العامة[#365](https://github.com/offensive-vk/UntilEverything/pull/365)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 اندمج العلاقات العامة[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 اندمج العلاقات العامة[#39](https://github.com/offensive-vk/develop-actions/pull/39)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
+8.  🎉 اندمج العلاقات العامة[#364](https://github.com/offensive-vk/UntilEverything/pull/364)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
 9.  🗣 علق على[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
 10. 💪 فتح العلاقات العامة[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
 11. 🎉 اندمج العلاقات العامة[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
