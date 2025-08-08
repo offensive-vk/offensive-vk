@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“关于预测的伟大之处是你可能错了。”  - 克里斯·威金斯（Chris Wiggins）</i>
+<i>❝有史以来第一个硬盘驱动器是在1979年进行的，只能容纳5MB的数据。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
