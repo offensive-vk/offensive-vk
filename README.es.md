@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Más del 80% de los correos electrónicos enviados diariamente son spams.</i>
+<i>❝ La primera unidad de disco duro se realizó en 1979 y pudo contener solo 5 MB de datos.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,14 +147,14 @@
 
 <!--START_SECTION:activity-->
 
-1.  💪 ABIERTO PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2.  🎉 PR fusionado[#10049](https://github.com/offensive-vk/Classics/pull/10049)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-3.  🎉 PR fusionado[#365](https://github.com/offensive-vk/UntilEverything/pull/365)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 PR fusionado[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-5.  🎉 PR fusionado[#39](https://github.com/offensive-vk/develop-actions/pull/39)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-6.  🎉 PR fusionado[#364](https://github.com/offensive-vk/UntilEverything/pull/364)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-7.  ❌ Cerrado PR[#30746](https://github.com/offensive-vk/offensive-vk/pull/30746)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-8.  🎉 PR fusionado[#10048](https://github.com/offensive-vk/Classics/pull/10048)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+1.  🎉 PR fusionado[#366](https://github.com/offensive-vk/UntilEverything/pull/366)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionado[#369](https://github.com/offensive-vk/UntilEverything/pull/369)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+3.  💪 ABIERTO PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4.  🎉 PR fusionado[#10049](https://github.com/offensive-vk/Classics/pull/10049)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+5.  🎉 PR fusionado[#365](https://github.com/offensive-vk/UntilEverything/pull/365)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 PR fusionado[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+7.  🎉 PR fusionado[#39](https://github.com/offensive-vk/develop-actions/pull/39)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+8.  🎉 PR fusionado[#364](https://github.com/offensive-vk/UntilEverything/pull/364)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
 9.  🗣 Comentó[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 10. 💪 ABIERTO PR[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 11. 🎉 PR fusionado[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
