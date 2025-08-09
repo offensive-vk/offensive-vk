@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ La primera unidad de disco duro se realizó en 1979 y pudo contener solo 5 MB de datos.</i>
+<i>❝ “Como regla general, los sistemas de software no funcionan bien hasta que se hayan utilizado, y han fallado repetidamente, en aplicaciones reales”. - Dave Parnas ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
