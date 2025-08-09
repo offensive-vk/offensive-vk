@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Das Tolle an Vorhersagen ist, dass Sie sich irren können.“ - Chris Wiggins❞</i>
+<i>❝ „In der Regel funktionieren Softwaresysteme nicht gut, wenn sie in realen Anwendungen wiederholt verwendet wurden.“ - Dave Parnas ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
