@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le premier disque dur a été fabriqué en 1979 et ne pouvait contenir que 5 Mo de données.</i>
+<i>❝ «En règle générale, les systèmes logiciels ne fonctionnent pas bien tant qu'ils n'ont pas été utilisés et ont échoué à plusieurs reprises, dans de vraies applications.» - Dave parnas ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
