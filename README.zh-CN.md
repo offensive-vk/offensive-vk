@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝有史以来第一个硬盘驱动器是在1979年进行的，只能容纳5MB的数据。</i>
+<i>❝“通常，软件系统在使用实际应用程序中使用并反复失败了。”  -  Dave Parnas❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
