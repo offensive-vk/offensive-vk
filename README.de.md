@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „In der Regel funktionieren Softwaresysteme nicht gut, wenn sie in realen Anwendungen wiederholt verwendet wurden.“ - Dave Parnas ❞</i>
+<i>❝ „Ich sehe mindestens zehn Jahre ein wenig kommerzielles Potenzial für das Internet.“ - Bill Gates, 1994 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
