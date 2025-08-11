@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“通常，软件系统在使用实际应用程序中使用并反复失败了。”  -  Dave Parnas❞</i>
+<i>❝“我看到互联网至少十年的商业潜力很少。”  - 比尔·盖茨（Bill Gates），1994年❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
