@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Ohne systematische Möglichkeit, Daten sauber zu starten und zu halten, werden schlechte Daten stattfinden.“ - Donato Diorio❞</i>
+<i>❝ „Wenn der Code und die Kommentare nicht übereinstimmen, sind beide möglicherweise falsch.“ - Norm Schyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
