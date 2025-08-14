@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Sans un moyen systématique de démarrer et de garder les données propres, les mauvaises données se produiront.» - Donato Diorio❞</i>
+<i>❝ «Si le code et les commentaires ne correspondent pas, les deux sont peut-être incorrects.» - Norm Schryer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
