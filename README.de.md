@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Wenn der Code und die Kommentare nicht übereinstimmen, sind beide möglicherweise falsch.“ - Norm Schyer ❞</i>
+<i>❝ "Standards sind immer veraltet. Das macht sie Standards." - Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
