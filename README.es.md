@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Veo poco potencial comercial para Internet durante al menos diez años". - Bill Gates, 1994 ❞</i>
+<i>❝ "Los estándares siempre están desactualizados. Eso es lo que los convierte en estándares". - Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,17 +147,17 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#366](https://github.com/offensive-vk/UntilEverything/pull/366)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 PR fusionado[#369](https://github.com/offensive-vk/UntilEverything/pull/369)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-3.  💪 ABIERTO PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4.  🎉 PR fusionado[#10049](https://github.com/offensive-vk/Classics/pull/10049)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-5.  🎉 PR fusionado[#365](https://github.com/offensive-vk/UntilEverything/pull/365)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 PR fusionado[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-7.  🎉 PR fusionado[#39](https://github.com/offensive-vk/develop-actions/pull/39)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-8.  🎉 PR fusionado[#364](https://github.com/offensive-vk/UntilEverything/pull/364)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-9.  🗣 Comentó[#8874](https://github.com/kamranahmedse/developer-roadmap/pull/8874#issuecomment-3031567636)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-10. 💪 ABIERTO PR[#8866](https://github.com/kamranahmedse/developer-roadmap/pull/8866)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 🎉 PR fusionado[#100](https://github.com/offensive-vk/AwesomeCloud/pull/100)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🎉 PR fusionado[#367](https://github.com/offensive-vk/UntilEverything/pull/367)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionado[#368](https://github.com/offensive-vk/UntilEverything/pull/368)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 PR fusionado[#43](https://github.com/offensive-vk/develop-actions/pull/43)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+4.  🎉 PR fusionado[#366](https://github.com/offensive-vk/UntilEverything/pull/366)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 PR fusionado[#369](https://github.com/offensive-vk/UntilEverything/pull/369)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+6.  💪 ABIERTO PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+7.  🎉 PR fusionado[#10049](https://github.com/offensive-vk/Classics/pull/10049)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+8.  🎉 PR fusionado[#365](https://github.com/offensive-vk/UntilEverything/pull/365)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionado[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+10. 🎉 PR fusionado[#39](https://github.com/offensive-vk/develop-actions/pull/39)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+11. 🎉 PR fusionado[#364](https://github.com/offensive-vk/UntilEverything/pull/364)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
 12. 🎉 PR fusionado[#41](https://github.com/offensive-vk/auto-label/pull/41)en[ofensivo-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
 13. 🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 14. 🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
