@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在人类到达月球之前，邮件将在纽约到加利福尼亚州，英国，印度或澳大利亚的数小时内交付。”  -  Arthur Summerfield，1959年，美国邮政❞</i>
+<i>❝“标准总是过时的。这就是使它们标准的原因。”  - 艾伦·贝内特（Alan Bennett）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
