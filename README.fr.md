@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Si le code et les commentaires ne correspondent pas, les deux sont peut-être incorrects.» - Norm Schryer ❞</i>
+<i>❝ «Les normes sont toujours obsolètes. C'est ce qui en fait des normes.» - Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
