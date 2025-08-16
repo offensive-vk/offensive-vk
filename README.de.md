@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Standards sind immer veraltet. Das macht sie Standards." - Alan Bennett ❞</i>
+<i>❝ "Es ist in Ordnung, Krimi herauszufinden, aber Sie sollten keinen Code herausfinden müssen. Sie sollten in der Lage sein, ihn zu lesen." - Steve McConnell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
