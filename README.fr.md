@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Les normes sont toujours obsolètes. C'est ce qui en fait des normes.» - Alan Bennett ❞</i>
+<i>❝ "C'est OK de comprendre les mystères du meurtre, mais vous ne devriez pas avoir besoin de comprendre le code. Vous devriez pouvoir le lire." - Steve McConnell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
