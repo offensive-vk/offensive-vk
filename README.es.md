@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Los estándares siempre están desactualizados. Eso es lo que los convierte en estándares". - Alan Bennett ❞</i>
+<i>❝ "Está bien descubrir misterios de asesinato, pero no deberías necesitar descubrir el código. Deberías poder leerlo". - Steve McConnell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
