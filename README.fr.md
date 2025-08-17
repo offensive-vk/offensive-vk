@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "C'est OK de comprendre les mystères du meurtre, mais vous ne devriez pas avoir besoin de comprendre le code. Vous devriez pouvoir le lire." - Steve McConnell ❞</i>
+<i>❝Sony a publié un kit qui permet à PS2S (Linux pour PlayStation 2) d'être utilisé comme ordinateur personnel.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,18 +147,18 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#367](https://github.com/offensive-vk/UntilEverything/pull/367)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 PR fusionné[#368](https://github.com/offensive-vk/UntilEverything/pull/368)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionné[#43](https://github.com/offensive-vk/develop-actions/pull/43)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-4.  🎉 PR fusionné[#366](https://github.com/offensive-vk/UntilEverything/pull/366)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionné[#369](https://github.com/offensive-vk/UntilEverything/pull/369)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-6.  💪 Open a ouvert les relations publiques[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-7.  🎉 PR fusionné[#10049](https://github.com/offensive-vk/Classics/pull/10049)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-8.  🎉 PR fusionné[#365](https://github.com/offensive-vk/UntilEverything/pull/365)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 PR fusionné[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
-10. 🎉 PR fusionné[#39](https://github.com/offensive-vk/develop-actions/pull/39)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-11. 🎉 PR fusionné[#364](https://github.com/offensive-vk/UntilEverything/pull/364)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-12. 🎉 PR fusionné[#41](https://github.com/offensive-vk/auto-label/pull/41)dans[Offensive-VK / Auto-étiquette](https://github.com/offensive-vk/auto-label)
+1.  🎉 PR fusionné[#370](https://github.com/offensive-vk/UntilEverything/pull/370)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionné[#371](https://github.com/offensive-vk/UntilEverything/pull/371)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 PR fusionné[#367](https://github.com/offensive-vk/UntilEverything/pull/367)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 PR fusionné[#368](https://github.com/offensive-vk/UntilEverything/pull/368)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 PR fusionné[#43](https://github.com/offensive-vk/develop-actions/pull/43)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+6.  🎉 PR fusionné[#366](https://github.com/offensive-vk/UntilEverything/pull/366)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 PR fusionné[#369](https://github.com/offensive-vk/UntilEverything/pull/369)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+8.  💪 Open a ouvert les relations publiques[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9.  🎉 PR fusionné[#10049](https://github.com/offensive-vk/Classics/pull/10049)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+10. 🎉 PR fusionné[#365](https://github.com/offensive-vk/UntilEverything/pull/365)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+11. 🎉 PR fusionné[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)dans[VK offensif / VK offensif](https://github.com/offensive-vk/offensive-vk)
+12. 🎉 PR fusionné[#39](https://github.com/offensive-vk/develop-actions/pull/39)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
 13. 🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 14. 🗣 a commenté[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 15. 💪 Open a ouvert les relations publiques[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)dans[kamranahmedse / développeur-roadmap](https://github.com/kamranahmedse/developer-roadmap)
