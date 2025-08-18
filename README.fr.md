@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Sony a publié un kit qui permet à PS2S (Linux pour PlayStation 2) d'être utilisé comme ordinateur personnel.</i>
+<i>❝No Human a remporté un jeu d'échecs standard du tournoi contre un ordinateur à haute spécification depuis 2005.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
