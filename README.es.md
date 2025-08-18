@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Sony lanzó un kit que permite que PS2S (Linux para PlayStation 2) se use como una computadora personal.</i>
+<i>❝No Human ha ganado un juego de ajedrez estándar de torneo contra una computadora de alta especificación desde 2005.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
