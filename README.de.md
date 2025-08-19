@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Sony hat ein Kit veröffentlicht, mit dem PS2S (Linux für PlayStation 2) als PC verwendet werden kann.</i>
+<i>❝ „Vielleicht sind Geschichten nur Daten mit einer Seele.“ - Brené Brown❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
