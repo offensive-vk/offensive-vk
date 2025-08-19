@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Sony发布了一个套件，允许PS2S（PlayStation 2的Linux）用作个人计算机。</i>
+<i>❝“也许故事只是灵魂的数据。”  - BrenéBrown❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
