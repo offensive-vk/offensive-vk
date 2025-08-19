@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝No Human a remporté un jeu d'échecs standard du tournoi contre un ordinateur à haute spécification depuis 2005.❞</i>
+<i>❝ «Peut-être que les histoires ne sont que des données avec une âme.» - Brené Brown❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
