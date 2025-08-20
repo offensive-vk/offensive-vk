@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝No Human ha ganado un juego de ajedrez estándar de torneo contra una computadora de alta especificación desde 2005.❞</i>
+<i>❝ En 1833, Charles Babbage inventó todas las partes que usa una computadora moderna, pero no fue hasta 120 años después que se inventaron las primeras computadoras modernas.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
