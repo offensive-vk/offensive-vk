@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Peut-être que les histoires ne sont que des données avec une âme.» - Brené Brown❞</i>
+<i>❝a piraté des ordinateurs de la NASA, 15 ans et a provoqué une fermeture de 21 jours de leurs ordinateurs.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
