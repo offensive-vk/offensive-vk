@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“也许故事只是灵魂的数据。”  - BrenéBrown❞</i>
+<i>❝A15岁的NASA计算机遭到了21天的关闭计算机。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
