@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Vielleicht sind Geschichten nur Daten mit einer Seele.“ - Brené Brown❞</i>
+<i>❝A 15-Jährige gehackte NASA-Computer und verursachte eine 21-tägige Abschaltung ihrer Computer.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
