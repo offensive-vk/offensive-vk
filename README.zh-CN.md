@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝A15岁的NASA计算机遭到了21天的关闭计算机。</i>
+<i>❝“更改适合程序的规范比反之亦然要容易。”  -  Alan Perlis❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
