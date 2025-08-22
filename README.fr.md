@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝a piraté des ordinateurs de la NASA, 15 ans et a provoqué une fermeture de 21 jours de leurs ordinateurs.</i>
+<i>❝ «Il est plus facile de modifier la spécification pour s'adapter au programme que vice versa.» - Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
