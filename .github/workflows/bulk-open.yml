@@ -17,7 +17,7 @@ jobs:
         run: |
           sudo apt-get install gh -y
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Job
         run: |
           for i in $(seq 1 ${{ github.event.inputs.issue_count || 100 }}); do

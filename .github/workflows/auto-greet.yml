@@ -21,7 +21,7 @@ jobs:
     name: Greet New Contributors
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/first-interaction@v3
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}

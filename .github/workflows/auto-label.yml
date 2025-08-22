@@ -16,7 +16,7 @@ jobs:
       
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Label Issues
         if: github.event_name == 'issues'
@@ -36,7 +36,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Label Pull Requests
         if: github.event_name == 'pull_request'

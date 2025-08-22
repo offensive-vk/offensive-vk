@@ -9,7 +9,7 @@ jobs:
       name: R2
       steps:
         - name: Checkout
-          uses: actions/checkout@v4
+          uses: actions/checkout@v5
 
         - name: Authenticate and Upload 
           id: upload
