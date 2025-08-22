@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ En 1833, Charles Babbage inventó todas las partes que usa una computadora moderna, pero no fue hasta 120 años después que se inventaron las primeras computadoras modernas.</i>
+<i>❝ "Es más fácil cambiar la especificación para adaptarse al programa que viceversa". - Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
