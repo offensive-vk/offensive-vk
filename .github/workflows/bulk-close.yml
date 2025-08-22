@@ -21,7 +21,7 @@ jobs:
         run: |
           sudo apt-get install gh -y
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Delete Issues
         run: |
           for ((i=${{ github.event.inputs.issue_count_begin }}; i<=${{ github.event.inputs.issue_count_end }}; i++)); do

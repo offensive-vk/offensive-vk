@@ -18,6 +18,6 @@ jobs:
     name: Build Image
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Build
         run: docker build . --file Dockerfile -t offensive_vk:$(date +%d-%m-%y)
