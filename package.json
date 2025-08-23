@@ -28,7 +28,9 @@
     "daily",
     "automated",
     "yaml",
-    "bot-managed"
+    "bot-managed",
+    "personal",
+    "docker-supported"
   ],
   "author": {
     "name": "Vedansh",

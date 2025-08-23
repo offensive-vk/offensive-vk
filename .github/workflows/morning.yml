@@ -85,7 +85,7 @@ jobs:
           git config --local user.name "Hamster [bot]"
           git config --local user.email "TheHamsterBot@outlook.com"
           git add GREETINGS.md
-          git commit -m "🌅 Morning Greeting: Rise and Shine! ☀️"
+          git commit -m "🌅 Morning Greetings: Rise and Shine! Have a Cuppa or Biscuits together! ☀️"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
