@@ -1,13 +1,14 @@
 # 📊 Daily Repository Statistics
-Generated on ⏰ **Aug 23, Saturday 04:10:51 AM**
+Generated on ⏰ **Aug 23, Saturday 06:11:08 AM**
 
 ## 📂 File Character Counts (Alphabetically)
-- ACTIVITY.md: **3971** characters
+- ACTIVITY.md: **2715** characters
 - CODE_OF_CONDUCT.md: **3391** characters
 - CONTRIBUTING.md: **4181** characters
 - Dockerfile: **1195** characters
-- GREETINGS.md: **348** characters
+- GREETINGS.md: **377** characters
 - LICENSE: **34650** characters
+- NOTICE.txt: **218** characters
 - README.ar.md: **17464** characters
 - README.de.md: **16794** characters
 - README.es.md: **16816** characters
@@ -29,7 +30,6 @@ Generated on ⏰ **Aug 23, Saturday 04:10:51 AM**
 - assets/habits.svg: **11151** characters
 - assets/intro.svg: **3340** characters
 - assets/languages.svg: **17909** characters
-- assets/lines-of-code.svg: **3308** characters
 - assets/mine-dark.svg: **38492** characters
 - assets/mine-light.svg: **38465** characters
 - assets/notable.svg: **339274** characters
@@ -40,9 +40,8 @@ Generated on ⏰ **Aug 23, Saturday 04:10:51 AM**
 - assets/starlists.svg: **8497** characters
 - assets/summary.svg: **28077** characters
 - assets/tickets.svg: **22413** characters
-- assets/topics.svg: **3277** characters
-- compose.yaml: **551** characters
-- package.json: **2069** characters
+- compose.yaml: **546** characters
+- package.json: **2109** characters
 - pnpm-lock.yaml: **15547** characters
 - profile-3d-contrib/profile-gitblock.svg: **290427** characters
 - profile-3d-contrib/profile-green-animate.svg: **265286** characters
@@ -56,12 +55,12 @@ Generated on ⏰ **Aug 23, Saturday 04:10:51 AM**
 - profile-3d-contrib/profile-south-season.svg: **189371** characters
 
 ## 📋 Summary
-- 🗂️ **Total files:** 52
-- ✒️ **Total character count:** 5192692
-- 📊 **Average characters per file:** 99859
-- 📝 **Total word count:** 258602
-- 🧾 **Total lines:** 15847
-- 📐 **Average words per file:** 4973
+- 🗂️ **Total files:** 51
+- ✒️ **Total character count:** 5185133
+- 📊 **Average characters per file:** 101669
+- 📝 **Total word count:** 258347
+- 🧾 **Total lines:** 15791
+- 📐 **Average words per file:** 5065
 - 🏆 **Largest file:** assets/shocked.gif (**952063** characters)
 - 🥉 **Smallest file:** STATS.md (**86** characters)
 
