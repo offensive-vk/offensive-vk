@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "من الأسهل تغيير المواصفات لتناسب البرنامج من العكس." - آلان بيرليس ❞</i>
+<i>❝ شخص متوسط ​​عادة ما يكون يومض 20 مرة في الدقيقة ، ولكن عند استخدام جهاز كمبيوتر ، يومض بعد 7 مرات في الدقيقة فقط.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,16 +147,16 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#370](https://github.com/offensive-vk/UntilEverything/pull/370)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 اندمج العلاقات العامة[#371](https://github.com/offensive-vk/UntilEverything/pull/371)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 اندمج العلاقات العامة[#367](https://github.com/offensive-vk/UntilEverything/pull/367)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 اندمج العلاقات العامة[#368](https://github.com/offensive-vk/UntilEverything/pull/368)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 اندمج العلاقات العامة[#43](https://github.com/offensive-vk/develop-actions/pull/43)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-6.  🎉 اندمج العلاقات العامة[#366](https://github.com/offensive-vk/UntilEverything/pull/366)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 اندمج العلاقات العامة[#369](https://github.com/offensive-vk/UntilEverything/pull/369)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-8.  💪 فتح العلاقات العامة[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 اندمج العلاقات العامة[#10049](https://github.com/offensive-vk/Classics/pull/10049)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-10. 🎉 اندمج العلاقات العامة[#365](https://github.com/offensive-vk/UntilEverything/pull/365)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 اندمج العلاقات العامة[#30798](https://github.com/offensive-vk/offensive-vk/pull/30798)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 اندمج العلاقات العامة[#30801](https://github.com/offensive-vk/offensive-vk/pull/30801)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 اندمج العلاقات العامة[#370](https://github.com/offensive-vk/UntilEverything/pull/370)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 اندمج العلاقات العامة[#371](https://github.com/offensive-vk/UntilEverything/pull/371)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 اندمج العلاقات العامة[#367](https://github.com/offensive-vk/UntilEverything/pull/367)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 اندمج العلاقات العامة[#368](https://github.com/offensive-vk/UntilEverything/pull/368)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 اندمج العلاقات العامة[#43](https://github.com/offensive-vk/develop-actions/pull/43)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
+8.  🎉 اندمج العلاقات العامة[#366](https://github.com/offensive-vk/UntilEverything/pull/366)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 اندمج العلاقات العامة[#369](https://github.com/offensive-vk/UntilEverything/pull/369)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+10. 💪 فتح العلاقات العامة[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
 11. 🎉 اندمج العلاقات العامة[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
 12. 🎉 اندمج العلاقات العامة[#39](https://github.com/offensive-vk/develop-actions/pull/39)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
 13. 🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
