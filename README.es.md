@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Es más fácil cambiar la especificación para adaptarse al programa que viceversa". - Alan Perlis ❞</i>
+<i>Una persona promedio normalmente parpadea 20 veces por minuto, pero cuando usa una computadora, parpadea solo 7 veces por minuto.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,16 +147,16 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#370](https://github.com/offensive-vk/UntilEverything/pull/370)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 PR fusionado[#371](https://github.com/offensive-vk/UntilEverything/pull/371)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionado[#367](https://github.com/offensive-vk/UntilEverything/pull/367)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 PR fusionado[#368](https://github.com/offensive-vk/UntilEverything/pull/368)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionado[#43](https://github.com/offensive-vk/develop-actions/pull/43)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-6.  🎉 PR fusionado[#366](https://github.com/offensive-vk/UntilEverything/pull/366)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 PR fusionado[#369](https://github.com/offensive-vk/UntilEverything/pull/369)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-8.  💪 ABIERTO PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 PR fusionado[#10049](https://github.com/offensive-vk/Classics/pull/10049)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
-10. 🎉 PR fusionado[#365](https://github.com/offensive-vk/UntilEverything/pull/365)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 PR fusionado[#30798](https://github.com/offensive-vk/offensive-vk/pull/30798)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+2.  🎉 PR fusionado[#30801](https://github.com/offensive-vk/offensive-vk/pull/30801)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
+3.  🎉 PR fusionado[#370](https://github.com/offensive-vk/UntilEverything/pull/370)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 PR fusionado[#371](https://github.com/offensive-vk/UntilEverything/pull/371)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 PR fusionado[#367](https://github.com/offensive-vk/UntilEverything/pull/367)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 PR fusionado[#368](https://github.com/offensive-vk/UntilEverything/pull/368)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+7.  🎉 PR fusionado[#43](https://github.com/offensive-vk/develop-actions/pull/43)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+8.  🎉 PR fusionado[#366](https://github.com/offensive-vk/UntilEverything/pull/366)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+9.  🎉 PR fusionado[#369](https://github.com/offensive-vk/UntilEverything/pull/369)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+10. 💪 ABIERTO PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 11. 🎉 PR fusionado[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
 12. 🎉 PR fusionado[#39](https://github.com/offensive-vk/develop-actions/pull/39)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
 13. 🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
