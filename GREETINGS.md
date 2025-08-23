@@ -5,9 +5,9 @@
 
 🌅 "The sun rises for those who dare to dream big."  
 
-🐹 Hamster’s Tip: _Make it count!_ 💪  
+🐹 Hamster’s Tip: _Make it count! and dont miss the suppa._ 💪  
 
-```
+```text
 🚀 Keep learning, keep improving.  
 🧑‍💻 Every commit takes you closer to greatness!  
 ```

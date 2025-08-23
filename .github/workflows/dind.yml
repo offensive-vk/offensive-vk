@@ -29,7 +29,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          npm i -g pnpm@10.0.0
+          npm i -g pnpm@10.10.0
           pnpm i
 
       - name: Set up QEMU

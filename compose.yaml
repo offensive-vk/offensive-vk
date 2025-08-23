@@ -15,7 +15,7 @@ services:
 
   my-container:
     build: .
-    container_name: Vedansh_Dev_Container
+    container_name: XC_Dev_Container
     tty: true
     environment:
       DOCKER_HOST: tcp://docker-daemon:2376

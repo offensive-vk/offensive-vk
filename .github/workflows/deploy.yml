@@ -8,7 +8,7 @@ on:
 env:
   USERNAME: ${{ github.repository_owner }}
   REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ 'my-github-profile' }}
+  IMAGE_NAME: ${{ 'offensive-vk-gh' }}
   PASSWORD: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:

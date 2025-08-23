@@ -53,4 +53,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pr_number="${{ github.event.pull_request.number }}"
-          gh pr review --request "$pr_number" --reviewer offensive-vk
+          gh pr review "$pr_number" --comment "A Final Approval from [Boss](@offensive-vk) is required."
+          gh pr edit "$pr_number" --add-reviewer offensive-vk
