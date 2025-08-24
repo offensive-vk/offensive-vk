@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Una persona promedio normalmente parpadea 20 veces por minuto, pero cuando usa una computadora, parpadea solo 7 veces por minuto.</i>
+<i>❝ "Al depurar, los novatos inserta el código correctivo; los expertos eliminan el código defectuoso". - Richard Pattis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#30798](https://github.com/offensive-vk/offensive-vk/pull/30798)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 PR fusionado[#30801](https://github.com/offensive-vk/offensive-vk/pull/30801)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 PR fusionado[#370](https://github.com/offensive-vk/UntilEverything/pull/370)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 PR fusionado[#371](https://github.com/offensive-vk/UntilEverything/pull/371)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionado[#367](https://github.com/offensive-vk/UntilEverything/pull/367)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 PR fusionado[#368](https://github.com/offensive-vk/UntilEverything/pull/368)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 PR fusionado[#43](https://github.com/offensive-vk/develop-actions/pull/43)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-8.  🎉 PR fusionado[#366](https://github.com/offensive-vk/UntilEverything/pull/366)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 PR fusionado[#369](https://github.com/offensive-vk/UntilEverything/pull/369)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-10. 💪 ABIERTO PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 🎉 PR fusionado[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)en[ofensivo-VK/VK ofensivo](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 PR fusionado[#39](https://github.com/offensive-vk/develop-actions/pull/39)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
-13. 🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 Comentó[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 ABIERTO PR[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)en[Kamranhmedse/desarrollador-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 PR fusionado[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 PR fusionado[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉 PR fusionado[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  🔒 Problema cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+5.  🔒 Problema cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+6.  🔒 Problema cerrado[#8](https://github.com/offensive-vk/Temp/issues/8)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+7.  🔒 Problema cerrado[#7](https://github.com/offensive-vk/Temp/issues/7)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+8.  🔒 Problema cerrado[#6](https://github.com/offensive-vk/Temp/issues/6)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+9.  🔒 Problema cerrado[#5](https://github.com/offensive-vk/Temp/issues/5)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+10. 🔒 Problema cerrado[#4](https://github.com/offensive-vk/Temp/issues/4)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+11. 🔒 Problema cerrado[#3](https://github.com/offensive-vk/Temp/issues/3)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+12. 🔒 Problema cerrado[#2](https://github.com/offensive-vk/Temp/issues/2)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+13. 🔒 Problema cerrado[#1](https://github.com/offensive-vk/Temp/issues/1)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+14. 🎉 PR fusionado[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪 ABIERTO PR[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
