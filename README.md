@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/offensive-vk/Temp/issues/12) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-2. 🔒 Closed issue [#11](https://github.com/offensive-vk/Temp/issues/11) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-3. 🔒 Closed issue [#8](https://github.com/offensive-vk/Temp/issues/8) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-4. 🔒 Closed issue [#7](https://github.com/offensive-vk/Temp/issues/7) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-5. 🔒 Closed issue [#6](https://github.com/offensive-vk/Temp/issues/6) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-6. 🔒 Closed issue [#5](https://github.com/offensive-vk/Temp/issues/5) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-7. 🔒 Closed issue [#4](https://github.com/offensive-vk/Temp/issues/4) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-8. 🔒 Closed issue [#3](https://github.com/offensive-vk/Temp/issues/3) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-9. 🔒 Closed issue [#2](https://github.com/offensive-vk/Temp/issues/2) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-10. 🔒 Closed issue [#1](https://github.com/offensive-vk/Temp/issues/1) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-11. 🎉 Merged PR [#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-12. 💪 Opened PR [#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-13. 🎉 Merged PR [#30798](https://github.com/offensive-vk/offensive-vk/pull/30798) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. 🎉 Merged PR [#30801](https://github.com/offensive-vk/offensive-vk/pull/30801) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🎉 Merged PR [#370](https://github.com/offensive-vk/UntilEverything/pull/370) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1. 🎉 Merged PR [#102](https://github.com/offensive-vk/AwesomeCloud/pull/102) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2. 🎉 Merged PR [#103](https://github.com/offensive-vk/AwesomeCloud/pull/103) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+3. 🎉 Merged PR [#104](https://github.com/offensive-vk/AwesomeCloud/pull/104) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+4. 🔒 Closed issue [#12](https://github.com/offensive-vk/Temp/issues/12) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+5. 🔒 Closed issue [#11](https://github.com/offensive-vk/Temp/issues/11) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+6. 🔒 Closed issue [#8](https://github.com/offensive-vk/Temp/issues/8) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+7. 🔒 Closed issue [#7](https://github.com/offensive-vk/Temp/issues/7) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+8. 🔒 Closed issue [#6](https://github.com/offensive-vk/Temp/issues/6) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+9. 🔒 Closed issue [#5](https://github.com/offensive-vk/Temp/issues/5) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 Closed issue [#4](https://github.com/offensive-vk/Temp/issues/4) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 Closed issue [#3](https://github.com/offensive-vk/Temp/issues/3) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 Closed issue [#2](https://github.com/offensive-vk/Temp/issues/2) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 Closed issue [#1](https://github.com/offensive-vk/Temp/issues/1) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🎉 Merged PR [#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪 Opened PR [#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 <!--END_SECTION:activity-->
 
 </p>
