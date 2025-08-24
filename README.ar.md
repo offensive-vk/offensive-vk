@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ شخص متوسط ​​عادة ما يكون يومض 20 مرة في الدقيقة ، ولكن عند استخدام جهاز كمبيوتر ، يومض بعد 7 مرات في الدقيقة فقط.</i>
+<i>❝ "عند تصحيح الأخطاء ، أدخل المبتدئين رمز التصحيح ؛ الخبراء يزيلون الكود المعيب." - ريتشارد باتيس ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#30798](https://github.com/offensive-vk/offensive-vk/pull/30798)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-2.  🎉 اندمج العلاقات العامة[#30801](https://github.com/offensive-vk/offensive-vk/pull/30801)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-3.  🎉 اندمج العلاقات العامة[#370](https://github.com/offensive-vk/UntilEverything/pull/370)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 اندمج العلاقات العامة[#371](https://github.com/offensive-vk/UntilEverything/pull/371)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 اندمج العلاقات العامة[#367](https://github.com/offensive-vk/UntilEverything/pull/367)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 اندمج العلاقات العامة[#368](https://github.com/offensive-vk/UntilEverything/pull/368)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 اندمج العلاقات العامة[#43](https://github.com/offensive-vk/develop-actions/pull/43)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-8.  🎉 اندمج العلاقات العامة[#366](https://github.com/offensive-vk/UntilEverything/pull/366)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-9.  🎉 اندمج العلاقات العامة[#369](https://github.com/offensive-vk/UntilEverything/pull/369)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-10. 💪 فتح العلاقات العامة[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-11. 🎉 اندمج العلاقات العامة[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)في[هجوم VK/هجوم VK](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 اندمج العلاقات العامة[#39](https://github.com/offensive-vk/develop-actions/pull/39)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-13. 🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 علق على[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 فتح العلاقات العامة[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)في[kamranahmedse/المطور roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 اندمج العلاقات العامة[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 اندمج العلاقات العامة[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉 اندمج العلاقات العامة[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+4.  🔒 قضية مغلقة[#12](https://github.com/offensive-vk/Temp/issues/12)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+5.  🔒 قضية مغلقة[#11](https://github.com/offensive-vk/Temp/issues/11)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+6.  🔒 قضية مغلقة[#8](https://github.com/offensive-vk/Temp/issues/8)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+7.  🔒 قضية مغلقة[#7](https://github.com/offensive-vk/Temp/issues/7)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+8.  🔒 قضية مغلقة[#6](https://github.com/offensive-vk/Temp/issues/6)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+9.  🔒 قضية مغلقة[#5](https://github.com/offensive-vk/Temp/issues/5)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+10. 🔒 قضية مغلقة[#4](https://github.com/offensive-vk/Temp/issues/4)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+11. 🔒 قضية مغلقة[#3](https://github.com/offensive-vk/Temp/issues/3)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+12. 🔒 قضية مغلقة[#2](https://github.com/offensive-vk/Temp/issues/2)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+13. 🔒 قضية مغلقة[#1](https://github.com/offensive-vk/Temp/issues/1)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+14. 🎉 اندمج العلاقات العامة[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪 فتح العلاقات العامة[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)في[الهجوم-VK/ReactJS-QUIZ-APP](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
