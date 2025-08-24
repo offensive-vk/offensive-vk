@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“更改适合程序的规范比反之亦然要容易。”  -  Alan Perlis❞</i>
+<i>❝“调试时，新手插入纠正码；专家删除了有缺陷的代码。”  - 理查德·帕蒂斯（Richard Pattis）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#370](https://github.com/offensive-vk/UntilEverything/pull/370)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉合并PR[#371](https://github.com/offensive-vk/UntilEverything/pull/371)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉合并PR[#367](https://github.com/offensive-vk/UntilEverything/pull/367)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉合并PR[#368](https://github.com/offensive-vk/UntilEverything/pull/368)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉合并PR[#43](https://github.com/offensive-vk/develop-actions/pull/43)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-6.  🎉合并PR[#366](https://github.com/offensive-vk/UntilEverything/pull/366)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-7.  🎉合并PR[#369](https://github.com/offensive-vk/UntilEverything/pull/369)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-8.  💪打开PR[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉合并PR[#10049](https://github.com/offensive-vk/Classics/pull/10049)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-10. 🎉合并PR[#365](https://github.com/offensive-vk/UntilEverything/pull/365)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉合并PR[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)在[进攻性vk/攻击性vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉合并PR[#39](https://github.com/offensive-vk/develop-actions/pull/39)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-13. 🗣评论[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣评论[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪打开PR[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)在[Kamranahmedse/开发人员-Road图](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉合并PR[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉合并PR[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉合并PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  🔒封闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+5.  🔒封闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+6.  🔒封闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+7.  🔒封闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+8.  🔒封闭问题[#6](https://github.com/offensive-vk/Temp/issues/6)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+9.  🔒封闭问题[#5](https://github.com/offensive-vk/Temp/issues/5)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+10. 🔒封闭问题[#4](https://github.com/offensive-vk/Temp/issues/4)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+11. 🔒封闭问题[#3](https://github.com/offensive-vk/Temp/issues/3)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+12. 🔒封闭问题[#2](https://github.com/offensive-vk/Temp/issues/2)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+13. 🔒封闭问题[#1](https://github.com/offensive-vk/Temp/issues/1)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+14. 🎉合并PR[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪打开PR[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
