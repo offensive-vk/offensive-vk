@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝A 15-Jährige gehackte NASA-Computer und verursachte eine 21-tägige Abschaltung ihrer Computer.❞</i>
+<i>❝ „Beim Debuggen fügen Anfänger Korrekturcode ein; Experten entfernen defekten Code.“ - Richard Pattis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#370](https://github.com/offensive-vk/UntilEverything/pull/370)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Fusions PR[#371](https://github.com/offensive-vk/UntilEverything/pull/371)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Fusions PR[#367](https://github.com/offensive-vk/UntilEverything/pull/367)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Fusions PR[#368](https://github.com/offensive-vk/UntilEverything/pull/368)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Fusions PR[#43](https://github.com/offensive-vk/develop-actions/pull/43)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-6.  🎉 Fusions PR[#366](https://github.com/offensive-vk/UntilEverything/pull/366)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 Fusions PR[#369](https://github.com/offensive-vk/UntilEverything/pull/369)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-8.  💪 PR geöffnet[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Fusions PR[#10049](https://github.com/offensive-vk/Classics/pull/10049)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-10. 🎉 Fusions PR[#365](https://github.com/offensive-vk/UntilEverything/pull/365)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Fusions PR[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)In[Offensiv-VK/Offensiv-Vk](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Fusions PR[#39](https://github.com/offensive-vk/develop-actions/pull/39)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-13. 🗣 kommentierte[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 kommentierte[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 PR geöffnet[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)In[Kamranahmedse/Entwickler-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 Fusions PR[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 Fusions PR[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉 Fusions PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  🔒 geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+5.  🔒 geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+6.  🔒 geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+7.  🔒 geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+8.  🔒 geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+9.  🔒 geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 geschlossenes Problem[#3](https://github.com/offensive-vk/Temp/issues/3)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 geschlossenes Problem[#2](https://github.com/offensive-vk/Temp/issues/2)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 geschlossenes Problem[#1](https://github.com/offensive-vk/Temp/issues/1)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🎉 Fusions PR[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪 PR geöffnet[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
