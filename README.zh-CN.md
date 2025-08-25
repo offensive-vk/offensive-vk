@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“调试时，新手插入纠正码；专家删除了有缺陷的代码。”  - 理查德·帕蒂斯（Richard Pattis）❞</i>
+<i>❝“我不是认为比尔·盖茨（Bill Gates）是魔鬼的人之一。我只是怀疑，如果微软曾与魔鬼见面，那将不需要口译员。”</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
