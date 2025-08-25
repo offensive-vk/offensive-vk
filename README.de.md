@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Beim Debuggen fügen Anfänger Korrekturcode ein; Experten entfernen defekten Code.“ - Richard Pattis ❞</i>
+<i>❝ "Ich bin keiner von denen, die denken, dass Bill Gates der Teufel ist. Ich vermute einfach, dass Microsoft, wenn er sich jemals mit dem Teufel getroffen habe, keinen Dolmetscher benötigen würde." - Nicholas Petreley ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
