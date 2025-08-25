@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Может быть, истории - это просто данные с душой». - Брене Браун</i>
+<i>❝ «Я не из тех, кто думает, что Билл Гейтс - дьявол. Я просто подозреваю, что если Microsoft когда -нибудь встретится с дьяволом, ей не понадобится переводчик». - Николас Петли ❞ ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#370](https://github.com/offensive-vk/UntilEverything/pull/370)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Объединенный Pr[#371](https://github.com/offensive-vk/UntilEverything/pull/371)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Объединенный Pr[#367](https://github.com/offensive-vk/UntilEverything/pull/367)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Объединенный Pr[#368](https://github.com/offensive-vk/UntilEverything/pull/368)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Объединенный Pr[#43](https://github.com/offensive-vk/develop-actions/pull/43)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-6.  🎉 Объединенный Pr[#366](https://github.com/offensive-vk/UntilEverything/pull/366)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-7.  🎉 Объединенный Pr[#369](https://github.com/offensive-vk/UntilEverything/pull/369)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-8.  💪 открыл Pr[#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-9.  🎉 Объединенный Pr[#10049](https://github.com/offensive-vk/Classics/pull/10049)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-10. 🎉 Объединенный Pr[#365](https://github.com/offensive-vk/UntilEverything/pull/365)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-11. 🎉 Объединенный Pr[#30768](https://github.com/offensive-vk/offensive-vk/pull/30768)в[Наступление-VK/Outlensing-VK](https://github.com/offensive-vk/offensive-vk)
-12. 🎉 Объединенный Pr[#39](https://github.com/offensive-vk/develop-actions/pull/39)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-13. 🗣 прокомментировал[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008910323)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-14. 🗣 прокомментировал[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828#issuecomment-3008281680)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-15. 💪 открыл Pr[#8828](https://github.com/kamranahmedse/developer-roadmap/pull/8828)в[Kamranahmedse/Developer-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1.  🎉 Объединенный Pr[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🎉 Объединенный Pr[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🎉 Объединенный Pr[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  🔒 Закрытая проблема[#12](https://github.com/offensive-vk/Temp/issues/12)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+5.  🔒 Закрытая проблема[#11](https://github.com/offensive-vk/Temp/issues/11)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+6.  🔒 Закрытая проблема[#8](https://github.com/offensive-vk/Temp/issues/8)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+7.  🔒 Закрытая проблема[#7](https://github.com/offensive-vk/Temp/issues/7)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+8.  🔒 Закрытая проблема[#6](https://github.com/offensive-vk/Temp/issues/6)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+9.  🔒 Закрытая проблема[#5](https://github.com/offensive-vk/Temp/issues/5)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 Закрытая проблема[#4](https://github.com/offensive-vk/Temp/issues/4)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 Закрытая проблема[#3](https://github.com/offensive-vk/Temp/issues/3)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 Закрытая проблема[#2](https://github.com/offensive-vk/Temp/issues/2)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 Закрытая проблема[#1](https://github.com/offensive-vk/Temp/issues/1)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+14. 🎉 Объединенный Pr[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+15. 💪 открыл Pr[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)в[Наступление-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
     <!--END_SECTION:activity-->
 
 </p>
