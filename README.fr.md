@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Je ne fais pas partie de ceux qui pensent que Bill Gates est le diable. Je soupçonne simplement que si Microsoft a jamais rencontré le diable, il n'aurait pas besoin d'un interprète." - Nicholas Petreley ❞</i>
+<i>❝ «La meilleure façon d'apprendre la science des données est de faire la science des données.» - Chanin Nantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
