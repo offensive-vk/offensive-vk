@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "No soy uno de los que piensan que Bill Gates es el diablo. Simplemente sospecho que si Microsoft se encontrara con el diablo, no necesitaría un intérprete". - Nicholas Petreley ❞</i>
+<i>❝ "La mejor manera de aprender ciencia de datos es hacer ciencia de datos". - Chanin Nantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
