@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我不是认为比尔·盖茨（Bill Gates）是魔鬼的人之一。我只是怀疑，如果微软曾与魔鬼见面，那将不需要口译员。”</i>
+<i>❝“学习数据科学的最佳方法是进行数据科学。”  -  ChaninNantasenamat❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
