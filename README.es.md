@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "La mejor manera de aprender ciencia de datos es hacer ciencia de datos". - Chanin Nantasenamat❞</i>
+<i>❝ "Hoy, la mayoría de los software existe, no para resolver un problema, sino para interactuar con otro software". - IO Angell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
