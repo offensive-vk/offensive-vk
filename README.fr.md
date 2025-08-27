@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «La meilleure façon d'apprendre la science des données est de faire la science des données.» - Chanin Nantasenamat❞</i>
+<i>❝ «Aujourd'hui, la plupart des logiciels existent, non pas pour résoudre un problème, mais pour s'interfacer avec d'autres logiciels.» - Io Angell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
