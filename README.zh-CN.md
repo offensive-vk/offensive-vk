@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“学习数据科学的最佳方法是进行数据科学。”  -  ChaninNantasenamat❞</i>
+<i>❝“想象力比知识更重要。因为知识是有限的，而想象力包含了整个世界，刺激进步，诞生了进化。”  - 艾伯特·爱因斯坦（Albert Einstein）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
