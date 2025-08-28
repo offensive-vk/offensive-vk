@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Ich bin keiner von denen, die denken, dass Bill Gates der Teufel ist. Ich vermute einfach, dass Microsoft, wenn er sich jemals mit dem Teufel getroffen habe, keinen Dolmetscher benötigen würde." - Nicholas Petreley ❞</i>
+<i>❝ „Vorstellungskraft ist wichtiger als Wissen. Für das Wissen ist begrenzt, während die Vorstellungskraft die ganze Welt umfasst, den Fortschritt anregt, Evolution hervorbringt.“ - Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
