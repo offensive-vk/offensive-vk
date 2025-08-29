@@ -37,5 +37,4 @@
 36. ✅ Approved on pull request [#366](https://github.com/offensive-vk/UntilEverything/pull/366) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 37. 🎉  Merged pull request [#369](https://github.com/offensive-vk/UntilEverything/pull/369) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 38. ✅ Approved on pull request [#369](https://github.com/offensive-vk/UntilEverything/pull/369) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-39. 💪 Opened pull request [#8976](https://github.com/kamranahmedse/developer-roadmap/pull/8976) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
