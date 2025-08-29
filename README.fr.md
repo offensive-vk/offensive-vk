@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Aujourd'hui, la plupart des logiciels existent, non pas pour résoudre un problème, mais pour s'interfacer avec d'autres logiciels.» - Io Angell ❞</i>
+<i>❝ La pire violation des ordinateurs militaires américains de l'histoire s'est produite lorsque quelqu'un a ramassé un bâton de mémoire (infecté par une agence de renseignement étrangère) qu'ils ont trouvé dans le parking et l'ont branché sur leur ordinateur, qui était attaché au Commandement central des États-Unis.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
