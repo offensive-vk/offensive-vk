@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Vorstellungskraft ist wichtiger als Wissen. Für das Wissen ist begrenzt, während die Vorstellungskraft die ganze Welt umfasst, den Fortschritt anregt, Evolution hervorbringt.“ - Albert Einstein ❞</i>
+<i>❝Die schlimmsten Verstoß gegen US -Militärcomputer in der Geschichte geschah, als jemand einen Speicherstock (infiziert von einer ausländischen Geheimdienstagentur) auf dem Parkplatz aufnahm, und ihn an ihren Computer angeschlossen, der dem US -amerikanischen Zentralkommando beigefügt wurde.❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
