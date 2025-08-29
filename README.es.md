@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Hoy, la mayoría de los software existe, no para resolver un problema, sino para interactuar con otro software". - IO Angell ❞</i>
+<i>❝ La peor violación de las computadoras militares de EE. UU. En la historia ocurrió cuando alguien recogió un palo de memoria (infectado por una agencia de inteligencia extranjera) que encontraron en el estacionamiento y la conectaron a su computadora, que estaba conectada al Comando Central de los Estados Unidos.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
