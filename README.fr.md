@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ La pire violation des ordinateurs militaires américains de l'histoire s'est produite lorsque quelqu'un a ramassé un bâton de mémoire (infecté par une agence de renseignement étrangère) qu'ils ont trouvé dans le parking et l'ont branché sur leur ordinateur, qui était attaché au Commandement central des États-Unis.</i>
+<i>❝ «Peut-être que les histoires ne sont que des données avec une âme.» - Brené Brown❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
