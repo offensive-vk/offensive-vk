@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ La peor violación de las computadoras militares de EE. UU. En la historia ocurrió cuando alguien recogió un palo de memoria (infectado por una agencia de inteligencia extranjera) que encontraron en el estacionamiento y la conectaron a su computadora, que estaba conectada al Comando Central de los Estados Unidos.</i>
+<i>❝ "Quizás las historias son solo datos con un alma". - Brené Brown❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
