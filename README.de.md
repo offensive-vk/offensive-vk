@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Die schlimmsten Verstoß gegen US -Militärcomputer in der Geschichte geschah, als jemand einen Speicherstock (infiziert von einer ausländischen Geheimdienstagentur) auf dem Parkplatz aufnahm, und ihn an ihren Computer angeschlossen, der dem US -amerikanischen Zentralkommando beigefügt wurde.❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞</i>
+<i>❝ "Wie selten es ist, dass das Aufrechterhaltung des Code eines anderen ähnlich ist, ein wunderschön gestaltetes Gebäude zu betreten, das Sie beim herumlaufen und planen, wie man einen Flügel hinzufügt, oder ein paar Renovierung durchführt. Häufiger, den Code eines anderen beizubehalten, ist wie das Kopf, wie er einen großen Haufen Slimie, stinkendem Müll betrifft."</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
