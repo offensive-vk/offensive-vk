@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“也许故事只是灵魂的数据。”  - BrenéBrown❞</i>
+<i>❝“维持别人的代码类似于进入设计精美的建筑物的罕见，当您四处走走并计划如何添加机翼或重新装修时，您会欣赏它。更常见的是，维持别人的代码就像被扔到了一大堆苗条的苗条中，smelly garbage。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
