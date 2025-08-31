@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Peut-être que les histoires ne sont que des données avec une âme.» - Brené Brown❞</i>
+<i>❝ "Comme il est rare que le maintien du code de quelqu'un d'autre s'apparente à entrer dans un bâtiment magnifiquement conçu, que vous admirez lorsque vous vous promenez et planifiez comment ajouter une aile ou faire un peu de redécoration. Plus souvent, maintenir le code de quelqu'un d'autre, c'est comme être jeté tête baissée dans un gros tas de garbage gluant et malodorant." - Bill Venners ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
