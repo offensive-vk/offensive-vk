@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Comme il est rare que le maintien du code de quelqu'un d'autre s'apparente à entrer dans un bâtiment magnifiquement conçu, que vous admirez lorsque vous vous promenez et planifiez comment ajouter une aile ou faire un peu de redécoration. Plus souvent, maintenir le code de quelqu'un d'autre, c'est comme être jeté tête baissée dans un gros tas de ordures glissées et malodorantes." - Bill Venners ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞ ❞</i>
+<i>❝CPU La fabrication est si imprévisible que chaque puce doit être testée car la majorité des puces finies sont défectueuses. Ceux qui survivent se voient attribuer un numéro de modèle et un prix reflétant leurs performances maximales.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
