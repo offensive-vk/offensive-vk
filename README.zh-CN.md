@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝美国联邦公报仍在使用信使发送的软盘，因为安全的电子邮件系统“太昂贵”。</i>
+<i>❝“像饮酒一样，代码生成很好。”  -  Alex Lowe❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
