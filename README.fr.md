@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CPU La fabrication est si imprévisible que chaque puce doit être testée car la majorité des puces finies sont défectueuses. Ceux qui survivent se voient attribuer un numéro de modèle et un prix reflétant leurs performances maximales.</i>
+<i>❝ «La génération de code, comme boire de l'alcool, est bonne avec modération.» - Alex Lowe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
