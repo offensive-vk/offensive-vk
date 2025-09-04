@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Qué raro es que mantener el código de otra persona sea similar a ingresar a un edificio bellamente diseñado, que admira mientras camina y planifica cómo agregar un ala o hacer algo de redecoración. Más a menudo, mantener el código de otra persona es como ser arrojado a una gran pila de basura desaliñada y malvada".</i>
+<i>❝ "La generación de código, como beber alcohol, es buena con moderación". - Alex Lowe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
