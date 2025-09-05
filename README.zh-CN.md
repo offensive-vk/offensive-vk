@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“像饮酒一样，代码生成很好。”  -  Alex Lowe❞</i>
+<i>根据预报，每分钟将500小时的视频上传到Facebook。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
