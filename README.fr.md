@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «La génération de code, comme boire de l'alcool, est bonne avec modération.» - Alex Lowe ❞</i>
+<i>❝500 heures de vidéo sont téléchargées sur Facebook chaque minute selon les prévisions.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
