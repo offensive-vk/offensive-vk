@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝500 horas de video se suben a Facebook cada minuto según el pronóstico.</i>
+<i>❝ "No estoy dispuesto a destruir a Microsoft, ese sería un efecto secundario completamente involuntario" - Linus Torvalds ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
