@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝500 heures de vidéo sont téléchargées sur Facebook chaque minute selon les prévisions.</i>
+<i>❝ «Je ne suis pas sorti pour détruire Microsoft, ce serait un effet secondaire complètement involontaire.» - Linus Torvalds ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
