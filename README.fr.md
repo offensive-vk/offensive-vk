@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Je ne suis pas sorti pour détruire Microsoft, ce serait un effet secondaire complètement involontaire.» - Linus Torvalds ❞</i>
+<i>❝Mendure la production de Toy Story 2, Pixar a accidentellement supprimé tout le film de ses serveurs. Le film a été sauvé par un employé, une nouvelle mère, qui a travaillé à domicile et a fait enregistrer les données sur son ordinateur personnel.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
