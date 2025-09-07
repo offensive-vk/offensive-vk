@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Ich bin nicht aus, Microsoft zu zerstören, das wäre ein völlig unbeabsichtigter Nebeneffekt.“ - Linus Torvalds ❞</i>
+<i>Als Pixar die Produktion von Toy Story 2 2 von seinen Servern versehentlich gelöscht hat. Der Film wurde von einem Mitarbeiter, einer neuen Mutter, gerettet, die von zu Hause aus arbeitete und die Daten auf ihrem PC speichern ließ.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
