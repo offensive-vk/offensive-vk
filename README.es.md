@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "No estoy dispuesto a destruir a Microsoft, ese sería un efecto secundario completamente involuntario" - Linus Torvalds ❞</i>
+<i>❝ Durando la producción de Toy Story 2, Pixar eliminó accidentalmente toda la película de sus servidores. La película fue guardada por un empleado, una nueva madre, que trabajaba desde casa y tenía los datos guardados en su computadora personal.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
