@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>根据预报，每分钟将500小时的视频上传到Facebook。</i>
+<i>❝“公司在防火墙，加密和安全访问设备上花费了数百万美元，这是浪费的，因为这些措施都没有解决安全连锁店中最弱的联系。”  - 凯文·米特尼克（Kevin Mitnick）。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🎉合并PR[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🎉合并PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  🔒封闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-5.  🔒封闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-6.  🔒封闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-7.  🔒封闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-8.  🔒封闭问题[#6](https://github.com/offensive-vk/Temp/issues/6)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-9.  🔒封闭问题[#5](https://github.com/offensive-vk/Temp/issues/5)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-10. 🔒封闭问题[#4](https://github.com/offensive-vk/Temp/issues/4)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-11. 🔒封闭问题[#3](https://github.com/offensive-vk/Temp/issues/3)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-12. 🔒封闭问题[#2](https://github.com/offensive-vk/Temp/issues/2)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-13. 🔒封闭问题[#1](https://github.com/offensive-vk/Temp/issues/1)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-14. 🎉合并PR[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 💪打开PR[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)在[攻击性vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉合并PR[#10052](https://github.com/offensive-vk/Classics/pull/10052)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+2.  🎉合并PR[#45](https://github.com/offensive-vk/develop-actions/pull/45)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
+3.  🎉合并PR[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  🎉合并PR[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉合并PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  🔒封闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+7.  🔒封闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+8.  🔒封闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+9.  🔒封闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+10. 🔒封闭问题[#6](https://github.com/offensive-vk/Temp/issues/6)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+11. 🔒封闭问题[#5](https://github.com/offensive-vk/Temp/issues/5)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+12. 🔒封闭问题[#4](https://github.com/offensive-vk/Temp/issues/4)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+13. 🔒封闭问题[#3](https://github.com/offensive-vk/Temp/issues/3)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+14. 🔒封闭问题[#2](https://github.com/offensive-vk/Temp/issues/2)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+15. 🔒封闭问题[#1](https://github.com/offensive-vk/Temp/issues/1)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
