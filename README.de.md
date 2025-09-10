@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Als Pixar die Produktion von Toy Story 2 2 von seinen Servern versehentlich gelöscht hat. Der Film wurde von einem Mitarbeiter, einer neuen Mutter, gerettet, die von zu Hause aus arbeitete und die Daten auf ihrem PC speichern ließ.</i>
+<i>❝ "Unternehmen geben Millionen von Dollar für Firewalls, Verschlüsselung und sichere Zugangsgeräte aus, und es ist Geld verschwendet, da keine dieser Maßnahmen das schwächste Glied in der Sicherheitskette angeht." - Kevin Mitnick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🎉 Fusions PR[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🎉 Fusions PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  🔒 geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-5.  🔒 geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-6.  🔒 geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-7.  🔒 geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-8.  🔒 geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-9.  🔒 geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-10. 🔒 geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-11. 🔒 geschlossenes Problem[#3](https://github.com/offensive-vk/Temp/issues/3)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-12. 🔒 geschlossenes Problem[#2](https://github.com/offensive-vk/Temp/issues/2)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-13. 🔒 geschlossenes Problem[#1](https://github.com/offensive-vk/Temp/issues/1)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
-14. 🎉 Fusions PR[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 💪 PR geöffnet[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)In[Offensiv-VK/Reactjs-Quiz-App](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 Fusions PR[#10052](https://github.com/offensive-vk/Classics/pull/10052)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+2.  🎉 Fusions PR[#45](https://github.com/offensive-vk/develop-actions/pull/45)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
+3.  🎉 Fusions PR[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  🎉 Fusions PR[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉 Fusions PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  🔒 geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+7.  🔒 geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+8.  🔒 geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+9.  🔒 geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 geschlossenes Problem[#3](https://github.com/offensive-vk/Temp/issues/3)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒 geschlossenes Problem[#2](https://github.com/offensive-vk/Temp/issues/2)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒 geschlossenes Problem[#1](https://github.com/offensive-vk/Temp/issues/1)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
