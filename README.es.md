@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Durando la producción de Toy Story 2, Pixar eliminó accidentalmente toda la película de sus servidores. La película fue guardada por un empleado, una nueva madre, que trabajaba desde casa y tenía los datos guardados en su computadora personal.</i>
+<i>❝ El halo original era tercero y diseñado para Mac. En 2000, Microsoft compró Bungie y lo hizo exclusivo para la Xbox original.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionado[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🎉 PR fusionado[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🎉 PR fusionado[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  🔒 Problema cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-5.  🔒 Problema cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-6.  🔒 Problema cerrado[#8](https://github.com/offensive-vk/Temp/issues/8)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-7.  🔒 Problema cerrado[#7](https://github.com/offensive-vk/Temp/issues/7)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-8.  🔒 Problema cerrado[#6](https://github.com/offensive-vk/Temp/issues/6)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-9.  🔒 Problema cerrado[#5](https://github.com/offensive-vk/Temp/issues/5)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-10. 🔒 Problema cerrado[#4](https://github.com/offensive-vk/Temp/issues/4)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-11. 🔒 Problema cerrado[#3](https://github.com/offensive-vk/Temp/issues/3)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-12. 🔒 Problema cerrado[#2](https://github.com/offensive-vk/Temp/issues/2)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-13. 🔒 Problema cerrado[#1](https://github.com/offensive-vk/Temp/issues/1)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-14. 🎉 PR fusionado[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-15. 💪 ABIERTO PR[#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52)en[ofensivo-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
+1.  🎉 PR fusionado[#10052](https://github.com/offensive-vk/Classics/pull/10052)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+2.  🎉 PR fusionado[#45](https://github.com/offensive-vk/develop-actions/pull/45)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
+3.  🎉 PR fusionado[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+4.  🎉 PR fusionado[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+5.  🎉 PR fusionado[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+6.  🔒 Problema cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+7.  🔒 Problema cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+8.  🔒 Problema cerrado[#8](https://github.com/offensive-vk/Temp/issues/8)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+9.  🔒 Problema cerrado[#7](https://github.com/offensive-vk/Temp/issues/7)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+10. 🔒 Problema cerrado[#6](https://github.com/offensive-vk/Temp/issues/6)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+11. 🔒 Problema cerrado[#5](https://github.com/offensive-vk/Temp/issues/5)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+12. 🔒 Problema cerrado[#4](https://github.com/offensive-vk/Temp/issues/4)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+13. 🔒 Problema cerrado[#3](https://github.com/offensive-vk/Temp/issues/3)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+14. 🔒 Problema cerrado[#2](https://github.com/offensive-vk/Temp/issues/2)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+15. 🔒 Problema cerrado[#1](https://github.com/offensive-vk/Temp/issues/1)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
