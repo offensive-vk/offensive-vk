@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Unternehmen geben Millionen von Dollar für Firewalls, Verschlüsselung und sichere Zugangsgeräte aus, und es ist Geld verschwendet, da keine dieser Maßnahmen das schwächste Glied in der Sicherheitskette angeht." - Kevin Mitnick ❞</i>
+<i>❝Der ursprünglicher Halo war die dritte Person und für Mac entwickelt. Im Jahr 2000 kaufte Microsoft Bungie und machte es zu einem exklusiven für die ursprüngliche Xbox.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
