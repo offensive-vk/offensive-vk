@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“公司在防火墙，加密和安全访问设备上花费了数百万美元，这是浪费的，因为这些措施都没有解决安全连锁店中最弱的联系。”  - 凯文·米特尼克（Kevin Mitnick）。</i>
+<i>China的互联网用户数量最多，拥有超过7.46亿活跃用户。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
