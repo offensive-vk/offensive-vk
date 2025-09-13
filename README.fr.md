@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Les entreprises dépensent des millions de dollars pour les pare-feu, le chiffrement et les appareils d'accès sécurisés, et son gaspillage d'argent, car aucune de ces mesures ne traite du maillon le plus faible de la chaîne de sécurité.» - Kevin Mitnick ❞</i>
+<i>❝500 heures de vidéo sont téléchargées sur Facebook chaque minute selon les prévisions.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
