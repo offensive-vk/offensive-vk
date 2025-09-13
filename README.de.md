@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der ursprünglicher Halo war die dritte Person und für Mac entwickelt. Im Jahr 2000 kaufte Microsoft Bungie und machte es zu einem exklusiven für die ursprüngliche Xbox.❞</i>
+<i>❝500 Stunden Video werden nach Prognose jede Minute auf Facebook hochgeladen.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
