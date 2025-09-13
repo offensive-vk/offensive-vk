@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>China的互联网用户数量最多，拥有超过7.46亿活跃用户。</i>
+<i>根据预报，每分钟将500小时的视频上传到Facebook。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
