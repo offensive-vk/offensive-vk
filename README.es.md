@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ El halo original era tercero y diseñado para Mac. En 2000, Microsoft compró Bungie y lo hizo exclusivo para la Xbox original.</i>
+<i>❝ "Se nos dice que los pesimistas miran un vaso que contiene 50% de aire y 50% de agua y lo ven como medio vacíos. Los optimistas, en contraste, lo ven como medio llenos. Los ingenieros, por supuesto, entienden que el vidrio es el doble de lo que debe ser". - Bob Lewis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
