@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝500 Stunden Video werden nach Prognose jede Minute auf Facebook hochgeladen.❞</i>
+<i>❝ "Pessimisten, so werden wir mitgeteilt, schauen Sie sich ein Glas mit 50% Luft und 50% Wasser an und sehen Sie es als halb leer. Optimisten dagegen sehen Sie es als halb voll. Ingenieure verstehen natürlich, dass das Glas doppelt so groß ist wie es muss.“ - Bob Lewis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
