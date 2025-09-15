@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Pessimisten, so werden wir mitgeteilt, schauen Sie sich ein Glas mit 50% Luft und 50% Wasser an und sehen Sie es als halb leer. Optimisten dagegen sehen Sie es als halb voll. Ingenieure verstehen natürlich, dass das Glas doppelt so groß ist wie es muss.“ - Bob Lewis ❞</i>
+<i>❝ "In einem Raum voller Top -Software -Designer, wenn zwei auf dasselbe zustimmen, ist das eine Mehrheit." - Bill Curtis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
