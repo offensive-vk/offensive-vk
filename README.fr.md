@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Les pessimistes, nous dit-on, regardent un verre contenant 50% d'air et 50% d'eau et le considèrent comme à moitié vide. Les optimistes, en revanche, le voient à moitié plein. Les ingénieurs, bien sûr, comprennent que le verre est deux fois plus gros que possible." - Bob Lewis ❞ ❞ ❞ ❞ ❞ ❞</i>
+<i>❝ «Dans une pièce pleine de meilleurs concepteurs de logiciels, si deux sont d'accord sur la même chose, c'est une majorité.» - Bill Curtis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
