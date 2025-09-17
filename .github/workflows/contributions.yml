@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.9.0
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.1
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
           USERNAME: ${{ github.repository_owner || 'offensive-vk' }}
