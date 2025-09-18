@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "In einem Raum voller Top -Software -Designer, wenn zwei auf dasselbe zustimmen, ist das eine Mehrheit." - Bill Curtis ❞</i>
+<i>❝ "Es gibt keinen verschleierten Perl -Wettbewerb, weil er sinnlos ist." - Jeff Polk ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
