@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在一个充满顶级软件设计人员的房间里，如果两个人同意同一件事，那就是多数。”  - 比尔·柯蒂斯（Bill Curtis）❞</i>
+<i>❝“没有混淆的佩尔竞赛，因为它没有意义。”  - 杰夫·波尔克（Jeff Polk）❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
