@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "No hay un concurso de Perl ofuscado porque no tiene sentido". - Jeff Polk ❞</i>
+<i>❝ "Si cree que sus usuarios son idiotas, solo los idiotas lo usarán". - Linus Torvalds ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
