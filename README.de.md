@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Es gibt keinen verschleierten Perl -Wettbewerb, weil er sinnlos ist." - Jeff Polk ❞</i>
+<i>❝ „Wenn Sie der Meinung sind, dass Ihre Benutzer Idioten sind, werden nur Idioten sie verwenden.“ - Linus Torvalds ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
