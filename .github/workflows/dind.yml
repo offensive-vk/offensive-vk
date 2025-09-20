@@ -24,6 +24,13 @@ jobs:
 
       - name: Set up Node.js
         uses: actions/setup-node@v5
+        continue-on-error: true
+        with:
+          node-version: '22'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        continue-on-error: true
         with:
           node-version: '20'
 
