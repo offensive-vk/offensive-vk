@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“没有混淆的佩尔竞赛，因为它没有意义。”  - 杰夫·波尔克（Jeff Polk）❞</i>
+<i>❝一个普通人通常每分钟眨眼20次，但是使用计算机时，他/她每分钟只眨眼7次。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
