@@ -139,21 +139,21 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10052](https://github.com/offensive-vk/Classics/pull/10052) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-2. 🎉 Merged PR [#45](https://github.com/offensive-vk/develop-actions/pull/45) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-3. 🎉 Merged PR [#102](https://github.com/offensive-vk/AwesomeCloud/pull/102) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-4. 🎉 Merged PR [#103](https://github.com/offensive-vk/AwesomeCloud/pull/103) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-5. 🎉 Merged PR [#104](https://github.com/offensive-vk/AwesomeCloud/pull/104) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-6. 🔒 Closed issue [#12](https://github.com/offensive-vk/Temp/issues/12) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-7. 🔒 Closed issue [#11](https://github.com/offensive-vk/Temp/issues/11) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-8. 🔒 Closed issue [#8](https://github.com/offensive-vk/Temp/issues/8) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-9. 🔒 Closed issue [#7](https://github.com/offensive-vk/Temp/issues/7) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-10. 🔒 Closed issue [#6](https://github.com/offensive-vk/Temp/issues/6) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-11. 🔒 Closed issue [#5](https://github.com/offensive-vk/Temp/issues/5) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-12. 🔒 Closed issue [#4](https://github.com/offensive-vk/Temp/issues/4) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-13. 🔒 Closed issue [#3](https://github.com/offensive-vk/Temp/issues/3) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-14. 🔒 Closed issue [#2](https://github.com/offensive-vk/Temp/issues/2) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 Closed issue [#1](https://github.com/offensive-vk/Temp/issues/1) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+1. 🎉 Merged PR [#10053](https://github.com/offensive-vk/Classics/pull/10053) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+2. 🎉 Merged PR [#380](https://github.com/offensive-vk/UntilEverything/pull/380) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3. 🎉 Merged PR [#379](https://github.com/offensive-vk/UntilEverything/pull/379) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4. 🎉 Merged PR [#10052](https://github.com/offensive-vk/Classics/pull/10052) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+5. 🎉 Merged PR [#45](https://github.com/offensive-vk/develop-actions/pull/45) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+6. 🎉 Merged PR [#102](https://github.com/offensive-vk/AwesomeCloud/pull/102) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7. 🎉 Merged PR [#103](https://github.com/offensive-vk/AwesomeCloud/pull/103) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+8. 🎉 Merged PR [#104](https://github.com/offensive-vk/AwesomeCloud/pull/104) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9. 🔒 Closed issue [#12](https://github.com/offensive-vk/Temp/issues/12) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 Closed issue [#11](https://github.com/offensive-vk/Temp/issues/11) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 Closed issue [#8](https://github.com/offensive-vk/Temp/issues/8) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 Closed issue [#7](https://github.com/offensive-vk/Temp/issues/7) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 Closed issue [#6](https://github.com/offensive-vk/Temp/issues/6) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒 Closed issue [#5](https://github.com/offensive-vk/Temp/issues/5) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒 Closed issue [#4](https://github.com/offensive-vk/Temp/issues/4) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 <!--END_SECTION:activity-->
 
 </p>
