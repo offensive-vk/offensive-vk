@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Wenn Sie der Meinung sind, dass Ihre Benutzer Idioten sind, werden nur Idioten sie verwenden.“ - Linus Torvalds ❞</i>
+<i>❝ Eine durchschnittliche Person blinkt normalerweise 20 Mal pro Minute, aber wenn er einen Computer benutzt, blinkt er/sie nur 7 Mal pro Minute.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
