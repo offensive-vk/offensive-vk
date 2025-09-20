@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Si cree que sus usuarios son idiotas, solo los idiotas lo usarán". - Linus Torvalds ❞</i>
+<i>Una persona promedio normalmente parpadea 20 veces por minuto, pero cuando usa una computadora, parpadea solo 7 veces por minuto.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
