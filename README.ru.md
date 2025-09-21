@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Средний человек обычно мигает 20 раз в минуту, но при использовании компьютера он/она мигает только 7 раз в минуту.</i>
+<i>❝ «Если вы думаете, что технология может решить ваши проблемы с безопасностью, то вы не понимаете проблем и не понимаете технологии». - Брюс Шнайер ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#10052](https://github.com/offensive-vk/Classics/pull/10052)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-2.  🎉 Объединенный Pr[#45](https://github.com/offensive-vk/develop-actions/pull/45)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-3.  🎉 Объединенный Pr[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  🎉 Объединенный Pr[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-5.  🎉 Объединенный Pr[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-6.  🔒 Закрытая проблема[#12](https://github.com/offensive-vk/Temp/issues/12)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-7.  🔒 Закрытая проблема[#11](https://github.com/offensive-vk/Temp/issues/11)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-8.  🔒 Закрытая проблема[#8](https://github.com/offensive-vk/Temp/issues/8)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-9.  🔒 Закрытая проблема[#7](https://github.com/offensive-vk/Temp/issues/7)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-10. 🔒 Закрытая проблема[#6](https://github.com/offensive-vk/Temp/issues/6)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-11. 🔒 Закрытая проблема[#5](https://github.com/offensive-vk/Temp/issues/5)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-12. 🔒 Закрытая проблема[#4](https://github.com/offensive-vk/Temp/issues/4)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-13. 🔒 Закрытая проблема[#3](https://github.com/offensive-vk/Temp/issues/3)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-14. 🔒 Закрытая проблема[#2](https://github.com/offensive-vk/Temp/issues/2)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 Закрытая проблема[#1](https://github.com/offensive-vk/Temp/issues/1)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+1.  🎉 Объединенный Pr[#10053](https://github.com/offensive-vk/Classics/pull/10053)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+2.  🎉 Объединенный Pr[#380](https://github.com/offensive-vk/UntilEverything/pull/380)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Объединенный Pr[#379](https://github.com/offensive-vk/UntilEverything/pull/379)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 Объединенный Pr[#10052](https://github.com/offensive-vk/Classics/pull/10052)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+5.  🎉 Объединенный Pr[#45](https://github.com/offensive-vk/develop-actions/pull/45)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
+6.  🎉 Объединенный Pr[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🎉 Объединенный Pr[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 Объединенный Pr[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🔒 Закрытая проблема[#12](https://github.com/offensive-vk/Temp/issues/12)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 Закрытая проблема[#11](https://github.com/offensive-vk/Temp/issues/11)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 Закрытая проблема[#8](https://github.com/offensive-vk/Temp/issues/8)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 Закрытая проблема[#7](https://github.com/offensive-vk/Temp/issues/7)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 Закрытая проблема[#6](https://github.com/offensive-vk/Temp/issues/6)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒 Закрытая проблема[#5](https://github.com/offensive-vk/Temp/issues/5)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒 Закрытая проблема[#4](https://github.com/offensive-vk/Temp/issues/4)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
