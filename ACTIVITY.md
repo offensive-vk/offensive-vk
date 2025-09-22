@@ -32,8 +32,4 @@
 31. 🔒 Closed issue [#1](https://github.com/offensive-vk/Temp/issues/1) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 32. 🎉  Merged pull request [#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
 33. 💪 Opened pull request [#52](https://github.com/offensive-vk/reactjs-quiz-app/pull/52) in [offensive-vk/reactjs-quiz-app](https://github.com/offensive-vk/reactjs-quiz-app)
-34. 🎉  Merged pull request [#30798](https://github.com/offensive-vk/offensive-vk/pull/30798) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-35. ✅ Approved on pull request [#30798](https://github.com/offensive-vk/offensive-vk/pull/30798) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-36. 🎉  Merged pull request [#30801](https://github.com/offensive-vk/offensive-vk/pull/30801) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-37. ✅ Approved on pull request [#30801](https://github.com/offensive-vk/offensive-vk/pull/30801) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
