@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ شخص متوسط ​​عادة ما يكون يومض 20 مرة في الدقيقة ، ولكن عند استخدام جهاز كمبيوتر ، يومض بعد 7 مرات في الدقيقة فقط.</i>
+<i>❝ "إذا كنت تعتقد أن التكنولوجيا يمكن أن تحل مشاكل الأمان الخاصة بك ، فأنت لا تفهم المشكلات ولا تفهم التكنولوجيا." - بروس شنير ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#10052](https://github.com/offensive-vk/Classics/pull/10052)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-2.  🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/develop-actions/pull/45)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-3.  🎉 اندمج العلاقات العامة[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-4.  🎉 اندمج العلاقات العامة[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-5.  🎉 اندمج العلاقات العامة[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-6.  🔒 قضية مغلقة[#12](https://github.com/offensive-vk/Temp/issues/12)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-7.  🔒 قضية مغلقة[#11](https://github.com/offensive-vk/Temp/issues/11)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-8.  🔒 قضية مغلقة[#8](https://github.com/offensive-vk/Temp/issues/8)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-9.  🔒 قضية مغلقة[#7](https://github.com/offensive-vk/Temp/issues/7)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-10. 🔒 قضية مغلقة[#6](https://github.com/offensive-vk/Temp/issues/6)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-11. 🔒 قضية مغلقة[#5](https://github.com/offensive-vk/Temp/issues/5)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-12. 🔒 قضية مغلقة[#4](https://github.com/offensive-vk/Temp/issues/4)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-13. 🔒 قضية مغلقة[#3](https://github.com/offensive-vk/Temp/issues/3)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-14. 🔒 قضية مغلقة[#2](https://github.com/offensive-vk/Temp/issues/2)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-15. 🔒 قضية مغلقة[#1](https://github.com/offensive-vk/Temp/issues/1)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+1.  🎉 اندمج العلاقات العامة[#10053](https://github.com/offensive-vk/Classics/pull/10053)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+2.  🎉 اندمج العلاقات العامة[#380](https://github.com/offensive-vk/UntilEverything/pull/380)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 اندمج العلاقات العامة[#379](https://github.com/offensive-vk/UntilEverything/pull/379)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 اندمج العلاقات العامة[#10052](https://github.com/offensive-vk/Classics/pull/10052)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+5.  🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/develop-actions/pull/45)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
+6.  🎉 اندمج العلاقات العامة[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+7.  🎉 اندمج العلاقات العامة[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 اندمج العلاقات العامة[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+9.  🔒 قضية مغلقة[#12](https://github.com/offensive-vk/Temp/issues/12)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+10. 🔒 قضية مغلقة[#11](https://github.com/offensive-vk/Temp/issues/11)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+11. 🔒 قضية مغلقة[#8](https://github.com/offensive-vk/Temp/issues/8)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+12. 🔒 قضية مغلقة[#7](https://github.com/offensive-vk/Temp/issues/7)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+13. 🔒 قضية مغلقة[#6](https://github.com/offensive-vk/Temp/issues/6)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+14. 🔒 قضية مغلقة[#5](https://github.com/offensive-vk/Temp/issues/5)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+15. 🔒 قضية مغلقة[#4](https://github.com/offensive-vk/Temp/issues/4)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
