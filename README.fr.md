@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Dans une pièce pleine de meilleurs concepteurs de logiciels, si deux sont d'accord sur la même chose, c'est une majorité.» - Bill Curtis ❞</i>
+<i>❝ "Si vous pensez que la technologie peut résoudre vos problèmes de sécurité, alors vous ne comprenez pas les problèmes et que vous ne comprenez pas la technologie." - Bruce Schneier ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-2.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-3.  🎉 PR fusionné[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-4.  🎉 PR fusionné[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-5.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-6.  🔒 Problème fermé[#12](https://github.com/offensive-vk/Temp/issues/12)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-7.  🔒 Problème fermé[#11](https://github.com/offensive-vk/Temp/issues/11)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-8.  🔒 Problème fermé[#8](https://github.com/offensive-vk/Temp/issues/8)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-9.  🔒 Problème fermé[#7](https://github.com/offensive-vk/Temp/issues/7)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-10. 🔒 Problème fermé[#6](https://github.com/offensive-vk/Temp/issues/6)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-11. 🔒 Problème fermé[#5](https://github.com/offensive-vk/Temp/issues/5)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-12. 🔒 Problème fermé[#4](https://github.com/offensive-vk/Temp/issues/4)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-13. 🔒 Problème fermé[#3](https://github.com/offensive-vk/Temp/issues/3)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-14. 🔒 Problème fermé[#2](https://github.com/offensive-vk/Temp/issues/2)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-15. 🔒 Problème fermé[#1](https://github.com/offensive-vk/Temp/issues/1)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+1.  🎉 PR fusionné[#10053](https://github.com/offensive-vk/Classics/pull/10053)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+2.  🎉 PR fusionné[#380](https://github.com/offensive-vk/UntilEverything/pull/380)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+5.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+6.  🎉 PR fusionné[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🎉 PR fusionné[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🔒 Problème fermé[#12](https://github.com/offensive-vk/Temp/issues/12)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+10. 🔒 Problème fermé[#11](https://github.com/offensive-vk/Temp/issues/11)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+11. 🔒 Problème fermé[#8](https://github.com/offensive-vk/Temp/issues/8)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+12. 🔒 Problème fermé[#7](https://github.com/offensive-vk/Temp/issues/7)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+13. 🔒 Problème fermé[#6](https://github.com/offensive-vk/Temp/issues/6)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+14. 🔒 Problème fermé[#5](https://github.com/offensive-vk/Temp/issues/5)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+15. 🔒 Problème fermé[#4](https://github.com/offensive-vk/Temp/issues/4)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
