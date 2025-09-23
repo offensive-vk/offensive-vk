@@ -12,11 +12,4 @@
 11. ✅ Approved on pull request [#10052](https://github.com/offensive-vk/Classics/pull/10052) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 12. 🎉  Merged pull request [#45](https://github.com/offensive-vk/develop-actions/pull/45) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 13. ✅ Approved on pull request [#45](https://github.com/offensive-vk/develop-actions/pull/45) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-14. ✅ Approved on pull request [#101](https://github.com/offensive-vk/AwesomeCloud/pull/101) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-15. 🎉  Merged pull request [#102](https://github.com/offensive-vk/AwesomeCloud/pull/102) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-16. ✅ Approved on pull request [#102](https://github.com/offensive-vk/AwesomeCloud/pull/102) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-17. 🎉  Merged pull request [#103](https://github.com/offensive-vk/AwesomeCloud/pull/103) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-18. ✅ Approved on pull request [#103](https://github.com/offensive-vk/AwesomeCloud/pull/103) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-19. 🎉  Merged pull request [#104](https://github.com/offensive-vk/AwesomeCloud/pull/104) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-20. ✅ Approved on pull request [#104](https://github.com/offensive-vk/AwesomeCloud/pull/104) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 <!--END_SECTION:activity-->
