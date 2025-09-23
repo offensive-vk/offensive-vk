@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Wenn Sie der Meinung sind, dass Technologie Ihre Sicherheitsprobleme lösen kann, verstehen Sie die Probleme nicht und verstehen die Technologie nicht." - Bruce Schneier ❞</i>
+<i>❝Der erster elektronischer Computer Eniac wog mehr als 27 Tonnen und nahm 1800 Quadratfuß.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
