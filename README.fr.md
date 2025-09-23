@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Si vous pensez que la technologie peut résoudre vos problèmes de sécurité, alors vous ne comprenez pas les problèmes et que vous ne comprenez pas la technologie." - Bruce Schneier ❞</i>
+<i>❝La première ordinateur électronique ENIAC a pesé plus de 27 tonnes et a pris 1800 pieds carrés.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
