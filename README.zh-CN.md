@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果您认为技术可以解决您的安全问题，那么您将不了解问题，也不了​​解该技术。”  -  Bruce Schneier❞</i>
+<i>❝第一台电子电脑ENIAC重27吨，占地1800平方英尺。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
