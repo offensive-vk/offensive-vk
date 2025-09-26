@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der erster elektronischer Computer Eniac wog mehr als 27 Tonnen und nahm 1800 Quadratfuß.</i>
+<i>❝ „Der beste Weg, um genaue Informationen über Usenet zu erhalten, besteht darin, etwas falsch zu posten und auf Korrekturen zu warten.“ - Matthew Austern ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Fusions PR[#10053](https://github.com/offensive-vk/Classics/pull/10053)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-2.  🎉 Fusions PR[#380](https://github.com/offensive-vk/UntilEverything/pull/380)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Fusions PR[#379](https://github.com/offensive-vk/UntilEverything/pull/379)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Fusions PR[#10052](https://github.com/offensive-vk/Classics/pull/10052)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
-5.  🎉 Fusions PR[#45](https://github.com/offensive-vk/develop-actions/pull/45)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
-6.  🎉 Fusions PR[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉 Fusions PR[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🎉 Fusions PR[#382](https://github.com/offensive-vk/UntilEverything/pull/382)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 Fusions PR[#381](https://github.com/offensive-vk/UntilEverything/pull/381)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Fusions PR[#10053](https://github.com/offensive-vk/Classics/pull/10053)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+4.  🎉 Fusions PR[#380](https://github.com/offensive-vk/UntilEverything/pull/380)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 Fusions PR[#379](https://github.com/offensive-vk/UntilEverything/pull/379)In[Offensiv-Vk/Unileverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Fusions PR[#10052](https://github.com/offensive-vk/Classics/pull/10052)In[Offensiv-VK/Klassiker](https://github.com/offensive-vk/Classics)
+7.  🎉 Fusions PR[#45](https://github.com/offensive-vk/develop-actions/pull/45)In[Offensiv-VK/Entwicklungsaktionen](https://github.com/offensive-vk/develop-actions)
 8.  🎉 Fusions PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)In[Offensiv-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[Offensiv-Vk/Temp](https://github.com/offensive-vk/Temp)
