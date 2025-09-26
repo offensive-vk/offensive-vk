@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝A程序员开发了一种名为Templeos的操作系统，以解决心理健康问题，他认为Templeos实际上是圣经上预言的第三座寺庙。根据上帝的“指示”，操作系统使用640×480，16彩色显示，并使用语言霍利克。</i>
+<i>❝“获取有关Usenet准确信息的最佳方法是发布错误并等待更正。”  -  Matthew Austern</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#10053](https://github.com/offensive-vk/Classics/pull/10053)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-2.  🎉合并PR[#380](https://github.com/offensive-vk/UntilEverything/pull/380)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉合并PR[#379](https://github.com/offensive-vk/UntilEverything/pull/379)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉合并PR[#10052](https://github.com/offensive-vk/Classics/pull/10052)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-5.  🎉合并PR[#45](https://github.com/offensive-vk/develop-actions/pull/45)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-6.  🎉合并PR[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉合并PR[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🎉合并PR[#382](https://github.com/offensive-vk/UntilEverything/pull/382)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉合并PR[#381](https://github.com/offensive-vk/UntilEverything/pull/381)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉合并PR[#10053](https://github.com/offensive-vk/Classics/pull/10053)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+4.  🎉合并PR[#380](https://github.com/offensive-vk/UntilEverything/pull/380)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+5.  🎉合并PR[#379](https://github.com/offensive-vk/UntilEverything/pull/379)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉合并PR[#10052](https://github.com/offensive-vk/Classics/pull/10052)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
+7.  🎉合并PR[#45](https://github.com/offensive-vk/develop-actions/pull/45)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
 8.  🎉合并PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒封闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
 10. 🔒封闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
