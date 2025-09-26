@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝facebook имеет более миллиарда пользователей. Если бы это была страна, это была бы третья по величине в мире.</i>
+<i>❝ «Лучший способ получить точную информацию о Usenet - это опубликовать что -то не так и ждать исправлений». - Мэтью Атертерн ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#10053](https://github.com/offensive-vk/Classics/pull/10053)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-2.  🎉 Объединенный Pr[#380](https://github.com/offensive-vk/UntilEverything/pull/380)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Объединенный Pr[#379](https://github.com/offensive-vk/UntilEverything/pull/379)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Объединенный Pr[#10052](https://github.com/offensive-vk/Classics/pull/10052)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-5.  🎉 Объединенный Pr[#45](https://github.com/offensive-vk/develop-actions/pull/45)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-6.  🎉 Объединенный Pr[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉 Объединенный Pr[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🎉 Объединенный Pr[#382](https://github.com/offensive-vk/UntilEverything/pull/382)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 Объединенный Pr[#381](https://github.com/offensive-vk/UntilEverything/pull/381)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Объединенный Pr[#10053](https://github.com/offensive-vk/Classics/pull/10053)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+4.  🎉 Объединенный Pr[#380](https://github.com/offensive-vk/UntilEverything/pull/380)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 Объединенный Pr[#379](https://github.com/offensive-vk/UntilEverything/pull/379)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Объединенный Pr[#10052](https://github.com/offensive-vk/Classics/pull/10052)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
+7.  🎉 Объединенный Pr[#45](https://github.com/offensive-vk/develop-actions/pull/45)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
 8.  🎉 Объединенный Pr[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Закрытая проблема[#12](https://github.com/offensive-vk/Temp/issues/12)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Закрытая проблема[#11](https://github.com/offensive-vk/Temp/issues/11)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
