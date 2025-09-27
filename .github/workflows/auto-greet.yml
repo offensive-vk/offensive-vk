@@ -24,14 +24,14 @@ jobs:
       - uses: actions/checkout@v5
       - uses: actions/first-interaction@v3
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
-          issue-message: |
+          repo_token: ${{ secrets.GITHUB_TOKEN || secrets.BOT_TOKEN }}
+          issue_message: |
             🙌 Thank you for taking the time to file an issue here. 
 
             If this is a bug report, please include any relevant logs or details that can help us debug the problem. Your help is greatly appreciated! 💡
 
             We'll get back to you as soon as possible, kindly be patient for a response from a maintainer.
-          pr-message: |
+          pr_message: |
             🎉 Warm regards and welcome! Thank you for your first ever contribution! 
 
             We appreciate your effort and enthusiasm. Before diving in, we kindly ask you to take a moment to go through our [Contribution Guidelines](https://github.com/offensive-vk/offensive-vk/blob/master/CONTRIBUTING.md) 📘 to ensure your contribution aligns with the project's goals. 
