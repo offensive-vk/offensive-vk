@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Der beste Weg, um genaue Informationen über Usenet zu erhalten, besteht darin, etwas falsch zu posten und auf Korrekturen zu warten.“ - Matthew Austern ❞</i>
+<i>❝ „Das einzig wirklich sicheres System ist ein ausgeschaltetes, in einem Block aus Beton gegossen und in einem Blei-Raum mit bewaffneten Wachen versiegelt.“-Gene Spafford ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
