@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝facebook لديه أكثر من مليار مستخدم. إذا كانت دولة ، فستكون ثالث أكبر في العالم.</i>
+<i>❝ "النظام الوحيد الآمن حقًا هو النظام الذي يتم تشغيله في كتلة من الخرسانة ومختومة في غرفة مبطنة بالرصاص مع حراس مسلحين."-جين سبافورد ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#10053](https://github.com/offensive-vk/Classics/pull/10053)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-2.  🎉 اندمج العلاقات العامة[#380](https://github.com/offensive-vk/UntilEverything/pull/380)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 اندمج العلاقات العامة[#379](https://github.com/offensive-vk/UntilEverything/pull/379)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 اندمج العلاقات العامة[#10052](https://github.com/offensive-vk/Classics/pull/10052)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-5.  🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/develop-actions/pull/45)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-6.  🎉 اندمج العلاقات العامة[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉 اندمج العلاقات العامة[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
+1.  🎉 اندمج العلاقات العامة[#382](https://github.com/offensive-vk/UntilEverything/pull/382)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 اندمج العلاقات العامة[#381](https://github.com/offensive-vk/UntilEverything/pull/381)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 اندمج العلاقات العامة[#10053](https://github.com/offensive-vk/Classics/pull/10053)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+4.  🎉 اندمج العلاقات العامة[#380](https://github.com/offensive-vk/UntilEverything/pull/380)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 اندمج العلاقات العامة[#379](https://github.com/offensive-vk/UntilEverything/pull/379)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 اندمج العلاقات العامة[#10052](https://github.com/offensive-vk/Classics/pull/10052)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
+7.  🎉 اندمج العلاقات العامة[#45](https://github.com/offensive-vk/develop-actions/pull/45)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
 8.  🎉 اندمج العلاقات العامة[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)في[الهجوم-VK/AWESOMECLOUD](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 قضية مغلقة[#12](https://github.com/offensive-vk/Temp/issues/12)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
 10. 🔒 قضية مغلقة[#11](https://github.com/offensive-vk/Temp/issues/11)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
