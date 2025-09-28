@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Das einzig wirklich sicheres System ist ein ausgeschaltetes, in einem Block aus Beton gegossen und in einem Blei-Raum mit bewaffneten Wachen versiegelt.“-Gene Spafford ❞</i>
+<i>❝ Nur etwa 10% der weltweiten Währung sind physisches Geld, der Rest existiert nur auf Computern.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
