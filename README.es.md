@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "El único sistema verdaderamente seguro es uno que está encendido, fundido en un bloque de concreto y sellado en una habitación forrada de plomo con guardias armados".-Gene Spafford ❞</i>
+<i>❝ Solo alrededor del 10% de la moneda del mundo es el dinero físico, el resto solo existe en las computadoras.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
