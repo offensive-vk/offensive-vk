@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La première ordinateur électronique ENIAC a pesé plus de 27 tonnes et a pris 1800 pieds carrés.</i>
+<i>Environ 10% de la monnaie mondiale est de l'argent physique, le reste n'existe que sur les ordinateurs.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#10053](https://github.com/offensive-vk/Classics/pull/10053)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-2.  🎉 PR fusionné[#380](https://github.com/offensive-vk/UntilEverything/pull/380)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-5.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
-6.  🎉 PR fusionné[#102](https://github.com/offensive-vk/AwesomeCloud/pull/102)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🎉 PR fusionné[#103](https://github.com/offensive-vk/AwesomeCloud/pull/103)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🎉 PR fusionné[#382](https://github.com/offensive-vk/UntilEverything/pull/382)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionné[#381](https://github.com/offensive-vk/UntilEverything/pull/381)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 PR fusionné[#10053](https://github.com/offensive-vk/Classics/pull/10053)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+4.  🎉 PR fusionné[#380](https://github.com/offensive-vk/UntilEverything/pull/380)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
+7.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
 8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Problème fermé[#12](https://github.com/offensive-vk/Temp/issues/12)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
 10. 🔒 Problème fermé[#11](https://github.com/offensive-vk/Temp/issues/11)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
