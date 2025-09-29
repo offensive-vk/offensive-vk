@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“获取有关Usenet准确信息的最佳方法是发布错误并等待更正。”  -  Matthew Austern</i>
+<i>❝“计算机病毒是一个城市传奇。”  - 彼得·诺顿（Peter Norton），1988年❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
