@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Solo alrededor del 10% de la moneda del mundo es el dinero físico, el resto solo existe en las computadoras.</i>
+<i>❝ "Los virus informáticos son una leyenda urbana". - Peter Norton, 1988 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
