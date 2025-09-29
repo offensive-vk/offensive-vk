@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>Environ 10% de la monnaie mondiale est de l'argent physique, le reste n'existe que sur les ordinateurs.</i>
+<i>❝ «Les virus informatiques sont une légende urbaine.» - Peter Norton, 1988 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
