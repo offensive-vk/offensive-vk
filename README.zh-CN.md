@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机病毒是一个城市传奇。”  - 彼得·诺顿（Peter Norton），1988年❞</i>
+<i>❝是一种称为Intercal的编程语言，它具有忽略，请忘记的关键字。如果您在编码时不使用足够的时间，则编译器会拒绝代码。</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
