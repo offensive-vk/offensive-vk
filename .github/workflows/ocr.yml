@@ -6,7 +6,6 @@ on:
     paths-ignore:
       - '*/**.svg'
       - '*/**.md'
-      - '*/**.gif'
     branches:
       - 'master'
 

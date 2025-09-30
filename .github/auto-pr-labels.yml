@@ -21,7 +21,7 @@ github.com:
 markdown:
   match:
     - '**/*.md'
-  description: ''
+  description: 'Relating to markdown'
 
 devcontainer:
   match:
@@ -44,7 +44,7 @@ ci/cd:
   match:
     - '**/*.yml'
     - '.github/**/*.yml'
-  description: ''
+  description: 'relating to CI/CD'
 
 template:
   match:
@@ -68,7 +68,7 @@ dotfiles:
     - '.gitattributes'
     - '.dockerignore'
     - '.markdownlint.json'
-  description: 'Dotfiles only'
+  description: 'Dotfiles and whatever'
 
 docker:
   match:

@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > What Happened: push event at  path.
-> Details of Run: https://github.com/offensive-vk/offensive-vk/actions/runs/10660112642
+> Details of Run: https://github.com/offensive-vk/offensive-vk/actions/runs/
 
 - Author: @TheHamsterBot
 - Admin: @offensive-vk
