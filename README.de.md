@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Nur etwa 10% der weltweiten Währung sind physisches Geld, der Rest existiert nur auf Computern.❞</i>
+<i>❝ „Wenn der Code und die Kommentare nicht übereinstimmen, sind beide möglicherweise falsch.“ - Norm Schyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
