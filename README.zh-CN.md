@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝是一种称为Intercal的编程语言，它具有忽略，请忘记的关键字。如果您在编码时不使用足够的时间，则编译器会拒绝代码。</i>
+<i>❝“如果代码和评论不匹配，则可能两者都不正确。”  -  Norm Schryer❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
