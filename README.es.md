@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Los virus informáticos son una leyenda urbana". - Peter Norton, 1988 ❞</i>
+<i>❝ "Si el código y los comentarios no coinciden, posiblemente ambos son incorrectos". - Norm Schryer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
