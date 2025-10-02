@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>«Il y a un langage de programmation appelé Intercal qui a des mots clés comme Ignore, s'il vous plaît, oubliez. Si vous n'utilisez pas s'il vous plaît suffisamment de fois pendant le codage, le compilateur rejette le code.</i>
+<i>❝ «Obtenir des informations sur Internet, c'est comme prendre un verre dans une bouche d'incendie.» - Mitchell Kapor ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
