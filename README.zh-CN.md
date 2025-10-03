@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果代码和评论不匹配，则可能两者都不正确。”  -  Norm Schryer❞</i>
+<i>❝“评论您的代码就像在清洁浴室一样 - 您永远不想做，但确实为您和您的客人创造了更愉快的体验。”</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
