@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Obtenir des informations sur Internet, c'est comme prendre un verre dans une bouche d'incendie.» - Mitchell Kapor ❞</i>
+<i>❝ «La programmation peut être amusante, la cryptographie peut également être combinée.» - Kreitzberg et Shneiderman ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
