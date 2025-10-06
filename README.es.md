@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ "Si el código y los comentarios no coinciden, posiblemente ambos son incorrectos". - Norm Schryer ❞</i>
+<i>❝Mircosoft incluyó a Solitaire en sus sistemas operativos "para calmar a las personas intimidadas por el sistema operativo" e introducir a los usuarios interfaces gráficas de usuarios y les enseñó cómo usar un mouse.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
