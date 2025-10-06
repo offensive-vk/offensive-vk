@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ „Wenn der Code und die Kommentare nicht übereinstimmen, sind beide möglicherweise falsch.“ - Norm Schyer ❞</i>
+<i>❝Mircosoft hat Solitaire in ihre Betriebssysteme einbezogen, um „vom Betriebssystem eingeschüchterte Personen zu beruhigen“ und den Benutzern die grafischen Benutzeroberflächen vorzustellen und ihnen beigebracht zu haben, wie man eine Maus verwendet. ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
