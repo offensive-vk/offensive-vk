@@ -34,7 +34,7 @@ jobs:
       - name: Find the Comment in PR
         id: find
         if: ${{ github.event_name != 'issue_comment' || github.event_name != 'workflow_dispatch' }}
-        uses: peter-evans/find-comment@v3
+        uses: peter-evans/find-comment@v4
         continue-on-error: true
         with:
           issue-number: ${{ github.event.pull_request.number }}
