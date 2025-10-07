@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“评论您的代码就像在清洁浴室一样 - 您永远不想做，但确实为您和您的客人创造了更愉快的体验。”</i>
+<i>❝“程序测试可能是显示错误存在的一种非常有效的方法，但由于显示出其缺席而无可救药。”  -  Edsger Dijkstra❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -157,7 +157,7 @@
 8.  🎉合并PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒封闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
 10. 🔒封闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
-11. 🔒封闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+11. 🔒 已关闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
 12. 🔒封闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
 13. 🔒封闭问题[#6](https://github.com/offensive-vk/Temp/issues/6)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
 14. 🔒封闭问题[#5](https://github.com/offensive-vk/Temp/issues/5)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
