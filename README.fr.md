@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «La programmation peut être amusante, la cryptographie peut également être combinée.» - Kreitzberg et Shneiderman ❞</i>
+<i>❝ «Les tests de programme peuvent être un moyen très efficace de montrer la présence de bugs, mais est désespérément inadéquat pour montrer leur absence.» - Edsger Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#382](https://github.com/offensive-vk/UntilEverything/pull/382)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 PR fusionné[#382](https://github.com/offensive-vk/UntilEverything/pull/382)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
 2.  🎉 PR fusionné[#381](https://github.com/offensive-vk/UntilEverything/pull/381)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
 3.  🎉 PR fusionné[#10053](https://github.com/offensive-vk/Classics/pull/10053)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
 4.  🎉 PR fusionné[#380](https://github.com/offensive-vk/UntilEverything/pull/380)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-7.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+7.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Problème fermé[#12](https://github.com/offensive-vk/Temp/issues/12)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
 10. 🔒 Problème fermé[#11](https://github.com/offensive-vk/Temp/issues/11)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
@@ -161,14 +161,14 @@
 12. 🔒 Problème fermé[#7](https://github.com/offensive-vk/Temp/issues/7)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
 13. 🔒 Problème fermé[#6](https://github.com/offensive-vk/Temp/issues/6)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
 14. 🔒 Problème fermé[#5](https://github.com/offensive-vk/Temp/issues/5)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-15. 🔒 Problème fermé[#4](https://github.com/offensive-vk/Temp/issues/4)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+15. 🔒 Problème clos[#4](https://github.com/offensive-vk/Temp/issues/4)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡️ Quoi? Vous voulez plus d'activité?**[Cliquez ici](./RECENT.md)**
+➡️ Quoi ? Vous voulez plus d’activité ?**[Cliquez ici](./RECENT.md)**
 
 </details>
 
@@ -213,7 +213,7 @@
 
 **Vous voulez voir le fichier de workflow?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
-**Tu veux voir les statistiques du référentiel?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
+**Vous voulez voir les statistiques du référentiel ?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
 </details>
 
