@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mircosoft incluyó a Solitaire en sus sistemas operativos "para calmar a las personas intimidadas por el sistema operativo" e introducir a los usuarios interfaces gráficas de usuarios y les enseñó cómo usar un mouse.</i>
+<i>"" Las pruebas de programa pueden ser una forma muy efectiva de mostrar la presencia de errores, pero es irremediablemente inadecuada para mostrar su ausencia ". - Edsger Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -149,14 +149,14 @@
 
 1.  🎉 PR fusionado[#382](https://github.com/offensive-vk/UntilEverything/pull/382)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
 2.  🎉 PR fusionado[#381](https://github.com/offensive-vk/UntilEverything/pull/381)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionado[#10053](https://github.com/offensive-vk/Classics/pull/10053)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+3.  🎉 Relaciones públicas fusionadas[#10053](https://github.com/offensive-vk/Classics/pull/10053)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
 4.  🎉 PR fusionado[#380](https://github.com/offensive-vk/UntilEverything/pull/380)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionado[#379](https://github.com/offensive-vk/UntilEverything/pull/379)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 Relaciones públicas fusionadas[#379](https://github.com/offensive-vk/UntilEverything/pull/379)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 PR fusionado[#10052](https://github.com/offensive-vk/Classics/pull/10052)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
 7.  🎉 PR fusionado[#45](https://github.com/offensive-vk/develop-actions/pull/45)en[ofensivo-VK/Acciones de desarrollo](https://github.com/offensive-vk/develop-actions)
 8.  🎉 PR fusionado[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Problema cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-10. 🔒 Problema cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
+10. 🔒 Número cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
 11. 🔒 Problema cerrado[#8](https://github.com/offensive-vk/Temp/issues/8)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
 12. 🔒 Problema cerrado[#7](https://github.com/offensive-vk/Temp/issues/7)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
 13. 🔒 Problema cerrado[#6](https://github.com/offensive-vk/Temp/issues/6)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
