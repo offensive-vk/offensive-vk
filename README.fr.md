@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas l'objectif_.<br>🧑‍💻 J'aime écrire un ordinateur`code`.<br>🤝 Je cherche de l'aide dans mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'en apprends actuellement_méchant_truc.<br>💬 Je ne me demande rien.<br>👌 Je respecte mon temps.<br>⚡ Fait amusant: pas de plaisir, seulement du code.<br>💥 Continuez à bouger et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas l'objectif_.<br>🧑‍💻 J'aime écrire un ordinateur`code`.<br>🤝 Je cherche de l'aide dans mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬 Je ne me demande rien.<br>👌 Je respecte mon temps.<br>⚡ Fait amusant: pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Les tests de programme peuvent être un moyen très efficace de montrer la présence de bugs, mais est désespérément inadéquat pour montrer leur absence.» - Edsger Dijkstra ❞</i>
+<i>❝ «La génération de code, comme boire de l'alcool, est bonne avec modération.» - Alex Lowe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,28 +147,28 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 PR fusionné[#382](https://github.com/offensive-vk/UntilEverything/pull/382)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 PR fusionné[#381](https://github.com/offensive-vk/UntilEverything/pull/381)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 PR fusionné[#382](https://github.com/offensive-vk/UntilEverything/pull/382)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 PR fusionné[#381](https://github.com/offensive-vk/UntilEverything/pull/381)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
 3.  🎉 PR fusionné[#10053](https://github.com/offensive-vk/Classics/pull/10053)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-4.  🎉 PR fusionné[#380](https://github.com/offensive-vk/UntilEverything/pull/380)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 PR fusionné[#380](https://github.com/offensive-vk/UntilEverything/pull/380)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[Offensive-Vk / UntileVerving](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[Offensive-VK / Classics](https://github.com/offensive-vk/Classics)
-7.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk / awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🔒 Problème fermé[#12](https://github.com/offensive-vk/Temp/issues/12)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-10. 🔒 Problème fermé[#11](https://github.com/offensive-vk/Temp/issues/11)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-11. 🔒 Problème fermé[#8](https://github.com/offensive-vk/Temp/issues/8)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-12. 🔒 Problème fermé[#7](https://github.com/offensive-vk/Temp/issues/7)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-13. 🔒 Problème fermé[#6](https://github.com/offensive-vk/Temp/issues/6)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-14. 🔒 Problème fermé[#5](https://github.com/offensive-vk/Temp/issues/5)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
-15. 🔒 Problème clos[#4](https://github.com/offensive-vk/Temp/issues/4)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+6.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+7.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[Offensive-VK / Develop-Aactions](https://github.com/offensive-vk/develop-actions)
+8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🔒 Problème clos[#12](https://github.com/offensive-vk/Temp/issues/12)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+10. 🔒 Problème clos[#11](https://github.com/offensive-vk/Temp/issues/11)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+11. 🔒 Problème clos[#8](https://github.com/offensive-vk/Temp/issues/8)dans[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 Problème clos[#7](https://github.com/offensive-vk/Temp/issues/7)dans[VK offensive / température](https://github.com/offensive-vk/Temp)
+13. 🔒 Problème fermé[#6](https://github.com/offensive-vk/Temp/issues/6)dans[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒 Problème fermé[#5](https://github.com/offensive-vk/Temp/issues/5)dans[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒 Problème fermé[#4](https://github.com/offensive-vk/Temp/issues/4)dans[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡️ Quoi ? Vous voulez plus d’activité ?**[Cliquez ici](./RECENT.md)**
+➡️ Quoi? Vous voulez plus d'activité?**[Cliquez ici](./RECENT.md)**
 
 </details>
 
@@ -209,11 +209,11 @@
 
 [![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 
-**Tu veux tout voir?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/actions)
+**Vous voulez tout voir ?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/actions)
 
 **Vous voulez voir le fichier de workflow?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
-**Vous voulez voir les statistiques du référentiel ?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
+**Tu veux voir les statistiques du référentiel?**[Cliquez ici](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
 </details>
 
