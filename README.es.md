@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfección no es el objetivo._.<br>🧑‍💻 Me gusta escribir computadora`code`.<br>🤝 Estoy buscando ayuda en mi servidor.<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo algunos_asqueroso_cosa.<br>💬 Pregúntame nada.<br>👌 Respeto mi tiempo.<br>⚡ Dato curioso: no es divertido, solo código.<br>💥Sigue moviéndote y algún día lo superarás.<br>📧_Encontrarás un camino_.
+🔭_La perfección no es el objetivo._.<br>🧑‍💻 Me gusta escribir computadora`code`.<br>🤝 Estoy buscando ayuda en mi servidor.<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo algunos_asqueroso_cosa.<br>💬Preguntame sobre nada.<br>👌 Respeto mi tiempo.<br>⚡ Dato curioso: no es divertido, solo código.<br>💥Sigue moviéndote y algún día lo superarás.<br>📧_Encontrarás una manera_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La generación de códigos, al igual que beber alcohol, es buena con moderación.”— Alex Lowe ❞</i>
+<i>❝“Si el código y los comentarios no coinciden, posiblemente ambos sean incorrectos.”— Norm Schryer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#382](https://github.com/offensive-vk/UntilEverything/pull/382)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Relaciones públicas fusionadas[#381](https://github.com/offensive-vk/UntilEverything/pull/381)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 PR fusionado[#10053](https://github.com/offensive-vk/Classics/pull/10053)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+1.  🎉 Relaciones públicas fusionadas[#382](https://github.com/offensive-vk/UntilEverything/pull/382)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 Relaciones públicas fusionadas[#381](https://github.com/offensive-vk/UntilEverything/pull/381)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Relaciones públicas fusionadas[#10053](https://github.com/offensive-vk/Classics/pull/10053)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 4.  🎉 Relaciones públicas fusionadas[#380](https://github.com/offensive-vk/UntilEverything/pull/380)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionado[#379](https://github.com/offensive-vk/UntilEverything/pull/379)en[ofensivo-vk/un timbre](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 Relaciones públicas fusionadas[#10052](https://github.com/offensive-vk/Classics/pull/10052)en[ofensivo-vk/clásicos](https://github.com/offensive-vk/Classics)
+5.  🎉 Relaciones públicas fusionadas[#379](https://github.com/offensive-vk/UntilEverything/pull/379)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Relaciones públicas fusionadas[#10052](https://github.com/offensive-vk/Classics/pull/10052)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 7.  🎉 Relaciones públicas fusionadas[#45](https://github.com/offensive-vk/develop-actions/pull/45)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
 8.  🎉 Relaciones públicas fusionadas[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🔒 Problema cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
-10. 🔒 Número cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-11. 🔒 Problema cerrado[#8](https://github.com/offensive-vk/Temp/issues/8)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
-12. 🔒 Problema cerrado[#7](https://github.com/offensive-vk/Temp/issues/7)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
-13. 🔒 Número cerrado[#6](https://github.com/offensive-vk/Temp/issues/6)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-14. 🔒 Problema cerrado[#5](https://github.com/offensive-vk/Temp/issues/5)en[ofensivo-vk/temperatura](https://github.com/offensive-vk/Temp)
-15. 🔒 Problema cerrado[#4](https://github.com/offensive-vk/Temp/issues/4)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
+9.  🔒 Número cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 Número cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 Número cerrado[#8](https://github.com/offensive-vk/Temp/issues/8)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 Número cerrado[#7](https://github.com/offensive-vk/Temp/issues/7)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 Número cerrado[#6](https://github.com/offensive-vk/Temp/issues/6)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒 Número cerrado[#5](https://github.com/offensive-vk/Temp/issues/5)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒 Número cerrado[#4](https://github.com/offensive-vk/Temp/issues/4)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
@@ -209,7 +209,7 @@
 
 [![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 
-**¿Quieres ver todo?**[Haga clic aquí](https://github.com/offensive-vk/offensive-vk/actions)
+**¿Quieres verlo todo?**[Haga clic aquí](https://github.com/offensive-vk/offensive-vk/actions)
 
 **¿Quieres ver el archivo de flujo de trabajo?**[Haga clic aquí](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
