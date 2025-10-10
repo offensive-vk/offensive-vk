@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM war 1983 so mächtig, dass die Leute befürchteten, sein PCjr-Heimcomputer würde Apple, Commodore und alle anderen Konkurrenten zerstören. Der PCjr wurde „einer der größten Flops in der Geschichte der Informatik“.❞</i>
+<i>❝„Wenn der Code und die Kommentare nicht übereinstimmen, sind möglicherweise beide falsch.“ – Norm Schryer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
