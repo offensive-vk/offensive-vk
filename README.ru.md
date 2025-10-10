@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Совершенство не цель_.<br>🧑‍💻 Я люблю писать компьютер`code`.<br>🤝 Я ищу помощь на своем сервере.<br>✨ Жизнь внутри`terminal`.<br>🌱 Я в настоящее время изучаю некоторые_противный_вещи.<br>💬 Спросите меня ни о чем.<br>👌 Я уважаю свое время.<br>⚡ Забавный факт: нет веселья, только код.<br>💥 Продолжайте двигаться, и вы преодолете один день.<br>📧_Вы найдете способ_.
+🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь на моем сервере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝mircosoft включал в себя Solitaire в свои операционные системы «чтобы успокоить людей, запугиваемых операционной системой» и познакомить пользователей с графическими пользовательскими интерфейсами и научил их, как использовать мышь.</i>
+<i>❝ «Если код и комментарии не совпадают, возможно, оба они неверны». — Норм Шрайер ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,28 +147,28 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный Pr[#382](https://github.com/offensive-vk/UntilEverything/pull/382)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Объединенный Pr[#381](https://github.com/offensive-vk/UntilEverything/pull/381)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Объединенный Pr[#10053](https://github.com/offensive-vk/Classics/pull/10053)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-4.  🎉 Объединенный Pr[#380](https://github.com/offensive-vk/UntilEverything/pull/380)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Объединенный Pr[#379](https://github.com/offensive-vk/UntilEverything/pull/379)в[Наступление-VK/безвредное](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 Объединенный Pr[#10052](https://github.com/offensive-vk/Classics/pull/10052)в[Наступление-VK/классика](https://github.com/offensive-vk/Classics)
-7.  🎉 Объединенный Pr[#45](https://github.com/offensive-vk/develop-actions/pull/45)в[Наступление-VK/развитие-действия](https://github.com/offensive-vk/develop-actions)
-8.  🎉 Объединенный Pr[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[Наступление-VK/Awesomecloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🔒 Закрытая проблема[#12](https://github.com/offensive-vk/Temp/issues/12)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-10. 🔒 Закрытая проблема[#11](https://github.com/offensive-vk/Temp/issues/11)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-11. 🔒 Закрытая проблема[#8](https://github.com/offensive-vk/Temp/issues/8)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-12. 🔒 Закрытая проблема[#7](https://github.com/offensive-vk/Temp/issues/7)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-13. 🔒 Закрытая проблема[#6](https://github.com/offensive-vk/Temp/issues/6)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-14. 🔒 Закрытая проблема[#5](https://github.com/offensive-vk/Temp/issues/5)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 Закрытая проблема[#4](https://github.com/offensive-vk/Temp/issues/4)в[Наступление-VK/Temp](https://github.com/offensive-vk/Temp)
+1.  🎉 Объединенный пиар[#382](https://github.com/offensive-vk/UntilEverything/pull/382)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 Объединенный пиар[#381](https://github.com/offensive-vk/UntilEverything/pull/381)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 Объединенный пиар[#10053](https://github.com/offensive-vk/Classics/pull/10053)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+4.  🎉 Объединенный пиар[#380](https://github.com/offensive-vk/UntilEverything/pull/380)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 Объединенный пиар[#379](https://github.com/offensive-vk/UntilEverything/pull/379)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 Объединенный пиар[#10052](https://github.com/offensive-vk/Classics/pull/10052)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+7.  🎉 Объединенный пиар[#45](https://github.com/offensive-vk/develop-actions/pull/45)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
+8.  🎉 Объединенный пиар[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🔒 Вопрос закрыт.[#12](https://github.com/offensive-vk/Temp/issues/12)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 Вопрос закрыт.[#11](https://github.com/offensive-vk/Temp/issues/11)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 Вопрос закрыт.[#8](https://github.com/offensive-vk/Temp/issues/8)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 Вопрос закрыт.[#7](https://github.com/offensive-vk/Temp/issues/7)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 Вопрос закрыт.[#6](https://github.com/offensive-vk/Temp/issues/6)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒 Вопрос закрыт.[#5](https://github.com/offensive-vk/Temp/issues/5)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒 Вопрос закрыт.[#4](https://github.com/offensive-vk/Temp/issues/4)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡ Что? Хотите больше активности?**[Кликните сюда](./RECENT.md)**
+➡️ Что? Хотите больше активности?**[Кликните сюда](./RECENT.md)**
 
 </details>
 
@@ -209,7 +209,7 @@
 
 [![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
 
-**Хотите все увидеть?**[Кликните сюда](https://github.com/offensive-vk/offensive-vk/actions)
+**Хотите увидеть все?**[Кликните сюда](https://github.com/offensive-vk/offensive-vk/actions)
 
 **Хотите увидеть файл рабочего процесса?**[Кликните сюда](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
