@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_完美不是目标_.<br>🧑‍💻 我喜欢写电脑`code`.<br>🤝我在服务器中寻求帮助。<br>✨ 住在里面`terminal`.<br>🌱我目前正在学习一些_可恶的_东西。<br>💬什么都别问我。<br>👌我尊重我的时间。<br>⚡有趣的事实：没有乐趣，只有代码。<br>💥继续前进，您将克服一天。<br>📧_你会找到办法_.
+🔭_完美不是目标_.<br>🧑‍💻 我喜欢写电脑`code`.<br>🤝 我正在我的服务器中寻求帮助。<br>✨ 住在里面`terminal`.<br>🌱我目前正在学习一些_可恶的_东西。<br>💬什么都别问我。<br>👌我尊重我的时间。<br>⚡ 有趣的事实：没有乐趣，只有代码。<br>💥 继续前进，总有一天你会克服的。<br>📧_你会找到办法_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“代码生成就像喝酒一样，适量就好。”—— Alex Lowe ❞</i>
+<i>❝“如果代码和注释不匹配，则可能两者都不正确。”— Norm Schryer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉合并PR[#382](https://github.com/offensive-vk/UntilEverything/pull/382)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉合并PR[#381](https://github.com/offensive-vk/UntilEverything/pull/381)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 合并公关[#10053](https://github.com/offensive-vk/Classics/pull/10053)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-4.  🎉合并PR[#380](https://github.com/offensive-vk/UntilEverything/pull/380)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉合并PR[#379](https://github.com/offensive-vk/UntilEverything/pull/379)在[进攻性vk/untileverything](https://github.com/offensive-vk/UntilEverything)
-6.  🎉合并PR[#10052](https://github.com/offensive-vk/Classics/pull/10052)在[进攻性VK/经典](https://github.com/offensive-vk/Classics)
-7.  🎉合并PR[#45](https://github.com/offensive-vk/develop-actions/pull/45)在[进攻性VK/开发行动](https://github.com/offensive-vk/develop-actions)
-8.  🎉合并PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🔒封闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+1.  🎉 合并公关[#382](https://github.com/offensive-vk/UntilEverything/pull/382)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 合并公关[#381](https://github.com/offensive-vk/UntilEverything/pull/381)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 合并公关[#10053](https://github.com/offensive-vk/Classics/pull/10053)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+4.  🎉 合并公关[#380](https://github.com/offensive-vk/UntilEverything/pull/380)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 合并公关[#379](https://github.com/offensive-vk/UntilEverything/pull/379)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+6.  🎉 合并公关[#10052](https://github.com/offensive-vk/Classics/pull/10052)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+7.  🎉 合并公关[#45](https://github.com/offensive-vk/develop-actions/pull/45)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+8.  🎉 合并公关[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🔒 已关闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 已关闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 已关闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
-12. 🔒封闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+12. 🔒 已关闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 已关闭问题[#6](https://github.com/offensive-vk/Temp/issues/6)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 14. 🔒 已关闭问题[#5](https://github.com/offensive-vk/Temp/issues/5)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 已关闭问题[#4](https://github.com/offensive-vk/Temp/issues/4)在[进攻性vk/temp](https://github.com/offensive-vk/Temp)
+15. 🔒 已关闭问题[#4](https://github.com/offensive-vk/Temp/issues/4)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
@@ -211,7 +211,7 @@
 
 **想看到一切吗？**[点击这里](https://github.com/offensive-vk/offensive-vk/actions)
 
-**想查看工作流文件吗？**[点击这里](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
+**想查看工作流程文件吗？**[点击这里](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
 **想查看存储库统计信息吗？**[点击这里](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
