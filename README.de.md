@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn der Code und die Kommentare nicht übereinstimmen, sind möglicherweise beide falsch.“ – Norm Schryer ❞</i>
+<i>❝Mehr als 80 % der täglich versendeten E-Mails sind Spam.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
