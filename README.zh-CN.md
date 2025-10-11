@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果代码和注释不匹配，则可能两者都不正确。”— Norm Schryer ❞</i>
+<i>❝每天发送的电子邮件中有超过 80% 是垃圾邮件。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
