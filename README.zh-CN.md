@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝每天发送的电子邮件中有超过 80% 是垃圾邮件。❞</i>
+<i>❝全球有超过 15 亿个即时通讯 ID。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
