@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Si el código y los comentarios no coinciden, posiblemente ambos sean incorrectos.”— Norm Schryer ❞</i>
+<i>❝Hay más de 1.500 millones de identificadores de mensajería instantánea en todo el mundo.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
