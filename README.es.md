@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Hay más de 1.500 millones de identificadores de mensajería instantánea en todo el mundo.❞</i>
+<i>❝Según una encuesta, la mayoría de las aplicaciones de su dispositivo Android filtran sus datos, así que tenga cuidado.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
