@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أنا أبحث عن مساعدة في الخادم الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌 أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: لا متعة ، رمز فقط.<br>💥 استمر في التحرك وستتغلب على يوم واحد.<br>📧_سوف تجد طريقة_.
+🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب الكتابة بالكمبيوتر`code`.<br>🤝 أبحث عن مساعدة في الخادم الخاص بي.<br>✨العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا منها حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: ليس هناك متعة، كود فقط.<br>💥 استمر في التحرك وسوف تتغلب عليه يومًا ما.<br>📧_سوف تجد وسيلة_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"توليد الأكواد، مثل شرب الكحول، جيد باعتدال." - أليكس لوي ❞</i>
+<i>❝وفقًا لاستطلاع رأي، فإن معظم التطبيقات الموجودة على جهاز Android الخاص بك تسرّب بياناتك، لذا كن على علم.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,28 +147,28 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 اندمج العلاقات العامة[#382](https://github.com/offensive-vk/UntilEverything/pull/382)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 اندمج العلاقات العامة[#381](https://github.com/offensive-vk/UntilEverything/pull/381)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 اندمج العلاقات العامة[#10053](https://github.com/offensive-vk/Classics/pull/10053)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-4.  🎉 اندمج العلاقات العامة[#380](https://github.com/offensive-vk/UntilEverything/pull/380)في[هجوم فلك/حراب](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 العلاقات العامة المدمجة[#382](https://github.com/offensive-vk/UntilEverything/pull/382)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🎉 العلاقات العامة المدمجة[#381](https://github.com/offensive-vk/UntilEverything/pull/381)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  🎉 العلاقات العامة المدمجة[#10053](https://github.com/offensive-vk/Classics/pull/10053)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+4.  🎉 العلاقات العامة المدمجة[#380](https://github.com/offensive-vk/UntilEverything/pull/380)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 العلاقات العامة المدمجة[#379](https://github.com/offensive-vk/UntilEverything/pull/379)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 اندمج العلاقات العامة[#10052](https://github.com/offensive-vk/Classics/pull/10052)في[هجوم هجومي/كلاسيكيات](https://github.com/offensive-vk/Classics)
-7.  🎉 العلاقات العامة المدمجة[#45](https://github.com/offensive-vk/develop-actions/pull/45)في[الهجوم VK/التطوير](https://github.com/offensive-vk/develop-actions)
-8.  🎉 اندمج العلاقات العامة[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🔒 قضية مغلقة[#12](https://github.com/offensive-vk/Temp/issues/12)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-10. 🔒 قضية مغلقة[#11](https://github.com/offensive-vk/Temp/issues/11)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-11. 🔒 قضية مغلقة[#8](https://github.com/offensive-vk/Temp/issues/8)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+6.  🎉 العلاقات العامة المدمجة[#10052](https://github.com/offensive-vk/Classics/pull/10052)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+7.  🎉 العلاقات العامة المدمجة[#45](https://github.com/offensive-vk/develop-actions/pull/45)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
+8.  🎉 العلاقات العامة المدمجة[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+9.  🔒 قضية مغلقة[#12](https://github.com/offensive-vk/Temp/issues/12)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
+10. 🔒 قضية مغلقة[#11](https://github.com/offensive-vk/Temp/issues/11)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
+11. 🔒 قضية مغلقة[#8](https://github.com/offensive-vk/Temp/issues/8)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
 12. 🔒 قضية مغلقة[#7](https://github.com/offensive-vk/Temp/issues/7)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
 13. 🔒 قضية مغلقة[#6](https://github.com/offensive-vk/Temp/issues/6)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
-14. 🔒 قضية مغلقة[#5](https://github.com/offensive-vk/Temp/issues/5)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
-15. 🔒 قضية مغلقة[#4](https://github.com/offensive-vk/Temp/issues/4)في[هجوم هجومي/درجة الحرارة](https://github.com/offensive-vk/Temp)
+14. 🔒 قضية مغلقة[#5](https://github.com/offensive-vk/Temp/issues/5)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
+15. 🔒 قضية مغلقة[#4](https://github.com/offensive-vk/Temp/issues/4)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
 
 * * *
 
-➡ ماذا؟ تريد المزيد من النشاط؟**[انقر هنا](./RECENT.md)**
+➡️ ماذا؟ هل تريد المزيد من النشاط؟**[انقر هنا](./RECENT.md)**
 
 </details>
 
@@ -213,7 +213,7 @@
 
 **هل تريد رؤية ملف سير العمل؟**[انقر هنا](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
 
-**هل تريد رؤية احصائيات المستودع؟**[انقر هنا](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
+**هل تريد رؤية إحصائيات المستودع؟**[انقر هنا](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
 
 </details>
 
