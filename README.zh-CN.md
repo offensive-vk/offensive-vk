@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝全球有超过 15 亿个即时通讯 ID。❞</i>
+<i>❝最初的 Halo 是第三人称游戏，专为 Mac 设计。 2000 年，微软收购了 Bungie，并使其成为初代 Xbox 的独占产品。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
