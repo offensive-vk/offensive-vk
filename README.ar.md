@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝وفقًا لاستطلاع رأي، فإن معظم التطبيقات الموجودة على جهاز Android الخاص بك تسرّب بياناتك، لذا كن على علم.❞</i>
+<i>❝يعد IMDb واحدًا من أقدم مواقع الويب على الإنترنت، وقد بدأ على Usenet في عام 1990 كقائمة "للممثلات ذوات العيون الجميلة".❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#382](https://github.com/offensive-vk/UntilEverything/pull/382)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 العلاقات العامة المدمجة[#381](https://github.com/offensive-vk/UntilEverything/pull/381)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 تم التعليق عليه[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 3.  🎉 العلاقات العامة المدمجة[#10053](https://github.com/offensive-vk/Classics/pull/10053)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
 4.  🎉 العلاقات العامة المدمجة[#380](https://github.com/offensive-vk/UntilEverything/pull/380)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 العلاقات العامة المدمجة[#379](https://github.com/offensive-vk/UntilEverything/pull/379)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
