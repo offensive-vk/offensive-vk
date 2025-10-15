@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Laut einer Umfrage geben die meisten Apps auf Ihrem Android-Gerät Ihre Daten preis, seien Sie also vorsichtig.❞</i>
+<i>❝IMDb ist eine der ältesten Websites im Internet und begann 1990 im Usenet als Liste von „Schauspielerinnen mit schönen Augen“.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#382](https://github.com/offensive-vk/UntilEverything/pull/382)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Zusammengeführte PR[#381](https://github.com/offensive-vk/UntilEverything/pull/381)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Kommentiert[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Kommentiert[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 3.  🎉 Zusammengeführte PR[#10053](https://github.com/offensive-vk/Classics/pull/10053)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 4.  🎉 Zusammengeführte PR[#380](https://github.com/offensive-vk/UntilEverything/pull/380)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 Zusammengeführte PR[#379](https://github.com/offensive-vk/UntilEverything/pull/379)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
