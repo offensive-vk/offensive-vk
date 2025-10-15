@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Оригинальная игра Halo была от третьего лица и была разработана для Mac. В 2000 году Microsoft купила Bungie и сделала ее эксклюзивной для оригинальной Xbox.❞</i>
+<i>❝IMDb — один из старейших веб-сайтов в Интернете. Он появился в Usenet в 1990 году как список «актрис с красивыми глазами».❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#382](https://github.com/offensive-vk/UntilEverything/pull/382)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Объединенный пиар[#381](https://github.com/offensive-vk/UntilEverything/pull/381)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Прокомментировал[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Прокомментировал[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 3.  🎉 Объединенный пиар[#10053](https://github.com/offensive-vk/Classics/pull/10053)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
 4.  🎉 Объединенный пиар[#380](https://github.com/offensive-vk/UntilEverything/pull/380)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 Объединенный пиар[#379](https://github.com/offensive-vk/UntilEverything/pull/379)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
