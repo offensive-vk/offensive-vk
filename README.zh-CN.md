@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝最初的 Halo 是第三人称游戏，专为 Mac 设计。 2000 年，微软收购了 Bungie，并使其成为初代 Xbox 的独占产品。❞</i>
+<i>❝“调试时，新手插入正确的代码；专家删除有缺陷的代码。”— Richard Pattis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#382](https://github.com/offensive-vk/UntilEverything/pull/382)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 合并公关[#381](https://github.com/offensive-vk/UntilEverything/pull/381)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 已发表评论[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 已发表评论[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 3.  🎉 合并公关[#10053](https://github.com/offensive-vk/Classics/pull/10053)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
 4.  🎉 合并公关[#380](https://github.com/offensive-vk/UntilEverything/pull/380)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 合并公关[#379](https://github.com/offensive-vk/UntilEverything/pull/379)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
