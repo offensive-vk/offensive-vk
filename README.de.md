@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IMDb ist eine der ältesten Websites im Internet und begann 1990 im Usenet als Liste von „Schauspielerinnen mit schönen Augen“.❞</i>
+<i>❝„Beim Debuggen fügen Anfänger Korrekturcode ein; Experten entfernen fehlerhaften Code.“ – Richard Pattis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
