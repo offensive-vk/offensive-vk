@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Según una encuesta, la mayoría de las aplicaciones de su dispositivo Android filtran sus datos, así que tenga cuidado.❞</i>
+<i>❝“Al realizar la depuración, los principiantes insertan un código correctivo; los expertos eliminan el código defectuoso.”— Richard Pattis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#382](https://github.com/offensive-vk/UntilEverything/pull/382)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🎉 Relaciones públicas fusionadas[#381](https://github.com/offensive-vk/UntilEverything/pull/381)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Comentado en[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Comentado en[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 3.  🎉 Relaciones públicas fusionadas[#10053](https://github.com/offensive-vk/Classics/pull/10053)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 4.  🎉 Relaciones públicas fusionadas[#380](https://github.com/offensive-vk/UntilEverything/pull/380)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 Relaciones públicas fusionadas[#379](https://github.com/offensive-vk/UntilEverything/pull/379)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
