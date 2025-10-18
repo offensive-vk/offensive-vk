@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Lors du débogage, les novices insèrent le code correctif ; les experts suppriment le code défectueux."— Richard Pattis ❞</i>
+<i>❝"Toutes les pièces doivent s'assembler sans forcer. Vous devez vous rappeler que les pièces que vous remontez ont été démontées par vous. Par conséquent, si vous ne pouvez pas les assembler à nouveau, il doit y avoir une raison. Bien sûr, n'utilisez pas de marteau. "- Manuel IBM, 1925 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Commenté[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Commenté[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Commenté[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Commenté[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
 3.  🎉 PR fusionné[#10053](https://github.com/offensive-vk/Classics/pull/10053)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-4.  🎉 PR fusionné[#380](https://github.com/offensive-vk/UntilEverything/pull/380)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 PR fusionné[#380](https://github.com/offensive-vk/UntilEverything/pull/380)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
 7.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
