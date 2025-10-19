@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Toutes les pièces doivent s'assembler sans forcer. Vous devez vous rappeler que les pièces que vous remontez ont été démontées par vous. Par conséquent, si vous ne pouvez pas les assembler à nouveau, il doit y avoir une raison. Bien sûr, n'utilisez pas de marteau. "- Manuel IBM, 1925 ❞</i>
+<i>❝Windows 95 était le deuxième logiciel le plus installé sur les ordinateurs en 1995, suivi du jeu vidéo DOOM.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
