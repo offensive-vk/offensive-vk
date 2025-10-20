@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 95 était le deuxième logiciel le plus installé sur les ordinateurs en 1995, suivi du jeu vidéo DOOM.❞</i>
+<i>❝La femme qui a loué son garage à Larry Page et Sergey Brin en 1998 alors qu'ils créaient Google est devenue plus tard PDG de YouTube.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
