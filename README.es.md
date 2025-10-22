@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La mujer que alquiló su garaje a Larry Page y Sergey Brin en 1998 cuando estaban creando Google se convirtió más tarde en la directora ejecutiva de YouTube.❞</i>
+<i>❝“La informática no se trata de computadoras, como la astronomía no se trata de telescopios.”—Edsger W. Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentado en[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Comentado en[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Relaciones públicas fusionadas[#10053](https://github.com/offensive-vk/Classics/pull/10053)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+1.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🗣 Comentado en[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Comentado en[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 4.  🎉 Relaciones públicas fusionadas[#380](https://github.com/offensive-vk/UntilEverything/pull/380)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 Relaciones públicas fusionadas[#379](https://github.com/offensive-vk/UntilEverything/pull/379)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 Relaciones públicas fusionadas[#10052](https://github.com/offensive-vk/Classics/pull/10052)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
