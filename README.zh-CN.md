@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 95 是 1995 年计算机上安装量第二大的软件，视频游戏《DOOM》位居第一。❞</i>
+<i>❝“计算机科学不再是关于计算机，就像天文学不再是关于望远镜一样。”— Edsger W. Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 已发表评论[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 已发表评论[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 合并公关[#10053](https://github.com/offensive-vk/Classics/pull/10053)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+1.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🗣 已发表评论[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 已发表评论[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  🎉 合并公关[#380](https://github.com/offensive-vk/UntilEverything/pull/380)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 合并公关[#379](https://github.com/offensive-vk/UntilEverything/pull/379)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 合并公关[#10052](https://github.com/offensive-vk/Classics/pull/10052)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
