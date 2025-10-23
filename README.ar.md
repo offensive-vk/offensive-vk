@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"بعض الأشخاص، عندما يواجهون مشكلة ما، يفكرون "أعلم، سأستخدم التعبيرات العادية". الآن لديهم مشكلتان." - جيمي زاوينسكي ❞</i>
+<i>❝"إن علوم الكمبيوتر لا تتعلق بأجهزة الكمبيوتر أكثر من علم الفلك الذي يتعلق بالتلسكوبات." - Edsger W. Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 تم التعليق عليه[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 تم التعليق عليه[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 العلاقات العامة المدمجة[#10053](https://github.com/offensive-vk/Classics/pull/10053)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+1.  ❌ علاقات عامة مغلقة[#109](undefined)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🗣 تم التعليق عليه[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 تم التعليق عليه[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 4.  🎉 العلاقات العامة المدمجة[#380](https://github.com/offensive-vk/UntilEverything/pull/380)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 العلاقات العامة المدمجة[#379](https://github.com/offensive-vk/UntilEverything/pull/379)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 العلاقات العامة المدمجة[#10052](https://github.com/offensive-vk/Classics/pull/10052)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
