@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Manche Leute denken, wenn sie mit einem Problem konfrontiert werden: ‚Ich weiß, ich werde reguläre Ausdrücke verwenden.‘ Jetzt haben sie zwei Probleme.“ – Jamie Zawinski ❞</i>
+<i>❝„In der Informatik geht es genauso wenig um Computer wie in der Astronomie um Teleskope.“ – Edsger W. Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Kommentiert[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Kommentiert[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Zusammengeführte PR[#10053](https://github.com/offensive-vk/Classics/pull/10053)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+1.  ❌ Geschlossene PR[#109](undefined)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🗣 Kommentiert[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Kommentiert[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  🎉 Zusammengeführte PR[#380](https://github.com/offensive-vk/UntilEverything/pull/380)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 Zusammengeführte PR[#379](https://github.com/offensive-vk/UntilEverything/pull/379)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 Zusammengeführte PR[#10052](https://github.com/offensive-vk/Classics/pull/10052)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 7.  🎉 Zusammengeführte PR[#45](https://github.com/offensive-vk/develop-actions/pull/45)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 8.  🎉 Zusammengeführte PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🔒Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-10. 🔒Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-11. 🔒Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+9.  🔒 Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-13. 🔒Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-14. 🔒Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒 Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
