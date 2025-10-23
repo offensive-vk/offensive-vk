@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Некоторые люди, столкнувшись с проблемой, думают: «Я знаю, я буду использовать регулярные выражения». Теперь у них есть две проблемы» — Джейми Завински ❞</i>
+<i>❝ «Информатика связана с компьютерами не больше, чем астрономия с телескопами». — Эдсгер В. Дейкстра ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Прокомментировал[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Прокомментировал[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🎉 Объединенный пиар[#10053](https://github.com/offensive-vk/Classics/pull/10053)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+1.  ❌ Закрытый пиар[#109](undefined)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🗣 Прокомментировал[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Прокомментировал[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  🎉 Объединенный пиар[#380](https://github.com/offensive-vk/UntilEverything/pull/380)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 Объединенный пиар[#379](https://github.com/offensive-vk/UntilEverything/pull/379)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 Объединенный пиар[#10052](https://github.com/offensive-vk/Classics/pull/10052)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
