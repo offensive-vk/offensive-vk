@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机科学不再是关于计算机，就像天文学不再是关于望远镜一样。”— Edsger W. Dijkstra ❞</i>
+<i>❝“软件就像熵：它很难掌握，没有重量，并且遵循热力学第二定律；即，它总是在增加。”——诺曼·奥古斯丁❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
