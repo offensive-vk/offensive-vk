@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La informática no se trata de computadoras, como la astronomía no se trata de telescopios.”—Edsger W. Dijkstra ❞</i>
+<i>❝El Registro Federal de EE. UU. todavía utiliza disquetes enviados por mensajería porque un sistema de correo electrónico seguro es “demasiado caro”.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
