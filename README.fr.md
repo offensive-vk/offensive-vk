@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Le logiciel est comme l'entropie : il est difficile à saisir, ne pèse rien et obéit à la deuxième loi de la thermodynamique ; c'est-à-dire qu'il augmente toujours. » – Norman Augustine ❞</i>
+<i>❝Le Federal Register des États-Unis utilise encore des disquettes envoyées par coursier car un système de messagerie sécurisé est « trop cher ».❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
