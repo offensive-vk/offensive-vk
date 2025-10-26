@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝美国联邦公报仍在使用快递发送的软盘，因为安全的电子邮件系统“太昂贵”。❞</i>
+<i>❝《太空侵略者》游戏的目的是始终以相同的速度进行游戏，但随着你消灭更多的外星人，计算机可以渲染得更快。这就是为什么当你接近关卡终点时外星人会加速的原因。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🗣 已发表评论[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 已发表评论[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 合并公关[#380](https://github.com/offensive-vk/UntilEverything/pull/380)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 已发表评论[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🗣 已发表评论[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 已发表评论[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 合并公关[#379](https://github.com/offensive-vk/UntilEverything/pull/379)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 合并公关[#10052](https://github.com/offensive-vk/Classics/pull/10052)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
 7.  🎉 合并公关[#45](https://github.com/offensive-vk/develop-actions/pull/45)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
