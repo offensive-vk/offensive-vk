@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El Registro Federal de EE. UU. todavía utiliza disquetes enviados por mensajería porque un sistema de correo electrónico seguro es “demasiado caro”.❞</i>
+<i>❝El juego Space Invaders estaba pensado para jugarse siempre a la misma velocidad, pero a medida que destruyes más alienígenas, la computadora puede renderizar más rápido. Es por eso que los alienígenas aceleran a medida que te acercas al final del nivel.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🗣 Comentado en[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 Comentado en[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Relaciones públicas fusionadas[#380](https://github.com/offensive-vk/UntilEverything/pull/380)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Comentado en[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🗣 Comentado en[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 Comentado en[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 Relaciones públicas fusionadas[#379](https://github.com/offensive-vk/UntilEverything/pull/379)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 Relaciones públicas fusionadas[#10052](https://github.com/offensive-vk/Classics/pull/10052)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 7.  🎉 Relaciones públicas fusionadas[#45](https://github.com/offensive-vk/develop-actions/pull/45)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
