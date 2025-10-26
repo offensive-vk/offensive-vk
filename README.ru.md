@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Программное обеспечение похоже на энтропию: его трудно уловить, оно ничего не весит и подчиняется второму закону термодинамики; то есть оно всегда увеличивается» — Норман Августин ❞</i>
+<i>❝Игра Space Invaders должна была всегда проходить с одинаковой скоростью, но по мере того, как вы уничтожаете больше инопланетян, компьютер может рендерить быстрее. Вот почему инопланетяне ускоряются по мере приближения к концу уровня.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Закрытый пиар[#109](undefined)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🗣 Прокомментировал[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 Прокомментировал[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 Объединенный пиар[#380](https://github.com/offensive-vk/UntilEverything/pull/380)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Прокомментировал[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ Закрытый пиар[#109](undefined)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🗣 Прокомментировал[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 Прокомментировал[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 Объединенный пиар[#379](https://github.com/offensive-vk/UntilEverything/pull/379)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 Объединенный пиар[#10052](https://github.com/offensive-vk/Classics/pull/10052)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
 7.  🎉 Объединенный пиар[#45](https://github.com/offensive-vk/develop-actions/pull/45)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
