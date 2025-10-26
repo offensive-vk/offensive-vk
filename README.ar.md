@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝لا يزال السجل الفيدرالي الأمريكي يستخدم الأقراص المرنة المرسلة عن طريق البريد السريع لأن نظام البريد الإلكتروني الآمن "مكلف للغاية".❞</i>
+<i>❝تم تصميم لعبة Space Invaders ليتم لعبها دائمًا بنفس السرعة، ولكن عندما تقوم بتدمير المزيد من الكائنات الفضائية، يمكن لجهاز الكمبيوتر أن يتم عرضه بشكل أسرع. وهذا هو السبب وراء تسريع الكائنات الفضائية عندما تقترب من نهاية المستوى.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ علاقات عامة مغلقة[#109](undefined)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🗣 تم التعليق عليه[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 تم التعليق عليه[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-4.  🎉 العلاقات العامة المدمجة[#380](https://github.com/offensive-vk/UntilEverything/pull/380)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 تم التعليق عليه[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ علاقات عامة مغلقة[#109](undefined)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+3.  🗣 تم التعليق عليه[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 تم التعليق عليه[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 5.  🎉 العلاقات العامة المدمجة[#379](https://github.com/offensive-vk/UntilEverything/pull/379)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 العلاقات العامة المدمجة[#10052](https://github.com/offensive-vk/Classics/pull/10052)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
 7.  🎉 العلاقات العامة المدمجة[#45](https://github.com/offensive-vk/develop-actions/pull/45)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
