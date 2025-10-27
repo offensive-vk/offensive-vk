@@ -23,5 +23,4 @@
 22. 🗣 Commented on issue [#383](https://github.com/offensive-vk/UntilEverything/issues/383) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 23. ✅ Approved on pull request [#384](https://github.com/offensive-vk/UntilEverything/pull/384) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 24. ✅ Approved on pull request [#30837](https://github.com/offensive-vk/offensive-vk/pull/30837) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-25. ✅ Approved on pull request [#30832](https://github.com/offensive-vk/offensive-vk/pull/30832) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
