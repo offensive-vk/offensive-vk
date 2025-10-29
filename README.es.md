@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El juego Space Invaders estaba pensado para jugarse siempre a la misma velocidad, pero a medida que destruyes más alienígenas, la computadora puede renderizar más rápido. Es por eso que los alienígenas aceleran a medida que te acercas al final del nivel.❞</i>
+<i>❝“Antes de que el hombre llegue a la Luna, el correo se entregará en cuestión de horas desde Nueva York a California, Gran Bretaña, India o Australia.”— Arthur Summerfield, 1959, United States Post❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
