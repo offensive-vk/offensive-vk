@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 95 était le deuxième logiciel le plus installé sur les ordinateurs en 1995, suivi du jeu vidéo DOOM.❞</i>
+<i>❝« Avant que l'homme n'atteigne la lune, le courrier sera livré en quelques heures de New York à la Californie, en Grande-Bretagne, en Inde ou en Australie. » — Arthur Summerfield, 1959, United States Post❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -149,9 +149,9 @@
 
 1.  🗣 Commenté[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 2.  ❌ PR fermé[#109](undefined)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🗣 Commenté[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Commenté[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
 4.  🗣 Commenté[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+5.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
 6.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
 7.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
