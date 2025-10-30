@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“万维网”一词是 Tim Berners 于 1990 年发明的。❞</i>
+<i>❝“更改规格以适应程序比反之亦然更容易。”— Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
