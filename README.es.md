@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Antes de que el hombre llegue a la Luna, el correo se entregará en cuestión de horas desde Nueva York a California, Gran Bretaña, India o Australia.”— Arthur Summerfield, 1959, United States Post❞</i>
+<i>❝“Es más fácil cambiar la especificación para adaptarla al programa que viceversa.”—Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
