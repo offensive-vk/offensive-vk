@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Es más fácil cambiar la especificación para adaptarla al programa que viceversa.”—Alan Perlis ❞</i>
+<i>❝“Si no manejas[excepciones], cerramos su aplicación.  Esto aumenta drásticamente la fiabilidad del sistema.”— Anders Hejlsberg ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
