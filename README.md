@@ -139,13 +139,13 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2. ❌ Closed PR [#109](undefined) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-3. 🗣 Commented on [#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4. 🗣 Commented on [#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5. 🎉 Merged PR [#379](https://github.com/offensive-vk/UntilEverything/pull/379) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6. 🎉 Merged PR [#10052](https://github.com/offensive-vk/Classics/pull/10052) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-7. 🎉 Merged PR [#45](https://github.com/offensive-vk/develop-actions/pull/45) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+1. 🔒 Closed issue [#30864](https://github.com/offensive-vk/offensive-vk/issues/30864) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2. 🔒 Closed issue [#30863](https://github.com/offensive-vk/offensive-vk/issues/30863) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3. 🔒 Closed issue [#30862](https://github.com/offensive-vk/offensive-vk/issues/30862) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4. 🔒 Closed issue [#30861](https://github.com/offensive-vk/offensive-vk/issues/30861) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5. 🗣 Commented on [#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6. ❌ Closed PR [#109](undefined) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7. 🗣 Commented on [#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 8. 🎉 Merged PR [#104](https://github.com/offensive-vk/AwesomeCloud/pull/104) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9. 🔒 Closed issue [#12](https://github.com/offensive-vk/Temp/issues/12) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Closed issue [#11](https://github.com/offensive-vk/Temp/issues/11) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
