@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"إذا لم تتعامل[استثناءات]، لقد أغلقنا طلبك.  وهذا يزيد بشكل كبير من موثوقية النظام. " - أندرس هيجلسبيرج ❞</i>
+<i>❝"إن القدرة على اختراق الأمان لا تجعلك متسللًا كما أن القدرة على ربط السيارات بالأسلاك السريعة تجعلك مهندس سيارات." - إريك ريموند ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 تم التعليق عليه[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  ❌ علاقات عامة مغلقة[#109](undefined)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🗣 تم التعليق عليه[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 تم التعليق عليه[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 العلاقات العامة المدمجة[#379](https://github.com/offensive-vk/UntilEverything/pull/379)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 العلاقات العامة المدمجة[#10052](https://github.com/offensive-vk/Classics/pull/10052)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-7.  🎉 العلاقات العامة المدمجة[#45](https://github.com/offensive-vk/develop-actions/pull/45)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
+1.  🔒 قضية مغلقة[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 قضية مغلقة[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 قضية مغلقة[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 قضية مغلقة[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 تم التعليق عليه[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  ❌ علاقات عامة مغلقة[#109](undefined)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🗣 تم التعليق عليه[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 8.  🎉 العلاقات العامة المدمجة[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 قضية مغلقة[#12](https://github.com/offensive-vk/Temp/issues/12)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
 10. 🔒 قضية مغلقة[#11](https://github.com/offensive-vk/Temp/issues/11)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
