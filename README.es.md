@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Si no manejas[excepciones], cerramos su aplicación.  Esto aumenta drásticamente la fiabilidad del sistema.”— Anders Hejlsberg ❞</i>
+<i>❝“Poder violar la seguridad no te convierte en un hacker, como tampoco ser capaz de conectar automóviles te convierte en un ingeniero automotriz.”—Eric Raymond ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentado en[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-2.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🗣 Comentado en[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 Comentado en[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Relaciones públicas fusionadas[#379](https://github.com/offensive-vk/UntilEverything/pull/379)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 Relaciones públicas fusionadas[#10052](https://github.com/offensive-vk/Classics/pull/10052)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-7.  🎉 Relaciones públicas fusionadas[#45](https://github.com/offensive-vk/develop-actions/pull/45)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+1.  🔒 Número cerrado[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Número cerrado[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Número cerrado[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Número cerrado[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 Comentado en[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+6.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🗣 Comentado en[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 8.  🎉 Relaciones públicas fusionadas[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Número cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Número cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
