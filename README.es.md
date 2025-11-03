@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Poder violar la seguridad no te convierte en un hacker, como tampoco ser capaz de conectar automóviles te convierte en un ingeniero automotriz.”—Eric Raymond ❞</i>
+<i>❝“Java es lo más angustioso que ha afectado a la informática desde MS-DOS.”—Alan Kay ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
