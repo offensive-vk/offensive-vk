@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“更改规格以适应程序比反之亦然更容易。”— Alan Perlis ❞</i>
+<i>❝“Java 是自 MS-DOS 以来对计算领域最令人痛苦的事情。”— Alan Kay ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 已发表评论[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-2.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🗣 已发表评论[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 已发表评论[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 合并公关[#379](https://github.com/offensive-vk/UntilEverything/pull/379)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 合并公关[#10052](https://github.com/offensive-vk/Classics/pull/10052)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-7.  🎉 合并公关[#45](https://github.com/offensive-vk/develop-actions/pull/45)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+1.  🔒 已关闭问题[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 已关闭问题[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 已关闭问题[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 已关闭问题[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 已发表评论[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+6.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🗣 已发表评论[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 8.  🎉 合并公关[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 已关闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 已关闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
