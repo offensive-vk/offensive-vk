@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Il est plus facile de modifier les spécifications pour les adapter au programme que l'inverse. » — Alan Perlis ❞</i>
+<i>❝« Java est la chose la plus pénible qui ait frappé l'informatique depuis MS-DOS. » — Alan Kay ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Commenté[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  ❌ PR fermé[#109](undefined)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-3.  🗣 Commenté[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 Commenté[#383](https://github.com/offensive-vk/UntilEverything/pull/383#issuecomment-3351876276)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 PR fusionné[#379](https://github.com/offensive-vk/UntilEverything/pull/379)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
-6.  🎉 PR fusionné[#10052](https://github.com/offensive-vk/Classics/pull/10052)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-7.  🎉 PR fusionné[#45](https://github.com/offensive-vk/develop-actions/pull/45)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+1.  🔒 Problème clos[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Problème clos[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Problème clos[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Problème clos[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 Commenté[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  ❌ PR fermé[#109](undefined)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+7.  🗣 Commenté[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
 8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Problème clos[#12](https://github.com/offensive-vk/Temp/issues/12)dans[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Problème clos[#11](https://github.com/offensive-vk/Temp/issues/11)dans[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
