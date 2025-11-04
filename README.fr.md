@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Java est la chose la plus pénible qui ait frappé l'informatique depuis MS-DOS. » — Alan Kay ❞</i>
+<i>❝S'il existait un ordinateur aussi puissant que le cerveau humain, il serait capable d'effectuer 38 000 milliards d'opérations par seconde et de contenir plus de 3 580 téraoctets de mémoire.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
