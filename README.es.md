@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Si existiera una computadora tan poderosa como el cerebro humano, sería capaz de realizar 38 mil billones de operaciones por segundo y almacenar más de 3580 terabytes de memoria.❞</i>
+<i>❝El primer error en una computadora fue una polilla muerta que se encontró cortocircuitando un relé en la computadora Harvard Mark II en 1947❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
