@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Java 是自 MS-DOS 以来对计算领域最令人痛苦的事情。”— Alan Kay ❞</i>
+<i>❝计算机中的第一个错误是 1947 年在哈佛 Mark II 计算机中发现一只死飞蛾使继电器短路❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
