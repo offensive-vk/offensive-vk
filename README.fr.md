@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝S'il existait un ordinateur aussi puissant que le cerveau humain, il serait capable d'effectuer 38 000 milliards d'opérations par seconde et de contenir plus de 3 580 téraoctets de mémoire.❞</i>
+<i>❝Le premier bug dans un ordinateur était un papillon mort découvert en court-circuitant un relais dans l'ordinateur Harvard Mark II en 1947❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
