@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le premier bug dans un ordinateur était un papillon mort découvert en court-circuitant un relais dans l'ordinateur Harvard Mark II en 1947❞</i>
+<i>❝CAPTCHA est l'acronyme de « Test de Turing public entièrement automatisé pour distinguer les ordinateurs des humains »❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
