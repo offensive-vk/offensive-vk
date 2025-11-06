@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El primer error en una computadora fue una polilla muerta que se encontró cortocircuitando un relé en la computadora Harvard Mark II en 1947❞</i>
+<i>❝CAPTCHA es un acrónimo de “Prueba de Turing pública completamente automatizada para distinguir entre computadoras y humanos”❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
