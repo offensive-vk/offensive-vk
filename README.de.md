@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Java ist seit MS-DOS die beunruhigendste Neuerung für Computer.“ – Alan Kay ❞</i>
+<i>❝CAPTCHA ist ein Akronym für „Completely Automated Public Turing test to tell Computers and Humans Apart“❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
