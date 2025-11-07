@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝计算机中的第一个错误是 1947 年在哈佛 Mark II 计算机中发现一只死飞蛾使继电器短路❞</i>
+<i>❝CAPTCHA 是“完全自动化的公共图灵测试来区分计算机和人类”的缩写❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
