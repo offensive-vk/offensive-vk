@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA es un acrónimo de “Prueba de Turing pública completamente automatizada para distinguir entre computadoras y humanos”❞</i>
+<i>❝El microcontrolador dentro de un cargador de MacBook es casi tan poderoso como el de la computadora Macintosh original.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
