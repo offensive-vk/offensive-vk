@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA est l'acronyme de « Test de Turing public entièrement automatisé pour distinguer les ordinateurs des humains »❞</i>
+<i>❝Le microcontrôleur à l'intérieur d'un chargeur MacBook est à peu près aussi puissant que l'ordinateur Macintosh d'origine.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
