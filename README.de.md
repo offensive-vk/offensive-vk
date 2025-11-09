@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA ist ein Akronym für „Completely Automated Public Turing test to tell Computers and Humans Apart“❞</i>
+<i>❝Im Jahr 2012 wurde der Gründer von McAfee Antivirus, John McAfee, gefragt, ob er persönlich McAfee Antivirus nutzt. Er antwortete: „Ich nehme es ab“ und „Es ist zu nervig.“❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 Geschlossenes Problem[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🔒Geschlossenes Problem[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 2.  🔒 Geschlossenes Problem[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 3.  🔒 Geschlossenes Problem[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4.  🔒 Geschlossenes Problem[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
