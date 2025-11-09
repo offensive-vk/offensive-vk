@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA 是“完全自动化的公共图灵测试来区分计算机和人类”的缩写❞</i>
+<i>❝2012年，McAfee杀毒软件的创始人John McAfee被问及他个人是否使用McAfee杀毒软件时，他回答说“我把它取下来”，并说“这太烦人了。”❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
