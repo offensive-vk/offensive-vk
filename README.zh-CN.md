@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝2012年，McAfee杀毒软件的创始人John McAfee被问及他个人是否使用McAfee杀毒软件时，他回答说“我把它取下来”，并说“这太烦人了。”❞</i>
+<i>❝“在 10 人的软件项目团队中，可能有 3 个人产生了足够的缺陷，使他们成为净负生产者。”—— Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
