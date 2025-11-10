@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le microcontrôleur à l'intérieur d'un chargeur MacBook est à peu près aussi puissant que l'ordinateur Macintosh d'origine.❞</i>
+<i>❝« Dans une équipe de projet logiciel composée de 10 personnes, il y a probablement 3 personnes qui produisent suffisamment de défauts pour en faire des producteurs nets négatifs. » — Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
