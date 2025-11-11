@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Dans une équipe de projet logiciel composée de 10 personnes, il y a probablement 3 personnes qui produisent suffisamment de défauts pour en faire des producteurs nets négatifs. » — Gordon Schulmeyer ❞</i>
+<i>❝« Si vous ne gérez pas[exceptions], nous fermons votre application.  Cela augmente considérablement la fiabilité du système. »— Anders Hejlsberg ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
