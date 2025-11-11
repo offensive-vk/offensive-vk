@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El microcontrolador dentro de un cargador de MacBook es casi tan poderoso como el de la computadora Macintosh original.❞</i>
+<i>❝“Si no manejas[excepciones], cerramos su aplicación.  Esto aumenta drásticamente la fiabilidad del sistema.”— Anders Hejlsberg ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
