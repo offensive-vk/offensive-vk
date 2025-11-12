@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果你不处理[例外情况]，我们关闭您的应用程序。  这极大地提高了系统的可靠性。”— Anders Hejlsberg ❞</i>
+<i>❝世界上只有大约 10% 的货币是实物货币，其余的仅存在于计算机上。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
