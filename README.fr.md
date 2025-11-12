@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Si vous ne gérez pas[exceptions], nous fermons votre application.  Cela augmente considérablement la fiabilité du système. »— Anders Hejlsberg ❞</i>
+<i>❝Seulement 10 % environ de la monnaie mondiale est de l’argent physique, le reste n’existe que sur ordinateur.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
