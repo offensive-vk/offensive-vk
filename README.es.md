@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Si no manejas[excepciones], cerramos su aplicación.  Esto aumenta drásticamente la fiabilidad del sistema.”— Anders Hejlsberg ❞</i>
+<i>❝Solo alrededor del 10% de la moneda mundial es dinero físico, el resto sólo existe en las computadoras.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
