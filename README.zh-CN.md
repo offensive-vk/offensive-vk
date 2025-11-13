@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝世界上只有大约 10% 的货币是实物货币，其余的仅存在于计算机上。❞</i>
+<i>❝YouTube 由 PayPal 的 3 名前员工创立。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
