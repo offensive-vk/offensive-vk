@@ -23,6 +23,4 @@
 22. ✅ Approved on pull request [#110](https://github.com/offensive-vk/AwesomeCloud/pull/110) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 23. ✅ Approved on pull request [#107](https://github.com/offensive-vk/AwesomeCloud/pull/107) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 24. ✅ Approved on pull request [#108](https://github.com/offensive-vk/AwesomeCloud/pull/108) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-25. ✅ Approved on pull request [#389](https://github.com/offensive-vk/UntilEverything/pull/389) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-26. ✅ Approved on pull request [#10054](https://github.com/offensive-vk/Classics/pull/10054) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 <!--END_SECTION:activity-->
