@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Seulement 10 % environ de la monnaie mondiale est de l’argent physique, le reste n’existe que sur ordinateur.❞</i>
+<i>❝YouTube a été fondé par 3 anciens employés de PayPal.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
