@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝YouTube был основан тремя бывшими сотрудниками PayPal.❞</i>
+<i>❝ «Самый большой враг знаний — это не невежество, это иллюзия знания». — Стивен Хокинг ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 Вопрос закрыт.[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 Вопрос закрыт.[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Вопрос закрыт.[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Вопрос закрыт.[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-5.  🗣 Прокомментировал[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-6.  ❌ Закрытый пиар[#109](undefined)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🗣 Прокомментировал[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Прокомментировал[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+2.  🔒 Вопрос закрыт.[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Вопрос закрыт.[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Вопрос закрыт.[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Вопрос закрыт.[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 Прокомментировал[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+7.  ❌ Закрытый пиар[#109](undefined)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 Объединенный пиар[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Вопрос закрыт.[#12](https://github.com/offensive-vk/Temp/issues/12)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Вопрос закрыт.[#11](https://github.com/offensive-vk/Temp/issues/11)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
