@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝YouTube fue fundado por 3 ex empleados de PayPal.❞</i>
+<i>❝“El mayor enemigo del conocimiento no es la ignorancia, es la ilusión del conocimiento.”— Stephen Hawking ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 Número cerrado[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 Número cerrado[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Número cerrado[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Número cerrado[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🗣 Comentado en[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-6.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🗣 Comentado en[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Comentado en[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+2.  🔒 Número cerrado[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Número cerrado[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Número cerrado[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Número cerrado[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 Comentado en[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+7.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 Relaciones públicas fusionadas[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Número cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Número cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
