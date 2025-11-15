@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“El mayor enemigo del conocimiento no es la ignorancia, es la ilusión del conocimiento.”— Stephen Hawking ❞</i>
+<i>❝CAPTCHA es un acrónimo de “Prueba de Turing pública completamente automatizada para distinguir entre computadoras y humanos”❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
