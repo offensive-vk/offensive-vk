@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝YouTube 由 PayPal 的 3 名前员工创立。❞</i>
+<i>❝CAPTCHA 是“完全自动化的公共图灵测试来区分计算机和人类”的缩写❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,13 +147,13 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 已关闭问题[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 已关闭问题[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 已关闭问题[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 已关闭问题[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🗣 已发表评论[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-6.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-7.  🗣 已发表评论[#387](https://github.com/offensive-vk/UntilEverything/pull/387#issuecomment-3376899232)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 已发表评论[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+2.  🔒 已关闭问题[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 已关闭问题[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 已关闭问题[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 已关闭问题[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 已发表评论[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+7.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 合并公关[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 已关闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 已关闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
