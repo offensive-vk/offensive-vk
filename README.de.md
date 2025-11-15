@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Der größte Feind des Wissens ist nicht die Unwissenheit, sondern die Illusion des Wissens.“ – Stephen Hawking ❞</i>
+<i>❝CAPTCHA ist ein Akronym für „Completely Automated Public Turing test to tell Computers and Humans Apart“❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
