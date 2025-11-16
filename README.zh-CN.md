@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA 是“完全自动化的公共图灵测试来区分计算机和人类”的缩写❞</i>
+<i>❝“如果您的程序有十个参数，您可能会错过一些参数。”— Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
