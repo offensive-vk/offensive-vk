@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA ist ein Akronym für „Completely Automated Public Turing test to tell Computers and Humans Apart“❞</i>
+<i>❝„Wenn Sie eine Prozedur mit zehn Parametern haben, haben Sie wahrscheinlich einige übersehen.“ – Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
