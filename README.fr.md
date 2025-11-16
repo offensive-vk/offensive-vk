@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA est l'acronyme de « Test de Turing public entièrement automatisé pour distinguer les ordinateurs des humains »❞</i>
+<i>❝« Si vous avez une procédure avec dix paramètres, vous en avez probablement manqué certains. »— Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
