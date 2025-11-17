@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果您的程序有十个参数，您可能会错过一些参数。”— Alan Perlis ❞</i>
+<i>❝1998 年拉里·佩奇 (Larry Page) 和谢尔盖·布林 (Sergey Brin) 创建 Google 时将车库租给他们的那位女士后来成为了 YouTube 的首席执行官。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
