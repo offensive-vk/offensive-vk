@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA es un acrónimo de “Prueba de Turing pública completamente automatizada para distinguir entre computadoras y humanos”❞</i>
+<i>❝“Como regla general, los sistemas de software no funcionan bien hasta que se han utilizado y han fallado repetidamente en aplicaciones reales.”— Dave Parnas ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
