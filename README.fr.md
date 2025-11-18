@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Si vous avez une procédure avec dix paramètres, vous en avez probablement manqué certains. »— Alan Perlis ❞</i>
+<i>❝« En règle générale, les systèmes logiciels ne fonctionnent pas bien tant qu'ils n'ont pas été utilisés, et échouent à plusieurs reprises, dans des applications réelles. »— Dave Parnas ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
