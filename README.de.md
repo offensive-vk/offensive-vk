@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn Sie eine Prozedur mit zehn Parametern haben, haben Sie wahrscheinlich einige übersehen.“ – Alan Perlis ❞</i>
+<i>❝„Softwaresysteme funktionieren in der Regel erst dann gut, wenn sie in realen Anwendungen verwendet wurden und wiederholt ausgefallen sind.“ – Dave Parnas ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
