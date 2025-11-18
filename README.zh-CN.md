@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝1998 年拉里·佩奇 (Larry Page) 和谢尔盖·布林 (Sergey Brin) 创建 Google 时将车库租给他们的那位女士后来成为了 YouTube 的首席执行官。❞</i>
+<i>❝“一般来说，软件系统只有在实际应用中使用后才能很好地工作，并且在实际应用中会反复失败。”— Dave Parnas ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
