@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Como regla general, los sistemas de software no funcionan bien hasta que se han utilizado y han fallado repetidamente en aplicaciones reales.”— Dave Parnas ❞</i>
+<i>❝En 1833, Charles Babbage inventó todas las piezas que utiliza una computadora moderna, pero no fue hasta 120 años después que se inventaron las primeras computadoras modernas.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
