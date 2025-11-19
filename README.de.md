@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Softwaresysteme funktionieren in der Regel erst dann gut, wenn sie in realen Anwendungen verwendet wurden und wiederholt ausgefallen sind.“ – Dave Parnas ❞</i>
+<i>❝Im Jahr 1833 erfand Charles Babbage alle Teile eines modernen Computers, aber erst 120 Jahre später wurden die ersten modernen Computer erfunden.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
