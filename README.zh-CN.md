@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“一般来说，软件系统只有在实际应用中使用后才能很好地工作，并且在实际应用中会反复失败。”— Dave Parnas ❞</i>
+<i>❝1833 年，查尔斯·巴贝奇 (Charles Babbage) 发明了现代计算机使用的所有部件，但直到 120 年后，第一台现代计算机才被发明。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
