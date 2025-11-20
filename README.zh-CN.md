@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝1833 年，查尔斯·巴贝奇 (Charles Babbage) 发明了现代计算机使用的所有部件，但直到 120 年后，第一台现代计算机才被发明。❞</i>
+<i>❝第一个硬盘驱动器于 1979 年制造，只能容纳 5MB 的数据。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
