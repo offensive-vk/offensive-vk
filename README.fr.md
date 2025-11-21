@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En 1833, Charles Babbage a inventé tous les composants utilisés par un ordinateur moderne, mais ce n'est que 120 ans plus tard que les premiers ordinateurs modernes ont été inventés.❞</i>
+<i>❝«Avant qu'un logiciel soit réutilisable, il doit être utilisable.»— Ralph Johnson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
