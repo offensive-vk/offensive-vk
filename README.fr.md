@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«Avant qu'un logiciel soit réutilisable, il doit être utilisable.»— Ralph Johnson ❞</i>
+<i>❝«Le problème des virus est temporaire et sera résolu dans deux ans.»— John McAfee, 1988 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
