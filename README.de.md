@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Bevor Software wiederverwendbar sein sollte, sollte sie nutzbar sein.“ – Ralph Johnson ❞</i>
+<i>❝„Das Problem der Viren ist vorübergehend und wird in zwei Jahren gelöst sein.“ – John McAfee, 1988 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
