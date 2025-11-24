@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«Le problème des virus est temporaire et sera résolu dans deux ans.»— John McAfee, 1988 ❞</i>
+<i>❝Le mot de passe pour les commandes informatiques des missiles à tête nucléaire des États-Unis était 00000000 pendant huit ans.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
