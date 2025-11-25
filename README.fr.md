@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le mot de passe pour les commandes informatiques des missiles à tête nucléaire des États-Unis était 00000000 pendant huit ans.❞</i>
+<i>❝HDMI facture à ses fabricants sous licence 10 000 $ par an plus 0,15 $ par câble, réduit à 0,05 $ si le logo HDMI est sur la prise.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
