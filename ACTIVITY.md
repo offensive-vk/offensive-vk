@@ -12,7 +12,4 @@
 11. 🔒 Closed issue [#30861](https://github.com/offensive-vk/offensive-vk/issues/30861) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 12. ✅ Approved on pull request [#30858](https://github.com/offensive-vk/offensive-vk/pull/30858) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 13. ✅ Approved on pull request [#30860](https://github.com/offensive-vk/offensive-vk/pull/30860) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. ✅ Approved on pull request [#390](https://github.com/offensive-vk/UntilEverything/pull/390) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. 🗣 Commented on issue [#30853](https://github.com/offensive-vk/offensive-vk/issues/30853) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-16. ✅ Approved on pull request [#30850](https://github.com/offensive-vk/offensive-vk/pull/30850) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
