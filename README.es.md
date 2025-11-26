@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En 1833, Charles Babbage inventó todas las piezas que utiliza una computadora moderna, pero no fue hasta 120 años después que se inventaron las primeras computadoras modernas.❞</i>
+<i>❝En 2010, una escuela secundaria llamada Distrito Escolar Lower Merion en Pensilvania entregó una MacBook a cada uno de sus 2.306 estudiantes y luego activó remotamente las cámaras web para espiar a los estudiantes en casa.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
