@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝HDMI 每年向其授权制造商收取 10,000 美元的费用，另加每条电缆 0.15 美元，如果插座上有 HDMI 徽标，则费用降至 0.05 美元。❞</i>
+<i>❝如果你打开原版Macintosh的外壳，里面有47个签名，都是来自苹果Macintosh部门的每个成员，有趣吗？❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
