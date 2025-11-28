@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝HDMI facture à ses fabricants sous licence 10 000 $ par an plus 0,15 $ par câble, réduit à 0,05 $ si le logo HDMI est sur la prise.❞</i>
+<i>❝Pendant le jeu Jeopardy d'IBM Watson, il a stocké les 15 téraoctets de ses connaissances dans la RAM, y compris chaque page de Wikipédia existante.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
