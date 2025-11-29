@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Pendant le jeu Jeopardy d'IBM Watson, il a stocké les 15 téraoctets de ses connaissances dans la RAM, y compris chaque page de Wikipédia existante.❞</i>
+<i>❝"Je n'ai pas peur des ordinateurs. J'ai peur de leur manque. "- Isaac Asimov ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
