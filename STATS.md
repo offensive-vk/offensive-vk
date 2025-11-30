@@ -1,5 +1,5 @@
 # 📊 Daily Repository Statistics
-Generated on ⏰ **Nov 30, Sunday 04:11:01 PM**
+Generated on ⏰ **Nov 30, Sunday 06:11:32 PM**
 
 ## 📂 File Character Counts (Alphabetically)
 - ACTIVITY.md: **3548** characters
@@ -27,20 +27,16 @@ Generated on ⏰ **Nov 30, Sunday 04:11:01 PM**
 - assets/github-snake-dark.svg: **95169** characters
 - assets/github-snake-light.svg: **95169** characters
 - assets/github-snake.gif: **256485** characters
-- assets/habits.svg: **3897** characters
 - assets/intro.svg: **3340** characters
 - assets/languages.svg: **17909** characters
 - assets/lines-of-code.svg: **3308** characters
 - assets/mine-dark.svg: **38492** characters
 - assets/mine-light.svg: **38465** characters
-- assets/notable.svg: **246707** characters
 - assets/people.svg: **71948** characters
 - assets/reactions.svg: **11040** characters
 - assets/shocked.gif: **952063** characters
 - assets/stargazers.svg: **53590** characters
-- assets/starlists.svg: **8497** characters
 - assets/tickets.svg: **22350** characters
-- assets/topics.svg: **3277** characters
 - compose.yaml: **546** characters
 - package.json: **2110** characters
 - pnpm-lock.yaml: **15547** characters
@@ -56,12 +52,12 @@ Generated on ⏰ **Nov 30, Sunday 04:11:01 PM**
 - profile-3d-contrib/profile-south-season.svg: **186444** characters
 
 ## 📋 Summary
-- 🗂️ **Total files:** 52
-- ✒️ **Total character count:** 4705755
-- 📊 **Average characters per file:** 90495
-- 📝 **Total word count:** 241560
-- 🧾 **Total lines:** 13866
-- 📐 **Average words per file:** 4645
+- 🗂️ **Total files:** 48
+- ✒️ **Total character count:** 4443377
+- 📊 **Average characters per file:** 92570
+- 📝 **Total word count:** 240720
+- 🧾 **Total lines:** 13686
+- 📐 **Average words per file:** 5015
 - 🏆 **Largest file:** assets/shocked.gif (**952063** characters)
 - 🥉 **Smallest file:** STATS.md (**84** characters)
 
