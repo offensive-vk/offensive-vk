@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝如果你打开原版Macintosh的外壳，里面有47个签名，都是来自苹果Macintosh部门的每个成员，有趣吗？❞</i>
+<i>❝中国拥有全球最多的互联网用户，活跃用户超过 7.46 亿。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
