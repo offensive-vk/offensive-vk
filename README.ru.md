@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Я не боюсь компьютеров. Я боюсь их отсутствия" — Айзек Азимов ❞</i>
+<i>❝Китай имеет самое большое количество интернет-пользователей в мире: более 746 миллионов активных пользователей.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,12 +147,12 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Прокомментировал[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-2.  🔒 Вопрос закрыт.[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Вопрос закрыт.[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Вопрос закрыт.[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Вопрос закрыт.[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-6.  🗣 Прокомментировал[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Маркированный пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  💪 Открытый пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+3.  ❌Назначенный пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 Прокомментировал[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 Прокомментировал[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
+6.  🔒 Вопрос закрыт.[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 7.  ❌ Закрытый пиар[#109](undefined)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 Объединенный пиар[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Вопрос закрыт.[#12](https://github.com/offensive-vk/Temp/issues/12)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
