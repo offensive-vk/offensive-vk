@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝China tiene el mayor número de usuarios de Internet en todo el mundo con más de 746 millones de usuarios activos.❞</i>
+<i>❝“Sin una forma sistemática de iniciar y mantener limpios los datos, aparecerán datos incorrectos.”—Donato Diorio❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,12 +147,12 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentado en[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-2.  🔒 Número cerrado[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Número cerrado[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Número cerrado[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Número cerrado[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🗣 Comentado en[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Relaciones públicas etiquetadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+2.  💪 Relaciones públicas abiertas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+3.  ❌ Relaciones públicas asignadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🗣 Comentado en[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 Comentado en[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
+6.  🔒 Número cerrado[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 7.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 Relaciones públicas fusionadas[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Número cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
