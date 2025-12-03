@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝تمتلك الصين أكبر عدد من مستخدمي الإنترنت في العالم كله مع أكثر من 746 مليون مستخدم نشط.❞</i>
+<i>❝سواء كنت تستخدم Mozilla أو Chrome Explore، يرجى العلم أن Mosaic كان أول متصفح في لحظة ولادتي.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,12 +147,12 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ مُلصق العلاقات العامة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  💪 فتح العلاقات العامة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-3.  ❌ العلاقات العامة المعينة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🗣 تم التعليق عليه[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🗣 تم التعليق عليه[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-6.  🔒 قضية مغلقة[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ العلاقات العامة المدمجة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ مُلصق العلاقات العامة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+3.  💪 فتح العلاقات العامة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ العلاقات العامة المعينة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 تم التعليق عليه[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 تم التعليق عليه[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
 7.  ❌ علاقات عامة مغلقة[#109](undefined)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 العلاقات العامة المدمجة[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 قضية مغلقة[#12](https://github.com/offensive-vk/Temp/issues/12)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
