@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝无论你使用 Mozilla、Chrome Explore，请知道，Mosaic 是《我刚出生时》中的第一个浏览器。❞</i>
+<i>❝第一个 1GB 硬盘驱动器于 1980 年发布，重约 550 磅，价格为 40,000 美元。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
