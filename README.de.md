@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Während IBM Watsons Jeopardy Game speicherte es alle 15 Terabyte seines Wissens im RAM, einschließlich jeder existierenden Wikipedia-Seite.❞</i>
+<i>❝Das erste 1-GB-Festplattenlaufwerk wurde 1980 angekündigt, wog etwa 550 Pfund und kostete 40.000 US-Dollar.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,12 +147,12 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Kommentiert[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-2.  🔒Geschlossenes Problem[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒Geschlossenes Problem[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Geschlossenes Problem[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Geschlossenes Problem[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🗣 Kommentiert[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Zusammengeführte PR[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ PR-Kennzeichnung[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  💪 PR eröffnet[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ Zugewiesene PR[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 Kommentiert[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 Kommentiert[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 7.  ❌ Geschlossene PR[#109](undefined)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 Zusammengeführte PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
