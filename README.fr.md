@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Je n'ai pas peur des ordinateurs. J'ai peur de leur manque. "- Isaac Asimov ❞</i>
+<i>❝Le premier disque dur de 1 Go a été annoncé en 1980, il pesait environ 550 livres et coûtait 40 000 $.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,12 +147,12 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Commenté[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-2.  🔒 Problème clos[#30864](https://github.com/offensive-vk/offensive-vk/issues/30864)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Problème clos[#30863](https://github.com/offensive-vk/offensive-vk/issues/30863)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Problème clos[#30862](https://github.com/offensive-vk/offensive-vk/issues/30862)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Problème clos[#30861](https://github.com/offensive-vk/offensive-vk/issues/30861)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🗣 Commenté[#30853](https://github.com/offensive-vk/offensive-vk/pull/30853#issuecomment-3446647159)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Relations publiques fusionnées[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  ❌Labellisé PR[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  💪 RP ouverte[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ PR assigné[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🗣 Commenté[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🗣 Commenté[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 7.  ❌ PR fermé[#109](undefined)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Problème clos[#12](https://github.com/offensive-vk/Temp/issues/12)dans[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
