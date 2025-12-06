@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Das erste 1-GB-Festplattenlaufwerk wurde 1980 angekündigt, wog etwa 550 Pfund und kostete 40.000 US-Dollar.❞</i>
+<i>❝„Ich denke, es ist unvermeidlich, dass Menschen schlecht programmieren. Training wird der Sache nicht wesentlich helfen. Wir müssen lernen, damit zu leben.“ – Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
