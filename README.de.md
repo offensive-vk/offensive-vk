@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ich denke, es ist unvermeidlich, dass Menschen schlecht programmieren. Training wird der Sache nicht wesentlich helfen. Wir müssen lernen, damit zu leben.“ – Alan Perlis ❞</i>
+<i>❝„Es gibt keinen verschleierten Perl-Wettbewerb, weil er sinnlos ist.“ – Jeff Polk ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
