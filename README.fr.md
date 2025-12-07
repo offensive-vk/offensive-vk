@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le premier disque dur de 1 Go a été annoncé en 1980, il pesait environ 550 livres et coûtait 40 000 $.❞</i>
+<i>❝« Il n'y a pas de concours Perl obscurci parce que c'est inutile. » — Jeff Polk ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
