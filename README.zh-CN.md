@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我认为人们的编程能力不佳是不可避免的。培训不会对问题有实质性帮助。我们必须学会忍受它。”— Alan Perlis ❞</i>
+<i>❝中国拥有全球最多的互联网用户，活跃用户超过 7.46 亿。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
