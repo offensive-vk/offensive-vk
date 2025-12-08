@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Creo que es inevitable que la gente programe mal. La capacitación no ayudará sustancialmente. Tenemos que aprender a vivir con ello."—Alan Perlis ❞</i>
+<i>❝China tiene el mayor número de usuarios de Internet en todo el mundo con más de 746 millones de usuarios activos.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
