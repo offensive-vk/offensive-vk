@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Il n'y a pas de concours Perl obscurci parce que c'est inutile. » — Jeff Polk ❞</i>
+<i>❝« La vraie connaissance, c’est connaître l’étendue de son ignorance. » – Confucius ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
