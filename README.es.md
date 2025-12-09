@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝China tiene el mayor número de usuarios de Internet en todo el mundo con más de 746 millones de usuarios activos.❞</i>
+<i>❝“El verdadero conocimiento es conocer el alcance de la propia ignorancia.”—Confucio ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
