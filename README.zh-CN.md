@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝中国拥有全球最多的互联网用户，活跃用户超过 7.46 亿。❞</i>
+<i>❝“真正的知识是知道自己无知的程度。”——孔子❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
