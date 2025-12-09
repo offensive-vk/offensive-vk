@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Es gibt keinen verschleierten Perl-Wettbewerb, weil er sinnlos ist.“ – Jeff Polk ❞</i>
+<i>❝„Echtes Wissen besteht darin, das Ausmaß der eigenen Unwissenheit zu kennen.“ – Konfuzius ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
