@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« La vraie connaissance, c’est connaître l’étendue de son ignorance. » – Confucius ❞</i>
+<i>❝Eh bien, il y a deux jeux qui ont été les premiers jamais créés aux États-Unis, appelés Asteroids et Lunar Lander en 1980.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
