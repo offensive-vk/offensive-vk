@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“真正的知识是知道自己无知的程度。”——孔子❞</i>
+<i>❝嗯，有两款游戏是 1980 年在美国制作的第一款游戏，分别是《Asteroids》和《Lunar Lander》。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
