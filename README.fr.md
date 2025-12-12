@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Eh bien, il y a deux jeux qui ont été les premiers jamais créés aux États-Unis, appelés Asteroids et Lunar Lander en 1980.❞</i>
+<i>❝Une dactylographe professionnelle tape rapidement et tape une grande quantité de mots quotidiennement. Si nous mesurons cela en termes de distance, cela deviendra 12,6 miles par jour que les doigts de la dactylo devront parcourir chaque jour.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
