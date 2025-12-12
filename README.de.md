@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Nun, es gibt zwei Spiele, die 1980 die ersten in den USA waren: Asteroids und Lunar Lander.❞</i>
+<i>❝Eine professionelle Schreibkraft tippt schnell und täglich große Mengen an Wörtern. Wenn wir dies als Entfernung messen, sind es 12,6 Meilen pro Tag, die die Finger der Schreibkraft jeden Tag zurücklegen müssen.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
