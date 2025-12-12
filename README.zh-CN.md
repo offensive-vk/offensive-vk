@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝嗯，有两款游戏是 1980 年在美国制作的第一款游戏，分别是《Asteroids》和《Lunar Lander》。❞</i>
+<i>❝专业打字员打字速度很快，每天打字量很大。如果我们以距离来衡量，那么打字员的手指每天需要走 12.6 英里。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
