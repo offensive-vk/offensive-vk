@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Une dactylographe professionnelle tape rapidement et tape une grande quantité de mots quotidiennement. Si nous mesurons cela en termes de distance, cela deviendra 12,6 miles par jour que les doigts de la dactylo devront parcourir chaque jour.❞</i>
+<i>❝« Du point de vue d'un programmeur, l'utilisateur est un périphérique qui tape lorsque vous émettez une demande de lecture. »— P. Williams ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
