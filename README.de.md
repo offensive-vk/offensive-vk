@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Eine professionelle Schreibkraft tippt schnell und täglich große Mengen an Wörtern. Wenn wir dies als Entfernung messen, sind es 12,6 Meilen pro Tag, die die Finger der Schreibkraft jeden Tag zurücklegen müssen.❞</i>
+<i>❝„Aus der Sicht eines Programmierers ist der Benutzer ein Peripheriegerät, das tippt, wenn Sie eine Leseanforderung stellen.“ – P. Williams ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
