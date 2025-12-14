@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Desde el punto de vista de un programador, el usuario es un periférico que escribe cuando usted emite una solicitud de lectura.”— P. Williams ❞</i>
+<i>❝Konrad Zuse es el inventor de la primera computadora programable del mundo. Lo hizo en 1936 y nombró a la computadora como Z1. Konrad Zuse❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
