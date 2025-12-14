@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Du point de vue d'un programmeur, l'utilisateur est un périphérique qui tape lorsque vous émettez une demande de lecture. »— P. Williams ❞</i>
+<i>❝Konrad Zuse est l'inventeur du premier ordinateur programmable au monde. Il l'a fait en 1936 et a nommé l'ordinateur Z1. Konrad Zuse❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
