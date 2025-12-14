@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“从程序员的角度来看，用户是一个外围设备，当您发出读取请求时，它会进行输入。”— P. Williams ❞</i>
+<i>❝Konrad Zuse 是世界上第一台可编程计算机的发明者。他于 1936 年完成了这项工作，并将该计算机命名为 Z1。康拉德·祖斯❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
