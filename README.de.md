@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Aus der Sicht eines Programmierers ist der Benutzer ein Peripheriegerät, das tippt, wenn Sie eine Leseanforderung stellen.“ – P. Williams ❞</i>
+<i>❝Konrad Zuse ist der Erfinder des ersten programmierbaren Computers der Welt. Er tat es 1936 und nannte den Computer Z1. Konrad Zuse❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
