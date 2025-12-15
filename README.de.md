@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Konrad Zuse ist der Erfinder des ersten programmierbaren Computers der Welt. Er tat es 1936 und nannte den Computer Z1. Konrad Zuse❞</i>
+<i>❝Nun, es gibt zwei Spiele, die 1980 die ersten in den USA waren: Asteroids und Lunar Lander.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
