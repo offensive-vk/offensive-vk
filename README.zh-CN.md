@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Konrad Zuse 是世界上第一台可编程计算机的发明者。他于 1936 年完成了这项工作，并将该计算机命名为 Z1。康拉德·祖斯❞</i>
+<i>❝嗯，有两款游戏是 1980 年在美国制作的第一款游戏，分别是《Asteroids》和《Lunar Lander》。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
