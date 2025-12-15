@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Konrad Zuse est l'inventeur du premier ordinateur programmable au monde. Il l'a fait en 1936 et a nommé l'ordinateur Z1. Konrad Zuse❞</i>
+<i>❝Eh bien, il y a deux jeux qui ont été les premiers jamais créés aux États-Unis, appelés Asteroids et Lunar Lander en 1980.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
