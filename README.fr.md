@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Eh bien, il y a deux jeux qui ont été les premiers jamais créés aux États-Unis, appelés Asteroids et Lunar Lander en 1980.❞</i>
+<i>❝La pire violation des ordinateurs militaires américains de l'histoire s'est produite lorsque quelqu'un a récupéré une clé USB (infectée par une agence de renseignement étrangère) trouvée dans le parking et l'a branchée sur son ordinateur, qui était rattaché au commandement central des États-Unis.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
