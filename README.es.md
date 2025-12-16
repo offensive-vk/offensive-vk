@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bueno, hay dos juegos que fueron los primeros creados en los EE. UU., llamados Asteroids y Lunar Lander en 1980.❞</i>
+<i>❝La peor violación de computadoras militares estadounidenses en la historia ocurrió cuando alguien tomó una tarjeta de memoria (infectada por una agencia de inteligencia extranjera) que encontró en el estacionamiento y la conectó a su computadora, que estaba conectada al Comando Central de Estados Unidos.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
