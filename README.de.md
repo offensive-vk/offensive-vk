@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der schlimmste Verstoß gegen US-Militärcomputer in der Geschichte ereignete sich, als jemand einen (von einem ausländischen Geheimdienst infizierten) Memory Stick, den er auf dem Parkplatz gefunden hatte, in die Hand nahm und ihn an seinen Computer anschloss, der dem Zentralkommando der Vereinigten Staaten angeschlossen war.❞</i>
+<i>❝Das Spiel „Space Invaders“ sollte immer mit der gleichen Geschwindigkeit gespielt werden, aber wenn Sie mehr Außerirdische zerstören, kann der Computer schneller rendern. Aus diesem Grund werden die Aliens schneller, wenn Sie sich dem Ende des Levels nähern.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
