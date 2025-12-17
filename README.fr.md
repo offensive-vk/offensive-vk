@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La pire violation des ordinateurs militaires américains de l'histoire s'est produite lorsque quelqu'un a récupéré une clé USB (infectée par une agence de renseignement étrangère) trouvée dans le parking et l'a branchée sur son ordinateur, qui était rattaché au commandement central des États-Unis.❞</i>
+<i>❝Le jeu Space Invaders a été conçu pour être toujours joué à la même vitesse, mais à mesure que vous détruisez davantage d'extraterrestres, l'ordinateur peut restituer plus rapidement. C'est pourquoi les extraterrestres accélèrent à mesure que vous approchez de la fin du niveau.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
