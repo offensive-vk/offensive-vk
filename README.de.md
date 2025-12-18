@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Das Spiel „Space Invaders“ sollte immer mit der gleichen Geschwindigkeit gespielt werden, aber wenn Sie mehr Außerirdische zerstören, kann der Computer schneller rendern. Aus diesem Grund werden die Aliens schneller, wenn Sie sich dem Ende des Levels nähern.❞</i>
+<i>❝„Es war ein Witz, okay? Wenn wir gedacht hätten, dass es tatsächlich verwendet würde, hätten wir es nicht geschrieben!“ – Mark Andreesen über das HTML-Tag BLINK ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
