@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La peor violación de computadoras militares estadounidenses en la historia ocurrió cuando alguien tomó una tarjeta de memoria (infectada por una agencia de inteligencia extranjera) que encontró en el estacionamiento y la conectó a su computadora, que estaba conectada al Comando Central de Estados Unidos.❞</i>
+<i>❝"Era una broma, ¿vale? ¡Si pensáramos que realmente se usaría, no lo habríamos escrito!"— Mark Andreesen, hablando de la etiqueta HTML BLINK ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
