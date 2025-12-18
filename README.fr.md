@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le jeu Space Invaders a été conçu pour être toujours joué à la même vitesse, mais à mesure que vous détruisez davantage d'extraterrestres, l'ordinateur peut restituer plus rapidement. C'est pourquoi les extraterrestres accélèrent à mesure que vous approchez de la fin du niveau.❞</i>
+<i>❝"C'était une blague, d'accord ? Si nous pensions qu'il serait réellement utilisé, nous ne l'aurions pas écrit !"— Mark Andreesen, à propos de la balise HTML BLINK ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
