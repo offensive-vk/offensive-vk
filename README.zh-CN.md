@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“这是一个笑话，好吗？如果我们认为它会实际使用，我们就不会编写它！”——Mark Andreesen，谈到 HTML 标签 BLINK ❞</i>
+<i>❝“在没有考虑总体架构或设计的情况下进行编程就像只拿着手电筒探索洞穴：你不知道自己去过哪里，不知道自己要去哪里，也不知道自己在哪里。”——Danny Thorpe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
