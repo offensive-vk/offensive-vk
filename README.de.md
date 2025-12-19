@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Es war ein Witz, okay? Wenn wir gedacht hätten, dass es tatsächlich verwendet würde, hätten wir es nicht geschrieben!“ – Mark Andreesen über das HTML-Tag BLINK ❞</i>
+<i>❝„Programmieren ohne eine Gesamtarchitektur oder ein Gesamtdesign im Kopf ist, als würde man eine Höhle nur mit einer Taschenlampe erkunden: Man weiß nicht, wo man war, man weiß nicht, wohin man geht, und man weiß nicht ganz, wo man ist.“ – Danny Thorpe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
