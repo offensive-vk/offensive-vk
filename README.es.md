@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Era una broma, ¿vale? ¡Si pensáramos que realmente se usaría, no lo habríamos escrito!"— Mark Andreesen, hablando de la etiqueta HTML BLINK ❞</i>
+<i>❝elgoog.im (Google escrito al revés) es un sitio web reflejado de la Búsqueda de Google con resultados de búsqueda volteados horizontalmente, también conocido como "espejo de Google". All Too Flat creó un sitio web no oficial de elgooG “por diversión”, que comenzó a ganar popularidad en 2002❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
