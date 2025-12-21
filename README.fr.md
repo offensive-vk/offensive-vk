@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"C'était une blague, d'accord ? Si nous pensions qu'il serait réellement utilisé, nous ne l'aurions pas écrit !"— Mark Andreesen, à propos de la balise HTML BLINK ❞</i>
+<i>❝«Un jour, un ordinateur m'a battu aux échecs, mais ce n'était pas un match contre moi au kick boxing.»— Emo Philips ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
