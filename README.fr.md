@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«Un jour, un ordinateur m'a battu aux échecs, mais ce n'était pas un match contre moi au kick boxing.»— Emo Philips ❞</i>
+<i>❝Le nom original de Windows était Interface Manager.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
