@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝嗯，有两款游戏是 1980 年在美国制作的第一款游戏，分别是《Asteroids》和《Lunar Lander》。❞</i>
+<i>❝Windows 的原名是 Interface Manager。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
