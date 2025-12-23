@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bueno, hay dos juegos que fueron los primeros creados en los EE. UU., llamados Asteroids y Lunar Lander en 1980.❞</i>
+<i>❝El nombre original de Windows era Interface Manager.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
