@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der ursprüngliche Name von Windows war Interface Manager.❞</i>
+<i>❝1960 warnte der Computer von NORAD mit 99,9-prozentiger Sicherheit, dass die Sowjets gerade einen umfassenden Raketenangriff auf Nordamerika gestartet hatten. NORAD entdeckte später, dass das Frühwarnsystem in Grönland den Mondaufgang über Norwegen als Raketenangriff aus Sibirien interpretiert hatte.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
