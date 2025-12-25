@@ -21,7 +21,4 @@
 20. ✅ Approved on pull request [#10057](https://github.com/offensive-vk/Classics/pull/10057) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 21. ✅ Approved on pull request [#53](https://github.com/offensive-vk/develop-actions/pull/53) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 22. ✅ Approved on pull request [#52](https://github.com/offensive-vk/develop-actions/pull/52) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-23. ✅ Approved on pull request [#10056](https://github.com/offensive-vk/Classics/pull/10056) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-24. ✅ Approved on pull request [#43](https://github.com/offensive-vk/auto-label/pull/43) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-25. ✅ Approved on pull request [#111](https://github.com/offensive-vk/AwesomeCloud/pull/111) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 <!--END_SECTION:activity-->
