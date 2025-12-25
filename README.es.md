@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En 1960, la computadora del NORAD advirtió con un 99,9% de certeza que los soviéticos acababan de lanzar un ataque con misiles a gran escala contra América del Norte. Más tarde, NORAD descubrió que el Sistema de Alerta Temprana de Groenlandia había interpretado la salida de la luna sobre Noruega como un ataque con misiles desde Siberia.❞</i>
+<i>❝Hay más de 1.500 millones de identificadores de mensajería instantánea en todo el mundo.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
