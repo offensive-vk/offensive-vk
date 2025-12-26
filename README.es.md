@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Hay más de 1.500 millones de identificadores de mensajería instantánea en todo el mundo.❞</i>
+<i>❝El Registro Federal de EE. UU. todavía utiliza disquetes enviados por mensajería porque un sistema de correo electrónico seguro es “demasiado caro”.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
