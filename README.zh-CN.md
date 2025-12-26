@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 的原名是 Interface Manager。❞</i>
+<i>❝美国联邦公报仍在使用快递发送的软盘，因为安全的电子邮件系统“太昂贵”。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
