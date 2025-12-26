@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Es gibt weltweit über 1,5 Milliarden Instant-Messaging-IDs.❞</i>
+<i>❝Das US-Bundesregister verwendet immer noch Disketten per Kurier, weil ein sicheres E-Mail-System „zu teuer“ ist.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
