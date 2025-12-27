@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Das US-Bundesregister verwendet immer noch Disketten per Kurier, weil ein sicheres E-Mail-System „zu teuer“ ist.❞</i>
+<i>❝„Wenn Sie in der Datenwissenschaft Einzelpersonen helfen möchten, seien Sie einfühlsam und stellen Sie Fragen. Auf diese Weise können Sie auch beginnen, ihre Reise zu verstehen.“ – Damian Duffy Mingle❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
