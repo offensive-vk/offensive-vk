@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝美国联邦公报仍在使用快递发送的软盘，因为安全的电子邮件系统“太昂贵”。❞</i>
+<i>❝“在数据科学中，如果你想帮助个人，要有同理心并提出问题；这样，你也可以开始了解他们的旅程。”——Damian Duffy Mingle❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
