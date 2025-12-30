@@ -11,8 +11,4 @@
 10. ❌ Labeled pull request [#30871](https://github.com/offensive-vk/offensive-vk/pull/30871) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 11. 💪 Opened pull request [#30871](https://github.com/offensive-vk/offensive-vk/pull/30871) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 12. ❌ Assigned pull request [#30871](https://github.com/offensive-vk/offensive-vk/pull/30871) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-13. 🗣 Commented on issue [#30867](https://github.com/offensive-vk/offensive-vk/issues/30867) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-14. ✅ Approved on pull request [#401](https://github.com/offensive-vk/UntilEverything/pull/401) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-15. ✅ Approved on pull request [#400](https://github.com/offensive-vk/UntilEverything/pull/400) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-16. ✅ Approved on pull request [#402](https://github.com/offensive-vk/UntilEverything/pull/402) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
