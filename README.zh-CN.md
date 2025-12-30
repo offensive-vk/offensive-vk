@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在数据科学中，如果你想帮助个人，要有同理心并提出问题；这样，你也可以开始了解他们的旅程。”——Damian Duffy Mingle❞</i>
+<i>❝“计算机病毒是都市传说。”— Peter Norton，1988 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
