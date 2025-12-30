@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝2012 fue el año en que un grupo de piratas informáticos derribó el sitio web de Pope John porque una empresa de alimentos dedicó más de dos horas a realizar la entrega como se esperaba. El grupo de hackers se llamaba UGNazi.❞</i>
+<i>❝“Los virus informáticos son una leyenda urbana.”—Peter Norton, 1988 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
