@@ -8,7 +8,4 @@
 7. ✅ Approved on pull request [#10058](https://github.com/offensive-vk/Classics/pull/10058) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 8. ✅ Approved on pull request [#113](https://github.com/offensive-vk/AwesomeCloud/pull/113) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9. ❌ Merged pull request [#30871](https://github.com/offensive-vk/offensive-vk/pull/30871) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. ❌ Labeled pull request [#30871](https://github.com/offensive-vk/offensive-vk/pull/30871) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 💪 Opened pull request [#30871](https://github.com/offensive-vk/offensive-vk/pull/30871) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-12. ❌ Assigned pull request [#30871](https://github.com/offensive-vk/offensive-vk/pull/30871) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 <!--END_SECTION:activity-->
