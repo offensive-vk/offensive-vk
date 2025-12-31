@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机病毒是都市传说。”— Peter Norton，1988 ❞</i>
+<i>❝“硬件让机器变快。软件让快机器变慢。”— Craig Bruce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
