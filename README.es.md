@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Los virus informáticos son una leyenda urbana.”—Peter Norton, 1988 ❞</i>
+<i>❝“Es el hardware lo que hace que una máquina sea rápida. Es el software lo que hace que una máquina rápida sea lenta.”— Craig Bruce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
