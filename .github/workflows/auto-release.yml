@@ -49,7 +49,7 @@ jobs:
           } >> $GITHUB_ENV
 
       - name: Upload Release Notes as Artifact
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: Release Notes
           path: release_notes.txt
