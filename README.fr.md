@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"C'est le matériel qui rend une machine rapide. Ce sont les logiciels qui ralentissent une machine rapide. "- Craig Bruce ❞</i>
+<i>❝« Sans une manière systématique de démarrer et de maintenir les données propres, de mauvaises données se produiront. » - Donato Diorio❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
