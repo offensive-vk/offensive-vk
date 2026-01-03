@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Es el hardware lo que hace que una máquina sea rápida. Es el software lo que hace que una máquina rápida sea lenta.”— Craig Bruce ❞</i>
+<i>❝“Sin una forma sistemática de iniciar y mantener limpios los datos, aparecerán datos incorrectos.”—Donato Diorio❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
