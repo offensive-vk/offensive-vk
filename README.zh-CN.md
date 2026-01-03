@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“硬件让机器变快。软件让快机器变慢。”— Craig Bruce ❞</i>
+<i>❝“如果没有系统的方法来启动和保持数据清洁，就会出现不良数据。”— Donato Diorio❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
