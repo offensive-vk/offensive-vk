@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Sin una forma sistemática de iniciar y mantener limpios los datos, aparecerán datos incorrectos.”—Donato Diorio❞</i>
+<i>❝“En un equipo de proyecto de software de 10 personas, probablemente hay 3 personas que producen suficientes defectos como para convertirse en productores netos negativos.”— Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
