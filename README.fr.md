@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Dans une équipe de projet logiciel composée de 10 personnes, il y a probablement 3 personnes qui produisent suffisamment de défauts pour en faire des producteurs nets négatifs. » — Gordon Schulmeyer ❞</i>
+<i>❝Sony a publié un kit qui permet d'utiliser les PS2 (Linux pour PlayStation 2) comme ordinateur personnel.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
