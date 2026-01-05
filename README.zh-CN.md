@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果没有系统的方法来启动和保持数据清洁，就会出现不良数据。”— Donato Diorio❞</i>
+<i>❝索尼发布了一个套件，允许 PS2（Linux for PlayStation 2）用作个人电脑。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
