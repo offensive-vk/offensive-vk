@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Es ist die Hardware, die eine Maschine schnell macht. Es ist die Software, die eine schnelle Maschine langsam macht.“ – Craig Bruce ❞</i>
+<i>❝Sony hat ein Kit veröffentlicht, mit dem PS2s (Linux für PlayStation 2) als PCs verwendet werden können.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -158,9 +158,9 @@
 9.  🔒 Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 15. 🔒 Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
