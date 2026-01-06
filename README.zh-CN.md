@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝索尼发布了一个套件，允许 PS2（Linux for PlayStation 2）用作个人电脑。❞</i>
+<i>❝“编程可以很有趣，密码学也可以；但是它们不应该结合在一起。”——Kreitzberg 和 Shneiderman ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
