@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der erste Fehler in einem Computer war eine tote Motte, die 1947 beim Kurzschließen eines Relais im Harvard Mark II-Computer gefunden wurde❞</i>
+<i>❝Im Mai 1997 schlug ein IBM-Supercomputer namens Deep Blue den damaligen Schachweltmeister Garry Kasparov, der einst damit geprahlt hatte, dass er niemals gegen eine Maschine verlieren würde. Nach 15 Jahren stellte sich heraus, dass der entscheidende Schritt von Deep Blue auf einen Fehler in seiner Software zurückzuführen war.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
