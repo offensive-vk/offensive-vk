@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Im Mai 1997 schlug ein IBM-Supercomputer namens Deep Blue den damaligen Schachweltmeister Garry Kasparov, der einst damit geprahlt hatte, dass er niemals gegen eine Maschine verlieren würde. Nach 15 Jahren stellte sich heraus, dass der entscheidende Schritt von Deep Blue auf einen Fehler in seiner Software zurückzuführen war.❞</i>
+<i>❝Der Begriff „World Wide Web“ wurde 1990 von Tim Berners erfunden.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
