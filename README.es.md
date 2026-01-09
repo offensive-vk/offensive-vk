@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En mayo de 1997, una supercomputadora de IBM conocida como Deep Blue derrotó al entonces campeón mundial de ajedrez Garry Kasparov, quien una vez se había jactado de que nunca perdería contra una máquina. Después de 15 años, se descubrió que el movimiento crítico realizado por Deep Blue se debió a un error en su software.❞</i>
+<i>❝El término “World Wide Web” fue inventado por Tim Berners en 1990.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
