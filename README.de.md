@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der Begriff „World Wide Web“ wurde 1990 von Tim Berners erfunden.❞</i>
+<i>❝Die erste Festplatte überhaupt wurde 1979 hergestellt und konnte nur 5 MB Daten speichern.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
