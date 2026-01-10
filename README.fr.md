@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« La programmation peut être amusante, tout comme la cryptographie ; cependant, elles ne doivent pas être combinées. » – Kreitzberg et Shneiderman ❞</i>
+<i>❝Le tout premier disque dur a été fabriqué en 1979 et ne pouvait contenir que 5 Mo de données.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
