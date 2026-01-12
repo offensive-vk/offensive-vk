@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le tout premier disque dur a été fabriqué en 1979 et ne pouvait contenir que 5 Mo de données.❞</i>
+<i>❝La maison où vit Bill Gates a été conçue à l'aide d'un ordinateur Macintosh.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
