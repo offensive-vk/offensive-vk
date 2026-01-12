@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El término “World Wide Web” fue inventado por Tim Berners en 1990.❞</i>
+<i>❝La casa donde vive Bill Gates fue diseñada usando una computadora Macintosh.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
