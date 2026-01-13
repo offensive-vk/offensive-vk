@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝第一个硬盘驱动器于 1979 年制造，只能容纳 5MB 的数据。❞</i>
+<i>❝“编程可以很有趣，密码学也可以；但是它们不应该结合在一起。”——Kreitzberg 和 Shneiderman ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
