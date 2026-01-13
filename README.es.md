@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La casa donde vive Bill Gates fue diseñada usando una computadora Macintosh.❞</i>
+<i>❝“La programación puede ser divertida, al igual que la criptografía; sin embargo, no deben combinarse.”— Kreitzberg y Shneiderman ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
