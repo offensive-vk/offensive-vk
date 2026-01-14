@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La programación puede ser divertida, al igual que la criptografía; sin embargo, no deben combinarse.”— Kreitzberg y Shneiderman ❞</i>
+<i>❝En Windows 98, las ventanas minimizadas en realidad se mueven muy lejos de la resolución promedio del monitor.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
