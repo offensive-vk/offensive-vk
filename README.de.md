@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Die erste Festplatte überhaupt wurde 1979 hergestellt und konnte nur 5 MB Daten speichern.❞</i>
+<i>❝In Windows 98 werden minimierte Fenster tatsächlich weit außerhalb der durchschnittlichen Monitorauflösung verschoben.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
