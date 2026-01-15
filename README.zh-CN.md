@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“编程可以很有趣，密码学也可以；但是它们不应该结合在一起。”——Kreitzberg 和 Shneiderman ❞</i>
+<i>❝“知识最大的敌人不是无知，而是知识的幻觉。”——史蒂芬·霍金❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
