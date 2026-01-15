@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« La programmation peut être amusante, tout comme la cryptographie ; cependant, elles ne doivent pas être combinées. » – Kreitzberg et Shneiderman ❞</i>
+<i>❝«Le plus grand ennemi de la connaissance n'est pas l'ignorance, c'est l'illusion de la connaissance.»— Stephen Hawking ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
