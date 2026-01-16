@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“知识最大的敌人不是无知，而是知识的幻觉。”——史蒂芬·霍金❞</i>
+<i>❝1998 年拉里·佩奇 (Larry Page) 和谢尔盖·布林 (Sergey Brin) 创建 Google 时将车库租给他们的那位女士后来成为了 YouTube 的首席执行官。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
