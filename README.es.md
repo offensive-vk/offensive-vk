@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En Windows 98, las ventanas minimizadas en realidad se mueven muy lejos de la resolución promedio del monitor.❞</i>
+<i>❝La mujer que alquiló su garaje a Larry Page y Sergey Brin en 1998 cuando estaban creando Google, más tarde se convirtió en la directora ejecutiva de YouTube.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
