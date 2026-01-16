@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝In Windows 98 werden minimierte Fenster tatsächlich weit außerhalb der durchschnittlichen Monitorauflösung verschoben.❞</i>
+<i>❝Die Frau, die 1998 ihre Garage an Larry Page und Sergey Brin vermietete, als diese Google gründeten, wurde später CEO von YouTube.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
