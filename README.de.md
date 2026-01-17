@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Die Frau, die 1998 ihre Garage an Larry Page und Sergey Brin vermietete, als diese Google gründeten, wurde später CEO von YouTube.❞</i>
+<i>❝„Ein Programm ist nie zu weniger als 90 % und nie zu mehr als 95 % abgeschlossen.“ – Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
