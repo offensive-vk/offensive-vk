@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La mujer que alquiló su garaje a Larry Page y Sergey Brin en 1998 cuando estaban creando Google, más tarde se convirtió en la directora ejecutiva de YouTube.❞</i>
+<i>❝“Un programa nunca está completo en menos del 90 % ni en más del 95 %.”— Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
