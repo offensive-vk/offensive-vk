@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«Le plus grand ennemi de la connaissance n'est pas l'ignorance, c'est l'illusion de la connaissance.»— Stephen Hawking ❞</i>
+<i>❝« Un programme n'est jamais terminé à moins de 90 % et jamais à plus de 95 %."— Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
