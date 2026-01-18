@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝1998 年拉里·佩奇 (Larry Page) 和谢尔盖·布林 (Sergey Brin) 创建 Google 时将车库租给他们的那位女士后来成为了 YouTube 的首席执行官。❞</i>
+<i>❝“一个项目的完成度永远不会低于 90%，也永远不会超过 95%。”— Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
