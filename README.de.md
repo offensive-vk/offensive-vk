@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ein Programm ist nie zu weniger als 90 % und nie zu mehr als 95 % abgeschlossen.“ – Terry Baker ❞</i>
+<i>❝Wenn Sie das Gehäuse des ursprünglichen Macintosh öffnen, finden Sie dort 47 Unterschriften, die von jedem Mitglied der Macintosh-Abteilung von Apple stammen. Interessant?❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
