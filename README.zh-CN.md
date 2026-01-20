@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝如果你打开原版Macintosh的外壳，里面有47个签名，都是来自苹果Macintosh部门的每个成员，有趣吗？❞</i>
+<i>❝嗯，有两款游戏是 1980 年在美国制作的第一款游戏，分别是《Asteroids》和《Lunar Lander》。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
