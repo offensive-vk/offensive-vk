@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Un programa nunca está completo en menos del 90 % ni en más del 95 %.”— Terry Baker ❞</i>
+<i>❝Bueno, hay dos juegos que fueron los primeros creados en los EE. UU., llamados Asteroids y Lunar Lander en 1980.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
