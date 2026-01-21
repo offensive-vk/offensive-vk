@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bueno, hay dos juegos que fueron los primeros creados en los EE. UU., llamados Asteroids y Lunar Lander en 1980.❞</i>
+<i>❝"Se supone que a estas alturas todo el mundo conoce el peligro de la optimización prematura. Creo que deberíamos estar igual de preocupados por el diseño prematuro: diseñar demasiado pronto lo que debería hacer un programa".— Paul Graham ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
