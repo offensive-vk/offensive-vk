@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Un programme n'est jamais terminé à moins de 90 % et jamais à plus de 95 %."— Terry Baker ❞</i>
+<i>❝"Tout le monde connaît probablement désormais le danger d'une optimisation prématurée. Je pense que nous devrions tout autant nous inquiéter d'une conception prématurée - concevoir trop tôt ce qu'un programme devrait faire. "- Paul Graham ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
