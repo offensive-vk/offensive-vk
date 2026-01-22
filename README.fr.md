@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Tout le monde connaît probablement désormais le danger d'une optimisation prématurée. Je pense que nous devrions tout autant nous inquiéter d'une conception prématurée - concevoir trop tôt ce qu'un programme devrait faire. "- Paul Graham ❞</i>
+<i>❝Mortal Kombat II était si populaire lorsqu'il est sorti dans les salles d'arcade que plusieurs machines ont ensuite été installées avec des panneaux de sécurité à blocage à l'arrière pour empêcher les voleurs d'arracher la carte mère du jeu directement de la machine et de la ramener à la maison.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
