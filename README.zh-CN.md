@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝嗯，有两款游戏是 1980 年在美国制作的第一款游戏，分别是《Asteroids》和《Lunar Lander》。❞</i>
+<i>❝《真人快打 II》在街机上非常受欢迎，以至于后来有几台机器的背面安装了死锁安全面板，以防止小偷直接从机器上撕下游戏主板并将其带回家。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
