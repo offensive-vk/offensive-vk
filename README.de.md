@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Mittlerweile weiß vermutlich jeder um die Gefahr vorzeitiger Optimierung. Ich denke, wir sollten uns genauso Sorgen über vorzeitiges Design machen – zu früh entwerfen, was ein Programm tun soll.“ – Paul Graham ❞</i>
+<i>❝Mortal Kombat II war so beliebt, als es in die Spielhallen kam, dass mehrere der Automaten später mit Deadlock-Sicherheitsplatten auf der Rückseite ausgestattet wurden, um Diebe daran zu hindern, das Motherboard des Spiels direkt aus dem Automaten zu reißen und mit nach Hause zu nehmen.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
