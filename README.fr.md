@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mortal Kombat II était si populaire lorsqu'il est sorti dans les salles d'arcade que plusieurs machines ont ensuite été installées avec des panneaux de sécurité à blocage à l'arrière pour empêcher les voleurs d'arracher la carte mère du jeu directement de la machine et de la ramener à la maison.❞</i>
+<i>❝Un ver informatique était présent auparavant et pouvait accéder à votre système d'exploitation Windows XP, pouvait télécharger un correctif de Microsoft pour éliminer la vulnérabilité, l'utiliser pour infecter le système et ensuite se supprimer.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
