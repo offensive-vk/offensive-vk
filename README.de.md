@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mortal Kombat II war so beliebt, als es in die Spielhallen kam, dass mehrere der Automaten später mit Deadlock-Sicherheitsplatten auf der Rückseite ausgestattet wurden, um Diebe daran zu hindern, das Motherboard des Spiels direkt aus dem Automaten zu reißen und mit nach Hause zu nehmen.❞</i>
+<i>❝Zuvor war ein Computerwurm vorhanden, der auf Ihr Windows XP-Betriebssystem zugreifen konnte. Er konnte einen Patch von Microsoft herunterladen, um die Sicherheitslücke zu schließen, indem er das System infizierte und sich anschließend selbst löschte.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
