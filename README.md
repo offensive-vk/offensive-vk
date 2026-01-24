@@ -139,7 +139,7 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#30871](undefined) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1. ❌ Closed PR [#411](https://github.com/offensive-vk/UntilEverything/pull/411) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 2. ❌ Labeled PR [#30871](undefined) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 3. 💪 Opened PR [#30871](undefined) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4. ❌ Assigned PR [#30871](undefined) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
