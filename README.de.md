@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Zuvor war ein Computerwurm vorhanden, der auf Ihr Windows XP-Betriebssystem zugreifen konnte. Er konnte einen Patch von Microsoft herunterladen, um die Sicherheitslücke zu schließen, indem er das System infizierte und sich anschließend selbst löschte.❞</i>
+<i>❝Vorher war ein Computerwurm vorhanden, der auf Ihr Windows XP-Betriebssystem zugreifen konnte. Er konnte einen Patch von Microsoft herunterladen, um die Sicherheitslücke zu schließen, indem er das System infizierte und sich anschließend selbst löschte.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Zusammengeführte PR[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Geschlossene PR[#411](https://github.com/offensive-vk/UntilEverything/pull/411)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 2.  ❌ PR-Kennzeichnung[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 3.  💪 PR eröffnet[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ Zugewiesene PR[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
