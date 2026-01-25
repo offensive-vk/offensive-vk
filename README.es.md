@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Dentro de dos años, el spam estará resuelto.”— Bill Gates, 2004 ❞</i>
+<i>❝Antes había un gusano informático que podía acceder a su sistema operativo Windows XP, podía descargar un parche de Microsoft para detectar la vulnerabilidad, ya que lo usaba para infectar el sistema y luego eliminarlo.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Relaciones públicas fusionadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Relaciones públicas cerradas[#411](https://github.com/offensive-vk/UntilEverything/pull/411)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 2.  ❌ Relaciones públicas etiquetadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 3.  💪 Relaciones públicas abiertas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ Relaciones públicas asignadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
