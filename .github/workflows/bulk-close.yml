@@ -6,11 +6,11 @@ on:
       issue_count_begin:
         description: 'Issue Count Beginning from.'
         required: true
-        default: '27000'
+        default: '30009'
       issue_count_end:
         description: 'Issue Count Ending to.'
         required: true
-        default: '27001'
+        default: '30001'
 
 jobs:
   job:
