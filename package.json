@@ -1,6 +1,6 @@
 {
   "name": "offensive-vk",
-  "version": "25.11.0",
+  "version": "26.1.0",
   "description": "My Personal Github Repository. (Fully Automated). MIT Licensed 2020 - Present",
   "main": "README.md",
   "bot": "https://github.com/TheHamsterBot",
@@ -37,7 +37,7 @@
     "url": "https://github.com/offensive-vk/"
   },
   "license": "MIT",
-  "packageManager": "pnpm@10.10.0",
+  "packageManager": "pnpm@10.25.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/offensive-vk/"
