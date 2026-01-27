@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Vorher war ein Computerwurm vorhanden, der auf Ihr Windows XP-Betriebssystem zugreifen konnte. Er konnte einen Patch von Microsoft herunterladen, um die Sicherheitslücke zu schließen, indem er das System infizierte und sich anschließend selbst löschte.❞</i>
+<i>❝Pixar brauchte 29 Stunden, um ein einzelnes Bild von Monsters University zu rendern. Bei einer einzigen CPU hätte die Fertigstellung 10.000 Jahre gedauert.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
