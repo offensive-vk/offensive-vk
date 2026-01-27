@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝之前存在一种计算机蠕虫，它可以访问您的 Windows XP 操作系统，可以从 Microsoft 下载补丁以存在该漏洞，并使用它来感染系统并在删除自身后。❞</i>
+<i>❝皮克斯花了 29 个小时渲染《怪兽大学》的单帧画面。如果在单个 CPU 上完成，则需要 10,000 年才能完成。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ 合并公关[#30871](undefined)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ 封闭公关[#411](https://github.com/offensive-vk/UntilEverything/pull/411)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 2.  ❌ 标签公关[#30871](undefined)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 3.  💪 开启公关[#30871](undefined)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ 分配的公关[#30871](undefined)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
