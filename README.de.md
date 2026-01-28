@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Pixar brauchte 29 Stunden, um ein einzelnes Bild von Monsters University zu rendern. Bei einer einzigen CPU hätte die Fertigstellung 10.000 Jahre gedauert.❞</i>
+<i>❝Laut Statista werden bis 2023 über 50 Milliarden Geräte mit dem Internet verbunden sein.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
