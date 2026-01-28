@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Un ver informatique était présent auparavant et pouvait accéder à votre système d'exploitation Windows XP, pouvait télécharger un correctif de Microsoft pour éliminer la vulnérabilité, l'utiliser pour infecter le système et ensuite se supprimer.❞</i>
+<i>❝Selon Statista, d'ici 2023, plus de 50 milliards d'appareils seront connectés à Internet.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Relations publiques fusionnées[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ PR fermé[#411](https://github.com/offensive-vk/UntilEverything/pull/411)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
 2.  ❌Labellisé PR[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 3.  💪 RP ouverte[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ PR assigné[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
