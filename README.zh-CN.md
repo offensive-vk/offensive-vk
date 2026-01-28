@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝皮克斯花了 29 个小时渲染《怪兽大学》的单帧画面。如果在单个 CPU 上完成，则需要 10,000 年才能完成。❞</i>
+<i>❝据 statista 称，到 2023 年，将有超过 500 亿台设备连接到互联网。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
