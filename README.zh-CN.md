@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝据 statista 称，到 2023 年，将有超过 500 亿台设备连接到互联网。❞</i>
+<i>❝有一款名为“Lose/Lose”的视频游戏，每次杀死敌人时，它都会删除计算机上的随机文件。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
