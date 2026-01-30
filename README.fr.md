@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Selon Statista, d'ici 2023, plus de 50 milliards d'appareils seront connectés à Internet.❞</i>
+<i>❝Il existe un jeu vidéo appelé « Lose/Lose » qui supprime un fichier aléatoire sur votre ordinateur chaque fois que vous tuez un ennemi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
