@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Laut Statista werden bis 2023 über 50 Milliarden Geräte mit dem Internet verbunden sein.❞</i>
+<i>❝TYPEWRITER ist das längste Wort, das Sie mit den Buchstaben nur in einer Zeile der Tastatur Ihres Computers schreiben können.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
