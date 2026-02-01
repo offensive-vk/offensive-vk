@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Il existe un jeu vidéo appelé « Lose/Lose » qui supprime un fichier aléatoire sur votre ordinateur chaque fois que vous tuez un ennemi.❞</i>
+<i>❝TYPEWRITER est le mot le plus long que vous pouvez écrire en utilisant les lettres d'une seule rangée du clavier de votre ordinateur.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
