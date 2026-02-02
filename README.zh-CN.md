@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝有一款名为“Lose/Lose”的视频游戏，每次杀死敌人时，它都会删除计算机上的随机文件。❞</i>
+<i>❝存储计算机程序的第一个实例是在 1801 年，当时 Joseph Marie Jacquard 展示了一台织机，该织机根据送入机器的打孔卡片来编织织物。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
