@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝L'un des premiers exemples d'un programme informatique stocké remonte à 1801, lorsque Joseph Marie Jacquard a fait la démonstration d'un métier à tisser qui tissait des tissus à partir de cartes perforées introduites dans la machine.❞</i>
+<i>❝« Le seul système véritablement sécurisé est celui qui est éteint, coulé dans un bloc de béton et scellé dans une pièce plombée avec des gardes armés. » – Gene Spafford ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
