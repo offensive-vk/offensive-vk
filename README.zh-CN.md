@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝存储计算机程序的第一个实例是在 1801 年，当时 Joseph Marie Jacquard 展示了一台织机，该织机根据送入机器的打孔卡片来编织织物。❞</i>
+<i>❝“注释你的代码就像打扫你的浴室——你永远不想这样做，但它确实为你和你的客人创造了更愉快的体验。”——Ryan Campbell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
