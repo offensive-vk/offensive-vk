@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER es la palabra más larga que puedes escribir usando las letras de una sola fila del teclado de tu computadora.❞</i>
+<i>❝“Comentar tu código es como limpiar tu baño: nunca querrás hacerlo, pero realmente crea una experiencia más placentera para ti y tus invitados”.—Ryan Campbell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
