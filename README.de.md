@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Das Kommentieren Ihres Codes ist wie das Reinigen Ihres Badezimmers – Sie möchten es nie tun, aber es sorgt wirklich für ein angenehmeres Erlebnis für Sie und Ihre Gäste.“ – Ryan Campbell ❞</i>
+<i>❝„In Zukunft dürfen Computer nicht mehr als 1,5 Tonnen wiegen.“ – Populäre Mechanik, 1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -157,7 +157,7 @@
 8.  🎉 Zusammengeführte PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9.  🔒 Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-11. 🔒Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
