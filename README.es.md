@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Comentar tu código es como limpiar tu baño: nunca querrás hacerlo, pero realmente crea una experiencia más placentera para ti y tus invitados”.—Ryan Campbell ❞</i>
+<i>❝“En el futuro, las computadoras quizás no pesen más de 1,5 toneladas.”—Mecánica popular, 1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
