@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En el futuro, las computadoras quizás no pesen más de 1,5 toneladas.”—Mecánica popular, 1949 ❞</i>
+<i>❝“Tus clientes más descontentos son tu mayor fuente de aprendizaje.”— Bill Gates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
