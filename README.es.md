@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Tus clientes más descontentos son tu mayor fuente de aprendizaje.”— Bill Gates ❞</i>
+<i>❝La peor violación de computadoras militares estadounidenses en la historia ocurrió cuando alguien tomó una tarjeta de memoria (infectada por una agencia de inteligencia extranjera) que encontró en el estacionamiento y la conectó a su computadora, que estaba conectada al Comando Central de Estados Unidos.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
