@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ihre unzufriedensten Kunden sind Ihre größte Lernquelle.“ – Bill Gates ❞</i>
+<i>❝Der schlimmste Verstoß gegen US-Militärcomputer in der Geschichte ereignete sich, als jemand einen (von einem ausländischen Geheimdienst infizierten) Speicherstick, den er auf dem Parkplatz gefunden hatte, in seinen Computer einsteckte, der an das Zentralkommando der Vereinigten Staaten angeschlossen war.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
