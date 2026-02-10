@@ -9,5 +9,4 @@
 8. ❌ Closed pull request [#411](https://github.com/offensive-vk/UntilEverything/pull/411) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 9. ✅ Approved on pull request [#411](https://github.com/offensive-vk/UntilEverything/pull/411) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 10. ✅ Approved on pull request [#413](https://github.com/offensive-vk/UntilEverything/pull/413) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. ✅ Approved on pull request [#412](https://github.com/offensive-vk/UntilEverything/pull/412) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
