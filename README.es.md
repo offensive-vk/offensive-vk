@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La peor violación de computadoras militares estadounidenses en la historia ocurrió cuando alguien tomó una tarjeta de memoria (infectada por una agencia de inteligencia extranjera) que encontró en el estacionamiento y la conectó a su computadora, que estaba conectada al Comando Central de Estados Unidos.❞</i>
+<i>❝“Una vez una computadora me ganó al ajedrez, pero no fue rival para mí en el kick boxing.”— Emo Philips ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
