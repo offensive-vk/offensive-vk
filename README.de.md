@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der schlimmste Verstoß gegen US-Militärcomputer in der Geschichte ereignete sich, als jemand einen (von einem ausländischen Geheimdienst infizierten) Memory Stick, den er auf dem Parkplatz gefunden hatte, in die Hand nahm und ihn an seinen Computer anschloss, der dem Zentralkommando der Vereinigten Staaten angeschlossen war.❞</i>
+<i>❝„Ein Computer hat mich einmal beim Schach geschlagen, aber beim Kickboxen war er mir nicht gewachsen.“ – Emo Philips ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
