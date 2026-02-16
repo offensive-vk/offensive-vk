@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机病毒是都市传说。”— Peter Norton，1988 ❞</i>
+<i>❝“计算机擅长遵循指令，但不擅长读懂你的想法。”——Donald Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
