@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Environ 70 % des auteurs de virus travailleraient sous contrat pour des syndicats du crime organisé.❞</i>
+<i>❝Lorsque les ordinateurs fonctionnent, ils deviennent chauds. Les ordinateurs ont des ventilateurs pour les garder au frais.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
