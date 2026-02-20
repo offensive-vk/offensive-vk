@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Alle Teile sollten ohne Gewalt zusammenpassen. Sie müssen bedenken, dass die Teile, die Sie wieder zusammenbauen, von Ihnen zerlegt wurden. Wenn Sie sie also nicht wieder zusammenbauen können, muss es einen Grund dafür geben. Verwenden Sie auf keinen Fall einen Hammer.“ – IBM-Handbuch, 1925 ❞</i>
+<i>❝Wenn Computer laufen, werden sie heiß. Computer haben Ventilatoren, die sie kühl halten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
