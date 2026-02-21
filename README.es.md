@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Cuando las computadoras funcionan, se calientan. Las computadoras tienen ventiladores para mantenerlas frescas.❞</i>
+<i>❝La tarjeta de video Ultra NVidia GeForce 6800 se construyó con 222 millones de transistores y se considera una de las mejores hasta la fecha.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
