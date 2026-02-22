@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Wenn Computer laufen, werden sie heiß. Computer haben Ventilatoren, die sie kühl halten.❞</i>
+<i>❝HP, Microsoft und Apple haben eine sehr interessante Gemeinsamkeit – sie wurden alle in einer Garage gegründet.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
