@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La carte vidéo Ultra NVidia GeForce 6800 a été construite avec 222 millions de transistors et est considérée comme l'une des meilleures à ce jour.❞</i>
+<i>❝HP, Microsoft et Apple ont une chose très intéressante en commun : ils ont tous démarré dans un garage.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
