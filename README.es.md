@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La tarjeta de video Ultra NVidia GeForce 6800 se construyó con 222 millones de transistores y se considera una de las mejores hasta la fecha.❞</i>
+<i>❝“El verdadero conocimiento es conocer el alcance de la propia ignorancia.”—Confucio ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
