@@ -4,7 +4,4 @@
 3. ✅ Approved on pull request [#58](https://github.com/offensive-vk/develop-actions/pull/58) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 4. ✅ Approved on pull request [#30948](https://github.com/offensive-vk/offensive-vk/pull/30948) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 5. ✅ Approved on pull request [#30946](https://github.com/offensive-vk/offensive-vk/pull/30946) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6. ✅ Approved on pull request [#57](https://github.com/offensive-vk/develop-actions/pull/57) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-7. ✅ Approved on pull request [#56](https://github.com/offensive-vk/develop-actions/pull/56) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-8. ✅ Approved on pull request [#54](https://github.com/offensive-vk/develop-actions/pull/54) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 <!--END_SECTION:activity-->
