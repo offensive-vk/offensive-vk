@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝HP, Microsoft et Apple ont une chose très intéressante en commun : ils ont tous démarré dans un garage.❞</i>
+<i>❝« Changeons notre attitude traditionnelle à l'égard de la construction de programmes : au lieu d'imaginer que notre tâche principale est de dire à un ordinateur ce qu'il doit faire, concentrons-nous plutôt sur l'explication aux êtres humains de ce que nous voulons qu'un ordinateur fasse. » — Donald E. Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
