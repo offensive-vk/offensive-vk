@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the goal_. <br>🧑‍💻 I like to write computer `code`. <br>🤝 I’m looking for help in my server. <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _nasty_ stuff. <br>💬 Ask me about nothing. <br>👌 I respect my time. <br>⚡ Fun fact: no fun, only code. <br>💥 Keep moving and you'll overcome one day. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.❞</i>
+<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
