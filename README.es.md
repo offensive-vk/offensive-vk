@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“El verdadero conocimiento es conocer el alcance de la propia ignorancia.”—Confucio ❞</i>
+<i>❝Windows 95 fue el segundo software más instalado en computadoras en 1995, seguido del videojuego DOOM.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
