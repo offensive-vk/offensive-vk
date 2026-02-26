@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“让我们改变对程序构建的传统态度：不要想象我们的主要任务是指导计算机做什么，而是让我们集中精力向人类解释我们希望计算机做什么。”——Donald E. Knuth ❞</i>
+<i>❝Windows 95 是 1995 年计算机上安装量第二大的软件，电子游戏《DOOM》位居第一。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
