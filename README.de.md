@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 95 war 1995 die am zweithäufigsten auf Computern installierte Software, gefolgt von dem Videospiel DOOM.❞</i>
+<i>❝„Das manuelle Verwalten von Speicherblöcken in C ist wie das Jonglieren von Seifenstücken in einer Gefängnisdusche: Es ist alles Spaß und Spiel, bis man eines davon vergisst.“ – anonymer Usenet-Benutzer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
