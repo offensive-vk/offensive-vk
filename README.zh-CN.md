@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 95 是 1995 年计算机上安装量第二大的软件，电子游戏《DOOM》位居第一。❞</i>
+<i>❝“在 C 语言中手动管理内存块就像在监狱淋浴间里玩弄肥皂：这一切都很有趣，直到你忘记其中一个。”——匿名 Usenet 用户 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
