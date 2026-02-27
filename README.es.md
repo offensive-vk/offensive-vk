@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 95 fue el segundo software más instalado en computadoras en 1995, seguido del videojuego DOOM.❞</i>
+<i>❝“Gestionar manualmente bloques de memoria en C es como hacer malabares con pastillas de jabón en la ducha de una prisión: todo es diversión y juegos hasta que te olvidas de uno de ellos.”—Usuario anónimo de Usenet ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
