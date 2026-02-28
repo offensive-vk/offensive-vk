@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在 C 语言中手动管理内存块就像在监狱淋浴间里玩弄肥皂：这一切都很有趣，直到你忘记其中一个。”——匿名 Usenet 用户 ❞</i>
+<i>❝elgoog.im（Google 向后拼写）是 Google 搜索的镜像网站，搜索结果水平翻转，也称为“Google 镜像”。 All Too Flat “为了好玩”创建了一个非官方的 elgooG 网站，该网站于 2002 年开始流行❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
