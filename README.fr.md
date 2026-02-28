@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Gérer manuellement des blocs de mémoire en C, c'est comme jongler avec des pains de savon sous une douche de prison : tout n'est qu'amusement et jeux jusqu'à ce que vous en oubliiez un. » – utilisateur Usenet anonyme ❞</i>
+<i>❝elgoog.im (Google épelé à l'envers) est un site Web miroir de la recherche Google avec des résultats de recherche inversés horizontalement, également connu sous le nom de « miroir Google ». Un site Web non officiel elgooG a été créé par All Too Flat « pour le plaisir », qui a commencé à gagner en popularité en 2002❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ PR fermé[#411](https://github.com/offensive-vk/UntilEverything/pull/411)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+1.  ❌ PR fermé[#411](https://github.com/offensive-vk/UntilEverything/pull/411)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
 2.  ❌Labellisé PR[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 3.  💪 RP ouverte[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ PR assigné[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
