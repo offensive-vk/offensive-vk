@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Das manuelle Verwalten von Speicherblöcken in C ist wie das Jonglieren von Seifenstücken in einer Gefängnisdusche: Es ist alles Spaß und Spiel, bis man eines davon vergisst.“ – anonymer Usenet-Benutzer ❞</i>
+<i>❝elgoog.im (Google rückwärts geschrieben) ist eine gespiegelte Website der Google-Suche mit horizontal gespiegelten Suchergebnissen, auch bekannt als „Google Mirror“. Eine inoffizielle elgooG-Website wurde von All Too Flat „zum Spaß“ erstellt und begann 2002 an Popularität zu gewinnen❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
