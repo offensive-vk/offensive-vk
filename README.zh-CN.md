@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝elgoog.im（Google 向后拼写）是 Google 搜索的镜像网站，搜索结果水平翻转，也称为“Google 镜像”。 All Too Flat “为了好玩”创建了一个非官方的 elgooG 网站，该网站于 2002 年开始流行❞</i>
+<i>❝“从程序员的角度来看，用户是一个外围设备，当您发出读取请求时，它会进行输入。”— P. Williams ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
