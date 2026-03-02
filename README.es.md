@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Desde el punto de vista de un programador, el usuario es un periférico que escribe cuando usted emite una solicitud de lectura.”— P. Williams ❞</i>
+<i>❝Mortal Kombat II fue tan popular cuando llegó a las salas de juego que varias de las máquinas fueron instaladas posteriormente con paneles de seguridad en la parte posterior para evitar que los ladrones arrancaran la placa base del juego directamente de la máquina y se la llevaran a casa.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
