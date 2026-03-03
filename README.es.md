@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mortal Kombat II fue tan popular cuando llegó a las salas de juego que varias de las máquinas fueron instaladas posteriormente con paneles de seguridad en la parte posterior para evitar que los ladrones arrancaran la placa base del juego directamente de la máquina y se la llevaran a casa.❞</i>
+<i>❝Si abres la caja del Macintosh original, hay 47 firmas allí, que son de cada miembro de la división Macintosh de Apple en ¿Interesante?❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
