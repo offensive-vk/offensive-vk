@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the goal_. <br>🧑‍💻 I like to write computer `code`. <br>🤝 I’m looking for help in my server. <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _nasty_ stuff. <br>💬 Ask me about nothing. <br>👌 I respect my time. <br>⚡ Fun fact: no fun, only code. <br>💥 Keep moving and you'll overcome one day. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
+<i>❝Mortal Kombat II was so popular when it hit the arcades that several of the machines were later installed with deadlock security panels on the back to prevent thieves from ripping the game’s motherboard straight out of the machine and taking it home.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
