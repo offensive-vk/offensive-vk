@@ -23,20 +23,20 @@ Total starred repositories: `45`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️167486)
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️167583)
 
 ## C
 
-  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. \[*MIT License*\] (⭐️20426)
+  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. \[*MIT License*\] (⭐️20446)
 
 ## C++
 
-  - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser \[*BSD 2-Clause "Simplified" License*\] (⭐️60889)
+  - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser \[*BSD 2-Clause "Simplified" License*\] (⭐️60936)
   - [offensive-vk/Classics](https://github.com/offensive-vk/Classics) - Classics: (C/C++) ~ This Repository Contains All of My C & C++ Programs. Hence, An Old School Repo. All Programs Have Categorized for Reference. \[*GNU GPLv2*\] (⭐️4)
 
 ## Go
 
-  - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool \[*Apache License 2.0*\] (⭐️9791)
+  - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool \[*Apache License 2.0*\] (⭐️9795)
 
 ## Java
 
@@ -44,14 +44,14 @@ Total starred repositories: `45`
 
 ## JavaScript
 
-  - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning \[*MIT License*\] (⭐️1154)
-  - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw (⭐️27348)
+  - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning \[*MIT License*\] (⭐️1155)
+  - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw (⭐️27349)
   - [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview. \[*MIT License*\] (⭐️12149) *Archived!*
-  - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures \[*Creative Commons Attribution 4.0 International*\] (⭐️8586)
+  - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures \[*Creative Commons Attribution 4.0 International*\] (⭐️8585)
   - [LordDashMe/github-contribution-stats](https://github.com/LordDashMe/github-contribution-stats) - Dynamically generated Github Contribution Stats. :chart_with_upwards_trend: :calendar: \[*MIT License*\] (⭐️665)
   - [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud) - Awesome and Cool Stuff Relating to Cloud Itself, Cloud Computing, Cloud Architecture, Virtualization and IoT. \[*Creative Commons Zero v1.0 Universal*\] (⭐️1)
   - [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything) - Language Specific Examples of Topics and Various Web Development Projects & Pages. Cheatsheets For Programming Languages.  \[*Creative Commons Zero v1.0 Universal*\] (⭐️5)
-  - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor (⭐️4600)
+  - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor (⭐️4601)
 
 ## Markdown
 
@@ -59,14 +59,14 @@ Total starred repositories: `45`
 
 ## Python
 
-  - [cclauss/Ten-lines-or-less](https://github.com/cclauss/Ten-lines-or-less) - Python scripts that are short but useful or interesting \[*Apache License 2.0*\] (⭐️608)
+  - [cclauss/Ten-lines-or-less](https://github.com/cclauss/Ten-lines-or-less) - Python scripts that are short but useful or interesting \[*Apache License 2.0*\] (⭐️607)
   - [offensive-vk/Learn-Python](https://github.com/offensive-vk/Learn-Python) - Cool Python Scripts and Programs | Various Examples and References. \[*GNU GPLv2*\] (⭐️1)
-  - [python/cpython](https://github.com/python/cpython) - The Python programming language (⭐️71761)
-  - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (⭐️20273)
+  - [python/cpython](https://github.com/python/cpython) - The Python programming language (⭐️71780)
+  - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (⭐️20275)
 
 ## QML
 
-  - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (⭐️25212)
+  - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (⭐️25211)
 
 ## SCSS
 
@@ -74,34 +74,34 @@ Total starred repositories: `45`
 
 ## Svelte
 
-  - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love \[*GNU AGPLv3*\] (⭐️38963)
+  - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love \[*GNU AGPLv3*\] (⭐️38977)
   - [Lissy93/lissy93.github.io](https://github.com/Lissy93/lissy93.github.io) - 💜 Really simple project page \[*MIT License*\] (⭐️16)
 
 ## TypeScript
 
-  - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js \[*MIT License*\] (⭐️4671)
-  - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. \[*MIT License*\] (⭐️5664)
-  - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning \[*MIT License*\] (⭐️2382)
-  - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx \[*Apache License 2.0*\] (⭐️5178)
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️350012)
-  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️32179)
-  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️182192)
+  - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js \[*MIT License*\] (⭐️4675)
+  - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. \[*MIT License*\] (⭐️5665)
+  - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning \[*MIT License*\] (⭐️2384)
+  - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx \[*Apache License 2.0*\] (⭐️5180)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️350078)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️32182)
+  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️182235)
   - [offensive-vk/Actionshub](https://github.com/offensive-vk/Actionshub) - Special Playground for Testing My Workflows and CI/CD.  Crucial Mirror for My Personal Github Actions. \[*MIT License*\] (⭐️1)
   - [offensive-vk/Collection](https://github.com/offensive-vk/Collection) - Some Practical and Curated Interview Coding Questions + Exercises. In 5 Most Popular High Level Programming Languages. Leave a ⭐ if you found it helpful. \[*GNU GPLv3*\] (⭐️2)
   - [offensive-vk/override.ps1](https://github.com/offensive-vk/override.ps1) - Curated Collection of Cool Functions. For Enhanced Unit Testing & NPM Registry @ <https://registry.npmjs.org> \[*MIT License*\] (⭐️1)
   - [offensive-vk/Radioactive](https://github.com/offensive-vk/Radioactive) - Yet Another Goofy Repo (cursed). More Like Personal Project. (⭐️1)
   - [offensive-vk/TypedScript](https://github.com/offensive-vk/TypedScript) - TypedScript - A Static Repository for Hosting My Personal *TypeScript* :bowtie: Programs. ~ TypeScript is also known as JavaScript with Static Types. \[*MIT License*\] (⭐️1)
-  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons \[*MIT License*\] (⭐️7176)
-  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️30577)
-  - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! \[*MIT License*\] (⭐️19070)
+  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons \[*MIT License*\] (⭐️7207)
+  - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features \[*MIT License*\] (⭐️30590)
+  - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! \[*MIT License*\] (⭐️19081)
 
 ## Unknown
 
   - [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) - GitHub Action composite to dump context \[*MIT License*\] (⭐️41)
-  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers \[*Creative Commons Zero v1.0 Universal*\] (⭐️107619)
-  - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns (⭐️47602)
-  - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐   \[*Creative Commons Zero v1.0 Universal*\] (⭐️12206)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️441908)
+  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers \[*Creative Commons Zero v1.0 Universal*\] (⭐️107681)
+  - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns (⭐️47603)
+  - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐   \[*Creative Commons Zero v1.0 Universal*\] (⭐️12211)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️442247)
 
 ## YAML
 
