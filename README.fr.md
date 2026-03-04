@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Si vous ouvrez le boîtier du Macintosh d'origine, vous y trouverez 47 signatures, qui proviennent de chaque membre de la division Macintosh d'Apple dans Intéressant ?❞</i>
+<i>❝Mortal Kombat II était si populaire lorsqu'il est sorti dans les salles d'arcade que plusieurs machines ont ensuite été installées avec des panneaux de sécurité à blocage à l'arrière pour empêcher les voleurs d'arracher la carte mère du jeu directement de la machine et de la ramener à la maison.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
