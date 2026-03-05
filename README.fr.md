@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mortal Kombat II était si populaire lorsqu'il est sorti dans les salles d'arcade que plusieurs machines ont ensuite été installées avec des panneaux de sécurité à blocage à l'arrière pour empêcher les voleurs d'arracher la carte mère du jeu directement de la machine et de la ramener à la maison.❞</i>
+<i>❝Le premier disque dur de 1 Go a été annoncé en 1980, il pesait environ 550 livres et coûtait 40 000 $.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
