@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mortal Kombat II fue tan popular cuando llegó a las salas de juego que varias de las máquinas fueron instaladas posteriormente con paneles de seguridad en la parte posterior para evitar que los ladrones arrancaran la placa base del juego directamente de la máquina y se la llevaran a casa.❞</i>
+<i>❝La primera unidad de disco duro de 1 GB se anunció en 1980, pesaba alrededor de 550 libras y tenía un precio de 40.000 dólares.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
