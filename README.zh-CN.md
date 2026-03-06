@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝第一个 1GB 硬盘驱动器于 1980 年发布，重约 550 磅，价格为 40,000 美元。❞</i>
+<i>❝比尔·盖茨居住的房子是使用 Macintosh 计算机设计的。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
