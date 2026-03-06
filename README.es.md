@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La primera unidad de disco duro de 1 GB se anunció en 1980, pesaba alrededor de 550 libras y tenía un precio de 40.000 dólares.❞</i>
+<i>❝La casa donde vive Bill Gates fue diseñada usando una computadora Macintosh.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
