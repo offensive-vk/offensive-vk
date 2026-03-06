@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le premier disque dur de 1 Go a été annoncé en 1980, il pesait environ 550 livres et coûtait 40 000 $.❞</i>
+<i>❝La maison où vit Bill Gates a été conçue à l'aide d'un ordinateur Macintosh.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ PR fermé[#411](https://github.com/offensive-vk/UntilEverything/pull/411)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
+1.  ❌ PR fermé[#411](https://github.com/offensive-vk/UntilEverything/pull/411)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
 2.  ❌Labellisé PR[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 3.  💪 RP ouverte[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ PR assigné[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
