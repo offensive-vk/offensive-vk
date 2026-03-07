@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La casa donde vive Bill Gates fue diseñada usando una computadora Macintosh.❞</i>
+<i>❝“Dentro de dos años, el spam estará resuelto.”— Bill Gates, 2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
