@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝比尔·盖茨居住的房子是使用 Macintosh 计算机设计的。❞</i>
+<i>❝“两年后，垃圾邮件将得到解决。”——比尔盖茨，2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
