@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„In zwei Jahren wird Spam beseitigt sein.“ – Bill Gates, 2004 ❞</i>
+<i>❝„Wenn man Programmierer sieht, tun sie meistens gar nichts. Eines der attraktiven Dinge an Programmierern ist, dass man nicht erkennen kann, ob sie arbeiten oder nicht, indem man sie einfach nur ansieht. Sehr oft sitzen sie da und scheinen Kaffee zu trinken und zu tratschen oder einfach nur ins Leere zu starren. Was der Programmierer versucht, ist, all die individuellen und zusammenhangslosen Ideen in den Griff zu bekommen, die in seinem Kopf herumschwirren.“ – Charles M. Strauss ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
