@@ -139,8 +139,8 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#411](https://github.com/offensive-vk/UntilEverything/pull/411) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2. ❌ Labeled PR [#30871](undefined) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1. 🗣 Commented on [#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2. 🗣 Commented on [#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 3. 💪 Opened PR [#30871](undefined) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4. ❌ Assigned PR [#30871](undefined) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 5. 🗣 Commented on [#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
