@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Dans deux ans, le spam sera résolu. » — Bill Gates, 2004 ❞</i>
+<i>❝"La plupart du temps, quand vous voyez des programmeurs, ils ne font rien. L'une des choses intéressantes chez les programmeurs est qu'on ne peut pas dire s'ils travaillent ou non simplement en les regardant. Très souvent, ils sont assis là, apparemment en train de boire du café et de bavarder, ou simplement de regarder dans le vide. Ce que le programmeur essaie de faire, c'est de maîtriser toutes les idées individuelles et sans rapport qui courent dans sa tête. "- Charles M. Strauss ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
