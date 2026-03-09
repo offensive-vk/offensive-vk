@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"في الغالب، عندما ترى المبرمجين، فإنهم لا يفعلون أي شيء. أحد الأشياء الجذابة في المبرمجين هو أنه لا يمكنك معرفة ما إذا كانوا يعملون أم لا بمجرد النظر إليهم. في كثير من الأحيان، يجلسون هناك وهم يشربون القهوة ويثرثرون، أو يحدقون في الفضاء فقط. ما يحاول المبرمج القيام به هو التعامل مع جميع الأفكار الفردية وغير ذات الصلة التي تتجول في رأسه. " - تشارلز إم شتراوس ❞</i>
+<i>❝اخترع تيم بيرنرز مصطلح "شبكة الويب العالمية" في عام 1990.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ علاقات عامة مغلقة[#411](https://github.com/offensive-vk/UntilEverything/pull/411)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  ❌ مُلصق العلاقات العامة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 تم التعليق عليه[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 3.  💪 فتح العلاقات العامة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ العلاقات العامة المعينة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 تم التعليق عليه[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
