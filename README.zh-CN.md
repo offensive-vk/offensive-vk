@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“大多数情况下，当你看到程序员时，他们并没有在做任何事情。程序员的一大吸引力在于，你无法仅仅通过观察来判断他们是否在工作。很多时候，他们坐在那里，似乎是在喝咖啡、闲聊，或者只是凝视着太空。程序员想要做的就是掌握在他脑海中闪现的所有单独的、不相关的想法。”—— Ch​​arles M. Strauss ❞</i>
+<i>❝“万维网”一词是 Tim Berners 于 1990 年发明的。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ 封闭公关[#411](https://github.com/offensive-vk/UntilEverything/pull/411)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  ❌ 标签公关[#30871](undefined)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 已发表评论[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 已发表评论[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 3.  💪 开启公关[#30871](undefined)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ 分配的公关[#30871](undefined)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 已发表评论[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
