@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn man Programmierer sieht, tun sie meistens gar nichts. Eines der attraktiven Dinge an Programmierern ist, dass man nicht erkennen kann, ob sie arbeiten oder nicht, indem man sie einfach nur ansieht. Sehr oft sitzen sie da und scheinen Kaffee zu trinken und zu tratschen oder einfach nur ins Leere zu starren. Was der Programmierer versucht, ist, all die individuellen und zusammenhangslosen Ideen in den Griff zu bekommen, die in seinem Kopf herumschwirren.“ – Charles M. Strauss ❞</i>
+<i>❝Der Begriff „World Wide Web“ wurde 1990 von Tim Berners erfunden.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Geschlossene PR[#411](https://github.com/offensive-vk/UntilEverything/pull/411)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  ❌ PR-Kennzeichnung[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 Kommentiert[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Kommentiert[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 3.  💪 PR eröffnet[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ Zugewiesene PR[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 Kommentiert[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
