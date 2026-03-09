@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Через два года проблема спама будет решена» — Билл Гейтс, 2004 г. ❞</i>
+<i>❝Термин «Всемирная паутина» был изобретен Тимом Бернерсом в 1990 году.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Закрытый пиар[#411](https://github.com/offensive-vk/UntilEverything/pull/411)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  ❌ Маркированный пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 Прокомментировал[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Прокомментировал[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 3.  💪 Открытый пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 4.  ❌Назначенный пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 Прокомментировал[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
