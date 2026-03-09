@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"La mayoría de las veces, cuando ves a los programadores, no están haciendo nada. Una de las cosas atractivas de los programadores es que no puedes saber si están trabajando o no simplemente mirándolos. Muy a menudo están sentados, aparentemente tomando café y chismorreando, o simplemente mirando al vacío. Lo que el programador está tratando de hacer es controlar todas las ideas individuales y no relacionadas que corren por su cabeza".—Charles M. Strauss ❞</i>
+<i>❝El término “World Wide Web” fue inventado por Tim Berners en 1990.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Relaciones públicas cerradas[#411](https://github.com/offensive-vk/UntilEverything/pull/411)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  ❌ Relaciones públicas etiquetadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 Comentado en[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Comentado en[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 3.  💪 Relaciones públicas abiertas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ Relaciones públicas asignadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 Comentado en[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
