@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“万维网”一词是 Tim Berners 于 1990 年发明的。❞</i>
+<i>❝Mircosoft 在他们的操作系统中加入了 Solitaire，“以安抚那些被操作系统吓倒的人”，并向用户介绍图形用户界面，并教他们如何使用鼠标。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
