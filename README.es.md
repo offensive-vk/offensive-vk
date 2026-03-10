@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El término “World Wide Web” fue inventado por Tim Berners en 1990.❞</i>
+<i>❝Mircosoft incluyó Solitario en sus sistemas operativos “para calmar a las personas intimidadas por el sistema operativo” y presentarles a los usuarios interfaces gráficas de usuario y enseñarles a usar un mouse.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
