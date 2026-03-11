@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le terme « World Wide Web » a été inventé par Tim Berners en 1990.❞</i>
+<i>❝Mircosoft a inclus Solitaire dans ses systèmes d'exploitation « pour apaiser les personnes intimidées par le système d'exploitation » et présenter aux utilisateurs les interfaces utilisateur graphiques et leur a appris à utiliser une souris.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
