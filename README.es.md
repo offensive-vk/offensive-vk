@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mircosoft incluyó Solitario en sus sistemas operativos “para calmar a las personas intimidadas por el sistema operativo” y presentarles a los usuarios interfaces gráficas de usuario y enseñarles a usar un mouse.❞</i>
+<i>❝Las computadoras para juegos calientan una habitación con la misma eficiencia que un calentador.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
