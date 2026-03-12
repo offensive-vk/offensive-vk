@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mircosoft hat Solitaire in seine Betriebssysteme integriert, „um Menschen zu beruhigen, die vom Betriebssystem eingeschüchtert sind“, und Benutzer mit grafischen Benutzeroberflächen vertraut zu machen und ihnen den Umgang mit einer Maus beizubringen.❞</i>
+<i>❝Gaming-Computer heizen einen Raum genauso effizient wie eine Raumheizung.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
