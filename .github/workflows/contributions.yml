@@ -16,7 +16,7 @@ jobs:
 
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.2
         env:
-          GITHUB_TOKEN: ${{ secrets.BOT_GH_TOKEN || secrets.BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner || 'offensive-vk' }}
 
       - name: Import GPG Key
