@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mircosoft 在他们的操作系统中加入了 Solitaire，“以安抚那些被操作系统吓倒的人”，并向用户介绍图形用户界面，并教他们如何使用鼠标。❞</i>
+<i>❝游戏电脑可以像小型取暖器一样有效地为房间供暖。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
