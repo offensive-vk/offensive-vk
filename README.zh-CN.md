@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝游戏电脑可以像小型取暖器一样有效地为房间供暖。❞</i>
+<i>❝“硬件让机器变快。软件让快机器变慢。”— Craig Bruce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
