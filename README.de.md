@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Gaming-Computer heizen einen Raum genauso effizient wie eine Raumheizung.❞</i>
+<i>❝„Es ist die Hardware, die eine Maschine schnell macht. Es ist die Software, die eine schnelle Maschine langsam macht.“ – Craig Bruce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
