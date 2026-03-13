@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Las computadoras para juegos calientan una habitación con la misma eficiencia que un calentador.❞</i>
+<i>❝“Es el hardware lo que hace que una máquina sea rápida. Es el software lo que hace que una máquina rápida sea lenta.”— Craig Bruce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
