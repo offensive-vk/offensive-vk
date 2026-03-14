@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“硬件让机器变快。软件让快机器变慢。”— Craig Bruce ❞</i>
+<i>❝“在数据科学中，如果你想帮助个人，要有同理心并提出问题；这样，你也可以开始了解他们的旅程。”——Damian Duffy Mingle❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
