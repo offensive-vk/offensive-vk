@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"C'est le matériel qui rend une machine rapide. Ce sont les logiciels qui ralentissent une machine rapide. "- Craig Bruce ❞</i>
+<i>❝« En science des données, si vous souhaitez aider les individus, faites preuve d'empathie et posez des questions ; de cette façon, vous pourrez également commencer à comprendre leur parcours. » – Damian Duffy Mingle❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
