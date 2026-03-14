@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Es ist die Hardware, die eine Maschine schnell macht. Es ist die Software, die eine schnelle Maschine langsam macht.“ – Craig Bruce ❞</i>
+<i>❝„Wenn Sie in der Datenwissenschaft Einzelpersonen helfen möchten, seien Sie einfühlsam und stellen Sie Fragen. Auf diese Weise können Sie auch beginnen, ihre Reise zu verstehen.“ – Damian Duffy Mingle❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
