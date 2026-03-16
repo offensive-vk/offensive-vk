@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn Sie in der Datenwissenschaft Einzelpersonen helfen möchten, seien Sie einfühlsam und stellen Sie Fragen. Auf diese Weise können Sie auch beginnen, ihre Reise zu verstehen.“ – Damian Duffy Mingle❞</i>
+<i>❝Im Jahr 2005 installierte Sony illegal Rootkits auf 22 Millionen Computern, um Benutzer daran zu hindern, urheberrechtlich geschützte Musik zu rippen. Diese Rootkits konnten nicht deinstalliert werden. Außerdem wurden die Hörgewohnheiten der Benutzer an Sony gemeldet. Ironischerweise enthielt der Code selbst Open-Source-Software und verstieß somit gegen das Urheberrecht.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
