@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« En science des données, si vous souhaitez aider les individus, faites preuve d'empathie et posez des questions ; de cette façon, vous pourrez également commencer à comprendre leur parcours. » – Damian Duffy Mingle❞</i>
+<i>❝En 2005, Sony a installé illégalement des rootkits sur 22 millions d'ordinateurs pour empêcher les utilisateurs d'extraire de la musique protégée par le droit d'auteur, et n'a pas pu être désinstallé. Il a également signalé à Sony les habitudes d’écoute des utilisateurs. Ironiquement, le code lui-même contenait un logiciel open source et violait donc le droit d'auteur.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
