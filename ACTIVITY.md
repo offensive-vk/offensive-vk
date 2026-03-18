@@ -16,5 +16,4 @@
 15. ✅ Approved on pull request [#44](https://github.com/offensive-vk/auto-label/pull/44) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 16. ✅ Approved on pull request [#59](https://github.com/offensive-vk/develop-actions/pull/59) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 17. ✅ Approved on pull request [#116](https://github.com/offensive-vk/AwesomeCloud/pull/116) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-18. ✅ Approved on pull request [#414](https://github.com/offensive-vk/UntilEverything/pull/414) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
