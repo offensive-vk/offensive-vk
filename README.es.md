@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En 2005, Sony instaló ilegalmente rootkits en 22 millones de computadoras para evitar que los usuarios copiaran música protegida por derechos de autor, y no se pudieron desinstalar. También informó a Sony sobre los hábitos de escucha de los usuarios. Irónicamente, el código en sí contenía software de código abierto y, por lo tanto, infringía los derechos de autor.❞</i>
+<i>❝“No existe ningún concurso de Perl ofuscado porque no tiene sentido.”— Jeff Polk ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
