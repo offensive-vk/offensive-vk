@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“不存在令人困惑的 Perl 竞赛，因为它毫无意义。”— Jeff Polk ❞</i>
+<i>❝如果有一台像人脑一样强大的计算机，它每秒能够执行 38,000 万亿次运算，并拥有超过 3580 TB 的内存。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
