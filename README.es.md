@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“No existe ningún concurso de Perl ofuscado porque no tiene sentido.”— Jeff Polk ❞</i>
+<i>❝Si existiera una computadora tan poderosa como el cerebro humano, sería capaz de realizar 38 mil billones de operaciones por segundo y almacenar más de 3580 terabytes de memoria.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
