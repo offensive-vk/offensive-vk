@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Если бы существовал компьютер такой же мощный, как человеческий мозг, он мог бы выполнять 38 тысяч триллионов операций в секунду и иметь более 3580 терабайт памяти.❞</i>
+<i>❝ «Лучший способ получить точную информацию в Usenet — это опубликовать что-то неправильное и дождаться исправлений» — Мэтью Остерн ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Прокомментировал[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Прокомментировал[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  💪 Открытый пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 Прокомментировал[#120](https://github.com/offensive-vk/AwesomeCloud/pull/120#issuecomment-4099688017)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🗣 Прокомментировал[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Прокомментировал[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  ❌Назначенный пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 Прокомментировал[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 6.  🗣 Прокомментировал[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
