@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Si existiera una computadora tan poderosa como el cerebro humano, sería capaz de realizar 38 mil billones de operaciones por segundo y almacenar más de 3580 terabytes de memoria.❞</i>
+<i>❝“La mejor manera de obtener información precisa en Usenet es publicar algo incorrecto y esperar las correcciones.”— Matthew Austern ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentado en[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Comentado en[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  💪 Relaciones públicas abiertas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 Comentado en[#120](https://github.com/offensive-vk/AwesomeCloud/pull/120#issuecomment-4099688017)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🗣 Comentado en[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Comentado en[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 4.  ❌ Relaciones públicas asignadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 Comentado en[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🗣 Comentado en[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
