@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝لو كان هناك جهاز كمبيوتر بقوة الدماغ البشري، لكان قادرًا على القيام بـ 38 ألف تريليون عملية في الثانية والاحتفاظ بأكثر من 3580 تيرابايت من الذاكرة.❞</i>
+<i>❝"أفضل طريقة للحصول على معلومات دقيقة على Usenet هي نشر شيء خاطئ وانتظار التصحيحات." - ماثيو أوسترن ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 تم التعليق عليه[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 تم التعليق عليه[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  💪 فتح العلاقات العامة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 تم التعليق عليه[#120](https://github.com/offensive-vk/AwesomeCloud/pull/120#issuecomment-4099688017)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+2.  🗣 تم التعليق عليه[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 تم التعليق عليه[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 4.  ❌ العلاقات العامة المعينة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 تم التعليق عليه[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🗣 تم التعليق عليه[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
