@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La mejor manera de obtener información precisa en Usenet es publicar algo incorrecto y esperar las correcciones.”— Matthew Austern ❞</i>
+<i>❝“La imaginación es más importante que el conocimiento. Porque el conocimiento es limitado, mientras que la imaginación abarca el mundo entero, estimula el progreso y da origen a la evolución.”— Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
