@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La imaginación es más importante que el conocimiento. Porque el conocimiento es limitado, mientras que la imaginación abarca el mundo entero, estimula el progreso y da origen a la evolución.”— Albert Einstein ❞</i>
+<i>❝“Veo poco potencial comercial para Internet durante al menos diez años.”—Bill Gates, 1994 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
