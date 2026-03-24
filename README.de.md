@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer`code`.<br>🤝 Ich suche Hilfe für meinen Server.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade einiges_böse_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer`code`.<br>🤝 Ich suche Hilfe für meinen Server.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade einiges_böse_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und Sie werden es eines Tages schaffen.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ich sehe für mindestens zehn Jahre kaum kommerzielles Potenzial für das Internet.“ – Bill Gates, 1994 ❞</i>
+<i>❝„Computerviren sind eine urbane Legende.“ – Peter Norton, 1988 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -155,12 +155,12 @@
 6.  🗣 Kommentiert[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 7.  ❌ Geschlossene PR[#109](undefined)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 Zusammengeführte PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🔒 Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-10. 🔒 Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+9.  🔒Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 15. 🔒 Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
