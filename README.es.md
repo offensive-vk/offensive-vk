@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Veo poco potencial comercial para Internet durante al menos diez años.”—Bill Gates, 1994 ❞</i>
+<i>❝“Los virus informáticos son una leyenda urbana.”—Peter Norton, 1988 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
