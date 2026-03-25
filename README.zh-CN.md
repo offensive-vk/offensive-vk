@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“想象力比知识更重要。因为知识是有限的，而想象力则包容整个世界，刺激进步，催生进化。”——阿尔伯特·爱因斯坦 ❞</i>
+<i>❝“计算机病毒是都市传说。”— Peter Norton，1988 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
