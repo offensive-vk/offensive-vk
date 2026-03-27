@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Les virus informatiques sont une légende urbaine. » – Peter Norton, 1988 ❞</i>
+<i>❝La maison où vit Bill Gates a été conçue à l'aide d'un ordinateur Macintosh.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
