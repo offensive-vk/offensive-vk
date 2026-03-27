@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Menos del 10% del código tiene que ver con el propósito aparente del sistema; el resto trata con entrada y salida, validación de datos, mantenimiento de la estructura de datos y otras tareas domésticas.”—Mary Shaw ❞</i>
+<i>❝La casa donde vive Bill Gates fue diseñada usando una computadora Macintosh.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
