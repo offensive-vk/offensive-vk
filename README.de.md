@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Computerviren sind eine urbane Legende.“ – Peter Norton, 1988 ❞</i>
+<i>❝Das Haus, in dem Bill Gates lebt, wurde mit einem Macintosh-Computer entworfen.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
