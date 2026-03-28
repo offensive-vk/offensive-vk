@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Das Haus, in dem Bill Gates lebt, wurde mit einem Macintosh-Computer entworfen.❞</i>
+<i>❝IBM 5120 von 1980 war der schwerste Desktop-Computer, der jemals hergestellt wurde. Es wog etwa 105 Pfund, ohne das 130 Pfund schwere externe Diskettenlaufwerk.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
