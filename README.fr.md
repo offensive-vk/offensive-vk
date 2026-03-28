@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La maison où vit Bill Gates a été conçue à l'aide d'un ordinateur Macintosh.❞</i>
+<i>❝IBM 5120 de 1980 était l'ordinateur de bureau le plus lourd jamais fabriqué. Il pesait environ 105 livres, sans compter le lecteur de disquette externe de 130 livres.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
