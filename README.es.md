@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La casa donde vive Bill Gates fue diseñada usando una computadora Macintosh.❞</i>
+<i>❝El IBM 5120 de 1980 fue el ordenador de sobremesa más pesado jamás fabricado. Pesaba alrededor de 105 libras, sin incluir la unidad de disquete externa de 130 libras.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
