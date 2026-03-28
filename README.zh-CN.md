@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机病毒是都市传说。”— Peter Norton，1988 ❞</i>
+<i>❝1980 年的 IBM 5120 是有史以来最重的台式计算机。它重约 105 磅，不包括 130 磅的外部软盘驱动器。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
