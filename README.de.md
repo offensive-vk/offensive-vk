@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM 5120 von 1980 war der schwerste Desktop-Computer, der jemals hergestellt wurde. Es wog etwa 105 Pfund, ohne das 130 Pfund schwere externe Diskettenlaufwerk.❞</i>
+<i>❝Der erste Fehler in einem Computer war eine tote Motte, die 1947 beim Kurzschließen eines Relais im Harvard Mark II-Computer gefunden wurde❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
