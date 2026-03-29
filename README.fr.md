@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM 5120 de 1980 était l'ordinateur de bureau le plus lourd jamais fabriqué. Il pesait environ 105 livres, sans compter le lecteur de disquette externe de 130 livres.❞</i>
+<i>❝Le premier bug dans un ordinateur était un papillon mort découvert en court-circuitant un relais dans l'ordinateur Harvard Mark II en 1947❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
