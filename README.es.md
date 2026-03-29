@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El IBM 5120 de 1980 fue el ordenador de sobremesa más pesado jamás fabricado. Pesaba alrededor de 105 libras, sin incluir la unidad de disquete externa de 130 libras.❞</i>
+<i>❝El primer error en una computadora fue una polilla muerta que se encontró cortando un relé en la computadora Harvard Mark II en 1947❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
