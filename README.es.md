@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El primer error en una computadora fue una polilla muerta que se encontró cortando un relé en la computadora Harvard Mark II en 1947❞</i>
+<i>❝“En un equipo de proyecto de software de 10 personas, probablemente hay 3 personas que producen suficientes defectos como para convertirse en productores netos negativos.”— Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
