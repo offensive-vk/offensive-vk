@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der erste Fehler in einem Computer war eine tote Motte, die 1947 beim Kurzschließen eines Relais im Harvard Mark II-Computer gefunden wurde❞</i>
+<i>❝„In einem 10-köpfigen Softwareprojektteam gibt es wahrscheinlich 3 Leute, die genug Fehler produzieren, um sie zu Netto-Negativproduzenten zu machen.“ – Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
