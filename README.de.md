@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„In einem 10-köpfigen Softwareprojektteam gibt es wahrscheinlich 3 Leute, die genug Fehler produzieren, um sie zu Netto-Negativproduzenten zu machen.“ – Gordon Schulmeyer ❞</i>
+<i>❝„Passwörter sind wie Unterwäsche: Man darf sie nicht sehen, man sollte sie sehr oft ändern und man sollte sie nicht mit Fremden teilen.“ – Chris Pirillo ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
