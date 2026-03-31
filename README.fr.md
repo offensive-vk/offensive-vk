@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Dans une équipe de projet logiciel composée de 10 personnes, il y a probablement 3 personnes qui produisent suffisamment de défauts pour en faire des producteurs nets négatifs. » — Gordon Schulmeyer ❞</i>
+<i>❝« Les mots de passe sont comme des sous-vêtements : vous ne les laissez pas voir, vous devriez les changer très souvent et vous ne devriez pas les partager avec des inconnus. »— Chris Pirillo ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
