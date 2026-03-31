@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En un equipo de proyecto de software de 10 personas, probablemente hay 3 personas que producen suficientes defectos como para convertirse en productores netos negativos.”— Gordon Schulmeyer ❞</i>
+<i>❝“Las contraseñas son como la ropa interior: no dejas que la gente la vea, debes cambiarla muy a menudo y no debes compartirla con extraños.”— Chris Pirillo ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
