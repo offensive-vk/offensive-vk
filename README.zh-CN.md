@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在 10 人的软件项目团队中，可能有 3 个人产生了足够的缺陷，使他们成为净负生产者。”—— Gordon Schulmeyer ❞</i>
+<i>❝“密码就像内衣：你不能让别人看到它，你应该经常更改它，并且你不应该与陌生人分享它。”- Chris Pirillo ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
