@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“密码就像内衣：你不能让别人看到它，你应该经常更改它，并且你不应该与陌生人分享它。”- Chris Pirillo ❞</i>
+<i>❝“知识最大的敌人不是无知，而是知识的幻觉。”——史蒂芬·霍金❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
