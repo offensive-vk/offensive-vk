@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Les mots de passe sont comme des sous-vêtements : vous ne les laissez pas voir, vous devriez les changer très souvent et vous ne devriez pas les partager avec des inconnus. »— Chris Pirillo ❞</i>
+<i>❝«Le plus grand ennemi de la connaissance n'est pas l'ignorance, c'est l'illusion de la connaissance.»— Stephen Hawking ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
