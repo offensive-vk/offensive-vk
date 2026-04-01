@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Las contraseñas son como la ropa interior: no dejas que la gente la vea, debes cambiarla muy a menudo y no debes compartirla con extraños.”— Chris Pirillo ❞</i>
+<i>❝“El mayor enemigo del conocimiento no es la ignorancia, es la ilusión del conocimiento.”— Stephen Hawking ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
