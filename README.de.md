@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Passwörter sind wie Unterwäsche: Man darf sie nicht sehen, man sollte sie sehr oft ändern und man sollte sie nicht mit Fremden teilen.“ – Chris Pirillo ❞</i>
+<i>❝„Der größte Feind des Wissens ist nicht die Unwissenheit, sondern die Illusion des Wissens.“ – Stephen Hawking ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
