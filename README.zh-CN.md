@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“知识最大的敌人不是无知，而是知识的幻觉。”——史蒂芬·霍金❞</i>
+<i>❝2010 年，宾夕法尼亚州劳尔梅里恩学区 (Lower Merion School District) 的一所高中向 2,306 名学生每人发放了一台 MacBook，然后远程激活网络摄像头以监视家里的学生。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
