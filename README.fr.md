@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«Le plus grand ennemi de la connaissance n'est pas l'ignorance, c'est l'illusion de la connaissance.»— Stephen Hawking ❞</i>
+<i>❝En 2010, un lycée nommé Lower Merion School District en Pennsylvanie a distribué un MacBook à chacun de ses 2 306 élèves, puis a activé à distance les webcams pour espionner les élèves à la maison.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
