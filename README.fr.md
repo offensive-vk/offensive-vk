@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En 2010, un lycée nommé Lower Merion School District en Pennsylvanie a distribué un MacBook à chacun de ses 2 306 élèves, puis a activé à distance les webcams pour espionner les élèves à la maison.❞</i>
+<i>❝"Dans une économie de l'information, les actifs les plus précieux de l'entreprise rentrent chez eux chaque soir. S'ils ne sont pas bien traités, ils ne reviennent pas le lendemain matin. "— Peter Chang ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
