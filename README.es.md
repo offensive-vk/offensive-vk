@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En 2010, una escuela secundaria llamada Distrito Escolar Lower Merion en Pensilvania entregó una MacBook a cada uno de sus 2.306 estudiantes y luego activó remotamente las cámaras web para espiar a los estudiantes en casa.❞</i>
+<i>❝“En una economía de la información, los activos más valiosos de una empresa regresan a casa todas las noches. Si no se los trata bien, no regresan a la mañana siguiente.”— Peter Chang ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
