@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En una economía de la información, los activos más valiosos de una empresa regresan a casa todas las noches. Si no se los trata bien, no regresan a la mañana siguiente.”— Peter Chang ❞</i>
+<i>❝Sony lanzó un kit que permite utilizar PS2 (Linux para PlayStation 2) como computadora personal.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
