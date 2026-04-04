@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝2010 年，宾夕法尼亚州劳尔梅里恩学区 (Lower Merion School District) 的一所高中向 2,306 名学生每人发放了一台 MacBook，然后远程激活网络摄像头以监视家里的学生。❞</i>
+<i>❝索尼发布了一个套件，允许 PS2（Linux for PlayStation 2）用作个人电脑。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
