@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Sony a publié un kit qui permet d'utiliser les PS2 (Linux pour PlayStation 2) comme ordinateur personnel.❞</i>
+<i>❝Une personne moyenne cligne normalement des yeux 20 fois par minute, mais lorsqu'elle utilise un ordinateur, elle ne cligne que 7 fois par minute.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
