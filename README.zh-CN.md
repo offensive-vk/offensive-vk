@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝索尼发布了一个套件，允许 PS2（Linux for PlayStation 2）用作个人电脑。❞</i>
+<i>❝一般人每分钟眨眼 20 次，但使用电脑时，他/她每分钟只眨眼 7 次。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
