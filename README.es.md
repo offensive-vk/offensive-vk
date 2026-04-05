@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Sony lanzó un kit que permite utilizar PS2 (Linux para PlayStation 2) como computadora personal.❞</i>
+<i>❝Una persona promedio normalmente parpadea 20 veces por minuto, pero cuando usa una computadora parpadea solo 7 veces por minuto.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
