@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Une personne moyenne cligne normalement des yeux 20 fois par minute, mais lorsqu'elle utilise un ordinateur, elle ne cligne que 7 fois par minute.❞</i>
+<i>❝«La différence entre la théorie et la pratique est qu'en théorie, il n'y a pas de différence entre la théorie et la pratique.»— Richard Moore ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
