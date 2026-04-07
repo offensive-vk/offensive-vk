@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Eine durchschnittliche Person blinzelt normalerweise 20 Mal pro Minute, aber wenn sie einen Computer benutzt, blinzelt sie/sie nur 7 Mal pro Minute.❞</i>
+<i>❝„Der Unterschied zwischen Theorie und Praxis besteht darin, dass es in der Theorie keinen Unterschied zwischen Theorie und Praxis gibt.“ – Richard Moore ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
