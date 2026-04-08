@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“理论与实践的区别在于，理论上，理论与实践没有区别。”——理查德·摩尔❞</i>
+<i>❝Windows 不允许创建标记为 CON、PRN、AUX 或 NUL 的文件夹。这些是 DOS 保留的关键字。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
