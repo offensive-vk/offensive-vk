@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Der Unterschied zwischen Theorie und Praxis besteht darin, dass es in der Theorie keinen Unterschied zwischen Theorie und Praxis gibt.“ – Richard Moore ❞</i>
+<i>❝Windows erlaubt nicht die Erstellung von Ordnern mit den Tags CON, PRN, AUX oder NUL. Dies sind Schlüsselwörter, die DOS vorbehalten sind.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
