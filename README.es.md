@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La diferencia entre teoría y práctica es que, en teoría, no hay diferencia entre teoría y práctica.”— Richard Moore ❞</i>
+<i>❝Windows no permite la creación de carpetas etiquetadas como CON, PRN, AUX o NUL. Estas son palabras clave reservadas por DOS.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
