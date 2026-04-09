@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 不允许创建标记为 CON、PRN、AUX 或 NUL 的文件夹。这些是 DOS 保留的关键字。❞</i>
+<i>❝如果你打开原版Macintosh的外壳，里面有47个签名，都是来自苹果Macintosh部门的每个成员，有趣吗？❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
