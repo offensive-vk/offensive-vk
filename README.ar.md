@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝لا يسمح Windows بإنشاء المجلدات ذات العلامات CON أو PRN أو AUX أو NUL. هذه هي الكلمات الرئيسية المحجوزة من قبل DOS.❞</i>
+<i>❝إذا قمت بفتح علبة جهاز Macintosh الأصلي، فستجد هناك 47 توقيعًا، وهي من كل عضو في قسم Macintosh بشركة Apple، وهو أمر مثير للاهتمام؟❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
