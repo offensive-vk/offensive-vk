@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows erlaubt nicht die Erstellung von Ordnern mit den Tags CON, PRN, AUX oder NUL. Dies sind Schlüsselwörter, die DOS vorbehalten sind.❞</i>
+<i>❝Wenn Sie das Gehäuse des ursprünglichen Macintosh öffnen, finden Sie dort 47 Unterschriften, die von jedem Mitglied der Macintosh-Abteilung von Apple stammen. Interessant?❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
