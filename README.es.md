@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows no permite la creación de carpetas etiquetadas como CON, PRN, AUX o NUL. Estas son palabras clave reservadas por DOS.❞</i>
+<i>❝Si abres la caja del Macintosh original, hay 47 firmas allí, que son de cada miembro de la división Macintosh de Apple. ¿Interesante?❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
