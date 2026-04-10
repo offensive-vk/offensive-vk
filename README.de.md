@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Wenn Sie das Gehäuse des ursprünglichen Macintosh öffnen, finden Sie dort 47 Unterschriften, die von jedem Mitglied der Macintosh-Abteilung von Apple stammen. Interessant?❞</i>
+<i>❝Gaming-Computer heizen einen Raum genauso effizient wie eine Raumheizung.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
