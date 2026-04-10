@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝如果你打开原版Macintosh的外壳，里面有47个签名，都是来自苹果Macintosh部门的每个成员，有趣吗？❞</i>
+<i>❝游戏电脑可以像小型取暖器一样有效地为房间供暖。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
