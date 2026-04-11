@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝游戏电脑可以像小型取暖器一样有效地为房间供暖。❞</i>
+<i>❝“最不满意的客户是你最大的学习源泉。”——比尔·盖茨❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
