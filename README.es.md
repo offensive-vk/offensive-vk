@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Las computadoras para juegos calientan una habitación con la misma eficiencia que un calentador.❞</i>
+<i>❝“Tus clientes más descontentos son tu mayor fuente de aprendizaje.”— Bill Gates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
