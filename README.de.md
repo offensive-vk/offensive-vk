@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Gaming-Computer heizen einen Raum genauso effizient wie eine Raumheizung.❞</i>
+<i>❝„Ihre unzufriedensten Kunden sind Ihre größte Lernquelle.“ – Bill Gates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
