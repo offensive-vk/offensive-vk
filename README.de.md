@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ihre unzufriedensten Kunden sind Ihre größte Lernquelle.“ – Bill Gates ❞</i>
+<i>❝„Wenn Sie in der Datenwissenschaft Einzelpersonen helfen möchten, seien Sie einfühlsam und stellen Sie Fragen. Auf diese Weise können Sie auch beginnen, ihre Reise zu verstehen.“ – Damian Duffy Mingle❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
