@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Tus clientes más descontentos son tu mayor fuente de aprendizaje.”— Bill Gates ❞</i>
+<i>❝“En ciencia de datos, si quieres ayudar a las personas, sé empático y haz preguntas; de esa manera, también podrás comenzar a comprender su viaje.”— Damian Duffy Mingle❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
