@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« En science des données, si vous souhaitez aider les individus, faites preuve d'empathie et posez des questions ; de cette façon, vous pourrez également commencer à comprendre leur parcours. » – Damian Duffy Mingle❞</i>
+<i>❝« Dans le futur, les ordinateurs ne pèseront peut-être pas plus de 1,5 tonne. » – Mécanique populaire, 1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
