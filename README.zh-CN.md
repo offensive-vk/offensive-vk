@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在数据科学中，如果你想帮助个人，要有同理心并提出问题；这样，你也可以开始了解他们的旅程。”——Damian Duffy Mingle❞</i>
+<i>❝“未来，计算机的重量可能不会超过 1.5 吨。”——《大众机械》，1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
