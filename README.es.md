@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En ciencia de datos, si quieres ayudar a las personas, sé empático y haz preguntas; de esa manera, también podrás comenzar a comprender su viaje.”— Damian Duffy Mingle❞</i>
+<i>❝“En el futuro, las computadoras quizás no pesen más de 1,5 toneladas.”—Mecánica popular, 1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
