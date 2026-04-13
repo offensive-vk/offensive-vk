@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the goal_. <br>🧑‍💻 I like to write computer `code`. <br>🤝 I’m looking for help in my server. <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _nasty_ stuff. <br>💬 Ask me about nothing. <br>👌 I respect my time. <br>⚡ Fun fact: no fun, only code. <br>💥 Keep moving and you'll overcome one day. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   ❞</i>
+<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
