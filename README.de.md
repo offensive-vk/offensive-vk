@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn Sie in der Datenwissenschaft Einzelpersonen helfen möchten, seien Sie einfühlsam und stellen Sie Fragen. Auf diese Weise können Sie auch beginnen, ihre Reise zu verstehen.“ – Damian Duffy Mingle❞</i>
+<i>❝„In Zukunft dürfen Computer nicht mehr als 1,5 Tonnen wiegen.“ – Populäre Mechanik, 1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
