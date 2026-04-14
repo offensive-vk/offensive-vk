@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Dans le futur, les ordinateurs ne pèseront peut-être pas plus de 1,5 tonne. » – Mécanique populaire, 1949 ❞</i>
+<i>❝Le premier microprocesseur créé par Intel était le Il a été conçu pour une calculatrice, et à cette époque, personne n'imaginait où il mènerait.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
