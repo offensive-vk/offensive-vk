@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„In Zukunft dürfen Computer nicht mehr als 1,5 Tonnen wiegen.“ – Populäre Mechanik, 1949 ❞</i>
+<i>❝Der erste von Intel entwickelte Mikroprozessor war der. Er war für einen Taschenrechner konzipiert, und damals konnte sich niemand vorstellen, wohin er führen würde.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
