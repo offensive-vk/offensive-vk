@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El primer microprocesador creado por Intel fue el Fue diseñado para una calculadora, y en ese momento nadie imaginaba adónde conduciría.❞</i>
+<i>❝“La informática no se trata de computadoras, como la astronomía no se trata de telescopios.”—Edsger W. Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
