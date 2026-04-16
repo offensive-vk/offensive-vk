@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der erste von Intel entwickelte Mikroprozessor war der. Er war für einen Taschenrechner konzipiert, und damals konnte sich niemand vorstellen, wohin er führen würde.❞</i>
+<i>❝„In der Informatik geht es genauso wenig um Computer wie in der Astronomie um Teleskope.“ – Edsger W. Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
