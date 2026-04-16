@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝英特尔创建的第一个微处理器是它是为计算器而设计的，当时没有人想象它会走向何方。❞</i>
+<i>❝“计算机科学不再是关于计算机，就像天文学不再是关于望远镜一样。”— Edsger W. Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
