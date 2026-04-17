@@ -14,5 +14,4 @@
 13. ✅ Approved on pull request [#120](https://github.com/offensive-vk/AwesomeCloud/pull/120) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 14. 🗣 Commented on issue [#120](https://github.com/offensive-vk/AwesomeCloud/issues/120) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 15. ✅ Approved on pull request [#121](https://github.com/offensive-vk/AwesomeCloud/pull/121) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-16. ✅ Approved on pull request [#10062](https://github.com/offensive-vk/Classics/pull/10062) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 <!--END_SECTION:activity-->
