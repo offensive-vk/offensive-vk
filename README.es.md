@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La informática no se trata de computadoras, como la astronomía no se trata de telescopios.”—Edsger W. Dijkstra ❞</i>
+<i>❝"UNIX es simple. Sólo hace falta ser un genio para entender su simplicidad."— Dennis Ritchie ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
