@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机科学不再是关于计算机，就像天文学不再是关于望远镜一样。”— Edsger W. Dijkstra ❞</i>
+<i>❝“UNIX 很简单。只有天才才能理解它的简单性。”— Dennis Ritchie ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
