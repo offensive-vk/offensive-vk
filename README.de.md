@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„In der Informatik geht es genauso wenig um Computer wie in der Astronomie um Teleskope.“ – Edsger W. Dijkstra ❞</i>
+<i>❝„UNIX ist einfach. Es braucht nur ein Genie, um seine Einfachheit zu verstehen.“ – Dennis Ritchie ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
