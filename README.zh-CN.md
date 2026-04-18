@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“UNIX 很简单。只有天才才能理解它的简单性。”— Dennis Ritchie ❞</i>
+<i>❝“在 10 人的软件项目团队中，可能有 3 个人产生了足够的缺陷，使他们成为净负生产者。”—— Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
