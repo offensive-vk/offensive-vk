@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"UNIX es simple. Sólo hace falta ser un genio para entender su simplicidad."— Dennis Ritchie ❞</i>
+<i>❝“En un equipo de proyecto de software de 10 personas, probablemente hay 3 personas que producen suficientes defectos como para convertirse en productores netos negativos.”— Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
