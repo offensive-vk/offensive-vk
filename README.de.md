@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„UNIX ist einfach. Es braucht nur ein Genie, um seine Einfachheit zu verstehen.“ – Dennis Ritchie ❞</i>
+<i>❝„In einem 10-köpfigen Softwareprojektteam gibt es wahrscheinlich 3 Leute, die genug Fehler produzieren, um sie zu Netto-Negativproduzenten zu machen.“ – Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
