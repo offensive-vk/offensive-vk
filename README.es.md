@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En un equipo de proyecto de software de 10 personas, probablemente hay 3 personas que producen suficientes defectos como para convertirse en productores netos negativos.”— Gordon Schulmeyer ❞</i>
+<i>❝“La generación de códigos, al igual que beber alcohol, es buena con moderación.”— Alex Lowe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
