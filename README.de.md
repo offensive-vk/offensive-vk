@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„In einem 10-köpfigen Softwareprojektteam gibt es wahrscheinlich 3 Leute, die genug Fehler produzieren, um sie zu Netto-Negativproduzenten zu machen.“ – Gordon Schulmeyer ❞</i>
+<i>❝„Code-Generierung ist, wie Alkoholkonsum, in Maßen gut.“ – Alex Lowe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
