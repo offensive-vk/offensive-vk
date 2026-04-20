@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“代码生成就像喝酒一样，适量就好。”—— Alex Lowe ❞</i>
+<i>❝“标准总是过时的。这就是它们成为标准的原因。”— Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
