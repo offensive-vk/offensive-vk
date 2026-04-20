@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«La génération de codes, comme la consommation d'alcool, est bonne avec modération.»— Alex Lowe ❞</i>
+<i>❝"Les normes sont toujours dépassées. C'est ce qui en fait des normes. "- Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
