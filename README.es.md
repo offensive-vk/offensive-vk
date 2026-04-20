@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La generación de códigos, al igual que beber alcohol, es buena con moderación.”— Alex Lowe ❞</i>
+<i>❝“Las normas siempre están desactualizadas. Eso es lo que las convierte en normas.”—Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
