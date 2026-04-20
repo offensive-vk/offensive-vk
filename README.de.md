@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Code-Generierung ist, wie Alkoholkonsum, in Maßen gut.“ – Alex Lowe ❞</i>
+<i>❝„Standards sind immer veraltet. Das macht sie zu Standards.“ – Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
