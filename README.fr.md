@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Les normes sont toujours dépassées. C'est ce qui en fait des normes. "- Alan Bennett ❞</i>
+<i>❝Un ver informatique était présent auparavant et pouvait accéder à votre système d'exploitation Windows XP, pouvait télécharger un correctif de Microsoft pour éliminer la vulnérabilité, l'utiliser pour infecter le système et ensuite se supprimer.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
