@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Standards sind immer veraltet. Das macht sie zu Standards.“ – Alan Bennett ❞</i>
+<i>❝Zuvor war ein Computerwurm vorhanden, der auf Ihr Windows XP-Betriebssystem zugreifen konnte. Er konnte einen Patch von Microsoft herunterladen, um die Sicherheitslücke zu schließen, indem er das System infizierte und sich anschließend selbst löschte.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
