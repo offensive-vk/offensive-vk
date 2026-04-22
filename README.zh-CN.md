@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝之前存在一种计算机蠕虫，它可以访问您的 Windows XP 操作系统，可以从 Microsoft 下载补丁以消除该漏洞，并使用它来感染系统并在删除自身后。❞</i>
+<i>❝如果你打开原版Macintosh的外壳，里面有47个签名，都是来自苹果Macintosh部门的每个成员，有趣吗？❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
