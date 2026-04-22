@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Un ver informatique était présent auparavant et pouvait accéder à votre système d'exploitation Windows XP, pouvait télécharger un correctif de Microsoft pour éliminer la vulnérabilité, l'utiliser pour infecter le système et ensuite se supprimer.❞</i>
+<i>❝Si vous ouvrez le boîtier du Macintosh d'origine, vous y trouverez 47 signatures, qui proviennent de chaque membre de la division Macintosh d'Apple dans Intéressant ?❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
