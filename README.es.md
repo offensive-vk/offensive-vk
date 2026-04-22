@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ Antes había un gusano informático que podía acceder a su sistema operativo Windows XP, podía descargar un parche de Microsoft para detectar la vulnerabilidad, ya que lo usaba para infectar el sistema y luego eliminarse. ❞</i>
+<i>❝Si abres la caja del Macintosh original, hay 47 firmas allí, que son de cada miembro de la división Macintosh de Apple. ¿Interesante?❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
