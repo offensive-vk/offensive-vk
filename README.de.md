@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Zuvor war ein Computerwurm vorhanden, der auf Ihr Windows XP-Betriebssystem zugreifen konnte. Er konnte einen Patch von Microsoft herunterladen, um die Sicherheitslücke zu schließen, indem er das System infizierte und sich anschließend selbst löschte.❞</i>
+<i>❝Wenn Sie das Gehäuse des ursprünglichen Macintosh öffnen, finden Sie dort 47 Unterschriften, die von jedem Mitglied der Macintosh-Abteilung von Apple stammen. Interessant?❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
