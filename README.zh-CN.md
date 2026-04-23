@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝如果你打开原版Macintosh的外壳，里面有47个签名，都是来自苹果Macintosh部门的每个成员，有趣吗？❞</i>
+<i>❝联想代表“新传奇”。 “Le”代表传奇，“novo”代表新。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
