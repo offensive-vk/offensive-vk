@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Si abres la caja del Macintosh original, hay 47 firmas allí, que son de cada miembro de la división Macintosh de Apple. ¿Interesante?❞</i>
+<i>❝Lenovo significa “nueva leyenda”. "Le" significa leyenda y "novo" significa nuevo.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
