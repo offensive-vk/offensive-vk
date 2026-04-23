@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Si vous ouvrez le boîtier du Macintosh d'origine, vous y trouverez 47 signatures, qui proviennent de chaque membre de la division Macintosh d'Apple dans Intéressant ?❞</i>
+<i>❝Lenovo signifie « nouvelle légende ». « Le » pour légende et « novo » pour nouveau.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
