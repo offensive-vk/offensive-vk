@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Comme il est rare que maintenir le code de quelqu'un d'autre équivaut à entrer dans un bâtiment magnifiquement conçu, que vous admirez en vous promenant et en planifiant comment ajouter une aile ou faire quelques redécoration. Le plus souvent, maintenir le code de quelqu'un d'autre, c'est comme être jeté tête baissée dans un gros tas d'ordures gluantes et malodorantes. "- Bill Venners ❞</i>
+<i>❝"Ne documentez pas le problème, résolvez-le."— Atli Björgvin Oddsson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -149,7 +149,7 @@
 
 1.  🗣 Commenté[#120](https://github.com/offensive-vk/AwesomeCloud/pull/120#issuecomment-4099688017)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 2.  🗣 Commenté[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 Commenté[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)dans[offensive-vk/Jusqu'àtout](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Commenté[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)dans[offensive-vk/Jusqu'à tout](https://github.com/offensive-vk/UntilEverything)
 4.  ❌ PR assigné[#30871](undefined)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 Commenté[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🗣 Commenté[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
