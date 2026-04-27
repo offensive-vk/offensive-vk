@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“不要记录问题，解决它。”— Atli Björgvin Oddsson ❞</i>
+<i>❝“让一切尽可能简单，但不要更简单。”——阿尔伯特·爱因斯坦❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
