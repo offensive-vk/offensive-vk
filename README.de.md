@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Dokumentieren Sie das Problem nicht, sondern beheben Sie es.“ – Atli Björgvin Oddsson ❞</i>
+<i>❝„Machen Sie alles so einfach wie möglich, aber nicht einfacher.“ – Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
