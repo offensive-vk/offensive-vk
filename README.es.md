@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"No documentes el problema, solucionalo."— Atli Björgvin Oddsson ❞</i>
+<i>❝“Haz que todo sea lo más simple posible, pero no más simple.”—Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
