@@ -8,7 +8,4 @@
 7. ✅ Approved on pull request [#10063](https://github.com/offensive-vk/Classics/pull/10063) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 8. ✅ Approved on pull request [#122](https://github.com/offensive-vk/AwesomeCloud/pull/122) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 9. ✅ Approved on pull request [#67](https://github.com/offensive-vk/develop-actions/pull/67) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-10. ✅ Approved on pull request [#435](https://github.com/offensive-vk/UntilEverything/pull/435) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. ✅ Approved on pull request [#66](https://github.com/offensive-vk/develop-actions/pull/66) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-12. ✅ Approved on pull request [#8](https://github.com/offensive-vk/auto-update-quote/pull/8) in [offensive-vk/auto-update-quote](https://github.com/offensive-vk/auto-update-quote)
 <!--END_SECTION:activity-->
