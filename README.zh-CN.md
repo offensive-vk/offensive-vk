@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“让一切尽可能简单，但不要更简单。”——阿尔伯特·爱因斯坦❞</i>
+<i>❝“我认为这是一个新功能。不要告诉任何人这是一次意外。”— Larry Wall ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
