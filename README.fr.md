@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Rendez tout aussi simple que possible, mais pas plus simple. » – Albert Einstein ❞</i>
+<i>❝"Je pense que c'est une nouvelle fonctionnalité. Ne dites à personne que c'était un accident. "- Larry Wall ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
