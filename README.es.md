@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Haz que todo sea lo más simple posible, pero no más simple.”—Albert Einstein ❞</i>
+<i>❝"Creo que es una característica nueva. No le digas a nadie que fue un accidente".— Larry Wall ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
