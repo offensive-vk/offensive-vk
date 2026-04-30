@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Creo que es una característica nueva. No le digas a nadie que fue un accidente".— Larry Wall ❞</i>
+<i>❝La primera palabra pronunciada en Internet fue “lo”. Se suponía que era "iniciar sesión", pero la computadora falló después de las dos primeras letras.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
