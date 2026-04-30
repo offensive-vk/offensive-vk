@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Je pense que c'est une nouvelle fonctionnalité. Ne dites à personne que c'était un accident. "- Larry Wall ❞</i>
+<i>❝Le premier mot prononcé sur Internet a été « lo ». C'était censé être « connexion », mais l'ordinateur est tombé en panne après les deux premières lettres.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
