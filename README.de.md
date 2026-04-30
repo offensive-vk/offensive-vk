@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ich denke, es ist eine neue Funktion. Erzählen Sie niemandem, dass es ein Unfall war.“ – Larry Wall ❞</i>
+<i>❝Das erste im Internet gesprochene Wort war „lo“. Es sollte „login“ lauten, aber der Computer stürzte nach den ersten beiden Buchstaben ab.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
