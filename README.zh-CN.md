@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我认为这是一个新功能。不要告诉任何人这是一次意外。”— Larry Wall ❞</i>
+<i>❝网络上说的第一个词是“lo”。本来应该是“登录”，但在前两个字母之后计算机就崩溃了。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
