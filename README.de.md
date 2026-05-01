@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Das erste im Internet gesprochene Wort war „lo“. Es sollte „login“ lauten, aber der Computer stürzte nach den ersten beiden Buchstaben ab.❞</i>
+<i>❝„Code-Generierung ist, wie Alkoholkonsum, in Maßen gut.“ – Alex Lowe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
