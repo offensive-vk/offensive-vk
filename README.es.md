@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La primera palabra pronunciada en Internet fue “lo”. Se suponía que era "iniciar sesión", pero la computadora falló después de las dos primeras letras.❞</i>
+<i>❝“La generación de códigos, al igual que beber alcohol, es buena con moderación.”— Alex Lowe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
