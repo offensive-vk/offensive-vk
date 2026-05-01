@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝网络上说的第一个词是“lo”。本来应该是“登录”，但在前两个字母之后计算机就崩溃了。❞</i>
+<i>❝“代码生成就像喝酒一样，适量就好。”—— Alex Lowe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
