@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Le premier mot prononcé sur Internet a été « lo ». C'était censé être « connexion », mais l'ordinateur est tombé en panne après les deux premières lettres.❞</i>
+<i>❝«La génération de codes, comme la consommation d'alcool, est bonne avec modération.»— Alex Lowe ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
