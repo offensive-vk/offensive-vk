@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La generación de códigos, al igual que beber alcohol, es buena con moderación.”— Alex Lowe ❞</i>
+<i>❝Una computadora portátil Apple apesta. Un modelo de iBook de 2001 usó un pegamento que, después de 12 a 18 meses, puede comenzar a oler como el olor del cuerpo humano. Es tan fuerte que las reparaciones son difíciles porque el olor produce náuseas.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
