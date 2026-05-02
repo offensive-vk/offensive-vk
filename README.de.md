@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Code-Generierung ist, wie Alkoholkonsum, in Maßen gut.“ – Alex Lowe ❞</i>
+<i>❝Ein Apple-Laptop stinkt. Bei einem iBook-Modell aus dem Jahr 2001 wurde ein Kleber verwendet, der nach 12 bis 18 Monaten möglicherweise wie menschlicher Körpergeruch zu riechen beginnt. Es ist so stark, dass Reparaturen schwierig sind, weil der Geruch den Menschen übel wird.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
