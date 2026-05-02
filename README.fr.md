@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝«La génération de codes, comme la consommation d'alcool, est bonne avec modération.»— Alex Lowe ❞</i>
+<i>❝Un ordinateur portable Apple pue. Un modèle d'iBook de 2001 utilisait une colle qui, après 12 à 18 mois, peut commencer à sentir l'odeur du corps humain. Il est si fort que les réparations sont difficiles car l'odeur donne la nausée.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
