@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Ein Apple-Laptop stinkt. Bei einem iBook-Modell aus dem Jahr 2001 wurde ein Kleber verwendet, der nach 12 bis 18 Monaten möglicherweise wie menschlicher Körpergeruch zu riechen beginnt. Es ist so stark, dass Reparaturen schwierig sind, weil der Geruch den Menschen übel wird.❞</i>
+<i>❝„Wie selten kommt es vor, dass die Einhaltung der Codes einer anderen Person so ist, als würde man ein wunderschön gestaltetes Gebäude betreten, das man bewundert, wenn man herumläuft und plant, einen Flügel hinzuzufügen oder eine Renovierung vorzunehmen. Häufiger ist die Einhaltung der Codes einer anderen Person so, als würde man kopfüber in einen großen Haufen schleimigen, stinkenden Mülls geworfen.“ – Bill Venners ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
