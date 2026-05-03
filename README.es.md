@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Una computadora portátil Apple apesta. Un modelo de iBook de 2001 usó un pegamento que, después de 12 a 18 meses, puede comenzar a oler como el olor del cuerpo humano. Es tan fuerte que las reparaciones son difíciles porque el olor produce náuseas.❞</i>
+<i>❝"Qué raro es que mantener el código de otra persona sea como entrar en un edificio bellamente diseñado, que admiras mientras caminas y planificas cómo agregar un ala o hacer algunas redecoraciones. Más a menudo, mantener el código de otra persona es como ser arrojado de cabeza a una gran pila de basura viscosa y maloliente".— Bill Venners ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
