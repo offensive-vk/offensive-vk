@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Un ordinateur portable Apple pue. Un modèle d'iBook de 2001 utilisait une colle qui, après 12 à 18 mois, peut commencer à sentir l'odeur du corps humain. Il est si fort que les réparations sont difficiles car l'odeur donne la nausée.❞</i>
+<i>❝"Comme il est rare que maintenir le code de quelqu'un d'autre équivaut à entrer dans un bâtiment magnifiquement conçu, que vous admirez en vous promenant et en planifiant comment ajouter une aile ou faire quelques redécoration. Le plus souvent, maintenir le code de quelqu'un d'autre, c'est comme être jeté tête baissée dans un gros tas d'ordures gluantes et malodorantes. "- Bill Venners ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
