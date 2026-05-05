@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« En règle générale, les systèmes logiciels ne fonctionnent pas bien tant qu'ils n'ont pas été utilisés, et échouent à plusieurs reprises, dans des applications réelles. »— Dave Parnas ❞</i>
+<i>❝La maison où vit Bill Gates a été conçue à l'aide d'un ordinateur Macintosh.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
