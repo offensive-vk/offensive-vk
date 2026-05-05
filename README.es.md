@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Como regla general, los sistemas de software no funcionan bien hasta que se han utilizado y han fallado repetidamente en aplicaciones reales.”— Dave Parnas ❞</i>
+<i>❝La casa donde vive Bill Gates fue diseñada usando una computadora Macintosh.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
