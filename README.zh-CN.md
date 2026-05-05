@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“一般来说，软件系统只有在实际应用中使用后才能很好地工作，并且在实际应用中会反复失败。”— Dave Parnas ❞</i>
+<i>❝比尔·盖茨居住的房子是使用 Macintosh 计算机设计的。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
