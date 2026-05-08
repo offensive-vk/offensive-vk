@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“两年后，垃圾邮件将得到解决。”——比尔盖茨，2004 ❞</i>
+<i>❝每月有超过 5000 个新的计算机病毒发布。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
