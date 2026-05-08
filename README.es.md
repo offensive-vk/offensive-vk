@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Dentro de dos años, el spam estará resuelto.”— Bill Gates, 2004 ❞</i>
+<i>❝Cada mes se lanzan más de 5000 nuevos virus informáticos.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
