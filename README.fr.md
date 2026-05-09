@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Plus de 5 000 nouveaux virus informatiques sont diffusés chaque mois.❞</i>
+<i>❝Il existe plus de 1,5 milliard d'identifiants de messagerie instantanée dans le monde.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
