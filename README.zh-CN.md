@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝每月有超过 5000 个新的计算机病毒发布。❞</i>
+<i>❝全球有超过 15 亿个即时通讯 ID。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
