@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Cada mes se lanzan más de 5000 nuevos virus informáticos.❞</i>
+<i>❝Hay más de 1.500 millones de identificadores de mensajería instantánea en todo el mundo.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
