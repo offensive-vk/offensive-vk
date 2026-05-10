@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝يوجد أكثر من 1.5 مليار معرف للمراسلة الفورية في جميع أنحاء العالم.❞</i>
+<i>❝أول اسم نطاق تم تسجيله على الإطلاق كان Sympics.com مجانًا.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 تم التعليق عليه[#120](https://github.com/offensive-vk/AwesomeCloud/pull/120#issuecomment-4099688017)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🗣 تم التعليق عليه[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 العلاقات العامة المدمجة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+2.  💪 فتح العلاقات العامة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
 3.  🗣 تم التعليق عليه[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 4.  ❌ العلاقات العامة المعينة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 تم التعليق عليه[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
