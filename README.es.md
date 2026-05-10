@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Hay más de 1.500 millones de identificadores de mensajería instantánea en todo el mundo.❞</i>
+<i>❝El primer nombre de dominio registrado fue Symbolics.com de forma gratuita.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentado en[#120](https://github.com/offensive-vk/AwesomeCloud/pull/120#issuecomment-4099688017)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🗣 Comentado en[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+2.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 3.  🗣 Comentado en[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 4.  ❌ Relaciones públicas asignadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 Comentado en[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
