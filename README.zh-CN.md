@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝全球有超过 15 亿个即时通讯 ID。❞</i>
+<i>❝第一个免费注册的域名是Symbolics.com。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 已发表评论[#120](https://github.com/offensive-vk/AwesomeCloud/pull/120#issuecomment-4099688017)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🗣 已发表评论[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+2.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
 3.  🗣 已发表评论[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  ❌ 分配的公关[#30871](undefined)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 已发表评论[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
