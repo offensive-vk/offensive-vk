@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝В мире насчитывается более 1,5 миллиардов идентификаторов мгновенных сообщений.❞</i>
+<i>❝Первым бесплатным доменным именем было зарегистрировано Symbolics.com.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Прокомментировал[#120](https://github.com/offensive-vk/AwesomeCloud/pull/120#issuecomment-4099688017)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-2.  🗣 Прокомментировал[#427](https://github.com/offensive-vk/UntilEverything/pull/427#issuecomment-4018688552)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+2.  💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
 3.  🗣 Прокомментировал[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  ❌Назначенный пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 5.  🗣 Прокомментировал[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
