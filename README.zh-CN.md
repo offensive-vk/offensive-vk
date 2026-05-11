@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝第一个免费注册的域名是Symbolics.com。❞</i>
+<i>❝世界上只有大约 10% 的货币是实物货币，其余的仅存在于计算机上。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
