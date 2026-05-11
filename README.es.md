@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El primer nombre de dominio registrado fue Symbolics.com de forma gratuita.❞</i>
+<i>❝Solo alrededor del 10% de la moneda mundial es dinero físico, el resto sólo existe en las computadoras.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
