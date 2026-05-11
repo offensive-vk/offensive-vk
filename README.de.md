@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der erste registrierte Domainname war Symbolics.com kostenlos.❞</i>
+<i>❝Nur etwa 10 % der Weltwährung ist physisches Geld, der Rest existiert nur auf Computern.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
