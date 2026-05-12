@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Solo alrededor del 10% de la moneda mundial es dinero físico, el resto sólo existe en las computadoras.❞</i>
+<i>❝“¿Dónde está la tecla “cualquiera”?”— Homer Simpson, en respuesta al mensaje “Presione cualquier tecla” ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
