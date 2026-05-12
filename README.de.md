@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Nur etwa 10 % der Weltwährung ist physisches Geld, der Rest existiert nur auf Computern.❞</i>
+<i>❝ „Wo ist die ‚Any‘-Taste?“ – Homer Simpson, als Antwort auf die Nachricht „Drücken Sie eine beliebige Taste“ ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
