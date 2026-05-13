@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“¿Dónde está la tecla “cualquiera”?”— Homer Simpson, en respuesta al mensaje “Presione cualquier tecla” ❞</i>
+<i>❝"Todas las piezas deben ir juntas sin forzarlas. Debe recordar que las piezas que está volviendo a ensamblar fueron desmontadas por usted. Por lo tanto, si no puede volver a ensamblarlas, debe haber una razón. Por supuesto, no use un martillo".—Manual de IBM, 1925 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
