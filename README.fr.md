@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Où est la touche « n'importe quelle » ? » — Homer Simpson, en réponse au message « Appuyez sur n'importe quelle touche » ❞</i>
+<i>❝"Toutes les pièces doivent s'assembler sans forcer. Vous devez vous rappeler que les pièces que vous remontez ont été démontées par vous. Par conséquent, si vous ne parvenez pas à les assembler à nouveau, il doit y avoir une raison. Bien sûr, n'utilisez pas de marteau. "- Manuel IBM, 1925 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
