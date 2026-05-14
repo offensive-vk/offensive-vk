@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Todas las piezas deben ir juntas sin forzarlas. Debe recordar que las piezas que está volviendo a ensamblar fueron desmontadas por usted. Por lo tanto, si no puede volver a ensamblarlas, debe haber una razón. Por supuesto, no use un martillo".—Manual de IBM, 1925 ❞</i>
+<i>❝Windows 95 fue el segundo software más instalado en computadoras en 1995, seguido del videojuego DOOM.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
