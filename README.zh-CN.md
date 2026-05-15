@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 95 是 1995 年计算机上安装量第二大的软件，视频游戏《DOOM》位居第一。❞</i>
+<i>❝“一个项目的完成度永远不会低于 90%，也永远不会超过 95%。”— Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
