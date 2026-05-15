@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 95 était le deuxième logiciel le plus installé sur les ordinateurs en 1995, suivi du jeu vidéo DOOM.❞</i>
+<i>❝« Un programme n'est jamais terminé à moins de 90 % et jamais à plus de 95 %."— Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
