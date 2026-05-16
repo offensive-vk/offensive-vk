@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“一个项目的完成度永远不会低于 90%，也永远不会超过 95%。”— Terry Baker ❞</i>
+<i>❝“让我们改变对程序构建的传统态度：不要想象我们的主要任务是指导计算机做什么，而是让我们集中精力向人类解释我们希望计算机做什么。”——Donald E. Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
