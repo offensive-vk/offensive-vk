@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ein Programm ist nie zu weniger als 90 % und nie zu mehr als 95 % abgeschlossen.“ – Terry Baker ❞</i>
+<i>❝„Ändern wir unsere traditionelle Einstellung zur Konstruktion von Programmen: Anstatt uns vorzustellen, dass unsere Hauptaufgabe darin besteht, einem Computer anzuweisen, was er tun soll, konzentrieren wir uns lieber darauf, den Menschen zu erklären, was ein Computer tun soll.“ – Donald E. Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
