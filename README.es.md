@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Cambiemos nuestra actitud tradicional hacia la construcción de programas: en lugar de imaginar que nuestra tarea principal es indicarle a una computadora qué hacer, concentrémonos en explicar a los seres humanos lo que queremos que haga una computadora.”—Donald E. Knuth ❞</i>
+<i>❝La primera computadora electrónica ENIAC pesaba más de 27 toneladas y ocupaba 1800 pies cuadrados.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
