@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ändern wir unsere traditionelle Einstellung zur Konstruktion von Programmen: Anstatt uns vorzustellen, dass unsere Hauptaufgabe darin besteht, einem Computer anzuweisen, was er tun soll, konzentrieren wir uns lieber darauf, den Menschen zu erklären, was ein Computer tun soll.“ – Donald E. Knuth ❞</i>
+<i>❝Der erste elektronische Computer ENIAC wog mehr als 27 Tonnen und nahm eine Fläche von 1800 Quadratfuß ein.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
