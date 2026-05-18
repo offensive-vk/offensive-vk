@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝« Changeons notre attitude traditionnelle à l'égard de la construction de programmes : au lieu d'imaginer que notre tâche principale est de dire à un ordinateur ce qu'il doit faire, concentrons-nous plutôt sur l'explication aux êtres humains de ce que nous voulons qu'un ordinateur fasse. » — Donald E. Knuth ❞</i>
+<i>❝« Du point de vue d'un programmeur, l'utilisateur est un périphérique qui tape lorsque vous émettez une demande de lecture. »— P. Williams ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
