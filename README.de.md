@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der erste elektronische Computer ENIAC wog mehr als 27 Tonnen und nahm eine Fläche von 1800 Quadratfuß ein.❞</i>
+<i>❝„Aus der Sicht eines Programmierers ist der Benutzer ein Peripheriegerät, das tippt, wenn Sie eine Leseanforderung stellen.“ – P. Williams ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
