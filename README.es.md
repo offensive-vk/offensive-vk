@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La primera computadora electrónica ENIAC pesaba más de 27 toneladas y ocupaba 1800 pies cuadrados.❞</i>
+<i>❝“Desde el punto de vista de un programador, el usuario es un periférico que escribe cuando usted emite una solicitud de lectura.”— P. Williams ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
