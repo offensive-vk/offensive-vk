@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Aus der Sicht eines Programmierers ist der Benutzer ein Peripheriegerät, das tippt, wenn Sie eine Leseanforderung stellen.“ – P. Williams ❞</i>
+<i>❝Wenn Computer laufen, werden sie heiß. Computer haben Ventilatoren, die sie kühl halten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
