@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Lorsque les ordinateurs fonctionnent, ils deviennent chauds. Les ordinateurs ont des ventilateurs pour les garder au frais.❞</i>
+<i>❝"Comme il est rare que maintenir le code de quelqu'un d'autre équivaut à entrer dans un bâtiment magnifiquement conçu, que vous admirez en vous promenant et en planifiant comment ajouter une aile ou faire quelques redécoration. Le plus souvent, maintenir le code de quelqu'un d'autre, c'est comme être jeté tête baissée dans un gros tas d'ordures gluantes et malodorantes. "- Bill Venners ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
