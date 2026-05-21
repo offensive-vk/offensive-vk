@@ -139,10 +139,10 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10066](https://github.com/offensive-vk/Classics/pull/10066) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-2. 💪 Opened PR [#10066](https://github.com/offensive-vk/Classics/pull/10066) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-3. 🗣 Commented on [#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4. ❌ Assigned PR [#30871](undefined) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1. ℹ️ Labeled issue [#10008](https://github.com/nilbuild/developer-roadmap/issues/10008) in [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+2. ❗ Opened issue [#10008](https://github.com/nilbuild/developer-roadmap/issues/10008) in [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+3. 🎉 Merged PR [#10066](https://github.com/offensive-vk/Classics/pull/10066) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+4. 💪 Opened PR [#10066](https://github.com/offensive-vk/Classics/pull/10066) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 5. 🗣 Commented on [#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 6. 🗣 Commented on [#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 7. ❌ Closed PR [#109](undefined) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
