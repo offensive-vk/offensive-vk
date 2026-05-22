@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь на моем сервере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чём.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
+🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь на моем сервере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Мы должны прекратить оптимизацию для программистов и начать оптимизировать для пользователей» — Джефф Этвуд ❞</i>
+<i>❝В 1960 году компьютер НОРАД предупредил с вероятностью 99,9%, что Советы только что начали полномасштабную ракетную атаку на Северную Америку. Позже НОРАД обнаружил, что система раннего предупреждения в Гренландии интерпретировала восход луны над Норвегией как ракетную атаку из Сибири.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-2.  💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-3.  🗣 Прокомментировал[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  ❌Назначенный пиар[#30871](undefined)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  ℹ️ Проблема с пометкой[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
+2.  ❗Открытый вопрос[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
+3.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+4.  💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
 5.  🗣 Прокомментировал[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 6.  🗣 Прокомментировал[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
 7.  ❌ Закрытый пиар[#109](undefined)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
