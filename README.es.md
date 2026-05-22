@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Tenemos que dejar de optimizar para los programadores y comenzar a optimizar para los usuarios”.— Jeff Atwood ❞</i>
+<i>❝En 1960, la computadora del NORAD advirtió con un 99,9% de certeza que los soviéticos acababan de lanzar un ataque con misiles a gran escala contra América del Norte. Más tarde, NORAD descubrió que el Sistema de Alerta Temprana de Groenlandia había interpretado la salida de la luna sobre Noruega como un ataque con misiles desde Siberia.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-2.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-3.  🗣 Comentado en[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-4.  ❌ Relaciones públicas asignadas[#30871](undefined)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+2.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+3.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+4.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 5.  🗣 Comentado en[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🗣 Comentado en[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
 7.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
