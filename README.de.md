@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wir müssen aufhören, für Programmierer zu optimieren, und stattdessen mit der Optimierung für Benutzer beginnen.“ – Jeff Atwood ❞</i>
+<i>❝1960 warnte der Computer von NORAD mit 99,9-prozentiger Sicherheit, dass die Sowjets gerade einen umfassenden Raketenangriff auf Nordamerika gestartet hatten. NORAD entdeckte später, dass das Frühwarnsystem in Grönland den Mondaufgang über Norwegen als Raketenangriff aus Sibirien interpretiert hatte.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-2.  💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-3.  🗣 Kommentiert[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  ❌ Zugewiesene PR[#30871](undefined)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
+2.  ❗Geöffnete Ausgabe[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
+3.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+4.  💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 5.  🗣 Kommentiert[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🗣 Kommentiert[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 7.  ❌ Geschlossene PR[#109](undefined)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
