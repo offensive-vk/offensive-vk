@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我们必须停止为程序员优化，并开始为用户优化。”— Jeff Atwood ❞</i>
+<i>❝1960年，北美防空司令部的计算机以99.9%的把握发出警告，苏联刚刚对北美发动了全面导弹袭击。北美防空司令部后来发现，格陵兰岛的预警系统将挪威上空升起的月亮解释为来自西伯利亚的导弹袭击。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-2.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-3.  🗣 已发表评论[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  ❌ 分配的公关[#30871](undefined)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+2.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+3.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+4.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
 5.  🗣 已发表评论[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🗣 已发表评论[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
 7.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
