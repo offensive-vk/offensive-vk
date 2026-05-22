@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"علينا أن نتوقف عن التحسين للمبرمجين ونبدأ في التحسين للمستخدمين." - جيف أتوود ❞</i>
+<i>❝في عام 1960، حذر الكمبيوتر في NORAD بنسبة يقين 99.9% من أن السوفييت قد شنوا للتو هجومًا صاروخيًا واسع النطاق ضد أمريكا الشمالية. واكتشفت NORAD لاحقًا أن نظام الإنذار المبكر في جرينلاند فسر ارتفاع القمر فوق النرويج على أنه هجوم صاروخي من سيبيريا.</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-2.  💪 فتح العلاقات العامة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-3.  🗣 تم التعليق عليه[#415](https://github.com/offensive-vk/UntilEverything/pull/415#issuecomment-4018678289)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-4.  ❌ العلاقات العامة المعينة[#30871](undefined)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ℹ️ مشكلة مسماة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+2.  ❗ قضية مفتوحة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+3.  🎉 العلاقات العامة المدمجة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+4.  💪 فتح العلاقات العامة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
 5.  🗣 تم التعليق عليه[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🗣 تم التعليق عليه[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
 7.  ❌ علاقات عامة مغلقة[#109](undefined)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
