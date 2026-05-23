@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demandez rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
+🔭_La perfection n'est pas le but_.<br>🧑‍💻 J'aime écrire sur ordinateur`code`.<br>🤝 Je recherche de l'aide sur mon serveur.<br>✨ Vivre à l'intérieur du`terminal`.<br>🌱 J'apprends actuellement quelques_méchant_truc.<br>💬Ne me demande rien.<br>👌Je respecte mon temps.<br>⚡ Fait amusant : pas de plaisir, seulement du code.<br>💥Continuez à avancer et vous surmonterez un jour.<br>📧_Vous trouverez un moyen_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En 1960, l'ordinateur du NORAD avertissait avec une certitude de 99,9 % que les Soviétiques venaient de lancer une attaque de missiles à grande échelle contre l'Amérique du Nord. Le NORAD a découvert plus tard que le système d'alerte précoce du Groenland avait interprété le lever de la lune au-dessus de la Norvège comme une attaque de missile depuis la Sibérie.❞</i>
+<i>❝TYPEWRITER est le mot le plus long que vous pouvez écrire en utilisant les lettres d'une seule rangée du clavier de votre ordinateur.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
