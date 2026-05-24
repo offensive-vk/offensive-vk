@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER es la palabra más larga que puedes escribir usando las letras de una sola fila del teclado de tu computadora.❞</i>
+<i>❝“Perl: el único lenguaje que tiene el mismo aspecto antes y después del cifrado RSA.”— Keith Bostic ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
