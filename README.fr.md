@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER est le mot le plus long que vous pouvez écrire en utilisant les lettres d'une seule rangée du clavier de votre ordinateur.❞</i>
+<i>❝« Perl : le seul langage qui se ressemble avant et après le cryptage RSA. »— Keith Bostic ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
