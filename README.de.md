@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER ist das längste Wort, das Sie mit den Buchstaben nur in einer Zeile der Tastatur Ihres Computers schreiben können.❞</i>
+<i>❝„Perl: Die einzige Sprache, die vor und nach der RSA-Verschlüsselung gleich aussieht.“ – Keith Bostic ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
