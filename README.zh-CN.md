@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER 是您可以仅使用计算机键盘的一行字母书写的最长单词。❞</i>
+<i>❝“Perl：唯一在 RSA 加密前后看起来相同的语言。”— Keith Bostic ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
