@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Perl：唯一在 RSA 加密前后看起来相同的语言。”— Keith Bostic ❞</i>
+<i>❝据 statista 称，到 2023 年，将有超过 500 亿台设备连接到互联网。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
