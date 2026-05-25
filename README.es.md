@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Perl: el único lenguaje que tiene el mismo aspecto antes y después del cifrado RSA.”— Keith Bostic ❞</i>
+<i>❝Según statista, para 2023, más de 50 mil millones de dispositivos estarán conectados a Internet.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
