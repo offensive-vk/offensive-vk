@@ -34,7 +34,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner || 'offensive-vk' }}
-          github_token: ${{ secrets.BOT_TOKEN }}
+          github_token: ${{ secrets.BOT_TOKEN || secrets.MY_TOKEN }}
           outputs: |
             assets/github-snake.gif
             assets/github-snake-light.svg
@@ -53,4 +53,4 @@ jobs:
 
           Signed-off-by: Hamster [bot] <TheHamsterBot@outlook.com>
           Co-Authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-          git push
+          git push -v

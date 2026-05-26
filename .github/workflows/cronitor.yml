@@ -10,6 +10,7 @@ on:
       - '🌨️ Publish Multi Platform Docker Images'
       - '📊 Generates Metrics'
       - '🦅 Mirror Sync'
+      - '☑️ Automated PR Merge'
       - '🌅 Morning Glory Maintenance'
       - '🐍 Generate Snake Contribution GIF'
       - '⭐ Generate Stargazer List'
