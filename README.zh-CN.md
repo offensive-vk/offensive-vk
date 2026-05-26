@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝据 statista 称，到 2023 年，将有超过 500 亿台设备连接到互联网。❞</i>
+<i>❝Ultra NVidia GeForce 6800 显卡采用 2.22 亿个晶体管构建，被认为是迄今为止最好的显卡之一。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-2.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-3.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-4.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-5.  🗣 已发表评论[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+2.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+3.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+4.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+5.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
 6.  🗣 已发表评论[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
 7.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 合并公关[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
