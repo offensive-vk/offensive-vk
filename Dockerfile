@@ -26,17 +26,17 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Install pnpm
-RUN npm install -g pnpm@10.10.0
+RUN npm install -g pnpm@11.2.0
 
 # Expose the container port (metadata only)
 EXPOSE 9999
-
-# Healthcheck to ensure the container is running
-HEALTHCHECK --interval=30s --timeout=10s \
-  CMD curl -f http://localhost:9999 || exit 1
 
 # Setup environment variables
 ENV PORT=9999
 
 # Set the default command to keep the container running (adjust as needed)
 CMD ["tail", "-f", "/dev/null"]
+
+# Healthcheck to ensure the container is running
+HEALTHCHECK --interval=30s --timeout=10s \
+  CMD curl -f http://localhost:9999 || exit 1

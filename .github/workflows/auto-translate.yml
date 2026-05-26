@@ -11,7 +11,7 @@ jobs:
       fail-fast: true
       max-parallel: 1
       matrix:
-        lang: ['es', 'de', 'ru', 'fr', 'zh-CN', 'ar']
+        lang: ['es', 'de', 'ru', 'tr', 'zh-CN', 'ar']
 
     name: Translate - ${{ matrix.lang }}
     runs-on: ubuntu-latest

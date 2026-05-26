@@ -1,6 +1,6 @@
 # Workflows
 
-[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
+[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-mirror.yml)
 [![🌨️ Publish Multi Platform Docker Images](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
 [![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
 [![🤖 Auto Close Everything - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-close.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-close.yml)

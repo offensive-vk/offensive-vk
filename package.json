@@ -1,6 +1,6 @@
 {
   "name": "offensive-vk",
-  "version": "26.1.0",
+  "version": "26.6.0",
   "description": "My Personal Github Repository. (Fully Automated). MIT Licensed 2020 - Present",
   "main": "README.md",
   "bot": "https://github.com/TheHamsterBot",
@@ -19,7 +19,7 @@
     "docker": "docker run -it -d --name docker-in-docker -p 9998:9999 --privileged -v /var/run/docker.sock:/var/run/docker.sock docker:dind",
     "spawn": "docker run -it -d --name my-container --rm -p 9997:9999 -v $(pwd):/shared/offensive-vk ghcr.io/offensive-vk/offensive-vk:latest",
     "reset": "docker system prune -f",
-    "all": "npm i pnpm@10.10.0; pnpm run install; pnpm run dev; pnpm run image; pnpm run info; pnpm run pull; pnpm run compose; pnpm run spawn; pnpm run list; pnpm run exec"
+    "all": "npm i pnpm@11.2.0; pnpm run install; pnpm run dev; pnpm run image; pnpm run info; pnpm run pull; pnpm run compose; pnpm run spawn; pnpm run list; pnpm run exec"
   },
   "keywords": [
     "readme",
@@ -37,7 +37,7 @@
     "url": "https://github.com/offensive-vk/"
   },
   "license": "MIT",
-  "packageManager": "pnpm@10.25.0",
+  "packageManager": "pnpm@11.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/offensive-vk/"
@@ -50,7 +50,7 @@
     "@octokit/core": "^6.1.6",
     "@octokit/rest": "^21.1.1",
     "@octokit/types": "^13.10.0",
-    "markdownlint": "^0.35.0",
-    "octokit": "^4.1.4"
+    "octokit": "^4.1.4",
+    "markdownlint": "^0.35.0"
   }
 }
