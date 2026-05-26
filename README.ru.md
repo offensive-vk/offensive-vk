@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь на моем сервере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чём.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
+🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь на моем сервере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝По данным статистики, к 2023 году к Интернету будет подключено более 50 миллиардов устройств.❞</i>
+<i>❝Видеокарта Ultra NVidia GeForce 6800 имеет 222 миллиона транзисторов и считается одной из лучших на сегодняшний день.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ℹ️ Проблема с пометкой[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
-2.  ❗Открытый вопрос[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
-3.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-4.  💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-5.  🗣 Прокомментировал[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Закрытый пиар[#73](https://github.com/offensive-vk/develop-actions/pull/73)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
+2.  ℹ️ Проблема с пометкой[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
+3.  ❗Открытый вопрос[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
+4.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+5.  💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
 6.  🗣 Прокомментировал[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
 7.  ❌ Закрытый пиар[#109](undefined)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 Объединенный пиар[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
