@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝وفقًا للإحصائيات، بحلول عام 2023، سيتم توصيل أكثر من 50 مليار جهاز بالإنترنت.❞</i>
+<i>❝تم تصميم بطاقة الفيديو Ultra NVidia GeForce 6800 باستخدام 222 مليون ترانزستور وتعتبر من بين الأفضل حتى الآن.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ℹ️ مشكلة مسماة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-2.  ❗ قضية مفتوحة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-3.  🎉 العلاقات العامة المدمجة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-4.  💪 فتح العلاقات العامة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-5.  🗣 تم التعليق عليه[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ علاقات عامة مغلقة[#73](https://github.com/offensive-vk/develop-actions/pull/73)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
+2.  ℹ️ مشكلة مسماة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+3.  ❗ قضية مفتوحة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+4.  🎉 العلاقات العامة المدمجة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+5.  💪 فتح العلاقات العامة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
 6.  🗣 تم التعليق عليه[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
 7.  ❌ علاقات عامة مغلقة[#109](undefined)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 العلاقات العامة المدمجة[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)في[الهجوم-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
