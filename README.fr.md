@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Selon Statista, d'ici 2023, plus de 50 milliards d'appareils seront connectés à Internet.❞</i>
+<i>❝La carte vidéo Ultra NVidia GeForce 6800 a été construite avec 222 millions de transistors et est considérée comme l'une des meilleures à ce jour.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ℹ️ Problème labellisé[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)dans[nilbuild/feuille de route du développeur](https://github.com/nilbuild/developer-roadmap)
-2.  ❗ Problème ouvert[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)dans[nilbuild/feuille de route du développeur](https://github.com/nilbuild/developer-roadmap)
-3.  🎉 PR fusionné[#10066](https://github.com/offensive-vk/Classics/pull/10066)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-4.  💪 RP ouverte[#10066](https://github.com/offensive-vk/Classics/pull/10066)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
-5.  🗣 Commenté[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)dans[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ PR fermé[#73](https://github.com/offensive-vk/develop-actions/pull/73)dans[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+2.  ℹ️ Problème labellisé[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)dans[nilbuild/feuille de route du développeur](https://github.com/nilbuild/developer-roadmap)
+3.  ❗ Problème ouvert[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)dans[nilbuild/feuille de route du développeur](https://github.com/nilbuild/developer-roadmap)
+4.  🎉 PR fusionné[#10066](https://github.com/offensive-vk/Classics/pull/10066)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
+5.  💪 RP ouverte[#10066](https://github.com/offensive-vk/Classics/pull/10066)dans[offensive-vk/Classiques](https://github.com/offensive-vk/Classics)
 6.  🗣 Commenté[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)dans[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 7.  ❌ PR fermé[#109](undefined)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 PR fusionné[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)dans[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
