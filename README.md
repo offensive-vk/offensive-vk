@@ -139,14 +139,14 @@
 <p align="left">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#73](https://github.com/offensive-vk/develop-actions/pull/73) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-2. ℹ️ Labeled issue [#10008](https://github.com/nilbuild/developer-roadmap/issues/10008) in [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-3. ❗ Opened issue [#10008](https://github.com/nilbuild/developer-roadmap/issues/10008) in [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-4. 🎉 Merged PR [#10066](https://github.com/offensive-vk/Classics/pull/10066) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-5. 💪 Opened PR [#10066](https://github.com/offensive-vk/Classics/pull/10066) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-6. 🗣 Commented on [#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-7. ❌ Closed PR [#109](undefined) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-8. 🎉 Merged PR [#104](https://github.com/offensive-vk/AwesomeCloud/pull/104) in [offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+1. 🔒 Closed issue [#31026](https://github.com/offensive-vk/offensive-vk/issues/31026) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2. 🔒 Closed issue [#31025](https://github.com/offensive-vk/offensive-vk/issues/31025) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3. 🔒 Closed issue [#31028](https://github.com/offensive-vk/offensive-vk/issues/31028) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4. ❌ Closed PR [#73](https://github.com/offensive-vk/develop-actions/pull/73) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+5. ℹ️ Labeled issue [#10008](https://github.com/nilbuild/developer-roadmap/issues/10008) in [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+6. ❗ Opened issue [#10008](https://github.com/nilbuild/developer-roadmap/issues/10008) in [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+7. 🎉 Merged PR [#10066](https://github.com/offensive-vk/Classics/pull/10066) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+8. 💪 Opened PR [#10066](https://github.com/offensive-vk/Classics/pull/10066) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 9. 🔒 Closed issue [#12](https://github.com/offensive-vk/Temp/issues/12) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Closed issue [#11](https://github.com/offensive-vk/Temp/issues/11) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 Closed issue [#8](https://github.com/offensive-vk/Temp/issues/8) in [offensive-vk/Temp](https://github.com/offensive-vk/Temp)
