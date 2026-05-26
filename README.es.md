@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Según statista, para 2023, más de 50 mil millones de dispositivos estarán conectados a Internet.❞</i>
+<i>❝La tarjeta de video Ultra NVidia GeForce 6800 se construyó con 222 millones de transistores y se considera una de las mejores hasta la fecha.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
-2.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
-3.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-4.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-5.  🗣 Comentado en[#30867](https://github.com/offensive-vk/offensive-vk/pull/30867#issuecomment-3592436263)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Relaciones públicas cerradas[#73](https://github.com/offensive-vk/develop-actions/pull/73)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+2.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+3.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+4.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+5.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 6.  🗣 Comentado en[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
 7.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
 8.  🎉 Relaciones públicas fusionadas[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
