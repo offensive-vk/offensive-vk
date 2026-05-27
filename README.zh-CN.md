@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Ultra NVidia GeForce 6800 显卡采用 2.22 亿个晶体管构建，被认为是迄今为止最好的显卡之一。❞</i>
+<i>❝第一个 1GB 硬盘驱动器于 1980 年发布，重约 550 磅，价格为 40,000 美元。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,14 +147,14 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-2.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-3.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-4.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-5.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-6.  🗣 已发表评论[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-7.  ❌ 封闭公关[#109](undefined)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉 合并公关[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)在[进攻-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🔒 已关闭问题[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 已关闭问题[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 已关闭问题[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+5.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+6.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+7.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+8.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
 9.  🔒 已关闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 已关闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 已关闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
