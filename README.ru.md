@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Видеокарта Ultra NVidia GeForce 6800 имеет 222 миллиона транзисторов и считается одной из лучших на сегодняшний день.❞</i>
+<i>❝В 1980 году было объявлено о выпуске первого жесткого диска емкостью 1 ГБ, который весил около 550 фунтов и стоил 40 000 долларов США.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,14 +147,14 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Закрытый пиар[#73](https://github.com/offensive-vk/develop-actions/pull/73)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
-2.  ℹ️ Проблема с пометкой[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
-3.  ❗Открытый вопрос[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
-4.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-5.  💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-6.  🗣 Прокомментировал[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)в[наступление-вк/авто-ярлык](https://github.com/offensive-vk/auto-label)
-7.  ❌ Закрытый пиар[#109](undefined)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉 Объединенный пиар[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)в[наступление-вк/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🔒 Вопрос закрыт.[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Вопрос закрыт.[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Вопрос закрыт.[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ Закрытый пиар[#73](https://github.com/offensive-vk/develop-actions/pull/73)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
+5.  ℹ️ Проблема с пометкой[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
+6.  ❗Открытый вопрос[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
+7.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+8.  💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
 9.  🔒 Вопрос закрыт.[#12](https://github.com/offensive-vk/Temp/issues/12)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Вопрос закрыт.[#11](https://github.com/offensive-vk/Temp/issues/11)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 Вопрос закрыт.[#8](https://github.com/offensive-vk/Temp/issues/8)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
