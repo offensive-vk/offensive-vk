@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Die Ultra NVidia GeForce 6800-Grafikkarte wurde mit 222 Millionen Transistoren gebaut und gilt als eine der besten, die es je gab.❞</i>
+<i>❝Das erste 1-GB-Festplattenlaufwerk wurde 1980 angekündigt, wog etwa 550 Pfund und kostete 40.000 US-Dollar.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Geschlossene PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-2.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
-3.  ❗Geöffnete Ausgabe[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
-4.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-5.  💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-6.  🗣 Kommentiert[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-7.  ❌ Geschlossene PR[#109](undefined)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉 Zusammengeführte PR[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)In[offensive-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-9.  🔒Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-10. 🔒Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-11. 🔒Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-12. 🔒Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-13. 🔒Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-14. 🔒Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🔒 Geschlossenes Problem[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Geschlossenes Problem[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Geschlossenes Problem[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ Geschlossene PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+5.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
+6.  ❗Geöffnete Ausgabe[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
+7.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+8.  💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+9.  🔒 Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+10. 🔒 Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒 Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒 Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
