@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La tarjeta de video Ultra NVidia GeForce 6800 se construyó con 222 millones de transistores y se considera una de las mejores hasta la fecha.❞</i>
+<i>❝La primera unidad de disco duro de 1 GB se anunció en 1980, pesaba alrededor de 550 libras y tenía un precio de 40.000 dólares.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,14 +147,14 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Relaciones públicas cerradas[#73](https://github.com/offensive-vk/develop-actions/pull/73)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
-2.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
-3.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
-4.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-5.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-6.  🗣 Comentado en[#42](https://github.com/offensive-vk/auto-label/issues/42#issuecomment-3525420999)en[ofensiva-vk/etiqueta automática](https://github.com/offensive-vk/auto-label)
-7.  ❌ Relaciones públicas cerradas[#109](undefined)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
-8.  🎉 Relaciones públicas fusionadas[#104](https://github.com/offensive-vk/AwesomeCloud/pull/104)en[ofensivo-vk/AwesomeCloud](https://github.com/offensive-vk/AwesomeCloud)
+1.  🔒 Número cerrado[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Número cerrado[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Número cerrado[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ Relaciones públicas cerradas[#73](https://github.com/offensive-vk/develop-actions/pull/73)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+5.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+6.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+7.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+8.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 9.  🔒 Número cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Número cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 Número cerrado[#8](https://github.com/offensive-vk/Temp/issues/8)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
