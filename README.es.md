@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La primera unidad de disco duro de 1 GB se anunció en 1980, pesaba alrededor de 550 libras y tenía un precio de 40.000 dólares.❞</i>
+<i>❝Cuando las computadoras funcionan, se calientan. Las computadoras tienen ventiladores para mantenerlas frescas.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
