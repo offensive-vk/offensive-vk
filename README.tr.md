@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝İlk 1GB sabit disk sürücüsü 1980 yılında duyuruldu ve yaklaşık 550 pound ağırlığında ve 40.000 $ fiyat etiketine sahipti.❞</i>
+<i>❝Bilgisayarlar çalıştıkça ısınırlar. Bilgisayarlarda onları serin tutacak fanlar bulunur.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
