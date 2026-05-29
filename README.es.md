@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Cuando las computadoras funcionan, se calientan. Las computadoras tienen ventiladores para mantenerlas frescas.❞</i>
+<i>❝“La programación de bajo nivel es buena para el alma del programador.”— John Carmack ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
