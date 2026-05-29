@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bilgisayarlar çalıştıkça ısınırlar. Bilgisayarlarda onları serin tutacak fanlar bulunur.❞</i>
+<i>❝"Düşük seviyeli programlama programcının ruhuna iyi gelir."— John Carmack ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
