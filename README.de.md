@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Wenn Computer laufen, werden sie heiß. Computer haben Ventilatoren, die sie kühl halten.❞</i>
+<i>❝„Low-Level-Programmierung ist gut für die Seele des Programmierers.“ – John Carmack ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
