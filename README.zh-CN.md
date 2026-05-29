@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝计算机运行时会变热。计算机有风扇来保持凉爽。❞</i>
+<i>❝“低级编程对程序员的灵魂有好处。”——约翰·卡马克❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
