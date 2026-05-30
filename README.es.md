@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La programación de bajo nivel es buena para el alma del programador.”— John Carmack ❞</i>
+<i>❝“Obtener información de Internet es como tomar un trago de una boca de incendio.”— Mitchell Kapor ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
