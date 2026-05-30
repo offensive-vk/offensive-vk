@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Low-Level-Programmierung ist gut für die Seele des Programmierers.“ – John Carmack ❞</i>
+<i>❝„Informationen aus dem Internet zu bekommen ist wie ein Getränk aus einem Hydranten zu trinken.“ – Mitchell Kapor ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -148,7 +148,7 @@
 <!--START_SECTION:activity-->
 
 1.  🔒 Geschlossenes Problem[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 Geschlossenes Problem[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒Geschlossenes Problem[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 3.  🔒 Geschlossenes Problem[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ Geschlossene PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 5.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
@@ -157,11 +157,11 @@
 8.  💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 9.  🔒 Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 10. 🔒 Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
