@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Düşük seviyeli programlama programcının ruhuna iyi gelir."— John Carmack ❞</i>
+<i>❝"İnternetten bilgi edinmek, yangın musluğundan su içmek gibidir."— Mitchell Kapor ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
