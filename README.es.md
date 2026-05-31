@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Obtener información de Internet es como tomar un trago de una boca de incendio.”— Mitchell Kapor ❞</i>
+<i>❝TYPEWRITER es la palabra más larga que puedes escribir usando las letras de una sola fila del teclado de tu computadora.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
