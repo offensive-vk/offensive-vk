@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“从互联网获取信息就像从消防栓喝水一样。”——米切尔·卡普尔 ❞</i>
+<i>❝TYPEWRITER 是您可以仅使用计算机键盘的一行字母书写的最长单词。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
