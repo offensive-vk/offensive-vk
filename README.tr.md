@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"İnternetten bilgi edinmek, yangın musluğundan su içmek gibidir."— Mitchell Kapor ❞</i>
+<i>❝TYPEWRITER, bilgisayarınızın klavyesinin yalnızca bir satırındaki harfleri kullanarak yazabileceğiniz en uzun kelimedir.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
