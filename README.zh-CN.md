@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER 是您可以仅使用计算机键盘的一行字母书写的最长单词。❞</i>
+<i>❝CAPTCHA 是“完全自动化的公共图灵测试来区分计算机和人类”的缩写❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
