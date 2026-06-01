@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER es la palabra más larga que puedes escribir usando las letras de una sola fila del teclado de tu computadora.❞</i>
+<i>❝CAPTCHA es un acrónimo de “Prueba de Turing pública completamente automatizada para distinguir entre computadoras y humanos”❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
