@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER ist das längste Wort, das Sie mit den Buchstaben nur in einer Zeile der Tastatur Ihres Computers schreiben können.❞</i>
+<i>❝CAPTCHA ist ein Akronym für „Completely Automated Public Turing test to tell Computers and Humans Apart“❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
