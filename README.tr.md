@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER, bilgisayarınızın klavyesinin yalnızca bir satırındaki harfleri kullanarak yazabileceğiniz en uzun kelimedir.❞</i>
+<i>❝CAPTCHA, “Bilgisayarları ve İnsanları Ayırmak için Tamamen Otomatikleştirilmiş Kamu Turing testi”nin kısaltmasıdır❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
