@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA es un acrónimo de “Prueba de Turing pública completamente automatizada para distinguir entre computadoras y humanos”❞</i>
+<i>❝Durante la producción de Toy Story 2, Pixar borró accidentalmente toda la película de sus servidores. La película fue guardada por una empleada, una nueva madre, que trabajaba desde casa y tenía los datos guardados en su computadora personal.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
