@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝CAPTCHA, “Bilgisayarları ve İnsanları Ayırmak için Tamamen Otomatikleştirilmiş Kamu Turing testi”nin kısaltmasıdır❞</i>
+<i>❝Oyuncak Hikayesi 2'nin yapımı sırasında Pixar yanlışlıkla filmin tamamını sunucularından sildi. Film, evden çalışan ve verileri kişisel bilgisayarına kaydeden, yeni anne olan bir çalışan tarafından kaydedildi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
