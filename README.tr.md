@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Oyuncak Hikayesi 2'nin yapımı sırasında Pixar yanlışlıkla filmin tamamını sunucularından sildi. Film, evden çalışan ve verileri kişisel bilgisayarına kaydeden, yeni anne olan bir çalışan tarafından kaydedildi.❞</i>
+<i>❝INTERCAL diye bir programlama dili var, içinde GÖZALDIĞINIZ, LÜTFEN, UNUTUN gibi anahtar kelimeler var. Kodlama sırasında LÜTFEN'i yeterince kullanmazsanız Derleyici kodu reddeder.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
