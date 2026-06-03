@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝在制作《玩具总动员 2》期间，皮克斯不小心从其服务器中删除了整部电影。这部电影是由一位员工保存的，她是一位新妈妈，她在家工作，并将数据保存在她的个人电脑上。❞</i>
+<i>❝有一种叫做 INTERCAL 的编程语言，它有 IGNORE、PLEASE、FORGET 等关键字。如果您在编码时没有使用 PLEASE 足够多的次数，编译器会拒绝该代码。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
