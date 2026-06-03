@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Durante la producción de Toy Story 2, Pixar borró accidentalmente toda la película de sus servidores. La película fue guardada por una empleada, una nueva madre, que trabajaba desde casa y tenía los datos guardados en su computadora personal.❞</i>
+<i>❝Existe un lenguaje de programación llamado INTERCAL que tiene palabras clave como IGNORAR, POR FAVOR, OLVIDAR. Si no usa PLEASE suficientes veces mientras codifica, el compilador rechaza el código.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
