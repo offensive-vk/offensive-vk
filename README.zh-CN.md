@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝有一种叫做 INTERCAL 的编程语言，它有 IGNORE、PLEASE、FORGET 等关键字。如果您在编码时没有使用 PLEASE 足够多的次数，编译器会拒绝该代码。❞</i>
+<i>❝“一个项目的完成度永远不会低于 90%，也永远不会超过 95%。”— Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
