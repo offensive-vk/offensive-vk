@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Es gibt eine Programmiersprache namens INTERCAL, die Schlüsselwörter wie IGNORE, PLEASE, FORGET hat. Wenn Sie PLEASE beim Codieren nicht oft genug verwenden, lehnt der Compiler den Code ab.❞</i>
+<i>❝„Ein Programm ist nie zu weniger als 90 % und nie zu mehr als 95 % abgeschlossen.“ – Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
