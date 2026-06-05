@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝INTERCAL diye bir programlama dili var, içinde GÖZALDIĞINIZ, LÜTFEN, UNUTUN gibi anahtar kelimeler var. Kodlama sırasında LÜTFEN'i yeterince kullanmazsanız Derleyici kodu reddeder.❞</i>
+<i>❝"Bir programın hiçbir zaman %90'dan azı tamamlanmaz ve hiçbir zaman %95'ten fazlası tamamlanmaz." - Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
