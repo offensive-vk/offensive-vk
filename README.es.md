@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Existe un lenguaje de programación llamado INTERCAL que tiene palabras clave como IGNORAR, POR FAVOR, OLVIDAR. Si no usa PLEASE suficientes veces mientras codifica, el compilador rechaza el código.❞</i>
+<i>❝“Un programa nunca está completo en menos del 90 % ni en más del 95 %.”— Terry Baker ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
