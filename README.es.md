@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Un programa nunca está completo en menos del 90 % ni en más del 95 %.”— Terry Baker ❞</i>
+<i>❝"Se nos dice que los pesimistas miran un vaso que contiene un 50% de aire y un 50% de agua y lo ven medio vacío. Los optimistas, por el contrario, lo ven medio lleno. Los ingenieros, por supuesto, entienden que el vaso es el doble de grande de lo necesario".—Bob Lewis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,15 +147,15 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 Número cerrado[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 Número cerrado[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Número cerrado[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-4.  ❌ Relaciones públicas cerradas[#73](https://github.com/offensive-vk/develop-actions/pull/73)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
-5.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
-6.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
-7.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-8.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-9.  🔒 Número cerrado[#12](https://github.com/offensive-vk/Temp/issues/12)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🗣 Comentado en[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🔒 Número cerrado[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Número cerrado[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Número cerrado[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+5.  ❌ Relaciones públicas cerradas[#73](https://github.com/offensive-vk/develop-actions/pull/73)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+6.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+7.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+8.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+9.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 10. 🔒 Número cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 Número cerrado[#8](https://github.com/offensive-vk/Temp/issues/8)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Número cerrado[#7](https://github.com/offensive-vk/Temp/issues/7)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
