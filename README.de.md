@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ein Programm ist nie zu weniger als 90 % und nie zu mehr als 95 % abgeschlossen.“ – Terry Baker ❞</i>
+<i>❝„Pessimisten, so sagt man uns, betrachten ein Glas, das 50 % Luft und 50 % Wasser enthält, und sehen es als halb leer. Optimisten hingegen sehen es als halb voll. Ingenieure wissen natürlich, dass das Glas doppelt so groß ist, wie es sein muss.“ – Bob Lewis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,15 +147,15 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 Geschlossenes Problem[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 Geschlossenes Problem[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Geschlossenes Problem[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  ❌ Geschlossene PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-5.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
-6.  ❗Geöffnete Ausgabe[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
-7.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-8.  💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-9.  🔒 Geschlossenes Problem[#12](https://github.com/offensive-vk/Temp/issues/12)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🗣 Kommentiert[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🔒 Geschlossenes Problem[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Geschlossenes Problem[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Geschlossenes Problem[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  ❌ Geschlossene PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+6.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
+7.  ❗Geöffnete Ausgabe[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
+8.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+9.  💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 10. 🔒 Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
