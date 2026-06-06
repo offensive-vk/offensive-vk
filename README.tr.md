@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Bir programın hiçbir zaman %90'dan azı tamamlanmaz ve hiçbir zaman %95'ten fazlası tamamlanmaz." - Terry Baker ❞</i>
+<i>❝"Bize, karamsarların %50 hava ve %50 su içeren bir bardağa bakıp yarısını boş gördükleri söylenir. İyimserler ise tam tersi olarak bardağın yarısını dolu görür. Mühendisler ise elbette bardağın olması gerekenden iki kat daha büyük olduğunu anlarlar."— Bob Lewis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,15 +147,15 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 Kapalı konu[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 Kapalı konu[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Kapalı konu[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
-4.  ❌ Kapalı PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)içinde[saldırgan-vk/geliştirme-eylemleri](https://github.com/offensive-vk/develop-actions)
-5.  ℹ️ Etiketli sorun[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)içinde[nilbuild/geliştirici-yol haritası](https://github.com/nilbuild/developer-roadmap)
-6.  ❗ Açılan konu[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)içinde[nilbuild/geliştirici-yol haritası](https://github.com/nilbuild/developer-roadmap)
-7.  🎉 Birleştirilmiş PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)içinde[saldırgan-vk/Klasikler](https://github.com/offensive-vk/Classics)
-8.  💪 PR açıldı[#10066](https://github.com/offensive-vk/Classics/pull/10066)içinde[saldırgan-vk/Klasikler](https://github.com/offensive-vk/Classics)
-9.  🔒 Kapalı konu[#12](https://github.com/offensive-vk/Temp/issues/12)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🗣 Yorum yapıldı[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🔒 Kapalı konu[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Kapalı konu[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Kapalı konu[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+5.  ❌ Kapalı PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)içinde[saldırgan-vk/geliştirme-eylemleri](https://github.com/offensive-vk/develop-actions)
+6.  ℹ️ Etiketli sorun[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)içinde[nilbuild/geliştirici-yol haritası](https://github.com/nilbuild/developer-roadmap)
+7.  ❗ Açılan konu[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)içinde[nilbuild/geliştirici-yol haritası](https://github.com/nilbuild/developer-roadmap)
+8.  🎉 Birleştirilmiş PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)içinde[saldırgan-vk/Klasikler](https://github.com/offensive-vk/Classics)
+9.  💪 PR açıldı[#10066](https://github.com/offensive-vk/Classics/pull/10066)içinde[saldırgan-vk/Klasikler](https://github.com/offensive-vk/Classics)
 10. 🔒 Kapalı konu[#11](https://github.com/offensive-vk/Temp/issues/11)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 Kapalı konu[#8](https://github.com/offensive-vk/Temp/issues/8)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Kapalı konu[#7](https://github.com/offensive-vk/Temp/issues/7)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
