@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“一个项目的完成度永远不会低于 90%，也永远不会超过 95%。”— Terry Baker ❞</i>
+<i>❝“我们被告知，悲观主义者看到一个含有 50% 空气和 50% 水的玻璃杯，会看到它是半空的。相比之下，乐观主义者则认为它是半满的。当然，工程师知道玻璃杯的大小是所需大小的两倍。”— Bob Lewis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,15 +147,15 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 已关闭问题[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 已关闭问题[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 已关闭问题[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-4.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-5.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-6.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-7.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-8.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-9.  🔒 已关闭问题[#12](https://github.com/offensive-vk/Temp/issues/12)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🗣 已发表评论[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🔒 已关闭问题[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 已关闭问题[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 已关闭问题[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+6.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+7.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+8.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+9.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
 10. 🔒 已关闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 11. 🔒 已关闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 已关闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
