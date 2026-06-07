@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Bize, karamsarların %50 hava ve %50 su içeren bir bardağa bakıp yarısını boş gördükleri söylenir. İyimserler ise tam tersi olarak bardağın yarısını dolu görür. Mühendisler ise elbette bardağın olması gerekenden iki kat daha büyük olduğunu anlarlar."— Bob Lewis ❞</i>
+<i>❝Steve Jobs, ilk Mac'te fötr şapka giyen bir adamı saklamak istedi. "Bay Macintosh" olarak adlandırılan karakter, menü çubuğunu binlerce kez açtıktan sonra ortaya çıkıyor, ardından hızla kayboluyor ve kullanıcıların akıl sağlığını sorgulamasına neden oluyordu. Mac'in 128 KB'lik önemsiz RAM'i nedeniyle bu fikir rafa kaldırıldı.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
