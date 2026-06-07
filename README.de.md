@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Pessimisten, so sagt man uns, betrachten ein Glas, das 50 % Luft und 50 % Wasser enthält, und sehen es als halb leer. Optimisten hingegen sehen es als halb voll. Ingenieure wissen natürlich, dass das Glas doppelt so groß ist, wie es sein muss.“ – Bob Lewis ❞</i>
+<i>❝Steve Jobs wollte auf dem ersten Mac einen Mann verstecken, der einen Fedora trug. Der als „Mr. Macintosh“ bezeichnete Charakter erschien nach mehreren tausend Malen des Öffnens der Menüleiste und verschwand dann schnell wieder, sodass Benutzer an ihrem Verstand zweifelten. Die Idee wurde verworfen, da der Mac nur über dürftige 128 KB RAM verfügt.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
