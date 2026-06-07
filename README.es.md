@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Se nos dice que los pesimistas miran un vaso que contiene un 50% de aire y un 50% de agua y lo ven medio vacío. Los optimistas, por el contrario, lo ven medio lleno. Los ingenieros, por supuesto, entienden que el vaso es el doble de grande de lo necesario".—Bob Lewis ❞</i>
+<i>❝Steve Jobs quería ocultar a un hombre que llevaba un sombrero de fieltro en la primera Mac. Apodado "Mr. Macintosh", el personaje aparecía después de abrir la barra de menú varios miles de veces y luego desaparecía rápidamente, dejando a los usuarios cuestionando su cordura. La idea fue descartada debido a los miserables 128 KB de RAM de Mac.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
