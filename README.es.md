@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Steve Jobs quería ocultar a un hombre que llevaba un sombrero de fieltro en la primera Mac. Apodado "Mr. Macintosh", el personaje aparecía después de abrir la barra de menú varios miles de veces y luego desaparecía rápidamente, dejando a los usuarios cuestionando su cordura. La idea fue descartada debido a los miserables 128 KB de RAM de Mac.❞</i>
+<i>❝“Necesitamos, sobre todo, estar al tanto de los cambios; nadie quiere ni necesita que le recuerden 16 horas al día que tiene los zapatos puestos.”— David Hubel ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
