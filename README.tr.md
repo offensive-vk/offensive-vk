@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Steve Jobs, ilk Mac'te fötr şapka giyen bir adamı saklamak istedi. "Bay Macintosh" olarak adlandırılan karakter, menü çubuğunu binlerce kez açtıktan sonra ortaya çıkıyor, ardından hızla kayboluyor ve kullanıcıların akıl sağlığını sorgulamasına neden oluyordu. Mac'in 128 KB'lik önemsiz RAM'i nedeniyle bu fikir rafa kaldırıldı.❞</i>
+<i>❝"Her şeyden önce değişiklikler hakkında bilgi sahibi olmamız gerekiyor; hiç kimse günde 16 saat ayakkabılarının giydiğinin hatırlatılmasını istemez veya buna ihtiyaç duymaz." - David Hubel ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
