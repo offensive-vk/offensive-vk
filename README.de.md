@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Steve Jobs wollte auf dem ersten Mac einen Mann verstecken, der einen Fedora trug. Der als „Mr. Macintosh“ bezeichnete Charakter erschien nach mehreren tausend Malen des Öffnens der Menüleiste und verschwand dann schnell wieder, sodass Benutzer an ihrem Verstand zweifelten. Die Idee wurde verworfen, da der Mac nur über dürftige 128 KB RAM verfügt.❞</i>
+<i>❝„Wir müssen vor allem über Veränderungen Bescheid wissen; niemand möchte oder muss 16 Stunden am Tag daran erinnert werden, dass seine Schuhe an sind.“ – David Hubel ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
