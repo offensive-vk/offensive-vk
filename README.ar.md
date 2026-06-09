@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"نحن بحاجة قبل كل شيء إلى معرفة التغييرات؛ لا أحد يريد أو يحتاج إلى أن يتم تذكيره لمدة 16 ساعة يوميًا بارتداء حذائه." - ديفيد هوبل ❞</i>
+<i>❝"Perl: اللغة الوحيدة التي تبدو كما هي قبل وبعد تشفير RSA." — كيث بوستيك ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,16 +147,16 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 تم التعليق عليه[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🔒 قضية مغلقة[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 قضية مغلقة[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 قضية مغلقة[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-5.  ❌ علاقات عامة مغلقة[#73](https://github.com/offensive-vk/develop-actions/pull/73)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
-6.  ℹ️ مشكلة مسماة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-7.  ❗ قضية مفتوحة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-8.  🎉 العلاقات العامة المدمجة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-9.  💪 فتح العلاقات العامة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
-10. 🔒 قضية مغلقة[#11](https://github.com/offensive-vk/Temp/issues/11)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
+1.  ❌ علاقات عامة مغلقة[#457](https://github.com/offensive-vk/UntilEverything/pull/457)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  🔒 قضية مغلقة[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 قضية مغلقة[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 قضية مغلقة[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  ❌ علاقات عامة مغلقة[#73](https://github.com/offensive-vk/develop-actions/pull/73)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
+7.  ℹ️ مشكلة مسماة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+8.  ❗ قضية مفتوحة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+9.  🎉 العلاقات العامة المدمجة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
+10. 💪 فتح العلاقات العامة[#10066](https://github.com/offensive-vk/Classics/pull/10066)في[هجوم-vk/كلاسيكيات](https://github.com/offensive-vk/Classics)
 11. 🔒 قضية مغلقة[#8](https://github.com/offensive-vk/Temp/issues/8)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
 12. 🔒 قضية مغلقة[#7](https://github.com/offensive-vk/Temp/issues/7)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
 13. 🔒 قضية مغلقة[#6](https://github.com/offensive-vk/Temp/issues/6)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
