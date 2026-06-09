@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我们首先需要了解变化；没有人愿意或不需要每天 16 小时提醒他鞋子已经穿好了。”— David Hubel ❞</i>
+<i>❝“Perl：唯一在 RSA 加密前后看起来相同的语言。”— Keith Bostic ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,16 +147,16 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 已发表评论[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🔒 已关闭问题[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 已关闭问题[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 已关闭问题[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-5.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-6.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-7.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-8.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-9.  💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-10. 🔒 已关闭问题[#11](https://github.com/offensive-vk/Temp/issues/11)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  ❌ 封闭公关[#457](https://github.com/offensive-vk/UntilEverything/pull/457)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 已发表评论[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🔒 已关闭问题[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 已关闭问题[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 已关闭问题[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+6.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
+7.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+8.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
+9.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
+10. 💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
 11. 🔒 已关闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 已关闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 已关闭问题[#6](https://github.com/offensive-vk/Temp/issues/6)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
