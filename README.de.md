@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wir müssen vor allem über Veränderungen Bescheid wissen; niemand möchte oder muss 16 Stunden am Tag daran erinnert werden, dass seine Schuhe an sind.“ – David Hubel ❞</i>
+<i>❝„Perl: Die einzige Sprache, die vor und nach der RSA-Verschlüsselung gleich aussieht.“ – Keith Bostic ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,16 +147,16 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Kommentiert[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🔒 Geschlossenes Problem[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Geschlossenes Problem[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Geschlossenes Problem[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  ❌ Geschlossene PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-6.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
-7.  ❗Geöffnete Ausgabe[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
-8.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-9.  💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-10. 🔒 Geschlossenes Problem[#11](https://github.com/offensive-vk/Temp/issues/11)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  ❌ Geschlossene PR[#457](https://github.com/offensive-vk/UntilEverything/pull/457)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Kommentiert[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🔒 Geschlossenes Problem[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Geschlossenes Problem[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Geschlossenes Problem[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  ❌ Geschlossene PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
+7.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
+8.  ❗Geöffnete Ausgabe[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
+9.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
+10. 💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
