@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Necesitamos, sobre todo, estar al tanto de los cambios; nadie quiere ni necesita que le recuerden 16 horas al día que tiene los zapatos puestos.”— David Hubel ❞</i>
+<i>❝“Perl: el único lenguaje que tiene el mismo aspecto antes y después del cifrado RSA.”— Keith Bostic ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,16 +147,16 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentado en[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🔒 Número cerrado[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Número cerrado[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Número cerrado[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-5.  ❌ Relaciones públicas cerradas[#73](https://github.com/offensive-vk/develop-actions/pull/73)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
-6.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
-7.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
-8.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-9.  💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
-10. 🔒 Número cerrado[#11](https://github.com/offensive-vk/Temp/issues/11)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  ❌ Relaciones públicas cerradas[#457](https://github.com/offensive-vk/UntilEverything/pull/457)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Comentado en[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  🔒 Número cerrado[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Número cerrado[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Número cerrado[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+6.  ❌ Relaciones públicas cerradas[#73](https://github.com/offensive-vk/develop-actions/pull/73)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
+7.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+8.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
+9.  🎉 Relaciones públicas fusionadas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
+10. 💪 Relaciones públicas abiertas[#10066](https://github.com/offensive-vk/Classics/pull/10066)en[ofensivo-vk/Clásicos](https://github.com/offensive-vk/Classics)
 11. 🔒 Número cerrado[#8](https://github.com/offensive-vk/Temp/issues/8)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Número cerrado[#7](https://github.com/offensive-vk/Temp/issues/7)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Número cerrado[#6](https://github.com/offensive-vk/Temp/issues/6)en[ofensivo-vk/Temp](https://github.com/offensive-vk/Temp)
