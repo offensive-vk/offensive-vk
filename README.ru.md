@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь на моем сервере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чем.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
+🔭_Совершенство не является целью_.<br>🧑‍💻 Я люблю писать на компьютере`code`.<br>🤝 Мне нужна помощь на моем сервере.<br>✨Жить внутри`terminal`.<br>🌱 Сейчас я кое-что изучаю_противный_вещи.<br>💬 Спрашивайте меня ни о чём.<br>👌Я уважаю свое время.<br>⚡ Интересный факт: никакого веселья, только код.<br>💥 Продолжайте двигаться, и однажды вы преодолеете.<br>📧_Вы найдете способ_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Прежде всего, нам нужно знать об изменениях; никто не хочет и не нуждается в напоминании по 16 часов в день о том, что он носит обувь». — Дэвид Хьюбел ❞</i>
+<i>❝ «Perl: единственный язык, который выглядит одинаково до и после шифрования RSA». — Кейт Бостик ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,16 +147,16 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Прокомментировал[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🔒 Вопрос закрыт.[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Вопрос закрыт.[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Вопрос закрыт.[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-5.  ❌ Закрытый пиар[#73](https://github.com/offensive-vk/develop-actions/pull/73)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
-6.  ℹ️ Проблема с пометкой[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
-7.  ❗Открытый вопрос[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
-8.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-9.  💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-10. 🔒 Вопрос закрыт.[#11](https://github.com/offensive-vk/Temp/issues/11)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  ❌ Закрытый пиар[#457](https://github.com/offensive-vk/UntilEverything/pull/457)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Прокомментировал[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🔒 Вопрос закрыт.[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Вопрос закрыт.[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Вопрос закрыт.[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+6.  ❌ Закрытый пиар[#73](https://github.com/offensive-vk/develop-actions/pull/73)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
+7.  ℹ️ Проблема с пометкой[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
+8.  ❗Открытый вопрос[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
+9.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
+10. 💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
 11. 🔒 Вопрос закрыт.[#8](https://github.com/offensive-vk/Temp/issues/8)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
 12. 🔒 Вопрос закрыт.[#7](https://github.com/offensive-vk/Temp/issues/7)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Вопрос закрыт.[#6](https://github.com/offensive-vk/Temp/issues/6)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
