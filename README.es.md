@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Perl: el único lenguaje que tiene el mismo aspecto antes y después del cifrado RSA.”— Keith Bostic ❞</i>
+<i>❝Lenovo significa “nueva leyenda”. "Le" significa leyenda y "novo" significa nuevo.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
