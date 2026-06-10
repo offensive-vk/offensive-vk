@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Perl: Die einzige Sprache, die vor und nach der RSA-Verschlüsselung gleich aussieht.“ – Keith Bostic ❞</i>
+<i>❝Lenovo steht für „neue Legende“. „Le“ steht für Legende und „novo“ steht für neu.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
