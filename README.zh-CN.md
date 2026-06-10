@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Perl：唯一在 RSA 加密前后看起来相同的语言。”— Keith Bostic ❞</i>
+<i>❝联想代表“新传奇”。 “Le”代表传奇，“novo”代表新。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
