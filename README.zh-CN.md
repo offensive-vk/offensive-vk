@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝联想代表“新传奇”。 “Le”代表传奇，“novo”代表新。❞</i>
+<i>❝游戏电脑可以像小型取暖器一样有效地为房间供暖。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
