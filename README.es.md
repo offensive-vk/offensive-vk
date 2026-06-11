@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Lenovo significa “nueva leyenda”. "Le" significa leyenda y "novo" significa nuevo.❞</i>
+<i>❝Las computadoras para juegos calientan una habitación con la misma eficiencia que un calentador.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
