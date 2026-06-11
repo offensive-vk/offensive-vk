@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Lenovo steht für „neue Legende“. „Le“ steht für Legende und „novo“ steht für neu.❞</i>
+<i>❝Gaming-Computer heizen einen Raum genauso effizient wie eine Raumheizung.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
