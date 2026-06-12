@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝游戏电脑可以像小型取暖器一样有效地为房间供暖。❞</i>
+<i>❝“恶作剧利用人类行为的弱点来确保它们被复制和分发。换句话说，恶作剧以人类操作系统为食。”— Stewart Kirkpatrick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
