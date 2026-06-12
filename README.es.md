@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Las computadoras para juegos calientan una habitación con la misma eficiencia que un calentador.❞</i>
+<i>❝"Los engaños aprovechan las debilidades del comportamiento humano para garantizar su replicación y distribución. En otras palabras, los engaños se aprovechan del sistema operativo humano".— Stewart Kirkpatrick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
