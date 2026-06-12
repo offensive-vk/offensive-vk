@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Oyun bilgisayarları bir odayı, bir ısıtıcı kadar verimli bir şekilde ısıtır.❞</i>
+<i>❝"Aldatmacalar, kopyalanmalarını ve dağıtılmalarını sağlamak için insan davranışındaki zayıflıkları kullanır. Başka bir deyişle, sahtekarlıklar, İnsan İşletim Sistemini hedef alır."— Stewart Kirkpatrick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
