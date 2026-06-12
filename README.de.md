@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Gaming-Computer heizen einen Raum genauso effizient wie eine Raumheizung.❞</i>
+<i>❝„Hoaxes nutzen Schwächen im menschlichen Verhalten, um sicherzustellen, dass sie repliziert und verbreitet werden. Mit anderen Worten, Hoaxes machen sich das menschliche Betriebssystem zunutze.“ – Stewart Kirkpatrick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
