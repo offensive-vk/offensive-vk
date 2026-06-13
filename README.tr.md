@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Aldatmacalar, kopyalanmalarını ve dağıtılmalarını sağlamak için insan davranışındaki zayıflıkları kullanır. Başka bir deyişle, sahtekarlıklar, İnsan İşletim Sistemini hedef alır."— Stewart Kirkpatrick ❞</i>
+<i>❝Uzay Mekiği, bilgisayarları bir yıllık yenilemeyi kaldıramadığı için yılbaşı gününde veya arifesinde asla uçmadı.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
