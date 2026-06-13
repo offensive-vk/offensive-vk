@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Los engaños aprovechan las debilidades del comportamiento humano para garantizar su replicación y distribución. En otras palabras, los engaños se aprovechan del sistema operativo humano".— Stewart Kirkpatrick ❞</i>
+<i>❝El transbordador espacial nunca voló el día o la víspera de Año Nuevo porque sus computadoras no podían soportar un cambio de año.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
