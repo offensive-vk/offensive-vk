@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“恶作剧利用人类行为的弱点来确保它们被复制和分发。换句话说，恶作剧以人类操作系统为食。”— Stewart Kirkpatrick ❞</i>
+<i>❝航天飞机从未在元旦或除夕飞行，因为它的计算机无法处理一年的翻转。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
