@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Hoaxes nutzen Schwächen im menschlichen Verhalten, um sicherzustellen, dass sie repliziert und verbreitet werden. Mit anderen Worten, Hoaxes machen sich das menschliche Betriebssystem zunutze.“ – Stewart Kirkpatrick ❞</i>
+<i>❝Das Space Shuttle flog nie am Neujahrstag oder Silvesterabend, weil seine Computer einen Jahreswechsel nicht bewältigen konnten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
