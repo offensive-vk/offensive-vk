@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El transbordador espacial nunca voló el día o la víspera de Año Nuevo porque sus computadoras no podían soportar un cambio de año.❞</i>
+<i>❝“Cambiemos nuestra actitud tradicional hacia la construcción de programas: en lugar de imaginar que nuestra tarea principal es indicarle a una computadora qué hacer, concentrémonos en explicar a los seres humanos lo que queremos que haga una computadora.”—Donald E. Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
