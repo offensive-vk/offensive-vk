@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Uzay Mekiği, bilgisayarları bir yıllık yenilemeyi kaldıramadığı için yılbaşı gününde veya arifesinde asla uçmadı.❞</i>
+<i>❝“Program yapımına yönelik geleneksel tavrımızı değiştirelim: Asıl görevimizin bir bilgisayara ne yapacağını öğretmek olduğunu hayal etmek yerine, bir bilgisayarın ne yapmasını istediğimizi insanlara açıklamaya odaklanalım.”— Donald E. Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
