@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Das Space Shuttle flog nie am Neujahrstag oder Silvesterabend, weil seine Computer einen Jahreswechsel nicht bewältigen konnten.❞</i>
+<i>❝„Ändern wir unsere traditionelle Einstellung zur Konstruktion von Programmen: Anstatt uns vorzustellen, dass unsere Hauptaufgabe darin besteht, einem Computer anzuweisen, was er tun soll, konzentrieren wir uns lieber darauf, den Menschen zu erklären, was ein Computer tun soll.“ – Donald E. Knuth ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
