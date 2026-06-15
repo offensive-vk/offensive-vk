@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Cambiemos nuestra actitud tradicional hacia la construcción de programas: en lugar de imaginar que nuestra tarea principal es indicarle a una computadora qué hacer, concentrémonos en explicar a los seres humanos lo que queremos que haga una computadora.”—Donald E. Knuth ❞</i>
+<i>❝“En una sala llena de los mejores diseñadores de software, si dos están de acuerdo en lo mismo, eso es mayoría.”— Bill Curtis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
