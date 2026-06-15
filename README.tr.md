@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Program yapımına yönelik geleneksel tavrımızı değiştirelim: Asıl görevimizin bir bilgisayara ne yapacağını öğretmek olduğunu hayal etmek yerine, bir bilgisayarın ne yapmasını istediğimizi insanlara açıklamaya odaklanalım.”— Donald E. Knuth ❞</i>
+<i>❝"En iyi yazılım tasarımcılarıyla dolu bir odada, eğer iki kişi aynı konuda anlaşırsa, bu çoğunluk demektir." - Bill Curtis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -148,7 +148,7 @@
 <!--START_SECTION:activity-->
 
 1.  ❌ Kapalı PR[#457](https://github.com/offensive-vk/UntilEverything/pull/457)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣Yorumlandı[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Yorum yapıldı[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 3.  🔒 Kapalı konu[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 4.  🔒 Kapalı konu[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Kapalı konu[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
