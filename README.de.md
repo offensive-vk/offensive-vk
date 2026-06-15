@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ändern wir unsere traditionelle Einstellung zur Konstruktion von Programmen: Anstatt uns vorzustellen, dass unsere Hauptaufgabe darin besteht, einem Computer anzuweisen, was er tun soll, konzentrieren wir uns lieber darauf, den Menschen zu erklären, was ein Computer tun soll.“ – Donald E. Knuth ❞</i>
+<i>❝„Wenn in einem Raum voller Top-Softwaredesigner zwei einer Meinung sind, ist das eine Mehrheit.“ – Bill Curtis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
