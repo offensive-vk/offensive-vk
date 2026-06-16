@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在一个充满顶级软件设计师的房间里，如果两个人在同一件事上达成一致，那就是大多数。”- Bill Curtis ❞</i>
+<i>❝“低级编程对程序员的灵魂有好处。”——约翰·卡马克❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
