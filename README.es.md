@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En una sala llena de los mejores diseñadores de software, si dos están de acuerdo en lo mismo, eso es mayoría.”— Bill Curtis ❞</i>
+<i>❝“La programación de bajo nivel es buena para el alma del programador.”— John Carmack ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
