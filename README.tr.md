@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"En iyi yazılım tasarımcılarıyla dolu bir odada, eğer iki kişi aynı konuda anlaşırsa, bu çoğunluk demektir." - Bill Curtis ❞</i>
+<i>❝"Düşük seviyeli programlama programcının ruhuna iyi gelir."— John Carmack ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
