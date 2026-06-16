@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn in einem Raum voller Top-Softwaredesigner zwei einer Meinung sind, ist das eine Mehrheit.“ – Bill Curtis ❞</i>
+<i>❝„Low-Level-Programmierung ist gut für die Seele des Programmierers.“ – John Carmack ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
