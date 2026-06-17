@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La programación de bajo nivel es buena para el alma del programador.”— John Carmack ❞</i>
+<i>❝La mujer que alquiló su garaje a Larry Page y Sergey Brin en 1998 cuando estaban creando Google se convirtió más tarde en la directora ejecutiva de YouTube.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
