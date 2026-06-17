@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Low-Level-Programmierung ist gut für die Seele des Programmierers.“ – John Carmack ❞</i>
+<i>❝Die Frau, die 1998 ihre Garage an Larry Page und Sergey Brin vermietete, als diese Google gründeten, wurde später CEO von YouTube.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
