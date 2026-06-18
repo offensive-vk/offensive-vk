@@ -26,5 +26,4 @@
 25. ❗ Opened issue [#10008](https://github.com/nilbuild/developer-roadmap/issues/10008) in [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
 26. ✅ Approved on pull request [#446](https://github.com/offensive-vk/UntilEverything/pull/446) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 27. ✅ Approved on pull request [#449](https://github.com/offensive-vk/UntilEverything/pull/449) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-28. ✅ Approved on pull request [#428](https://github.com/offensive-vk/UntilEverything/pull/428) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
