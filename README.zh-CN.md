@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝1998 年拉里·佩奇 (Larry Page) 和谢尔盖·布林 (Sergey Brin) 创建 Google 时将车库租给他们的那位女士后来成为了 YouTube 的首席执行官。❞</i>
+<i>❝“真正的知识是知道自己无知的程度。”——孔子❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
