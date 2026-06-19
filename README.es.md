@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La mujer que alquiló su garaje a Larry Page y Sergey Brin en 1998 cuando estaban creando Google se convirtió más tarde en la directora ejecutiva de YouTube.❞</i>
+<i>❝“El verdadero conocimiento es conocer el alcance de la propia ignorancia.”—Confucio ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
