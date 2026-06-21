@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“El verdadero conocimiento es conocer el alcance de la propia ignorancia.”—Confucio ❞</i>
+<i>❝La computadora de su teléfono celular hoy en día es millones de veces más barata, miles de veces más potente y aproximadamente cien mil veces más pequeña que la computadora del MIT en 1965.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
