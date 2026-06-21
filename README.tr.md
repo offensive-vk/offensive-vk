@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Gerçek bilgi, kişinin cehaletinin boyutunu bilmektir." - Konfüçyüs ❞</i>
+<i>❝Bugün cep telefonunuzdaki bilgisayar, 1965'te MIT'deki tek bilgisayardan milyon kat daha ucuz, binlerce kat daha güçlü ve yaklaşık yüz binlerce kat daha küçük.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
