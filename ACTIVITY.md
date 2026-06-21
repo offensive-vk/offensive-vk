@@ -22,7 +22,4 @@
 21. ❌ Closed pull request [#73](https://github.com/offensive-vk/develop-actions/pull/73) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 22. 🔄 Changes Requested on pull request [#73](https://github.com/offensive-vk/develop-actions/pull/73) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 23. ✅ Approved on pull request [#72](https://github.com/offensive-vk/develop-actions/pull/72) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-24. Labeled issue [#10008](https://github.com/nilbuild/developer-roadmap/issues/10008) in [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-25. ❗ Opened issue [#10008](https://github.com/nilbuild/developer-roadmap/issues/10008) in [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-26. ✅ Approved on pull request [#446](https://github.com/offensive-vk/UntilEverything/pull/446) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
