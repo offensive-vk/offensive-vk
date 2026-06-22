@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La computadora de su teléfono celular hoy en día es millones de veces más barata, miles de veces más potente y aproximadamente cien mil veces más pequeña que la computadora del MIT en 1965.❞</i>
+<i>❝Cuando seas mayor, trabajes y uses una computadora todos los días, ¡tus manos habrán viajado 12,6 millas (unos 20 km) por día!❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
