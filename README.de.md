@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der Computer in Ihrem Mobiltelefon ist heute millionenfach billiger und tausendmal leistungsfähiger und etwa hunderttausendmal kleiner als der Computer am MIT im Jahr 1965.❞</i>
+<i>❝Wenn Sie erwachsen sind und arbeiten und jeden Tag einen Computer benutzen, hätten Ihre Hände 12,6 Meilen (ca. 20 km) pro Tag zurückgelegt!❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
