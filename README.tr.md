@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Büyüdüğünüzde ve çalıştığınızda ve her gün bilgisayar kullandığınızda, elleriniz günde 12,6 mil (yaklaşık 20 km) yol kat etmiş olacaktır!❞</i>
+<i>❝"En iyi yazılım tasarımcılarıyla dolu bir odada, eğer iki kişi aynı konuda anlaşırsa, bu çoğunluk demektir." - Bill Curtis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
