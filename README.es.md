@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Cuando seas mayor, trabajes y uses una computadora todos los días, ¡tus manos habrán viajado 12,6 millas (unos 20 km) por día!❞</i>
+<i>❝“En una sala llena de los mejores diseñadores de software, si dos están de acuerdo en lo mismo, eso es mayoría.”— Bill Curtis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
