@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Wenn Sie erwachsen sind und arbeiten und jeden Tag einen Computer benutzen, hätten Ihre Hände 12,6 Meilen (ca. 20 km) pro Tag zurückgelegt!❞</i>
+<i>❝„Wenn in einem Raum voller Top-Softwaredesigner zwei einer Meinung sind, ist das eine Mehrheit.“ – Bill Curtis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
