@@ -19,7 +19,4 @@
 18. 🔒 Closed issue [#31025](https://github.com/offensive-vk/offensive-vk/issues/31025) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 19. 🔒 Closed issue [#31028](https://github.com/offensive-vk/offensive-vk/issues/31028) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 20. ✅ Approved on pull request [#31027](https://github.com/offensive-vk/offensive-vk/pull/31027) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-21. ❌ Closed pull request [#73](https://github.com/offensive-vk/develop-actions/pull/73) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-22. 🔄 Changes Requested on pull request [#73](https://github.com/offensive-vk/develop-actions/pull/73) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-23. ✅ Approved on pull request [#72](https://github.com/offensive-vk/develop-actions/pull/72) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 <!--END_SECTION:activity-->
