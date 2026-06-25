@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"En iyi yazılım tasarımcılarıyla dolu bir odada, eğer iki kişi aynı konuda anlaşırsa, bu çoğunluk demektir." - Bill Curtis ❞</i>
+<i>❝Tandy TRS-80 Model I bilgisayarı o kadar çok parazit yaydı ki, birçok oyun bilgisayarın yanındaki AM radyonun ses sağlamak için kullanılabileceği şekilde tasarlandı.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
