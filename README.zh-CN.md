@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在一个充满顶级软件设计师的房间里，如果两个人在同一件事上达成一致，那就是大多数。”- Bill Curtis ❞</i>
+<i>❝Tandy TRS-80 Model I 计算机辐射出的干扰非常大，以至于许多游戏都设计为可以使用计算机旁边的 AM 收音机来提供声音。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
