@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En una sala llena de los mejores diseñadores de software, si dos están de acuerdo en lo mismo, eso es mayoría.”— Bill Curtis ❞</i>
+<i>❝La computadora Tandy TRS-80 Modelo I irradiaba tanta interferencia que muchos juegos se diseñaron para que se pudiera usar una radio AM al lado de la computadora para proporcionar sonidos.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
