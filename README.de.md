@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn in einem Raum voller Top-Softwaredesigner zwei einer Meinung sind, ist das eine Mehrheit.“ – Bill Curtis ❞</i>
+<i>❝Der Computer Tandy TRS-80 Modell I strahlte so viele Störungen aus, dass viele Spiele so konzipiert waren, dass ein AM-Radio neben dem Computer für die Tonwiedergabe verwendet werden konnte.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
