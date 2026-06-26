@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Tandy TRS-80 Model I 计算机辐射出的干扰非常大，以至于许多游戏都设计为可以使用计算机旁边的 AM 收音机来提供声音。❞</i>
+<i>❝嗯，有两款游戏是 1980 年在美国制作的第一款游戏，分别是《Asteroids》和《Lunar Lander》。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
