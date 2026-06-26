@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Tandy TRS-80 Model I bilgisayarı o kadar çok parazit yaydı ki, birçok oyun bilgisayarın yanındaki AM radyonun ses sağlamak için kullanılabileceği şekilde tasarlandı.❞</i>
+<i>❝Aslında ilk kez 1980'de Asteroids ve Lunar Lander adında ABD'de yapılan iki oyun var.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
