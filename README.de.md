@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der Computer Tandy TRS-80 Modell I strahlte so viele Störungen aus, dass viele Spiele so konzipiert waren, dass ein AM-Radio neben dem Computer für die Tonwiedergabe verwendet werden konnte.❞</i>
+<i>❝Nun, es gibt zwei Spiele, die 1980 die ersten in den USA waren: Asteroids und Lunar Lander.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
