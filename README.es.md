@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La computadora Tandy TRS-80 Modelo I irradiaba tanta interferencia que muchos juegos se diseñaron para que se pudiera usar una radio AM al lado de la computadora para proporcionar sonidos.❞</i>
+<i>❝Bueno, hay dos juegos que fueron los primeros creados en los EE. UU., llamados Asteroids y Lunar Lander en 1980.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
