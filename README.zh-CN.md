@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝嗯，有两款游戏是 1980 年在美国制作的第一款游戏，分别是《Asteroids》和《Lunar Lander》。❞</i>
+<i>❝MacBook 充电器内的微控制器的功能与原始 Macintosh 电脑一样强大。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
