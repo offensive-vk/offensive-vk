@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bueno, hay dos juegos que fueron los primeros creados en los EE. UU., llamados Asteroids y Lunar Lander en 1980.❞</i>
+<i>❝El microcontrolador dentro de un cargador de MacBook es casi tan poderoso como el de la computadora Macintosh original.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
