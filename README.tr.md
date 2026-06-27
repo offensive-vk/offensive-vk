@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Aslında ilk kez 1980'de Asteroids ve Lunar Lander adında ABD'de yapılan iki oyun var.❞</i>
+<i>❝MacBook şarj cihazının içindeki mikro denetleyici, orijinal Macintosh bilgisayar kadar güçlüdür.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
