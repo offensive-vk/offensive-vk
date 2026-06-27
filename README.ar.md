@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝حسنًا، هناك لعبتان تم إنتاجهما لأول مرة في الولايات المتحدة وهما Asteroids وLunar Lander في عام 1980.❞</i>
+<i>❝وحدة التحكم الدقيقة الموجودة داخل شاحن MacBook تتمتع بنفس قوة جهاز كمبيوتر Macintosh الأصلي.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
