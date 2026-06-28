@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝MacBook şarj cihazının içindeki mikro denetleyici, orijinal Macintosh bilgisayar kadar güçlüdür.❞</i>
+<i>❝HP, Microsoft ve Apple'ın çok ilginç bir ortak noktası var; hepsi bir garajda başladı.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
