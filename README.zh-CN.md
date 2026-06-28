@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝MacBook 充电器内的微控制器的功能与原始 Macintosh 电脑一样强大。❞</i>
+<i>❝惠普、微软和苹果有一个非常有趣的共同点——它们都是在车库里起步的。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
