@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝وحدة التحكم الدقيقة الموجودة داخل شاحن MacBook تتمتع بنفس قوة جهاز كمبيوتر Macintosh الأصلي.❞</i>
+<i>❝تشترك كل من HP وMicrosoft وApple في شيء واحد مثير للاهتمام للغاية - لقد بدأوا جميعًا في المرآب.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
