@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El microcontrolador dentro de un cargador de MacBook es casi tan poderoso como el de la computadora Macintosh original.❞</i>
+<i>❝HP, Microsoft y Apple tienen algo muy interesante en común: todos comenzaron en un garaje.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
