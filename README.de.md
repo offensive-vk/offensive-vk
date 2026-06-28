@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der Mikrocontroller in einem MacBook-Ladegerät ist ungefähr so ​​leistungsstark wie der ursprüngliche Macintosh-Computer.❞</i>
+<i>❝HP, Microsoft und Apple haben eine sehr interessante Gemeinsamkeit – sie wurden alle in einer Garage gegründet.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
