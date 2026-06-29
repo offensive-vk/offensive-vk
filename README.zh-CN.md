@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝惠普、微软和苹果有一个非常有趣的共同点——它们都是在车库里起步的。❞</i>
+<i>❝“不要记录问题，而是解决它。”— Atli Björgvin Oddsson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
