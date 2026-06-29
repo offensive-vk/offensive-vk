@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝HP, Microsoft und Apple haben eine sehr interessante Gemeinsamkeit – sie wurden alle in einer Garage gegründet.❞</i>
+<i>❝„Dokumentieren Sie das Problem nicht, sondern beheben Sie es.“ – Atli Björgvin Oddsson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
