@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝HP, Microsoft y Apple tienen algo muy interesante en común: todos comenzaron en un garaje.❞</i>
+<i>❝"No documentes el problema, solucionalo."— Atli Björgvin Oddsson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
