@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝HP, Microsoft ve Apple'ın çok ilginç bir ortak noktası var; hepsi bir garajda başladı.❞</i>
+<i>❝"Sorunu belgelemeyin, düzeltin."— Atli Björgvin Oddsson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
