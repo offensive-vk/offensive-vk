@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Dokumentieren Sie das Problem nicht, sondern beheben Sie es.“ – Atli Björgvin Oddsson ❞</i>
+<i>❝„Wenn Sie glauben, dass Technologie Ihre Sicherheitsprobleme lösen kann, dann verstehen Sie die Probleme und die Technologie nicht.“ – Bruce Schneier ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
