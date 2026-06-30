@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Sorunu belgelemeyin, düzeltin."— Atli Björgvin Oddsson ❞</i>
+<i>❝“Teknolojinin güvenlik sorunlarınızı çözebileceğini düşünüyorsanız, sorunları anlamıyorsunuz ve teknolojiyi anlamıyorsunuz demektir.”— Bruce Schneier ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
