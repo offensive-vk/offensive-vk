@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“不要记录问题，而是解决它。”— Atli Björgvin Oddsson ❞</i>
+<i>❝“如果你认为技术可以解决你的安全问题，那么你就不了解问题，也不了​​解技术。”— Bruce Schneier ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
