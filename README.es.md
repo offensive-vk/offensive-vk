@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"No documentes el problema, solucionalo."— Atli Björgvin Oddsson ❞</i>
+<i>❝“Si cree que la tecnología puede resolver sus problemas de seguridad, entonces no comprende los problemas y no comprende la tecnología.”—Bruce Schneier ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
