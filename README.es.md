@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Si cree que la tecnología puede resolver sus problemas de seguridad, entonces no comprende los problemas y no comprende la tecnología.”—Bruce Schneier ❞</i>
+<i>❝"Está bien descifrar misterios de asesinatos, pero no debería ser necesario descifrar el código. Deberías poder leerlo".— Steve McConnell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
