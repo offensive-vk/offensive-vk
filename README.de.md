@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn Sie glauben, dass Technologie Ihre Sicherheitsprobleme lösen kann, dann verstehen Sie die Probleme und die Technologie nicht.“ – Bruce Schneier ❞</i>
+<i>❝„Es ist in Ordnung, Krimis herauszufinden, aber Sie sollten keinen Code herausfinden müssen. Sie sollten ihn lesen können.“ – Steve McConnell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
