@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果你认为技术可以解决你的安全问题，那么你就不了解问题，也不了​​解技术。”— Bruce Schneier ❞</i>
+<i>❝“弄清楚谋杀之谜是可以的，但你不需要弄清楚代码。你应该能够阅读它。”- Steve McConnell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
