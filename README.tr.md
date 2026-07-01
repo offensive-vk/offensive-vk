@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Teknolojinin güvenlik sorunlarınızı çözebileceğini düşünüyorsanız, sorunları anlamıyorsunuz ve teknolojiyi anlamıyorsunuz demektir.”— Bruce Schneier ❞</i>
+<i>❝"Gizemli cinayetleri çözmek sorun değil ama şifreyi çözmenize gerek yok. Onu okuyabilmelisiniz."— Steve McConnell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
