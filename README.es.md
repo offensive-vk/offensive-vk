@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Está bien descifrar misterios de asesinatos, pero no debería ser necesario descifrar el código. Deberías poder leerlo".— Steve McConnell ❞</i>
+<i>❝Las computadoras para juegos calientan una habitación con la misma eficiencia que un calentador.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
