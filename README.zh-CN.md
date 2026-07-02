@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“弄清楚谋杀之谜是可以的，但你不需要弄清楚代码。你应该能够阅读它。”- Steve McConnell ❞</i>
+<i>❝游戏电脑可以像小型取暖器一样有效地为房间供暖。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
