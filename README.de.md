@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Es ist in Ordnung, Krimis herauszufinden, aber Sie sollten keinen Code herausfinden müssen. Sie sollten ihn lesen können.“ – Steve McConnell ❞</i>
+<i>❝Gaming-Computer heizen einen Raum genauso effizient wie eine Raumheizung.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
