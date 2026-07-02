@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Gizemli cinayetleri çözmek sorun değil ama şifreyi çözmenize gerek yok. Onu okuyabilmelisiniz."— Steve McConnell ❞</i>
+<i>❝Oyun bilgisayarları bir odayı, bir ısıtıcı kadar verimli bir şekilde ısıtır.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
