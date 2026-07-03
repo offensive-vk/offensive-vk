@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Oyun bilgisayarları bir odayı, bir ısıtıcı kadar verimli bir şekilde ısıtır.❞</i>
+<i>❝Klavyede ‘Q’ ‘W’ ‘E’ ‘R’ ‘T’ ‘Y’ tipi tuşlar bulunması: Klavye icat edildiğinde alfabetik sıraya göre tuşlar vardı, bunun sonucunda yazma hızı çok yüksekti ve bilgisayar takılıp kalıyordu. Böylece insanın hızını azaltmak için qwerty klavye icat edildi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
