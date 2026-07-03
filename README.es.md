@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Las computadoras para juegos calientan una habitación con la misma eficiencia que un calentador.❞</i>
+<i>❝El hecho de que el teclado tenga tipos de botones 'Q' 'W' 'E' 'R' 'T' 'Y': cuando se inventó el teclado, tenía botones en orden alfabético, como resultado, la velocidad de escritura era demasiado rápida y la computadora solía colgarse. Entonces, para reducir la velocidad de una persona, se inventó el teclado qwerty.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
