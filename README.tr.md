@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Klavyede ‘Q’ ‘W’ ‘E’ ‘R’ ‘T’ ‘Y’ tipi tuşlar bulunması: Klavye icat edildiğinde alfabetik sıraya göre tuşlar vardı, bunun sonucunda yazma hızı çok yüksekti ve bilgisayar takılıp kalıyordu. Böylece insanın hızını azaltmak için qwerty klavye icat edildi.❞</i>
+<i>❝"Çoğunlukla, programcıları gördüğünüzde, hiçbir şey yapmıyorlar. Programcıların çekici yanlarından biri de, sadece onlara bakarak çalışıp çalışmadıklarını anlayamamanızdır. Çoğunlukla orada oturup kahve içiyor ve dedikodu yapıyor gibi görünüyorlar ya da sadece boşluğa bakıyorlar. Programcının yapmaya çalıştığı şey, kafasında dolaşan tüm bireysel ve ilgisiz fikirlerin üstesinden gelmektir."— Charles M. Strauss ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
