@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El hecho de que el teclado tenga tipos de botones 'Q' 'W' 'E' 'R' 'T' 'Y': cuando se inventó el teclado, tenía botones en orden alfabético, como resultado, la velocidad de escritura era demasiado rápida y la computadora solía colgarse. Entonces, para reducir la velocidad de una persona, se inventó el teclado qwerty.❞</i>
+<i>❝"La mayoría de las veces, cuando ves a los programadores, no están haciendo nada. Una de las cosas atractivas de los programadores es que no puedes saber si están trabajando o no simplemente mirándolos. Muy a menudo están sentados, aparentemente tomando café y chismorreando, o simplemente mirando al vacío. Lo que el programador está tratando de hacer es controlar todas las ideas individuales y no relacionadas que corretean por su cabeza".—Charles M. Strauss ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
