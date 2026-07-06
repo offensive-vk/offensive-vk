@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"La mayoría de las veces, cuando ves a los programadores, no están haciendo nada. Una de las cosas atractivas de los programadores es que no puedes saber si están trabajando o no simplemente mirándolos. Muy a menudo están sentados, aparentemente tomando café y chismorreando, o simplemente mirando al vacío. Lo que el programador está tratando de hacer es controlar todas las ideas individuales y no relacionadas que corren por su cabeza".—Charles M. Strauss ❞</i>
+<i>❝Doug Engelbart inventó el primer ratón de ordenador alrededor de 1964, que estaba hecho de madera.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Relaciones públicas cerradas[#457](https://github.com/offensive-vk/UntilEverything/pull/457)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Comentado en[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 Número cerrado[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 Comentado en[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ Relaciones públicas cerradas[#457](https://github.com/offensive-vk/UntilEverything/pull/457)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Comentado en[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 4.  🔒 Número cerrado[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Número cerrado[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ Relaciones públicas cerradas[#73](https://github.com/offensive-vk/develop-actions/pull/73)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
