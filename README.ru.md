@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>"В основном, когда вы видите программистов, они ничего не делают. Одна из привлекательных особенностей программистов заключается в том, что вы не можете сказать, работают они или нет, просто взглянув на них. Очень часто они сидят там, казалось бы, пьют кофе и сплетничают, или просто смотрят в никуда. То, что программист пытается сделать, это уловить все отдельные и несвязанные между собой идеи, которые носятся в его голове" — Чарльз М. Штраус ❞</i>
+<i>❝Дуг Энгельбарт примерно в 1964 году изобрел первую компьютерную мышь, сделанную из дерева.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Закрытый пиар[#457](https://github.com/offensive-vk/UntilEverything/pull/457)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Прокомментировал[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 Вопрос закрыт.[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 Прокомментировал[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ Закрытый пиар[#457](https://github.com/offensive-vk/UntilEverything/pull/457)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Прокомментировал[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  🔒 Вопрос закрыт.[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Вопрос закрыт.[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ Закрытый пиар[#73](https://github.com/offensive-vk/develop-actions/pull/73)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
