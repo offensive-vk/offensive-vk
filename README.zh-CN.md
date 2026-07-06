@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“大多数情况下，当你看到程序员时，他们并没有在做任何事情。程序员的一大吸引力在于，你无法仅仅通过观察来判断他们是否在工作。很多时候，他们坐在那里，似乎是在喝咖啡、闲聊，或者只是凝视着太空。程序员想要做的就是掌握在他脑海中闪现的所有单独的、不相关的想法。”—— Ch​​arles M. Strauss ❞</i>
+<i>❝Doug Engelbart 在 1964 年左右发明了第一个电脑鼠标，它是用木头制成的。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ 封闭公关[#457](https://github.com/offensive-vk/UntilEverything/pull/457)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 已发表评论[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 已关闭问题[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 已发表评论[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ 封闭公关[#457](https://github.com/offensive-vk/UntilEverything/pull/457)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 已发表评论[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  🔒 已关闭问题[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 已关闭问题[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
