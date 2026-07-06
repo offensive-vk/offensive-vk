@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Çoğunlukla, programcıları gördüğünüzde, hiçbir şey yapmıyorlar. Programcıların çekici yanlarından biri de, sadece onlara bakarak çalışıp çalışmadıklarını anlayamamanızdır. Çoğunlukla orada oturup kahve içiyor ve dedikodu yapıyor gibi görünüyorlar ya da sadece boşluğa bakıyorlar. Programcının yapmaya çalıştığı şey, kafasında dolaşan tüm bireysel ve ilgisiz fikirlerin üstesinden gelmektir."— Charles M. Strauss ❞</i>
+<i>❝Doug Engelbart 1964 civarında ahşaptan yapılmış ilk bilgisayar faresini icat etti.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Kapalı PR[#457](https://github.com/offensive-vk/UntilEverything/pull/457)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣Yorumlandı[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 Kapalı konu[#31026](https://github.com/offensive-vk/offensive-vk/issues/31026)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣Yorumlandı[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+2.  ❌ Kapalı PR[#457](https://github.com/offensive-vk/UntilEverything/pull/457)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣Yorumlandı[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  🔒 Kapalı konu[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Kapalı konu[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ Kapalı PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)içinde[saldırgan-vk/geliştirme-eylemleri](https://github.com/offensive-vk/develop-actions)
