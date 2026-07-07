@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝اخترع دوغ إنجلبارت أول فأرة كمبيوتر في عام 1964 تقريبًا وكانت مصنوعة من الخشب.❞</i>
+<i>❝"إن التعليق على الكود الخاص بك يشبه تنظيف حمامك - فأنت لا ترغب أبدًا في القيام بذلك، ولكنه في الواقع يخلق تجربة أكثر متعة لك ولضيوفك." - رايان كامبل ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 تم التعليق عليه[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  ❌ علاقات عامة مغلقة[#457](https://github.com/offensive-vk/UntilEverything/pull/457)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 تم التعليق عليه[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 قضية مغلقة[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ علاقات عامة مغلقة[#461](https://github.com/offensive-vk/UntilEverything/pull/461)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 تم التعليق عليه[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ علاقات عامة مغلقة[#457](https://github.com/offensive-vk/UntilEverything/pull/457)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 5.  🔒 قضية مغلقة[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ علاقات عامة مغلقة[#73](https://github.com/offensive-vk/develop-actions/pull/73)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
 7.  ℹ️ مشكلة مسماة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
