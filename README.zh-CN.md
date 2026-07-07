@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Doug Engelbart 在 1964 年左右发明了第一个电脑鼠标，它是用木头制成的。❞</i>
+<i>❝“注释你的代码就像打扫你的浴室——你永远不想这样做，但它确实为你和你的客人创造了更愉快的体验。”——Ryan Campbell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 已发表评论[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-2.  ❌ 封闭公关[#457](https://github.com/offensive-vk/UntilEverything/pull/457)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 已发表评论[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 已关闭问题[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ 封闭公关[#461](https://github.com/offensive-vk/UntilEverything/pull/461)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 已发表评论[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 已发表评论[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ 封闭公关[#457](https://github.com/offensive-vk/UntilEverything/pull/457)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🔒 已关闭问题[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
 7.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
