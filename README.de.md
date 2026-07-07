@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Doug Engelbart erfand etwa 1964 die erste Computermaus, die aus Holz bestand.❞</i>
+<i>❝„Das Kommentieren Ihres Codes ist wie das Reinigen Ihres Badezimmers – Sie möchten es nie tun, aber es sorgt tatsächlich für ein angenehmeres Erlebnis für Sie und Ihre Gäste.“ – Ryan Campbell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,10 +147,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Kommentiert[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-2.  ❌ Geschlossene PR[#457](https://github.com/offensive-vk/UntilEverything/pull/457)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 Kommentiert[#451](https://github.com/offensive-vk/UntilEverything/pull/451#issuecomment-4629378051)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 Geschlossenes Problem[#31025](https://github.com/offensive-vk/offensive-vk/issues/31025)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Geschlossene PR[#461](https://github.com/offensive-vk/UntilEverything/pull/461)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Kommentiert[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Kommentiert[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  ❌ Geschlossene PR[#457](https://github.com/offensive-vk/UntilEverything/pull/457)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🔒 Geschlossenes Problem[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ Geschlossene PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 7.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
