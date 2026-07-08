@@ -12,5 +12,4 @@
 11. ✅ Approved on pull request [#12](https://github.com/offensive-vk/auto-pr-action/pull/12) in [offensive-vk/auto-pr-action](https://github.com/offensive-vk/auto-pr-action)
 12. ✅ Approved on pull request [#14](https://github.com/offensive-vk/auto-user-activity/pull/14) in [offensive-vk/auto-user-activity](https://github.com/offensive-vk/auto-user-activity)
 13. ✅ Approved on pull request [#48](https://github.com/offensive-vk/auto-label/pull/48) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-14. ❌ Closed pull request [#457](https://github.com/offensive-vk/UntilEverything/pull/457) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
