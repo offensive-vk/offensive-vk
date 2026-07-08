@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Comentar tu código es como limpiar tu baño: nunca querrás hacerlo, pero realmente crea una experiencia más placentera para ti y tus invitados”.—Ryan Campbell ❞</i>
+<i>❝En 2005, Sony instaló ilegalmente rootkits en 22 millones de computadoras para evitar que los usuarios copiaran música protegida por derechos de autor, y no se pudieron desinstalar. También informó a Sony sobre los hábitos de escucha de los usuarios. Irónicamente, el código en sí contenía software de código abierto y, por lo tanto, infringía los derechos de autor.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
