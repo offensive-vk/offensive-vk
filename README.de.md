@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Das Kommentieren Ihres Codes ist wie das Reinigen Ihres Badezimmers – Sie möchten es nie tun, aber es sorgt tatsächlich für ein angenehmeres Erlebnis für Sie und Ihre Gäste.“ – Ryan Campbell ❞</i>
+<i>❝Im Jahr 2005 installierte Sony illegal Rootkits auf 22 Millionen Computern, um Benutzer daran zu hindern, urheberrechtlich geschützte Musik zu rippen. Diese Rootkits konnten nicht deinstalliert werden. Außerdem wurden die Hörgewohnheiten der Benutzer an Sony gemeldet. Ironischerweise enthielt der Code selbst Open-Source-Software und verstieß somit gegen das Urheberrecht.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
