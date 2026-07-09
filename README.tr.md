@@ -149,7 +149,7 @@
 
 1.  ❌ Kapalı PR[#461](https://github.com/offensive-vk/UntilEverything/pull/461)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 2.  🗣 Yorum yapıldı[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣Yorumlandı[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🗣 Yorum yapıldı[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ Kapalı PR[#457](https://github.com/offensive-vk/UntilEverything/pull/457)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🔒 Kapalı konu[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ Kapalı PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)içinde[saldırgan-vk/geliştirme-eylemleri](https://github.com/offensive-vk/develop-actions)
