@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝2005 yılında Sony, kullanıcıların telif hakkıyla korunan müzikleri kopyalamasını önlemek için 22 milyon bilgisayara yasa dışı olarak rootkit yükledi ve kaldırılamadı. Ayrıca kullanıcının dinleme alışkanlıklarını da Sony'ye bildirdi. İronik bir şekilde, kodun kendisi açık kaynaklı yazılım içeriyordu ve dolayısıyla telif hakkını ihlal ediyordu.❞</i>
+<i>❝"Arabalara telgraf çekebilmenin seni bir otomotiv mühendisi yapmadığı gibi, güvenliği kırabilmek de seni bir hacker yapmaz." - Eric Raymond ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -148,8 +148,8 @@
 <!--START_SECTION:activity-->
 
 1.  ❌ Kapalı PR[#461](https://github.com/offensive-vk/UntilEverything/pull/461)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Yorum yapıldı[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 Yorum yapıldı[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🗣Yorumlandı[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣Yorumlandı[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 4.  ❌ Kapalı PR[#457](https://github.com/offensive-vk/UntilEverything/pull/457)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 5.  🔒 Kapalı konu[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ Kapalı PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)içinde[saldırgan-vk/geliştirme-eylemleri](https://github.com/offensive-vk/develop-actions)
