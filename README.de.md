@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Im Jahr 2005 installierte Sony illegal Rootkits auf 22 Millionen Computern, um Benutzer daran zu hindern, urheberrechtlich geschützte Musik zu rippen. Diese Rootkits konnten nicht deinstalliert werden. Außerdem wurden die Hörgewohnheiten der Benutzer an Sony gemeldet. Ironischerweise enthielt der Code selbst Open-Source-Software und verstieß somit gegen das Urheberrecht.❞</i>
+<i>❝„Die Fähigkeit, Sicherheitsvorkehrungen zu durchbrechen, macht Sie nicht mehr zu einem Hacker, als die Fähigkeit, Autos kurzzuschließen, Sie zu einem Automobilingenieur macht.“ – Eric Raymond ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
