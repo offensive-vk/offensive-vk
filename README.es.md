@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Poder violar la seguridad no te convierte en un hacker, como tampoco ser capaz de conectar automóviles te convierte en un ingeniero automotriz.”—Eric Raymond ❞</i>
+<i>❝“Unas buenas especificaciones siempre mejorarán la productividad del programador mucho mejor que cualquier herramienta o técnica de programación.”— Milt Bryce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
