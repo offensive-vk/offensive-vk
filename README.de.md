@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Die Fähigkeit, Sicherheitsvorkehrungen zu durchbrechen, macht Sie nicht mehr zu einem Hacker, als die Fähigkeit, Autos kurzzuschließen, Sie zu einem Automobilingenieur macht.“ – Eric Raymond ❞</i>
+<i>❝„Gute Spezifikationen verbessern die Produktivität von Programmierern immer weitaus besser als jedes andere Programmierwerkzeug oder jede Programmiertechnik.“ – Milt Bryce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
