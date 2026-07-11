@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Arabalara telgraf çekebilmenin seni bir otomotiv mühendisi yapmadığı gibi, güvenliği kırabilmek de seni bir hacker yapmaz." - Eric Raymond ❞</i>
+<i>❝"İyi spesifikasyonlar her zaman programcının üretkenliğini herhangi bir programlama aracı veya tekniğinden çok daha iyi şekilde artıracaktır."— Milt Bryce ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
