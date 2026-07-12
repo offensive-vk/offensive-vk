@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Kapalı PR[#461](https://github.com/offensive-vk/UntilEverything/pull/461)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣Yorumlandı[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣Yorumlandı[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
-4.  ❌ Kapalı PR[#457](https://github.com/offensive-vk/UntilEverything/pull/457)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🔒 Kapalı konu[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣Yorumlandı[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣Yorumlandı[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  ❌ Kapalı PR[#461](https://github.com/offensive-vk/UntilEverything/pull/461)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🗣Yorumlandı[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🗣Yorumlandı[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ Kapalı PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)içinde[saldırgan-vk/geliştirme-eylemleri](https://github.com/offensive-vk/develop-actions)
 7.  ℹ️ Etiketli sorun[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)içinde[nilbuild/geliştirici-yol haritası](https://github.com/nilbuild/developer-roadmap)
 8.  ❗ Açılan konu[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)içinde[nilbuild/geliştirici-yol haritası](https://github.com/nilbuild/developer-roadmap)
