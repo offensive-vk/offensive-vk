@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ علاقات عامة مغلقة[#461](https://github.com/offensive-vk/UntilEverything/pull/461)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 تم التعليق عليه[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 تم التعليق عليه[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-4.  ❌ علاقات عامة مغلقة[#457](https://github.com/offensive-vk/UntilEverything/pull/457)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-5.  🔒 قضية مغلقة[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 تم التعليق عليه[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  ❌ علاقات عامة مغلقة[#461](https://github.com/offensive-vk/UntilEverything/pull/461)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 تم التعليق عليه[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+5.  🗣 تم التعليق عليه[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ علاقات عامة مغلقة[#73](https://github.com/offensive-vk/develop-actions/pull/73)في[الهجوم-vk/تطوير الإجراءات](https://github.com/offensive-vk/develop-actions)
 7.  ℹ️ مشكلة مسماة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
 8.  ❗ قضية مفتوحة[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)في[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
