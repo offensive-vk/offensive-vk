@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Relaciones públicas cerradas[#461](https://github.com/offensive-vk/UntilEverything/pull/461)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Comentado en[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 Comentado en[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-4.  ❌ Relaciones públicas cerradas[#457](https://github.com/offensive-vk/UntilEverything/pull/457)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-5.  🔒 Número cerrado[#31028](https://github.com/offensive-vk/offensive-vk/issues/31028)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  🗣 Comentado en[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Comentado en[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  ❌ Relaciones públicas cerradas[#461](https://github.com/offensive-vk/UntilEverything/pull/461)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 Comentado en[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+5.  🗣 Comentado en[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 6.  ❌ Relaciones públicas cerradas[#73](https://github.com/offensive-vk/develop-actions/pull/73)en[ofensiva-vk/desarrollar-acciones](https://github.com/offensive-vk/develop-actions)
 7.  ℹ️ Problema etiquetado[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
 8.  ❗ Problema abierto[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)en[nilbuild/hoja de ruta del desarrollador](https://github.com/nilbuild/developer-roadmap)
