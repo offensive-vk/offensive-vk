@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Unas buenas especificaciones siempre mejorarán la productividad del programador mucho mejor que cualquier herramienta o técnica de programación.”— Milt Bryce ❞</i>
+<i>❝Alrededor del 50% de todo el vandalismo en Wikipedia se detecta mediante un único programa informático con más del 90% de precisión.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
