@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"İyi spesifikasyonlar her zaman programcının üretkenliğini herhangi bir programlama aracı veya tekniğinden çok daha iyi şekilde artıracaktır."— Milt Bryce ❞</i>
+<i>❝Tüm Vikipedi vandallığının yaklaşık %50'si, %90'ın üzerinde doğruluk oranıyla tek bir bilgisayar programı tarafından yakalanıyor.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
