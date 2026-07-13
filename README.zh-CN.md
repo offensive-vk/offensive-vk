@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“良好的规范总是会比任何编程工具或技术更好地提高程序员的生产力。”— Milt Bryce ❞</i>
+<i>❝大约 50% 的维基百科破坏行为是由单个计算机程序捕获的，准确率超过 90%。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
