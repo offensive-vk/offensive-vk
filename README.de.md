@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Gute Spezifikationen verbessern die Produktivität von Programmierern immer weitaus besser als jedes andere Programmierwerkzeug oder jede Programmiertechnik.“ – Milt Bryce ❞</i>
+<i>❝Rund 50 % aller Wikipedia-Vandalismus wird von einem einzigen Computerprogramm mit einer Genauigkeit von über 90 % erkannt.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
