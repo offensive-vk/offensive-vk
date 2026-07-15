@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Alrededor del 50% de todo el vandalismo en Wikipedia se detecta mediante un único programa informático con más del 90% de precisión.❞</i>
+<i>❝“En una economía de la información, los activos más valiosos de una empresa regresan a casa todas las noches. Si no se los trata bien, no regresan a la mañana siguiente.”— Peter Chang ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
