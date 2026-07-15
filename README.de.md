@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Rund 50 % aller Wikipedia-Vandalismus wird von einem einzigen Computerprogramm mit einer Genauigkeit von über 90 % erkannt.❞</i>
+<i>❝„In einer Informationswirtschaft fahren die wertvollsten Unternehmenswerte jede Nacht nach Hause. Wenn sie nicht gut behandelt werden, kehren sie am nächsten Morgen nicht zurück.“ – Peter Chang ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
