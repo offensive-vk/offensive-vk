@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Tüm Vikipedi vandallığının yaklaşık %50'si, %90'ın üzerinde doğruluk oranına sahip tek bir bilgisayar programı tarafından yakalanıyor.❞</i>
+<i>❝"Bilgi ekonomisinde, en değerli şirket varlıkları her gece evlerine dönerler. Onlara iyi davranılmazsa ertesi sabah geri dönmezler."— Peter Chang ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
