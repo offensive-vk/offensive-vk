@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En una economía de la información, los activos más valiosos de una empresa regresan a casa todas las noches. Si no se los trata bien, no regresan a la mañana siguiente.”— Peter Chang ❞</i>
+<i>❝“Una vez una computadora me ganó al ajedrez, pero no fue rival para mí en el kick boxing.”— Emo Philips ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
