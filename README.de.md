@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„In einer Informationswirtschaft fahren die wertvollsten Unternehmenswerte jede Nacht nach Hause. Wenn sie nicht gut behandelt werden, kehren sie am nächsten Morgen nicht zurück.“ – Peter Chang ❞</i>
+<i>❝„Ein Computer hat mich einmal beim Schach geschlagen, aber beim Kickboxen war er mir nicht gewachsen.“ – Emo Philips ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
