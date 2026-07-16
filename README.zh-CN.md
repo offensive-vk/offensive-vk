@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“在信息经济中，最有价值的公司资产每天晚上都会开车回家。如果他们没有得到很好的对待，他们第二天早上就不会回来。”—— Peter Chang ❞</i>
+<i>❝“计算机曾经在国际象棋中击败了我，但在拳击比赛中却敌不过我。”——Emo Philips ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
