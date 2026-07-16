@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Bilgi ekonomisinde, en değerli şirket varlıkları her gece evlerine dönerler. Onlara iyi davranılmazsa ertesi sabah geri dönmezler."— Peter Chang ❞</i>
+<i>❝"Bir bilgisayar beni satrançta yenmişti ama kick boksta bana rakip olamazdı."— Emo Philips ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
