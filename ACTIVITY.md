@@ -19,5 +19,4 @@
 18. ✅ Approved on pull request [#10069](https://github.com/offensive-vk/Classics/pull/10069) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 19. ✅ Approved on pull request [#75](https://github.com/offensive-vk/develop-actions/pull/75) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 20. ✅ Approved on pull request [#49](https://github.com/offensive-vk/auto-label/pull/49) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-21. ✅ Approved on pull request [#74](https://github.com/offensive-vk/develop-actions/pull/74) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 <!--END_SECTION:activity-->
