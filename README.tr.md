@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Bir bilgisayar beni satrançta yenmişti ama kick boksta bana rakip olamazdı."— Emo Philips ❞</i>
+<i>❝"Bundan iki yıl sonra spam çözülecek."— Bill Gates, 2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
