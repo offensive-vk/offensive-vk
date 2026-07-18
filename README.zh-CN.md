@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“计算机曾经在国际象棋中击败了我，但在拳击比赛中却敌不过我。”——Emo Philips ❞</i>
+<i>❝“两年后，垃圾邮件将得到解决。”——比尔盖茨，2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
