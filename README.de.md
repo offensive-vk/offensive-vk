@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ein Computer hat mich einmal beim Schach geschlagen, aber beim Kickboxen war er mir nicht gewachsen.“ – Emo Philips ❞</i>
+<i>❝„In zwei Jahren wird Spam beseitigt sein.“ – Bill Gates, 2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
