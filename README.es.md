@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Una vez una computadora me ganó al ajedrez, pero no fue rival para mí en el kick boxing.”— Emo Philips ❞</i>
+<i>❝“Dentro de dos años, el spam estará resuelto.”— Bill Gates, 2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
