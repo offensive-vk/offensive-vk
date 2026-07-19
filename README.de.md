@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„In zwei Jahren wird Spam beseitigt sein.“ – Bill Gates, 2004 ❞</i>
+<i>❝Windows erlaubt nicht die Erstellung von Ordnern mit den Tags CON, PRN, AUX oder NUL. Dies sind Schlüsselwörter, die DOS vorbehalten sind.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
