@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Dentro de dos años, el spam estará resuelto.”— Bill Gates, 2004 ❞</i>
+<i>❝Windows no permite la creación de carpetas etiquetadas CON, PRN, AUX o NUL. Estas son palabras clave reservadas por DOS.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
