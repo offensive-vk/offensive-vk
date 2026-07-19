@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Bundan iki yıl sonra spam çözülecek."— Bill Gates, 2004 ❞</i>
+<i>❝Windows, CON, PRN, AUX veya NUL etiketli klasörlerin oluşturulmasına izin vermez. Bunlar DOS tarafından ayrılmış anahtar kelimelerdir.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
