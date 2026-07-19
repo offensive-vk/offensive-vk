@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“两年后，垃圾邮件将得到解决。”——比尔盖茨，2004 ❞</i>
+<i>❝Windows 不允许创建标记为 CON、PRN、AUX 或 NUL 的文件夹。这些是 DOS 保留的关键字。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
