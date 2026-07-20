@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows no permite la creación de carpetas etiquetadas CON, PRN, AUX o NUL. Estas son palabras clave reservadas por DOS.❞</i>
+<i>❝Cuando las computadoras funcionan, se calientan. Las computadoras tienen ventiladores para mantenerlas frescas.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
