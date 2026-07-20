@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows erlaubt nicht die Erstellung von Ordnern mit den Tags CON, PRN, AUX oder NUL. Dies sind Schlüsselwörter, die DOS vorbehalten sind.❞</i>
+<i>❝Wenn Computer laufen, werden sie heiß. Computer haben Ventilatoren, die sie kühl halten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
