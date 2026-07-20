@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows, CON, PRN, AUX veya NUL etiketli klasörlerin oluşturulmasına izin vermez. Bunlar DOS tarafından ayrılmış anahtar kelimelerdir.❞</i>
+<i>❝Bilgisayarlar çalıştıkça ısınırlar. Bilgisayarlarda onları serin tutacak fanlar bulunur.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
