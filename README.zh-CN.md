@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 不允许创建标记为 CON、PRN、AUX 或 NUL 的文件夹。这些是 DOS 保留的关键字。❞</i>
+<i>❝计算机运行时会变热。计算机有风扇来保持凉爽。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
