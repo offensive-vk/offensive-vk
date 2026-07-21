@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bilgisayarlar çalıştıkça ısınırlar. Bilgisayarlarda onları serin tutacak fanlar bulunur.❞</i>
+<i>❝CPU üretimi o kadar öngörülemez ki, bitmiş çiplerin çoğunluğu kusurlu olduğundan her çipin test edilmesi gerekiyor. Hayatta kalanlara maksimum güvenli performanslarını yansıtan bir model numarası ve fiyat verilir.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
