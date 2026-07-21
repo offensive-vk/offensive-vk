@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Cuando las computadoras funcionan, se calientan. Las computadoras tienen ventiladores para mantenerlas frescas.❞</i>
+<i>❝La fabricación de CPU es tan impredecible que es necesario probar cada chip, ya que la mayoría de los chips terminados son defectuosos. A los que sobreviven se les asigna un número de modelo y un precio que reflejan su máximo rendimiento seguro.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
