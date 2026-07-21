@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Wenn Computer laufen, werden sie heiß. Computer haben Ventilatoren, die sie kühl halten.❞</i>
+<i>❝Die CPU-Herstellung ist so unvorhersehbar, dass jeder Chip getestet werden muss, da die meisten fertigen Chips defekt sind. Den Überlebenden wird eine Modellnummer und ein Preis zugewiesen, die ihre maximale Sicherheitsleistung widerspiegeln.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
