@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La fabricación de CPU es tan impredecible que es necesario probar cada chip, ya que la mayoría de los chips terminados son defectuosos. A los que sobreviven se les asigna un número de modelo y un precio que reflejan su máximo rendimiento seguro.❞</i>
+<i>❝¡La primera computadora Apple jamás fabricada por Steve Jobs y Steve Wozniak se fabricó con piezas viejas que recolectaron de forma gratuita de su personal!❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
