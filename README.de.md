@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Die CPU-Herstellung ist so unvorhersehbar, dass jeder Chip getestet werden muss, da die meisten fertigen Chips defekt sind. Den Überlebenden wird eine Modellnummer und ein Preis zugewiesen, die ihre maximale Sicherheitsleistung widerspiegeln.❞</i>
+<i>❝Der erste Apple-Computer, den Steve Jobs und Steve Wozniak jemals hergestellt haben, wurde aus alten Teilen hergestellt, die sie kostenlos von ihren Mitarbeitern gesammelt haben!❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -157,11 +157,11 @@
 8.  ❗Geöffnete Ausgabe[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
 9.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 10. 💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-13. 🔒 Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+11. 🔒Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+12. 🔒Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+13. 🔒Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
