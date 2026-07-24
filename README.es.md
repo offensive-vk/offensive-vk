@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝¡La primera computadora Apple jamás fabricada por Steve Jobs y Steve Wozniak se fabricó con piezas viejas que recolectaron de forma gratuita de su personal!❞</i>
+<i>❝En 1833, Charles Babbage inventó todas las piezas que utiliza una computadora moderna, pero no fue hasta 120 años después que se inventaron las primeras computadoras modernas.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
