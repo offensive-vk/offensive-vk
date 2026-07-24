@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Steve Jobs ve Steve Wozniak'ın yaptığı ilk Apple bilgisayar, çalışanlarından ücretsiz olarak topladıkları eski parçalardan yapıldı!❞</i>
+<i>❝1833'te Charles Babbage, modern bir bilgisayarın kullandığı tüm parçaları icat etti, ancak ilk modern bilgisayarlar ancak 120 yıl sonra icat edildi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
