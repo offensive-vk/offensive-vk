@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝1833 年，查尔斯·巴贝奇 (Charles Babbage) 发明了现代计算机使用的所有部件，但直到 120 年后，第一台现代计算机才被发明。❞</i>
+<i>❝Mircosoft 在他们的操作系统中加入了 Solitaire，“以安抚那些被操作系统吓倒的人”，并向用户介绍图形用户界面，并教他们如何使用鼠标。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
