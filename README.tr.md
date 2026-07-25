@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝1833'te Charles Babbage, modern bir bilgisayarın kullandığı tüm parçaları icat etti, ancak ilk modern bilgisayarlar ancak 120 yıl sonra icat edildi.❞</i>
+<i>❝Mircosoft, “işletim sisteminden çekinen insanları rahatlatmak için” Solitaire'ı işletim sistemlerine dahil ederek kullanıcıları grafik kullanıcı arayüzleriyle tanıştırdı ve onlara fare kullanmayı öğretti.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
