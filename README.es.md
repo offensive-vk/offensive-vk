@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En 1833, Charles Babbage inventó todas las piezas que utiliza una computadora moderna, pero no fue hasta 120 años después que se inventaron las primeras computadoras modernas.❞</i>
+<i>❝Mircosoft incluyó Solitario en sus sistemas operativos “para calmar a las personas intimidadas por el sistema operativo” y presentarles a los usuarios interfaces gráficas de usuario y enseñarles a usar un mouse.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
