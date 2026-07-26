@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mircosoft hat Solitaire in seine Betriebssysteme integriert, „um Menschen zu beruhigen, die vom Betriebssystem eingeschüchtert sind“, und Benutzer mit grafischen Benutzeroberflächen vertraut zu machen und ihnen den Umgang mit einer Maus beizubringen.❞</i>
+<i>❝„Wie selten kommt es vor, dass die Einhaltung der Codes einer anderen Person so ist, als würde man ein wunderschön gestaltetes Gebäude betreten, das man bewundert, wenn man herumläuft und plant, einen Flügel hinzuzufügen oder eine Renovierung vorzunehmen. Häufiger ist die Einhaltung der Codes einer anderen Person so, als würde man kopfüber in einen großen Haufen schleimigen, stinkenden Mülls geworfen.“ – Bill Venners ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
