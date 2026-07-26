@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Mircosoft, “işletim sisteminden çekinen insanları rahatlatmak için” Solitaire'ı işletim sistemlerine dahil ederek kullanıcıları grafik kullanıcı arayüzleriyle tanıştırdı ve onlara fare kullanmayı öğretti.❞</i>
+<i>❝"Başka birinin kodunu korumanın, etrafta dolaşırken hayran olduğunuz, nasıl kanat ekleyeceğinizi veya yeniden dekore edeceğinizi planladığınız, güzel tasarlanmış bir binaya girmeye benzemesi ne kadar nadirdir. Çoğu zaman, başka birinin kodunu korumak, büyük bir sümüksü, pis kokulu çöp yığınına balıklama atılmak gibidir."— Bill Venners ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
