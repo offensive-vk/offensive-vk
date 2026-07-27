@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Qué raro es que mantener el código de otra persona sea similar a entrar en un edificio bellamente diseñado, que admiras mientras caminas y planificas cómo agregar un ala o hacer algunas redecoraciones. Más a menudo, mantener el código de otra persona es como ser arrojado de cabeza a una gran pila de basura viscosa y maloliente".—Bill Venners ❞</i>
+<i>❝“El verdadero conocimiento es conocer el alcance de la propia ignorancia.”—Confucio ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
