@@ -1,4 +1,4 @@
-name: 🔏 YAML Verification
+name: 🔏 YAML Audit
 
 on:
   pull_request:
