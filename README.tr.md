@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Mükemmellik amaç değil_.<br>🧑‍💻 Bilgisayarda yazmayı seviyorum`code`.<br>🤝 Sunucumda yardım arıyorum.<br>✨ İçinde yaşamak`terminal`.<br>🌱 Şu anda biraz öğreniyorum_edepsiz_şey.<br>💬Bana hiçbir şey sorma.<br>👌 Zamanıma saygı duyuyorum.<br>⚡ Eğlenceli gerçek: eğlence yok, yalnızca kod var.<br>💥 Hareket etmeye devam edin, bir gün üstesinden geleceksiniz.<br>📧_Bir yol bulacaksın_.
+🔭_Mükemmellik bu değil`goal`_.<br>🧑‍💻 Bilgisayarı denetlemeyi severim`code`.<br>🤝ben.<br>✨ İçinde yaşamak`terminal`.<br>🌱 Şu anda öğreniyorum_Yüksek Lisans'lar_şey.<br>💬Bana otomasyonu sorun.<br>⚡ Eğlenceli gerçek: eğlence yok, sadece günlükler.<br>💥Düşünme, sadece yap.<br>📧_Bir yol bulacaksın_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Gerçek bilgi, kişinin cehaletinin boyutunu bilmektir." - Konfüçyüs ❞</i>
+<i>❝Ortalama bir insan normalde dakikada 20 kez göz kırpıyor, ancak bilgisayar kullanırken dakikada yalnızca 7 kez göz kırpıyor.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
