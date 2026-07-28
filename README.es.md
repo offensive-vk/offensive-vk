@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfección no es el objetivo._.<br>🧑‍💻 Me gusta escribir computadora`code`.<br>🤝 Estoy buscando ayuda en mi servidor.<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo algunos_asqueroso_cosa.<br>💬Preguntame sobre nada.<br>👌 Respeto mi tiempo.<br>⚡ Dato curioso: no es divertido, solo código.<br>💥Sigue moviéndote y algún día lo superarás.<br>📧_Encontrarás una manera_.
+🔭_La perfección no es el`goal`_.<br>🧑‍💻 Me gusta auditar computadoras y`code`.<br>🤝 Soy .<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo_LLM_cosita.<br>💬 Pregúntame sobre la automatización.<br>⚡ Dato curioso: no es divertido, solo registros.<br>💥 No pienses, solo hazlo.<br>📧_Encontrarás una manera_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“El verdadero conocimiento es conocer el alcance de la propia ignorancia.”—Confucio ❞</i>
+<i>❝Una persona promedio normalmente parpadea 20 veces por minuto, pero cuando usa una computadora parpadea solo 7 veces por minuto.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
