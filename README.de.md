@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das Ziel_.<br>🧑‍💻 Ich schreibe gerne am Computer`code`.<br>🤝 Ich suche Hilfe für meinen Server.<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade einiges_böse_Sachen.<br>💬 Frag mich nach nichts.<br>👌 Ich respektiere meine Zeit.<br>⚡ Lustige Tatsache: Kein Spaß, nur Code.<br>💥 Bleiben Sie in Bewegung und eines Tages werden Sie es schaffen.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥Denke nicht, tue es einfach.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Echtes Wissen besteht darin, das Ausmaß der eigenen Unwissenheit zu kennen.“ – Konfuzius ❞</i>
+<i>❝Eine durchschnittliche Person blinzelt normalerweise 20 Mal pro Minute, aber wenn sie einen Computer benutzt, blinzelt sie/sie nur 7 Mal pro Minute.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
