@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Eine durchschnittliche Person blinzelt normalerweise 20 Mal pro Minute, aber wenn sie einen Computer benutzt, blinzelt sie/sie nur 7 Mal pro Minute.❞</i>
+<i>❝Das Spiel „Space Invaders“ sollte immer mit der gleichen Geschwindigkeit gespielt werden, aber wenn Sie mehr Außerirdische zerstören, kann der Computer schneller rendern. Aus diesem Grund werden die Außerirdischen schneller, wenn Sie sich dem Ende des Levels nähern.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
