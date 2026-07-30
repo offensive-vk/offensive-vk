@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Ortalama bir insan normalde dakikada 20 kez göz kırpıyor, ancak bilgisayar kullanırken dakikada yalnızca 7 kez göz kırpıyor.❞</i>
+<i>❝Space Invaders oyununun her zaman aynı hızda oynanması amaçlanmıştı ancak siz daha fazla uzaylıyı yok ettikçe bilgisayar daha hızlı işleyebilir. Bu nedenle seviyenin sonuna yaklaştığınızda uzaylılar hızlanır.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
