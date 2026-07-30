@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Una persona promedio normalmente parpadea 20 veces por minuto, pero cuando usa una computadora parpadea solo 7 veces por minuto.❞</i>
+<i>❝El juego Space Invaders estaba pensado para jugarse siempre a la misma velocidad, pero a medida que destruyes más alienígenas, la computadora puede renderizar más rápido. Es por eso que los alienígenas aceleran a medida que te acercas al final del nivel.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
