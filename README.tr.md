@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Space Invaders oyununun her zaman aynı hızda oynanması amaçlanmıştı ancak siz daha fazla uzaylıyı yok ettikçe bilgisayar daha hızlı işleyebilir. Bu nedenle seviyenin sonuna yaklaştığınızda uzaylılar hızlanır.❞</i>
+<i>❝Windows 98'de simge durumuna küçültülmüş pencereler aslında ortalama monitörün çözünürlüğünün çok dışına taşınır.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
