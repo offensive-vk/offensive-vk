@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝El juego Space Invaders estaba pensado para jugarse siempre a la misma velocidad, pero a medida que destruyes más alienígenas, la computadora puede renderizar más rápido. Es por eso que los alienígenas aceleran a medida que te acercas al final del nivel.❞</i>
+<i>❝En Windows 98, las ventanas minimizadas en realidad se mueven muy lejos de la resolución promedio del monitor.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
