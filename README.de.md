@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Das Spiel „Space Invaders“ sollte immer mit der gleichen Geschwindigkeit gespielt werden, aber wenn Sie mehr Außerirdische zerstören, kann der Computer schneller rendern. Aus diesem Grund werden die Außerirdischen schneller, wenn Sie sich dem Ende des Levels nähern.❞</i>
+<i>❝In Windows 98 werden minimierte Fenster tatsächlich weit außerhalb der durchschnittlichen Monitorauflösung verschoben.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
