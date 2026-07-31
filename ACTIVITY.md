@@ -23,6 +23,4 @@
 22. 🗣 Commented on issue [#31043](https://github.com/offensive-vk/offensive-vk/issues/31043) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 23. ✅ Approved on pull request [#31040](https://github.com/offensive-vk/offensive-vk/pull/31040) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 24. ✅ Approved on pull request [#10069](https://github.com/offensive-vk/Classics/pull/10069) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-25. ✅ Approved on pull request [#75](https://github.com/offensive-vk/develop-actions/pull/75) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-26. ✅ Approved on pull request [#49](https://github.com/offensive-vk/auto-label/pull/49) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 <!--END_SECTION:activity-->
