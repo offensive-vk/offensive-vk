@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Windows 98'de simge durumuna küçültülmüş pencereler aslında ortalama monitörün çözünürlüğünün çok dışına taşınır.❞</i>
+<i>❝"Bize, karamsarların %50 hava ve %50 su içeren bir bardağa bakıp yarısını boş gördükleri söylenir. İyimserler ise tam tersine yarısı dolu olarak görür. Mühendisler elbette bardağın olması gerekenden iki kat daha büyük olduğunu anlarlar."— Bob Lewis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
