@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥Denke nicht, tue es einfach.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥 Nicht denken, sondern einfach tun.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝In Windows 98 werden minimierte Fenster tatsächlich weit außerhalb der durchschnittlichen Monitorauflösung verschoben.❞</i>
+<i>❝„Pessimisten, so sagt man uns, betrachten ein Glas, das 50 % Luft und 50 % Wasser enthält, und sehen es als halb leer. Optimisten hingegen sehen es als halb voll. Ingenieure wissen natürlich, dass das Glas doppelt so groß ist, wie es sein muss.“ – Bob Lewis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
