@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the `goal`_. <br>🧑‍💻 I like to audit computer & `code`. <br>🤝 I’m . <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning _LLMs_ thingy. <br>💬 Ask me about automation. <br>⚡ Fun fact: no fun, only logs. <br>💥 Dont think, just do. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   ❞</i>
+<i>❝“Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”— Albert Einstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
