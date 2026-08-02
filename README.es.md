@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En Windows 98, las ventanas minimizadas en realidad se mueven muy lejos de la resolución promedio del monitor.❞</i>
+<i>❝"Se nos dice que los pesimistas miran un vaso que contiene un 50% de aire y un 50% de agua y lo ven medio vacío. Los optimistas, por el contrario, lo ven medio lleno. Los ingenieros, por supuesto, entienden que el vaso es dos veces más grande de lo necesario".—Bob Lewis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
