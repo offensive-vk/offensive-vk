@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Se nos dice que los pesimistas miran un vaso que contiene un 50% de aire y un 50% de agua y lo ven medio vacío. Los optimistas, por el contrario, lo ven medio lleno. Los ingenieros, por supuesto, entienden que el vaso es dos veces más grande de lo necesario".—Bob Lewis ❞</i>
+<i>❝“XML no es un lenguaje en el sentido de un lenguaje de programación, como tampoco lo son los bocetos en una servilleta.”—Charles Simonyi ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
