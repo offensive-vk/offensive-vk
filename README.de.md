@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Pessimisten, so sagt man uns, betrachten ein Glas, das 50 % Luft und 50 % Wasser enthält, und sehen es als halb leer. Optimisten hingegen sehen es als halb voll. Ingenieure wissen natürlich, dass das Glas doppelt so groß ist, wie es sein muss.“ – Bob Lewis ❞</i>
+<i>❝„XML ist keine Sprache im Sinne einer Programmiersprache, genauso wenig wie Skizzen auf einer Serviette eine Sprache sind.“ – Charles Simonyi ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
