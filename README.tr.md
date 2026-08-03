@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Bize, karamsarların %50 hava ve %50 su içeren bir bardağa bakıp yarısını boş gördükleri söylenir. İyimserler ise tam tersine yarısı dolu olarak görür. Mühendisler elbette bardağın olması gerekenden iki kat daha büyük olduğunu anlarlar."— Bob Lewis ❞</i>
+<i>❝“Peçete üzerindeki çizimlerin bir dil olması gibi, XML de bir programlama dili anlamında bir dil değildir.”— Charles Simonyi ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
