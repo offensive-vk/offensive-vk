@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Peçete üzerindeki çizimlerin bir dil olması gibi, XML de bir programlama dili anlamında bir dil değildir.”— Charles Simonyi ❞</i>
+<i>❝IMDb internetteki en eski web sitelerinden biridir ve 1990 yılında Usenet'te “güzel gözlü aktrislerin” listesi olarak başlamıştır.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
