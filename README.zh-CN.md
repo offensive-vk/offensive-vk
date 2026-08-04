@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“XML 不是一种编程语言意义上的语言，就像餐巾纸上的草图不是一种语言一样。”— Charles Simonyi ❞</i>
+<i>❝IMDb 是互联网上最古老的网站之一，于 1990 年在 Usenet 上开始作为“拥有美丽眼睛的女演员”列表。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
