@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“XML no es un lenguaje en el sentido de un lenguaje de programación, como tampoco lo son los bocetos en una servilleta.”—Charles Simonyi ❞</i>
+<i>❝IMDb es uno de los sitios web más antiguos de Internet y comenzó en Usenet en 1990 como una lista de “actrices con ojos hermosos”.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
