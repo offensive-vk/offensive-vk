@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IMDb internetteki en eski web sitelerinden biridir ve 1990 yılında Usenet'te “güzel gözlü aktrislerin” listesi olarak başlamıştır.❞</i>
+<i>❝"Bill Gates'in şeytan olduğunu düşünenlerden değilim. Yalnızca Microsoft'un şeytanla karşılaşması durumunda tercümana ihtiyaç duymayacağını düşünüyorum."— Nicholas Petreley ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
