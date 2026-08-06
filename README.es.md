@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IMDb es uno de los sitios web más antiguos de Internet y comenzó en Usenet en 1990 como una lista de “actrices con ojos hermosos”.❞</i>
+<i>❝"No soy de los que piensan que Bill Gates es el diablo. Simplemente sospecho que si Microsoft alguna vez se encontrara con el diablo, no necesitaría un intérprete."—Nicholas Petreley ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
