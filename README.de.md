@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IMDb ist eine der ältesten Websites im Internet und begann 1990 im Usenet als Liste von „Schauspielerinnen mit schönen Augen“.❞</i>
+<i>❝„Ich gehöre nicht zu denen, die denken, Bill Gates sei der Teufel. Ich vermute einfach, dass Microsoft keinen Dolmetscher bräuchte, wenn es jemals mit dem Teufel zusammentreffen würde.“ – Nicholas Petreley ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
