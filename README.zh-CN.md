@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IMDb 是互联网上最古老的网站之一，于 1990 年在 Usenet 上开始作为“拥有美丽眼睛的女演员”列表。❞</i>
+<i>❝“如果我们希望计算代码行数，我们不应该将它们视为‘生成的行数’，而应将其视为‘花费的行数’。”— Edsger Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
