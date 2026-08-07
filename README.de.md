@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ich gehöre nicht zu denen, die denken, Bill Gates sei der Teufel. Ich vermute einfach, dass Microsoft keinen Dolmetscher bräuchte, wenn es jemals mit dem Teufel zusammentreffen würde.“ – Nicholas Petreley ❞</i>
+<i>❝„Wenn wir Codezeilen zählen möchten, sollten wir sie nicht als ‚produzierte Zeilen‘, sondern als ‚verbrauchte Zeilen‘ betrachten.“ – Edsger Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
