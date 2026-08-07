@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"No soy de los que piensan que Bill Gates es el diablo. Simplemente sospecho que si Microsoft alguna vez se encontrara con el diablo, no necesitaría un intérprete."—Nicholas Petreley ❞</i>
+<i>❝“Si queremos contar líneas de código, no debemos considerarlas como ‘líneas producidas’ sino como ‘líneas gastadas'”.—Edsger Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
