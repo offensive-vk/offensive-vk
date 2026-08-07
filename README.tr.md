@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Bill Gates'in şeytan olduğunu düşünenlerden değilim. Yalnızca Microsoft'un şeytanla karşılaşması durumunda tercümana ihtiyaç duymayacağını düşünüyorum."— Nicholas Petreley ❞</i>
+<i>❝“Kod satırlarını saymak istiyorsak, onları 'üretilen satırlar' olarak değil, 'harcanan satırlar' olarak görmeliyiz.”— Edsger Dijkstra ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
