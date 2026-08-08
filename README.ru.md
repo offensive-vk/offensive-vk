@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Если мы хотим подсчитать строки кода, мы должны рассматривать их не как «произведенные строки», а как «израсходованные строки». — Эдсгер Дейкстра ❞</i>
+<i>❝"Данные говорят сами за себя. Это самый простой показатель успеха" — Кейтлин Смоллвуд❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,17 +147,17 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Прокомментировал[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Прокомментировал[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  ❌ Закрытый пиар[#461](https://github.com/offensive-vk/UntilEverything/pull/461)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 Прокомментировал[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🗣 Прокомментировал[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-6.  ❌ Закрытый пиар[#73](https://github.com/offensive-vk/develop-actions/pull/73)в[наступление-вк/развитие-действия](https://github.com/offensive-vk/develop-actions)
-7.  ℹ️ Проблема с пометкой[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
-8.  ❗Открытый вопрос[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)в[nilbuild/дорожная карта разработчика](https://github.com/nilbuild/developer-roadmap)
-9.  🎉 Объединенный пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-10. 💪 Открытый пиар[#10066](https://github.com/offensive-vk/Classics/pull/10066)в[наступление-вк/Классика](https://github.com/offensive-vk/Classics)
-11. 🔒 Вопрос закрыт.[#8](https://github.com/offensive-vk/Temp/issues/8)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🔒 Вопрос закрыт.[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Вопрос закрыт.[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Вопрос закрыт.[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Вопрос закрыт.[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Вопрос закрыт.[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 Вопрос закрыт.[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Вопрос закрыт.[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Вопрос закрыт.[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Вопрос закрыт.[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+10. 🗣 Прокомментировал[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣 Прокомментировал[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 12. 🔒 Вопрос закрыт.[#7](https://github.com/offensive-vk/Temp/issues/7)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Вопрос закрыт.[#6](https://github.com/offensive-vk/Temp/issues/6)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
 14. 🔒 Вопрос закрыт.[#5](https://github.com/offensive-vk/Temp/issues/5)в[наступление-vk/Temp](https://github.com/offensive-vk/Temp)
