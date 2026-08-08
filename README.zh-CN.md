@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果我们希望计算代码行数，我们不应该将它们视为‘生成的行数’，而应将其视为‘花费的行数’。”— Edsger Dijkstra ❞</i>
+<i>❝“数据不言而喻。这是衡量成功的最简单的标准。”——Caitlin Smallwood❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,17 +147,17 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 已发表评论[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 已发表评论[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  ❌ 封闭公关[#461](https://github.com/offensive-vk/UntilEverything/pull/461)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 已发表评论[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🗣 已发表评论[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-6.  ❌ 封闭公关[#73](https://github.com/offensive-vk/develop-actions/pull/73)在[进攻-vk/发展行动](https://github.com/offensive-vk/develop-actions)
-7.  ℹ️ 标签问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-8.  ❗ 未解决的问题[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)在[nilbuild/开发者路线图](https://github.com/nilbuild/developer-roadmap)
-9.  🎉 合并公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-10. 💪 开启公关[#10066](https://github.com/offensive-vk/Classics/pull/10066)在[进攻-vk/经典](https://github.com/offensive-vk/Classics)
-11. 🔒 已关闭问题[#8](https://github.com/offensive-vk/Temp/issues/8)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🔒 已关闭问题[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 已关闭问题[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 已关闭问题[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 已关闭问题[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 已关闭问题[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 已关闭问题[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 已关闭问题[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 已关闭问题[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 已关闭问题[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🗣 已发表评论[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣 已发表评论[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 12. 🔒 已关闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 已关闭问题[#6](https://github.com/offensive-vk/Temp/issues/6)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 14. 🔒 已关闭问题[#5](https://github.com/offensive-vk/Temp/issues/5)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
