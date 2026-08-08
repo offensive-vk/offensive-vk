@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Wenn wir Codezeilen zählen möchten, sollten wir sie nicht als ‚produzierte Zeilen‘, sondern als ‚verbrauchte Zeilen‘ betrachten.“ – Edsger Dijkstra ❞</i>
+<i>❝„Die Daten sprechen für sich. Das ist der einfachste Maßstab für Erfolg.“ – Caitlin Smallwood❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,17 +147,17 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Kommentiert[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Kommentiert[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  ❌ Geschlossene PR[#461](https://github.com/offensive-vk/UntilEverything/pull/461)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 Kommentiert[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🗣 Kommentiert[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  ❌ Geschlossene PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)In[offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-7.  ℹ️ Beschriftetes Problem[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
-8.  ❗Geöffnete Ausgabe[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)In[Nilbuild/Entwickler-Roadmap](https://github.com/nilbuild/developer-roadmap)
-9.  🎉 Zusammengeführte PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-10. 💪 PR eröffnet[#10066](https://github.com/offensive-vk/Classics/pull/10066)In[offensive-vk/Classics](https://github.com/offensive-vk/Classics)
-11. 🔒 Geschlossenes Problem[#8](https://github.com/offensive-vk/Temp/issues/8)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🔒 Geschlossenes Problem[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Geschlossenes Problem[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Geschlossenes Problem[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Geschlossenes Problem[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Geschlossenes Problem[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 Geschlossenes Problem[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Geschlossenes Problem[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Geschlossenes Problem[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Geschlossenes Problem[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🗣 Kommentiert[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣 Kommentiert[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 12. 🔒 Geschlossenes Problem[#7](https://github.com/offensive-vk/Temp/issues/7)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Geschlossenes Problem[#6](https://github.com/offensive-vk/Temp/issues/6)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
 14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
