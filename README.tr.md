@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Kod satırlarını saymak istiyorsak, onları 'üretilen satırlar' olarak değil, 'harcanan satırlar' olarak görmeliyiz.”— Edsger Dijkstra ❞</i>
+<i>❝"Veriler kendini anlatıyor. Başarının en kolay ölçüsü budur."— Caitlin Smallwood❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,17 +147,17 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣Yorumlandı[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣Yorumlandı[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  ❌ Kapalı PR[#461](https://github.com/offensive-vk/UntilEverything/pull/461)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🗣Yorumlandı[#461](https://github.com/offensive-vk/UntilEverything/pull/461#issuecomment-4890346514)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🗣Yorumlandı[#31043](https://github.com/offensive-vk/offensive-vk/pull/31043#issuecomment-4885703601)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
-6.  ❌ Kapalı PR[#73](https://github.com/offensive-vk/develop-actions/pull/73)içinde[saldırgan-vk/geliştirme-eylemleri](https://github.com/offensive-vk/develop-actions)
-7.  ℹ️ Etiketli sorun[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)içinde[nilbuild/geliştirici-yol haritası](https://github.com/nilbuild/developer-roadmap)
-8.  ❗ Açılan konu[#10008](https://github.com/nilbuild/developer-roadmap/issues/10008)içinde[nilbuild/geliştirici-yol haritası](https://github.com/nilbuild/developer-roadmap)
-9.  🎉 Birleştirilmiş PR[#10066](https://github.com/offensive-vk/Classics/pull/10066)içinde[saldırgan-vk/Klasikler](https://github.com/offensive-vk/Classics)
-10. 💪 PR açıldı[#10066](https://github.com/offensive-vk/Classics/pull/10066)içinde[saldırgan-vk/Klasikler](https://github.com/offensive-vk/Classics)
-11. 🔒 Kapalı konu[#8](https://github.com/offensive-vk/Temp/issues/8)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🔒 Kapalı konu[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Kapalı konu[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Kapalı konu[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Kapalı konu[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Kapalı konu[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 Kapalı konu[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Kapalı konu[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Kapalı konu[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Kapalı konu[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🗣Yorumlandı[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣Yorumlandı[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 12. 🔒 Kapalı konu[#7](https://github.com/offensive-vk/Temp/issues/7)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
 13. 🔒 Kapalı konu[#6](https://github.com/offensive-vk/Temp/issues/6)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
 14. 🔒 Kapalı konu[#5](https://github.com/offensive-vk/Temp/issues/5)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
