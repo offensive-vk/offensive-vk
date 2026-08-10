@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Die Daten sprechen für sich. Das ist der einfachste Maßstab für Erfolg.“ – Caitlin Smallwood❞</i>
+<i>❝Wenn Computer laufen, werden sie heiß. Computer haben Ventilatoren, die sie kühl halten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
