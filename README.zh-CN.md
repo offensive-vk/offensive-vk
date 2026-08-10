@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“数据不言而喻。这是衡量成功的最简单的标准。”——Caitlin Smallwood❞</i>
+<i>❝计算机运行时会变热。计算机有风扇来保持凉爽。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
