@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Veriler kendini anlatıyor. Başarının en kolay ölçüsü budur."— Caitlin Smallwood❞</i>
+<i>❝Bilgisayarlar çalıştıkça ısınırlar. Bilgisayarlarda onları serin tutacak fanlar bulunur.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
