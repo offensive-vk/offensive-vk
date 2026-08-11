@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝أثناء تشغيل أجهزة الكمبيوتر، تصبح ساخنة. تحتوي أجهزة الكمبيوتر على مراوح لإبقائها باردة.❞</i>
+<i>❝"تجدر الإشارة إلى أنه لن يوافق أي مهندس برمجيات مدرب أخلاقيًا على كتابة إجراء DestroyBaghdad. بدلاً من ذلك، ستتطلب الأخلاقيات المهنية الأساسية منه كتابة إجراء DestroyCity، والذي يمكن إعطاء بغداد له كمعلمة. "- ناثانيال س. بورنشتاين ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,19 +147,19 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 قضية مغلقة[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 قضية مغلقة[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 قضية مغلقة[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 قضية مغلقة[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 قضية مغلقة[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🔒 قضية مغلقة[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 قضية مغلقة[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 قضية مغلقة[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 قضية مغلقة[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🗣 تم التعليق عليه[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-11. 🗣 تم التعليق عليه[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-12. 🔒 قضية مغلقة[#7](https://github.com/offensive-vk/Temp/issues/7)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
-13. 🔒 قضية مغلقة[#6](https://github.com/offensive-vk/Temp/issues/6)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
+1.  🗣 تم التعليق عليه[#469](https://github.com/offensive-vk/UntilEverything/pull/469#issuecomment-5239798876)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#475](https://github.com/offensive-vk/UntilEverything/pull/475#issuecomment-5239787084)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  🔒 قضية مغلقة[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 قضية مغلقة[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 قضية مغلقة[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 قضية مغلقة[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 قضية مغلقة[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 قضية مغلقة[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 قضية مغلقة[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 قضية مغلقة[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 قضية مغلقة[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🗣 تم التعليق عليه[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+13. 🗣 تم التعليق عليه[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 14. 🔒 قضية مغلقة[#5](https://github.com/offensive-vk/Temp/issues/5)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
 15. 🔒 قضية مغلقة[#4](https://github.com/offensive-vk/Temp/issues/4)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
