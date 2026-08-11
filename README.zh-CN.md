@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝计算机运行时会变热。计算机有风扇来保持凉爽。❞</i>
+<i>❝“应该指出的是，没有经过道德培训的软件工程师会同意编写 DestroyBaghdad 程序。基本的职业道德会要求他编写 DestroyCity 程序，而巴格达可以作为参数。”— Nathaniel S. Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,19 +147,19 @@
 
 <!--START_SECTION:activity-->
 
-1.  🔒 已关闭问题[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-2.  🔒 已关闭问题[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 已关闭问题[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 已关闭问题[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 已关闭问题[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🔒 已关闭问题[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 已关闭问题[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 已关闭问题[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 已关闭问题[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🗣 已发表评论[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🗣 已发表评论[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🔒 已关闭问题[#7](https://github.com/offensive-vk/Temp/issues/7)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
-13. 🔒 已关闭问题[#6](https://github.com/offensive-vk/Temp/issues/6)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🗣 已发表评论[#469](https://github.com/offensive-vk/UntilEverything/pull/469#issuecomment-5239798876)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 已发表评论[#475](https://github.com/offensive-vk/UntilEverything/pull/475#issuecomment-5239787084)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🔒 已关闭问题[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 已关闭问题[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 已关闭问题[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 已关闭问题[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 已关闭问题[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 已关闭问题[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 已关闭问题[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 已关闭问题[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 已关闭问题[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🗣 已发表评论[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🗣 已发表评论[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 14. 🔒 已关闭问题[#5](https://github.com/offensive-vk/Temp/issues/5)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
 15. 🔒 已关闭问题[#4](https://github.com/offensive-vk/Temp/issues/4)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
