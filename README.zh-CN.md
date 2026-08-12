@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“应该指出的是，没有经过道德培训的软件工程师会同意编写 DestroyBaghdad 程序。基本的职业道德会要求他编写 DestroyCity 程序，而巴格达可以作为参数。”— Nathaniel S. Borenstein ❞</i>
+<i>❝第一个网络摄像头是在剑桥大学使用的。它的目的是监控咖啡机，这样他们就不会浪费时间去喝空壶。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
