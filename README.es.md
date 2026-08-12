@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Cabe señalar que ningún ingeniero de software con formación ética consentiría jamás en escribir un procedimiento DestroyBaghdad. La ética profesional básica le exigiría, en cambio, escribir un procedimiento DestroyCity, al que se le podría dar Bagdad como parámetro".—Nathaniel S. Borenstein ❞</i>
+<i>❝La primera cámara web se utilizó en la Universidad de Cambridge. Su propósito era monitorear una cafetera para que no desperdiciaran viajes hasta una cafetera vacía.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
