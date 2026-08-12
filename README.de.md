@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Es sollte beachtet werden, dass kein ethisch geschulter Softwareentwickler jemals zustimmen würde, ein DestroyBaghdad-Verfahren zu schreiben. Grundlegende Berufsethik würde stattdessen erfordern, dass er ein DestroyCity-Verfahren schreibt, dem Bagdad als Parameter gegeben werden könnte.“ – Nathaniel S. Borenstein ❞</i>
+<i>❝Die erste Webcam wurde an der Universität Cambridge eingesetzt. Sein Zweck bestand darin, eine Kaffeemaschine zu überwachen, damit sie nicht den Weg zu einer leeren Kanne verschwenden mussten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
