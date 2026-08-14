@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Die erste Webcam wurde an der Universität Cambridge eingesetzt. Sein Zweck bestand darin, eine Kaffeemaschine zu überwachen, damit sie nicht den Weg zu einer leeren Kanne verschwenden mussten.❞</i>
+<i>❝„Standards sind immer veraltet. Das macht sie zu Standards.“ – Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
