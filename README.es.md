@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La primera cámara web se utilizó en la Universidad de Cambridge. Su propósito era monitorear una cafetera para que no desperdiciaran viajes hasta una cafetera vacía.❞</i>
+<i>❝“Las normas siempre están desactualizadas. Eso es lo que las convierte en normas.”—Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
