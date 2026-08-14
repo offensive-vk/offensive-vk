@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝İlk web kamerası Cambridge Üniversitesi'nde kullanıldı. Amacı, boş bir demliğe gitmekle vakit kaybetmemeleri için kahve makinesini izlemekti.❞</i>
+<i>❝"Standartlar her zaman güncelliğini kaybetmiştir. Onları standart yapan da budur."— Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
