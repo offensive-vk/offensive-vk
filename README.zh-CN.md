@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝第一个网络摄像头是在剑桥大学使用的。它的目的是监控咖啡机，这样他们就不会浪费时间去喝空壶。❞</i>
+<i>❝“标准总是过时的。这就是它们成为标准的原因。”— Alan Bennett ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
