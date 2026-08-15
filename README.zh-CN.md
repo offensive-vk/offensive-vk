@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“标准总是过时的。这就是它们成为标准的原因。”— Alan Bennett ❞</i>
+<i>❝“有些人在遇到问题时会想‘我知道，我会使用正则表达式。’现在他们有两个问题。”—— Jamie Zawinski ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
