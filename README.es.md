@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Las normas siempre están desactualizadas. Eso es lo que las convierte en normas.”—Alan Bennett ❞</i>
+<i>❝“Algunas personas, cuando se enfrentan a un problema, piensan: 'Lo sé, usaré expresiones regulares'. Ahora tienen dos problemas.”— Jamie Zawinski ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
