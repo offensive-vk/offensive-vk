@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Standartlar her zaman güncelliğini kaybetmiştir. Onları standart yapan da budur."— Alan Bennett ❞</i>
+<i>❝"Bazı insanlar bir sorunla karşılaştıklarında 'Biliyorum, normal ifadeler kullanacağım' diye düşünüyorlar. Artık iki sorunları var."— Jamie Zawinski ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
