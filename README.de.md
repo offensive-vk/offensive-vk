@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Standards sind immer veraltet. Das macht sie zu Standards.“ – Alan Bennett ❞</i>
+<i>❝„Manche Leute denken, wenn sie mit einem Problem konfrontiert werden: ‚Ich weiß, ich werde reguläre Ausdrücke verwenden.‘ Jetzt haben sie zwei Probleme.“ – Jamie Zawinski ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
