@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“有些人在遇到问题时会想‘我知道，我会使用正则表达式。’现在他们有两个问题。”—— Jamie Zawinski ❞</i>
+<i>❝“到 2031 年，律师将成为大多数开发团队的共同成员。”— Grady Booch ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
