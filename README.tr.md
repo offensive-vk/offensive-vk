@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Bazı insanlar bir sorunla karşılaştıklarında 'Biliyorum, normal ifadeler kullanacağım' diye düşünüyorlar. Artık iki sorunları var."— Jamie Zawinski ❞</i>
+<i>❝“2031'de avukatlar çoğu geliştirme ekibinin parçası olacak.”— Grady Booch ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -158,7 +158,7 @@
 9.  🔒 Kapalı konu[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 10. 🔒 Kapalı konu[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 11. 🔒 Kapalı konu[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
-12. 🗣Yorumlandı[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+12. 🗣 Yorum yapıldı[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 13. 🗣Yorumlandı[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 14. 🔒 Kapalı konu[#5](https://github.com/offensive-vk/Temp/issues/5)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
 15. 🔒 Kapalı konu[#4](https://github.com/offensive-vk/Temp/issues/4)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
