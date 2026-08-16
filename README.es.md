@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Algunas personas, cuando se enfrentan a un problema, piensan: 'Lo sé, usaré expresiones regulares'. Ahora tienen dos problemas.”— Jamie Zawinski ❞</i>
+<i>❝“En 2031, los abogados formarán parte de la mayoría de los equipos de desarrollo”.— Grady Booch ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
