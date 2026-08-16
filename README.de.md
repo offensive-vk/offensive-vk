@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Manche Leute denken, wenn sie mit einem Problem konfrontiert werden: ‚Ich weiß, ich werde reguläre Ausdrücke verwenden.‘ Jetzt haben sie zwei Probleme.“ – Jamie Zawinski ❞</i>
+<i>❝„Im Jahr 2031 werden Anwälte häufig Teil der meisten Entwicklungsteams sein.“ – Grady Booch ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
