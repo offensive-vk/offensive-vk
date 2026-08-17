@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“到 2031 年，律师将成为大多数开发团队的共同成员。”— Grady Booch ❞</i>
+<i>❝“公司在防火墙、加密和安全访问设备上花费了数百万美元，但这些钱都是浪费，因为这些措施都没有解决安全链中最薄弱的环节。”——Kevin Mitnick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
