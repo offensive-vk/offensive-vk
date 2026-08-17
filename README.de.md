@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Im Jahr 2031 werden Anwälte häufig Teil der meisten Entwicklungsteams sein.“ – Grady Booch ❞</i>
+<i>❝„Unternehmen geben Millionen von Dollar für Firewalls, Verschlüsselung und sichere Zugangsgeräte aus, und das ist Geldverschwendung, weil keine dieser Maßnahmen das schwächste Glied in der Sicherheitskette anspricht.“ – Kevin Mitnick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
