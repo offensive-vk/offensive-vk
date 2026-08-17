@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En 2031, los abogados formarán parte de la mayoría de los equipos de desarrollo”.— Grady Booch ❞</i>
+<i>❝“Las empresas gastan millones de dólares en firewalls, cifrado y dispositivos de acceso seguro, y es dinero desperdiciado, porque ninguna de estas medidas aborda el eslabón más débil de la cadena de seguridad”.— Kevin Mitnick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
