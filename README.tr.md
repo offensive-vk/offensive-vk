@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“2031'de avukatlar çoğu geliştirme ekibinin parçası olacak.”— Grady Booch ❞</i>
+<i>❝"Şirketler güvenlik duvarlarına, şifrelemeye ve güvenli erişim cihazlarına milyonlarca dolar harcıyor ve bu para boşa gidiyor çünkü bu önlemlerin hiçbiri güvenlik zincirindeki en zayıf halkayı ele almıyor."— Kevin Mitnick ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣Yorumlandı[#469](https://github.com/offensive-vk/UntilEverything/pull/469#issuecomment-5239798876)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣Yorumlandı[#475](https://github.com/offensive-vk/UntilEverything/pull/475#issuecomment-5239787084)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+1.  🗣 Yorum yapıldı[#469](https://github.com/offensive-vk/UntilEverything/pull/469#issuecomment-5239798876)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Yorum yapıldı[#475](https://github.com/offensive-vk/UntilEverything/pull/475#issuecomment-5239787084)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 3.  🔒 Kapalı konu[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 4.  🔒 Kapalı konu[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Kapalı konu[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
@@ -159,7 +159,7 @@
 10. 🔒 Kapalı konu[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 11. 🔒 Kapalı konu[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
 12. 🗣 Yorum yapıldı[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🗣Yorumlandı[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+13. 🗣 Yorum yapıldı[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 14. 🔒 Kapalı konu[#5](https://github.com/offensive-vk/Temp/issues/5)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
 15. 🔒 Kapalı konu[#4](https://github.com/offensive-vk/Temp/issues/4)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
