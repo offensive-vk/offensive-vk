@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“公司在防火墙、加密和安全访问设备上花费了数百万美元，但这些钱都是浪费，因为这些措施都没有解决安全链中最薄弱的环节。”——Kevin Mitnick ❞</i>
+<i>❝“如果你认为你的用户是白痴，那么只有白痴才会使用它。”——Linus Torvalds ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
