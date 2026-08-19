@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥Denke nicht, tue es einfach.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥 Nicht denken, sondern einfach tun.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Unternehmen geben Millionen von Dollar für Firewalls, Verschlüsselung und sichere Zugangsgeräte aus, und das ist Geldverschwendung, weil keine dieser Maßnahmen das schwächste Glied in der Sicherheitskette anspricht.“ – Kevin Mitnick ❞</i>
+<i>❝„Wenn Sie denken, dass Ihre Benutzer Idioten sind, werden es nur Idioten verwenden.“ – Linus Torvalds ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
