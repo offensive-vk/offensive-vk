@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Las empresas gastan millones de dólares en firewalls, cifrado y dispositivos de acceso seguro, y es dinero desperdiciado, porque ninguna de estas medidas aborda el eslabón más débil de la cadena de seguridad”.— Kevin Mitnick ❞</i>
+<i>❝“Si crees que tus usuarios son idiotas, sólo los idiotas lo usarán.”—Linus Torvalds ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
