@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果你认为你的用户是白痴，那么只有白痴才会使用它。”——Linus Torvalds ❞</i>
+<i>❝TYPEWRITER 是您可以仅使用计算机键盘的一行字母书写的最长单词。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
