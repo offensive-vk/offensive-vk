@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Si crees que tus usuarios son idiotas, sólo los idiotas lo usarán.”—Linus Torvalds ❞</i>
+<i>❝TYPEWRITER es la palabra más larga que puedes escribir usando las letras de una sola fila del teclado de tu computadora.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
