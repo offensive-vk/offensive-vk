@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Kullanıcılarınızın aptal olduğunu düşünüyorsanız, bunu yalnızca aptallar kullanır."— Linus Torvalds ❞</i>
+<i>❝TYPEWRITER, bilgisayarınızın klavyesinin yalnızca bir satırındaki harfleri kullanarak yazabileceğiniz en uzun kelimedir.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
