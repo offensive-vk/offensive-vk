@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER, bilgisayarınızın klavyesinin yalnızca bir satırındaki harfleri kullanarak yazabileceğiniz en uzun kelimedir.❞</i>
+<i>❝“Amaç, veriyi bilgiye, bilgiyi içgörüye dönüştürmektir.”— Carly Fiorina❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
