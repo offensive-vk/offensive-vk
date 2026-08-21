@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝TYPEWRITER 是您可以仅使用计算机键盘的一行字母书写的最长单词。❞</i>
+<i>❝“目标是将数据转化为信息，将信息转化为洞察力。”——Carly Fiorina❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
