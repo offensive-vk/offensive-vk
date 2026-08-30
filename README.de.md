@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Das Ziel besteht darin, Daten in Informationen und Informationen in Erkenntnisse umzuwandeln.“ – Carly Fiorina❞</i>
+<i>❝Im Jahr 2010 gab eine High School namens Lower Merion School District in Pennsylvania jedem ihrer 2.306 Schüler ein MacBook und aktivierte dann aus der Ferne die Webcams, um die Schüler zu Hause auszuspionieren.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
