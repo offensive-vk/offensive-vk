@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“目标是将数据转化为信息，将信息转化为洞察力。”——Carly Fiorina❞</i>
+<i>❝2010 年，宾夕法尼亚州一所名为 Lower Merion 学区的高中向 2,306 名学生每人发放了一台 MacBook，然后远程激活网络摄像头以监视家里的学生。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
