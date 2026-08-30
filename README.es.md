@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“El objetivo es convertir los datos en información y la información en conocimientos.”— Carly Fiorina❞</i>
+<i>❝En 2010, una escuela secundaria llamada Distrito Escolar Lower Merion en Pensilvania entregó una MacBook a cada uno de sus 2.306 estudiantes y luego activó remotamente las cámaras web para espiar a los estudiantes en casa.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
