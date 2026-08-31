@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝En 2010, una escuela secundaria llamada Distrito Escolar Lower Merion en Pensilvania entregó una MacBook a cada uno de sus 2.306 estudiantes y luego activó remotamente las cámaras web para espiar a los estudiantes en casa.❞</i>
+<i>❝Hubo un tiempo en que las CPU AMD e Intel usaban el mismo zócalo (Socket 7) y podían funcionar en la misma placa base.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
