@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝2010 年，宾夕法尼亚州一所名为 Lower Merion 学区的高中向 2,306 名学生每人发放了一台 MacBook，然后远程激活网络摄像头以监视家里的学生。❞</i>
+<i>❝曾经有一段时间，AMD 和 Intel CPU 使用相同的插槽（Socket 7）并且可以在相同的主板上运行。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
