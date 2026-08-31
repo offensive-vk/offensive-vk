@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the `goal`_. <br>🧑‍💻 I like to audit computer & `code`. <br>🤝 I’m . <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning _LLMs_ thingy. <br>💬 Ask me about automation. <br>⚡ Fun fact: no fun, only logs. <br>💥 Dont think, just do. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2010, a high school named Lower Merion School District in Pennsylvania issued a MacBook to each of its 2,306 students, then remotely activated the webcams to spy on the students at home.❞</i>
+<i>❝There was a time when AMD and Intel CPUs used the same socket (Socket 7) and could run on the same motherboard.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
