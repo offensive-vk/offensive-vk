@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Amaç, veriyi bilgiye, bilgiyi içgörüye dönüştürmektir.”— Carly Fiorina❞</i>
+<i>❝AMD ve Intel CPU'ların aynı soketi (Soket 7) kullandığı ve aynı anakartta çalışabildiği bir dönem vardı.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
