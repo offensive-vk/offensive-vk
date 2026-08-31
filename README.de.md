@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥Denke nicht, tue es einfach.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥 Nicht denken, sondern einfach tun.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Im Jahr 2010 gab eine High School namens Lower Merion School District in Pennsylvania jedem ihrer 2.306 Schüler ein MacBook und aktivierte dann aus der Ferne die Webcams, um die Schüler zu Hause auszuspionieren.❞</i>
+<i>❝Es gab eine Zeit, in der AMD- und Intel-CPUs denselben Sockel (Sockel 7) verwendeten und auf demselben Motherboard laufen konnten.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -152,11 +152,11 @@
 3.  🔒 Geschlossenes Problem[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4.  🔒 Geschlossenes Problem[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Geschlossenes Problem[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-6.  🔒 Geschlossenes Problem[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒Geschlossenes Problem[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 7.  🔒 Geschlossenes Problem[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 Geschlossenes Problem[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒Geschlossenes Problem[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 9.  🔒 Geschlossenes Problem[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 Geschlossenes Problem[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒Geschlossenes Problem[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 11. 🔒 Geschlossenes Problem[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 12. 🗣 Kommentiert[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 13. 🗣 Kommentiert[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
