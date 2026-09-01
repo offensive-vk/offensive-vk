@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Es gab eine Zeit, in der AMD- und Intel-CPUs denselben Sockel (Sockel 7) verwendeten und auf demselben Motherboard laufen konnten.❞</i>
+<i>❝Der Computer in Ihrem Mobiltelefon ist heute millionenfach billiger und tausendmal leistungsfähiger und etwa hunderttausendmal kleiner als der Computer am MIT im Jahr 1965.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -149,19 +149,19 @@
 
 1.  🗣 Kommentiert[#469](https://github.com/offensive-vk/UntilEverything/pull/469#issuecomment-5239798876)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 2.  🗣 Kommentiert[#475](https://github.com/offensive-vk/UntilEverything/pull/475#issuecomment-5239787084)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 Geschlossenes Problem[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-4.  🔒 Geschlossenes Problem[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Geschlossenes Problem[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒Geschlossenes Problem[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒Geschlossenes Problem[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒Geschlossenes Problem[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🔒Geschlossenes Problem[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-7.  🔒 Geschlossenes Problem[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒Geschlossenes Problem[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 8.  🔒Geschlossenes Problem[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-9.  🔒 Geschlossenes Problem[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒Geschlossenes Problem[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 10. 🔒Geschlossenes Problem[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 Geschlossenes Problem[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒Geschlossenes Problem[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 12. 🗣 Kommentiert[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 13. 🗣 Kommentiert[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+14. 🔒Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+15. 🔒Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
     <!--END_SECTION:activity-->
 
 </p>
