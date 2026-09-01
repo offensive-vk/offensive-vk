@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝AMD ve Intel CPU'ların aynı soketi (Soket 7) kullandığı ve aynı anakartta çalışabildiği bir dönem vardı.❞</i>
+<i>❝Bugün cep telefonunuzdaki bilgisayar, 1965'te MIT'deki tek bilgisayardan milyon kat daha ucuz, binlerce kat daha güçlü ve yaklaşık yüz binlerce kat daha küçük.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
