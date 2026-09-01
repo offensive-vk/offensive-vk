@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝曾经有一段时间，AMD 和 Intel CPU 使用相同的插槽（Socket 7）并且可以在相同的主板上运行。❞</i>
+<i>❝今天手机中的计算机比 1965 年麻省理工学院的一台计算机便宜一百万倍，功能强大数千倍，体积小约十万倍。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
