@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der Computer in Ihrem Mobiltelefon ist heute millionenfach billiger und tausendmal leistungsfähiger und etwa hunderttausendmal kleiner als der Computer am MIT im Jahr 1965.❞</i>
+<i>❝„Wenn Sie eine Prozedur mit zehn Parametern haben, haben Sie wahrscheinlich einige übersehen.“ – Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
