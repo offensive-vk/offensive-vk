@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果您的程序有十个参数，您可能会错过一些参数。”— Alan Perlis ❞</i>
+<i>❝“我不知道 2000 年的语言会是什么样子，但我知道它会被称为 Fortran。”——CA Hoare，1982 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
