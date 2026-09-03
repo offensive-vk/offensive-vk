@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Si tiene un procedimiento con diez parámetros, probablemente se le hayan escapado algunos.”—Alan Perlis ❞</i>
+<i>❝“No sé cómo será el idioma del año 2000, pero sé que se llamará Fortran.”— CA Hoare, 1982 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
