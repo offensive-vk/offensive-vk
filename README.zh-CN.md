@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我不知道 2000 年的语言会是什么样子，但我知道它会被称为 Fortran。”——CA Hoare，1982 ❞</i>
+<i>❝“两年后，垃圾邮件将得到解决。”——比尔盖茨，2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
