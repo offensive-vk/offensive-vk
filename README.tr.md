@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bugün cep telefonunuzdaki bilgisayar, 1965'te MIT'deki tek bilgisayardan milyon kat daha ucuz, binlerce kat daha güçlü ve yaklaşık yüz binlerce kat daha küçük.❞</i>
+<i>❝"Tahminlerin en güzel tarafı yanılma ihtimalinizdir." - Chris Wiggins❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
