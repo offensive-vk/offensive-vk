@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“预测的伟大之处在于你可能会错。”——Chris Wiggins❞</i>
+<i>❝俄罗斯人在 1936 年中期制造了一台可以在水上运行的计算机。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
