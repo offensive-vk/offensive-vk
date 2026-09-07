@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Tahminlerin en güzel tarafı yanılma ihtimalinizdir." - Chris Wiggins❞</i>
+<i>❝Ruslar 1936 yılının ortalarında suyla çalışan bir bilgisayar yaptılar.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
