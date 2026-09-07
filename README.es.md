@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Lo mejor de las predicciones es que puedes equivocarte.”—Chris Wiggins❞</i>
+<i>❝Los rusos fabricaron una computadora que funcionaba con agua a mediados de 1936.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
