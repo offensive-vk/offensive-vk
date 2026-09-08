@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Los rusos fabricaron una computadora que funcionaba con agua a mediados de 1936.❞</i>
+<i>❝“La mejor manera de predecir el futuro es implementarlo.”—David Heinemeier Hansson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
