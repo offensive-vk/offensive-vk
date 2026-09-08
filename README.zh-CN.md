@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝俄罗斯人在 1936 年中期制造了一台可以在水上运行的计算机。❞</i>
+<i>❝“预测未来的最好方法就是去实施它。”——David Heinemeier Hansson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
