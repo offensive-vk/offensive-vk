@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Ruslar 1936 yılının ortalarında suyla çalışan bir bilgisayar yaptılar.❞</i>
+<i>❝“Geleceği tahmin etmenin en iyi yolu onu hayata geçirmektir.”— David Heinemeier Hansson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
