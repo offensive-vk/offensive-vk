@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“预测未来的最好方法就是去实施它。”——David Heinemeier Hansson ❞</i>
+<i>❝“我认为至少十年内互联网的商业潜力很小。”——比尔盖茨，1994 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
