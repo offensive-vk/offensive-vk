@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La mejor manera de predecir el futuro es implementarlo.”—David Heinemeier Hansson ❞</i>
+<i>❝“Veo poco potencial comercial para Internet durante al menos diez años.”—Bill Gates, 1994 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
