@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Geleceği tahmin etmenin en iyi yolu onu hayata geçirmektir.”— David Heinemeier Hansson ❞</i>
+<i>❝“En az on yıl boyunca İnternet için çok az ticari potansiyel görüyorum.”— Bill Gates, 1994 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
