@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Veo poco potencial comercial para Internet durante al menos diez años.”—Bill Gates, 1994 ❞</i>
+<i>❝“No sé cómo será el idioma del año 2000, pero sé que se llamará Fortran.”— CA Hoare, 1982 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
