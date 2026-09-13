@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En az on yıl boyunca İnternet için çok az ticari potansiyel görüyorum.”— Bill Gates, 1994 ❞</i>
+<i>❝“2000 yılının dilinin nasıl görüneceğini bilmiyorum ama adının Fortran olacağını biliyorum.”— CA Hoare, 1982 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
