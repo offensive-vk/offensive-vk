@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我认为至少十年内互联网的商业潜力很小。”——比尔盖茨，1994 ❞</i>
+<i>❝“我不知道 2000 年的语言会是什么样子，但我知道它会被称为 Fortran。”——CA Hoare，1982 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
