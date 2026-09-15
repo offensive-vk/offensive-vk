@@ -3,7 +3,7 @@
 #####################################################
 
 # Use the Debian Bullseye base image
-FROM node:lts-bullseye
+FROM node:current-bookworm-slim
 
 # The Owner of this environment & this file (The Real OG)
 LABEL url="https://github.com/offensive-vk/offensive-vk"
