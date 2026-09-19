@@ -32,7 +32,7 @@
     ·
     <a href="README.es.md">Española</a>
     ·
-    <a href="README.fr.md">Français</a>
+    <a href="README.tr.md">Türkçe</a>
     ·
     <a href="README.ar.md">عربي</a>
     ·
@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ich weiß nicht, wie die Sprache des Jahres 2000 aussehen wird, aber ich weiß, dass sie Fortran heißen wird.“ – CA Hoare, 1982 ❞</i>
+<i>❝„Phantasie ist wichtiger als Wissen. Denn Wissen ist begrenzt, während Vorstellungskraft die ganze Welt umfasst, den Fortschritt anregt und die Evolution hervorbringt.“ – Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
