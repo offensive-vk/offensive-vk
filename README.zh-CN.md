@@ -32,7 +32,7 @@
     ·
     <a href="README.es.md">Española</a>
     ·
-    <a href="README.fr.md">Français</a>
+    <a href="README.tr.md">Türkçe</a>
     ·
     <a href="README.ar.md">عربي</a>
     ·
@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我不知道 2000 年的语言会是什么样子，但我知道它会被称为 Fortran。”——CA Hoare，1982 ❞</i>
+<i>❝“想象力比知识更重要。因为知识是有限的，而想象力则包容整个世界，刺激进步，催生进化。”——阿尔伯特·爱因斯坦 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
