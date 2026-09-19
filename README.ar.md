@@ -32,7 +32,7 @@
     ·
     <a href="README.es.md">Española</a>
     ·
-    <a href="README.fr.md">Français</a>
+    <a href="README.tr.md">Türkçe</a>
     ·
     <a href="README.ar.md">عربي</a>
     ·
@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"لا أعرف كيف ستبدو اللغة في عام 2000، ولكني أعلم أنها ستُسمى فورتران." — CA Hoare, 1982 ❞</i>
+<i>❝"الخيال أهم من المعرفة. لأن المعرفة محدودة، بينما الخيال يشمل العالم كله، ويحفز التقدم، ويولد التطور." - ألبرت أينشتاين ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
