@@ -32,7 +32,7 @@
     ·
     <a href="README.es.md">Española</a>
     ·
-    <a href="README.fr.md">Français</a>
+    <a href="README.tr.md">Türkçe</a>
     ·
     <a href="README.ar.md">عربي</a>
     ·
@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“2000 yılının dilinin nasıl görüneceğini bilmiyorum ama adının Fortran olacağını biliyorum.”— CA Hoare, 1982 ❞</i>
+<i>❝"Hayal gücü bilgiden daha önemlidir. Çünkü bilgi sınırlıdır, oysa hayal gücü tüm dünyayı kucaklar, ilerlemeyi teşvik eder, evrimi doğurur." - Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
