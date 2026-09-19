@@ -32,7 +32,7 @@
     ·
     <a href="README.es.md">Española</a>
     ·
-    <a href="README.fr.md">Français</a>
+    <a href="README.tr.md">Türkçe</a>
     ·
     <a href="README.ar.md">عربي</a>
     ·
@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“No sé cómo será el idioma del año 2000, pero sé que se llamará Fortran.”— CA Hoare, 1982 ❞</i>
+<i>❝“La imaginación es más importante que el conocimiento. Porque el conocimiento es limitado, mientras que la imaginación abarca el mundo entero, estimula el progreso y da origen a la evolución.”— Albert Einstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
