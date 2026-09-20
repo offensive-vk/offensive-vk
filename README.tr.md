@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Hayal gücü bilgiden daha önemlidir. Çünkü bilgi sınırlıdır, oysa hayal gücü tüm dünyayı kucaklar, ilerlemeyi teşvik eder, evrimi doğurur." - Albert Einstein ❞</i>
+<i>❝"Bunun yeni bir özellik olduğunu düşünüyorum. Bunun bir kaza olduğunu kimseye söyleme."- Larry Wall ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
