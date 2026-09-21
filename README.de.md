@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥Denke nicht, tue es einfach.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥 Nicht denken, sondern einfach tun.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Phantasie ist wichtiger als Wissen. Denn Wissen ist begrenzt, während Vorstellungskraft die ganze Welt umfasst, den Fortschritt anregt und die Evolution hervorbringt.“ – Albert Einstein ❞</i>
+<i>❝„Es sollte beachtet werden, dass kein ethisch geschulter Softwareentwickler jemals zustimmen würde, ein DestroyBaghdad-Verfahren zu schreiben. Grundlegende Berufsethik würde stattdessen erfordern, dass er ein DestroyCity-Verfahren schreibt, dem Bagdad als Parameter gegeben werden könnte.“ – Nathaniel S. Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
