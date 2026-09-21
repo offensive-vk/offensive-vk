@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我认为这是一个新功能。不要告诉任何人这是一次意外。”— Larry Wall ❞</i>
+<i>❝“应该指出的是，没有经过道德培训的软件工程师会同意编写 DestroyBaghdad 程序。基本的职业道德反而要求他编写 DestroyCity 程序，而巴格达可以作为参数。”— Nathaniel S. Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
