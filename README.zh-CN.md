@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“应该指出的是，没有经过道德培训的软件工程师会同意编写 DestroyBaghdad 程序。基本的职业道德反而要求他编写 DestroyCity 程序，而巴格达可以作为参数。”— Nathaniel S. Borenstein ❞</i>
+<i>❝计算机中的第一个错误是 1947 年在哈佛 Mark II 计算机中发现一只死飞蛾使继电器短路❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
