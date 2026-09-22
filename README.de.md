@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Es sollte beachtet werden, dass kein ethisch geschulter Softwareentwickler jemals zustimmen würde, ein DestroyBaghdad-Verfahren zu schreiben. Grundlegende Berufsethik würde stattdessen erfordern, dass er ein DestroyCity-Verfahren schreibt, dem Bagdad als Parameter gegeben werden könnte.“ – Nathaniel S. Borenstein ❞</i>
+<i>❝Der erste Fehler in einem Computer war eine tote Motte, die 1947 beim Kurzschließen eines Relais im Harvard Mark II-Computer gefunden wurde❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
