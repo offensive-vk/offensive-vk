@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Первой ошибкой в ​​компьютере была дохлая моль, обнаруженная в 1947 году и закоротившая реле в компьютере Harvard Mark II❞.</i>
+<i>❝Первой ошибкой в ​​компьютере была дохлая моль, обнаруженная в 1947 году, закоротившая реле в компьютере Harvard Mark II❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Прокомментировал[#469](https://github.com/offensive-vk/UntilEverything/pull/469#issuecomment-5239798876)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Прокомментировал[#475](https://github.com/offensive-vk/UntilEverything/pull/475#issuecomment-5239787084)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 Вопрос закрыт.[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Закрытый пиар[#486](https://github.com/offensive-vk/UntilEverything/pull/486)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Прокомментировал[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Прокомментировал[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  🔒 Вопрос закрыт.[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Вопрос закрыт.[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 6.  🔒 Вопрос закрыт.[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
