@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Kommentiert[#469](https://github.com/offensive-vk/UntilEverything/pull/469#issuecomment-5239798876)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Kommentiert[#475](https://github.com/offensive-vk/UntilEverything/pull/475#issuecomment-5239787084)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 Geschlossenes Problem[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Geschlossene PR[#486](https://github.com/offensive-vk/UntilEverything/pull/486)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Kommentiert[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Kommentiert[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 4.  🔒 Geschlossenes Problem[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Geschlossenes Problem[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🔒 Geschlossenes Problem[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
