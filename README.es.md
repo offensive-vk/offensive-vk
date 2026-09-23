@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 Comentado en[#469](https://github.com/offensive-vk/UntilEverything/pull/469#issuecomment-5239798876)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Comentado en[#475](https://github.com/offensive-vk/UntilEverything/pull/475#issuecomment-5239787084)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 Número cerrado[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Relaciones públicas cerradas[#486](https://github.com/offensive-vk/UntilEverything/pull/486)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Comentado en[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 Comentado en[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 4.  🔒 Número cerrado[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Número cerrado[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🔒 Número cerrado[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
