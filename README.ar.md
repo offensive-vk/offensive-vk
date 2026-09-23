@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝أول خطأ في الكمبيوتر كان عبارة عن فراشة ميتة تم العثور عليها وهي تقصر جهاز التتابع في كمبيوتر Harvard Mark II في عام 1947❞</i>
+<i>❝أول خطأ في الكمبيوتر كان عبارة عن فراشة ميتة تم العثور عليها وهي تسبب قصرًا في جهاز الكمبيوتر Harvard Mark II في عام 1947❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,9 +147,9 @@
 
 <!--START_SECTION:activity-->
 
-1.  🗣 تم التعليق عليه[#469](https://github.com/offensive-vk/UntilEverything/pull/469#issuecomment-5239798876)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 تم التعليق عليه[#475](https://github.com/offensive-vk/UntilEverything/pull/475#issuecomment-5239787084)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  🔒 قضية مغلقة[#31064](https://github.com/offensive-vk/offensive-vk/issues/31064)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ علاقات عامة مغلقة[#486](https://github.com/offensive-vk/UntilEverything/pull/486)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 تم التعليق عليه[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 4.  🔒 قضية مغلقة[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 قضية مغلقة[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🔒 قضية مغلقة[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
