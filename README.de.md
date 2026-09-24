@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥 Nicht denken, sondern einfach tun.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥Denke nicht, tue es einfach.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der erste Fehler in einem Computer war eine tote Motte, die 1947 beim Kurzschließen eines Relais im Harvard Mark II-Computer gefunden wurde❞</i>
+<i>❝„Das Kommentieren Ihres Codes ist wie das Reinigen Ihres Badezimmers – Sie möchten es nie tun, aber es sorgt tatsächlich für ein angenehmeres Erlebnis für Sie und Ihre Gäste.“ – Ryan Campbell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
