@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝计算机中的第一个错误是 1947 年在哈佛 Mark II 计算机中发现一只死飞蛾使继电器短路❞</i>
+<i>❝“注释你的代码就像打扫你的浴室——你永远不想这样做，但它确实为你和你的客人创造了更愉快的体验。”——Ryan Campbell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
