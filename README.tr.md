@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bilgisayardaki ilk hata, 1947'de Harvard Mark II bilgisayarındaki röleye kısa devre yaparken bulunan ölü bir güveydi❞</i>
+<i>❝"Kodunuza yorum yapmak banyonuzu temizlemek gibidir; bunu asla yapmak istemezsiniz, ancak siz ve misafirleriniz için gerçekten daha hoş bir deneyim yaratır."— Ryan Campbell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
