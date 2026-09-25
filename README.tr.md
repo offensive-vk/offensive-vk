@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Kodunuza yorum yapmak banyonuzu temizlemek gibidir; bunu asla yapmak istemezsiniz, ancak siz ve misafirleriniz için gerçekten daha hoş bir deneyim yaratır."— Ryan Campbell ❞</i>
+<i>❝“10 kişilik bir yazılım proje ekibinde, kendilerini net olumsuz üreticiler haline getirecek kadar kusur üreten muhtemelen 3 kişi vardır.”— Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
