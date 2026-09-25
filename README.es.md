@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Comentar tu código es como limpiar tu baño: nunca querrás hacerlo, pero realmente crea una experiencia más placentera para ti y tus invitados”.—Ryan Campbell ❞</i>
+<i>❝“En un equipo de proyecto de software de 10 personas, probablemente hay 3 personas que producen suficientes defectos como para convertirse en productores netos negativos.”— Gordon Schulmeyer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
