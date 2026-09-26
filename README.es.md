@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En un equipo de proyecto de software de 10 personas, probablemente hay 3 personas que producen suficientes defectos como para convertirse en productores netos negativos.”— Gordon Schulmeyer ❞</i>
+<i>❝Un mecanógrafo profesional escribe rápido y escribe una gran cantidad de palabras diariamente. Si medimos esto como distancia, serán 12,6 millas por día para que los dedos del mecanógrafo las cubran cada día.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
