@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“10 kişilik bir yazılım proje ekibinde, kendilerini net olumsuz üreticiler haline getirecek kadar kusur üreten muhtemelen 3 kişi vardır.”— Gordon Schulmeyer ❞</i>
+<i>❝Profesyonel bir daktilo hızlı yazar ve her gün çok miktarda kelime yazar. Bunu mesafe olarak ölçersek, daktilonun parmaklarının her gün kat edeceği mesafe günde 19,6 mil olacaktır.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
