@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Eine professionelle Schreibkraft tippt schnell und täglich große Mengen an Wörtern. Wenn wir dies als Entfernung messen, sind es 12,6 Meilen pro Tag, die die Finger der Schreibkraft jeden Tag zurücklegen müssen.❞</i>
+<i>❝„Im Jahr 2031 werden Anwälte häufig Teil der meisten Entwicklungsteams sein.“ – Grady Booch ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
