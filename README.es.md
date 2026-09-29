@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Un mecanógrafo profesional escribe rápido y escribe una gran cantidad de palabras diariamente. Si medimos esto como distancia, serán 12,6 millas por día para que los dedos del mecanógrafo las cubran cada día.❞</i>
+<i>❝El nombre original de Windows era Interface Manager.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
