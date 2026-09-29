@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"في عام 2031، سيكون المحامون عادةً جزءًا من معظم فرق التطوير." - جرادي بوتش ❞</i>
+<i>❝الاسم الأصلي لنظام التشغيل Windows هو Interface Manager.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
