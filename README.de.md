@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Im Jahr 2031 werden Anwälte häufig Teil der meisten Entwicklungsteams sein.“ – Grady Booch ❞</i>
+<i>❝Der ursprüngliche Name von Windows war Interface Manager.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
