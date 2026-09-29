@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“到 2031 年，律师将成为大多数开发团队的共同成员。”— Grady Booch ❞</i>
+<i>❝Windows 的原名是 Interface Manager。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
