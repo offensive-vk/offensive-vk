@@ -16,6 +16,4 @@
 15. ✅ Approved on pull request [#10071](https://github.com/offensive-vk/Classics/pull/10071) in [offensive-vk/Classics](https://github.com/offensive-vk/Classics)
 16. ✅ Approved on pull request [#482](https://github.com/offensive-vk/UntilEverything/pull/482) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 17. ✅ Approved on pull request [#81](https://github.com/offensive-vk/develop-actions/pull/81) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-18. ✅ Approved on pull request [#481](https://github.com/offensive-vk/UntilEverything/pull/481) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-19. ✅ Approved on pull request [#481](https://github.com/offensive-vk/UntilEverything/pull/481) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
