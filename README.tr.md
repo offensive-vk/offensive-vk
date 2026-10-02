@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bugün cep telefonunuzdaki bilgisayar, 1965'te MIT'deki tek bilgisayardan milyon kat daha ucuz, binlerce kat daha güçlü ve yaklaşık yüz binlerce kat daha küçük.❞</i>
+<i>❝Tandy TRS-80 Model I bilgisayarı o kadar çok parazit yaydı ki, birçok oyun bilgisayarın yanındaki AM radyonun ses sağlamak için kullanılabileceği şekilde tasarlandı.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
