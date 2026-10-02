@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“我们必须停止为程序员优化，并开始为用户优化。”— Jeff Atwood ❞</i>
+<i>❝Tandy TRS-80 Model I 计算机辐射出的干扰非常大，以至于许多游戏都设计为可以使用计算机旁边的 AM 收音机来提供声音。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
