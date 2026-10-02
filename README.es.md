@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Tenemos que dejar de optimizar para los programadores y comenzar a optimizar para los usuarios”.— Jeff Atwood ❞</i>
+<i>❝La computadora Tandy TRS-80 Modelo I irradiaba tanta interferencia que muchos juegos se diseñaron para que se pudiera usar una radio AM al lado de la computadora para proporcionar sonidos.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
