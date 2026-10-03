@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Tandy TRS-80 Model I 计算机辐射出的干扰非常大，以至于许多游戏都设计为可以使用计算机旁边的 AM 收音机来提供声音。❞</i>
+<i>❝“两年后，垃圾邮件将得到解决。”——比尔盖茨，2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
