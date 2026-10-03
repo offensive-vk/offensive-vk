@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La computadora Tandy TRS-80 Modelo I irradiaba tanta interferencia que muchos juegos se diseñaron para que se pudiera usar una radio AM al lado de la computadora para proporcionar sonidos.❞</i>
+<i>❝“Dentro de dos años, el spam estará resuelto.”— Bill Gates, 2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
