@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Der Computer Tandy TRS-80 Modell I strahlte so viele Störungen aus, dass viele Spiele so konzipiert waren, dass ein AM-Radio neben dem Computer für die Tonübertragung verwendet werden konnte.❞</i>
+<i>❝„Ohne einen systematischen Ansatz und die Datenbereinigung werden schlechte Daten entstehen.“ – Donato Diorio❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Geschlossene PR[#486](https://github.com/offensive-vk/UntilEverything/pull/486)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Kommentiert[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 Kommentiert[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 Geschlossenes Problem[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Geschlossenes Problem[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Geschlossene PR[#489](https://github.com/offensive-vk/UntilEverything/pull/489)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Kommentiert[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  ❌ Geschlossene PR[#486](https://github.com/offensive-vk/UntilEverything/pull/486)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 Kommentiert[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🗣 Kommentiert[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 6.  🔒 Geschlossenes Problem[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 7.  🔒 Geschlossenes Problem[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 8.  🔒 Geschlossenes Problem[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
