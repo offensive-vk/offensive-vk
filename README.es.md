@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Dentro de dos años, el spam estará resuelto.”— Bill Gates, 2004 ❞</i>
+<i>❝“Sin una forma sistemática de iniciar y mantener limpios los datos, aparecerán datos incorrectos.”—Donato Diorio❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Relaciones públicas cerradas[#486](https://github.com/offensive-vk/UntilEverything/pull/486)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Comentado en[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 Comentado en[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 Número cerrado[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Número cerrado[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Relaciones públicas cerradas[#489](https://github.com/offensive-vk/UntilEverything/pull/489)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Comentado en[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+3.  ❌ Relaciones públicas cerradas[#486](https://github.com/offensive-vk/UntilEverything/pull/486)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 Comentado en[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
+5.  🗣 Comentado en[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)en[ofensivo-vk/Hasta todo](https://github.com/offensive-vk/UntilEverything)
 6.  🔒 Número cerrado[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 7.  🔒 Número cerrado[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
 8.  🔒 Número cerrado[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)en[ofensivo-vk/ofensivo-vk](https://github.com/offensive-vk/offensive-vk)
