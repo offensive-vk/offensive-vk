@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝يصدر كمبيوتر Tandy TRS-80 Model I الكثير من التداخل لدرجة أنه تم تصميم العديد من الألعاب بحيث يمكن استخدام راديو AM بجوار الكمبيوتر لتوفير الأصوات.❞</i>
+<i>❝"بدون طريقة منهجية لبدء البيانات والحفاظ عليها نظيفة، ستحدث بيانات سيئة." - دوناتو ديوريو❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ علاقات عامة مغلقة[#486](https://github.com/offensive-vk/UntilEverything/pull/486)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 تم التعليق عليه[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 تم التعليق عليه[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 قضية مغلقة[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 قضية مغلقة[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ علاقات عامة مغلقة[#489](https://github.com/offensive-vk/UntilEverything/pull/489)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 تم التعليق عليه[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  ❌ علاقات عامة مغلقة[#486](https://github.com/offensive-vk/UntilEverything/pull/486)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 تم التعليق عليه[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+5.  🗣 تم التعليق عليه[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 6.  🔒 قضية مغلقة[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 7.  🔒 قضية مغلقة[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
 8.  🔒 قضية مغلقة[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
