@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝ «Через два года проблема спама будет решена» — Билл Гейтс, 2004 г. ❞</i>
+<i>❝ «Без систематического способа запуска и поддержания чистоты данных будут получены плохие данные». — Донато Диорио❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ Закрытый пиар[#486](https://github.com/offensive-vk/UntilEverything/pull/486)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 Прокомментировал[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 Прокомментировал[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 Вопрос закрыт.[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 Вопрос закрыт.[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ Закрытый пиар[#489](https://github.com/offensive-vk/UntilEverything/pull/489)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 Прокомментировал[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  ❌ Закрытый пиар[#486](https://github.com/offensive-vk/UntilEverything/pull/486)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 Прокомментировал[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🗣 Прокомментировал[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)в[наступление-вк/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 6.  🔒 Вопрос закрыт.[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 7.  🔒 Вопрос закрыт.[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
 8.  🔒 Вопрос закрыт.[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)в[наступление-вк/наступление-вк](https://github.com/offensive-vk/offensive-vk)
