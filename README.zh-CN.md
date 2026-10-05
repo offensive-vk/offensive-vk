@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“两年后，垃圾邮件将得到解决。”——比尔盖茨，2004 ❞</i>
+<i>❝“如今，大多数软件的存在不是为了解决问题，而是为了与其他软件交互。”—— IO Angell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,11 +147,11 @@
 
 <!--START_SECTION:activity-->
 
-1.  ❌ 封闭公关[#486](https://github.com/offensive-vk/UntilEverything/pull/486)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  🗣 已发表评论[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  🗣 已发表评论[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🔒 已关闭问题[#31063](https://github.com/offensive-vk/offensive-vk/issues/31063)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-5.  🔒 已关闭问题[#31062](https://github.com/offensive-vk/offensive-vk/issues/31062)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  ❌ 封闭公关[#489](https://github.com/offensive-vk/UntilEverything/pull/489)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  🗣 已发表评论[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  ❌ 封闭公关[#486](https://github.com/offensive-vk/UntilEverything/pull/486)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🗣 已发表评论[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+5.  🗣 已发表评论[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 6.  🔒 已关闭问题[#31061](https://github.com/offensive-vk/offensive-vk/issues/31061)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 7.  🔒 已关闭问题[#31059](https://github.com/offensive-vk/offensive-vk/issues/31059)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
 8.  🔒 已关闭问题[#31058](https://github.com/offensive-vk/offensive-vk/issues/31058)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
