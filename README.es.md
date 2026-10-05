@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Sin una forma sistemática de iniciar y mantener limpios los datos, aparecerán datos incorrectos.”—Donato Diorio❞</i>
+<i>❝“Hoy en día, la mayoría del software existe no para resolver un problema, sino para interactuar con otro software.”— IO Angell ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
