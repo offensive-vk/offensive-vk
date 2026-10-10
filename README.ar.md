@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"كلمات المرور مثل الملابس الداخلية: لا تسمح للأشخاص برؤيتها، ويجب عليك تغييرها كثيرًا، ويجب ألا تشاركها مع الغرباء." — كريس بيريللو ❞</i>
+<i>❝"أنا لست من أولئك الذين يعتقدون أن بيل جيتس هو الشيطان. أنا ببساطة أظن أنه إذا التقت مايكروسوفت بالشيطان، فلن تحتاج إلى مترجم." - نيكولاس بيتريلي ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,17 +147,17 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)في[هجوم-vk/x-غير معلن](https://github.com/offensive-vk/x-undisclosed)
-2.  💪 فتح العلاقات العامة[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)في[هجوم-vk/x-غير معلن](https://github.com/offensive-vk/x-undisclosed)
-3.  🔒 قضية مغلقة[#42](https://github.com/offensive-vk/auto-label/issues/42)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-4.  ❌ علاقات عامة مغلقة[#489](https://github.com/offensive-vk/UntilEverything/pull/489)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-5.  🗣 تم التعليق عليه[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-6.  ❌ علاقات عامة مغلقة[#486](https://github.com/offensive-vk/UntilEverything/pull/486)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-7.  🗣 تم التعليق عليه[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-8.  🗣 تم التعليق عليه[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-9.  🔒 قضية مغلقة[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 قضية مغلقة[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 قضية مغلقة[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+1.  💪 فتح العلاقات العامة[#497](https://github.com/offensive-vk/UntilEverything/pull/497)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+2.  ❌ علاقات عامة مغلقة[#493](https://github.com/offensive-vk/UntilEverything/pull/493)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 تم التعليق عليه[#493](https://github.com/offensive-vk/UntilEverything/pull/493#issuecomment-6042796279)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)في[هجوم-vk/x-غير معلن](https://github.com/offensive-vk/x-undisclosed)
+5.  💪 فتح العلاقات العامة[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)في[هجوم-vk/x-غير معلن](https://github.com/offensive-vk/x-undisclosed)
+6.  🔒 قضية مغلقة[#42](https://github.com/offensive-vk/auto-label/issues/42)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
+7.  ❌ علاقات عامة مغلقة[#489](https://github.com/offensive-vk/UntilEverything/pull/489)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+8.  🗣 تم التعليق عليه[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+9.  ❌ علاقات عامة مغلقة[#486](https://github.com/offensive-vk/UntilEverything/pull/486)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+10. 🗣 تم التعليق عليه[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
+11. 🗣 تم التعليق عليه[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 12. 🗣 تم التعليق عليه[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 13. 🗣 تم التعليق عليه[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
 14. 🔒 قضية مغلقة[#5](https://github.com/offensive-vk/Temp/issues/5)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
