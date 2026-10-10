@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Şifreler iç çamaşırı gibidir: insanların görmesine izin vermemelisiniz, çok sık değiştirmelisiniz ve yabancılarla paylaşmamalısınız.”— Chris Pirillo ❞</i>
+<i>❝"Bill Gates'in şeytan olduğunu düşünenlerden değilim. Yalnızca Microsoft'un şeytanla karşılaşması halinde tercümana ihtiyaç duymayacağını düşünüyorum."— Nicholas Petreley ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,17 +147,17 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Birleştirilmiş PR[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)içinde[saldırı-vk/x-açıklanmadı](https://github.com/offensive-vk/x-undisclosed)
-2.  💪 PR açıldı[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)içinde[saldırı-vk/x-açıklanmadı](https://github.com/offensive-vk/x-undisclosed)
-3.  🔒 Kapalı konu[#42](https://github.com/offensive-vk/auto-label/issues/42)içinde[saldırgan-vk/otomatik etiket](https://github.com/offensive-vk/auto-label)
-4.  ❌ Kapalı PR[#489](https://github.com/offensive-vk/UntilEverything/pull/489)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🗣Yorumlandı[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6.  ❌ Kapalı PR[#486](https://github.com/offensive-vk/UntilEverything/pull/486)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-7.  🗣Yorumlandı[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-8.  🗣Yorumlandı[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-9.  🔒 Kapalı konu[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 Kapalı konu[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 Kapalı konu[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+1.  💪 PR açıldı[#497](https://github.com/offensive-vk/UntilEverything/pull/497)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  ❌ Kapalı PR[#493](https://github.com/offensive-vk/UntilEverything/pull/493)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣Yorumlandı[#493](https://github.com/offensive-vk/UntilEverything/pull/493#issuecomment-6042796279)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 Birleştirilmiş PR[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)içinde[saldırı-vk/x-açıklanmadı](https://github.com/offensive-vk/x-undisclosed)
+5.  💪 PR açıldı[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)içinde[saldırı-vk/x-açıklanmadı](https://github.com/offensive-vk/x-undisclosed)
+6.  🔒 Kapalı konu[#42](https://github.com/offensive-vk/auto-label/issues/42)içinde[saldırgan-vk/otomatik etiket](https://github.com/offensive-vk/auto-label)
+7.  ❌ Kapalı PR[#489](https://github.com/offensive-vk/UntilEverything/pull/489)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8.  🗣Yorumlandı[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9.  ❌ Kapalı PR[#486](https://github.com/offensive-vk/UntilEverything/pull/486)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+10. 🗣Yorumlandı[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣Yorumlandı[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 12. 🗣Yorumlandı[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 13. 🗣Yorumlandı[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 14. 🔒 Kapalı konu[#5](https://github.com/offensive-vk/Temp/issues/5)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
