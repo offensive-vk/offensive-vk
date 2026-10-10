@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“密码就像内衣：你不能让别人看到它，你应该经常更改它，并且你不应该与陌生人分享它。”- Chris Pirillo ❞</i>
+<i>❝“我不是那些认为比尔·盖茨是魔鬼的人。我只是怀疑，如果微软遇到了魔鬼，它就不需要翻译了。”——尼古拉斯·彼得雷利❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,17 +147,17 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)在[进攻性-vk/x-未公开](https://github.com/offensive-vk/x-undisclosed)
-2.  💪 开启公关[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)在[进攻性-vk/x-未公开](https://github.com/offensive-vk/x-undisclosed)
-3.  🔒 已关闭问题[#42](https://github.com/offensive-vk/auto-label/issues/42)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-4.  ❌ 封闭公关[#489](https://github.com/offensive-vk/UntilEverything/pull/489)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🗣 已发表评论[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-6.  ❌ 封闭公关[#486](https://github.com/offensive-vk/UntilEverything/pull/486)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-7.  🗣 已发表评论[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-8.  🗣 已发表评论[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-9.  🔒 已关闭问题[#31056](https://github.com/offensive-vk/offensive-vk/issues/31056)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-10. 🔒 已关闭问题[#31054](https://github.com/offensive-vk/offensive-vk/issues/31054)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
-11. 🔒 已关闭问题[#31052](https://github.com/offensive-vk/offensive-vk/issues/31052)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+1.  💪 开启公关[#497](https://github.com/offensive-vk/UntilEverything/pull/497)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+2.  ❌ 封闭公关[#493](https://github.com/offensive-vk/UntilEverything/pull/493)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+3.  🗣 已发表评论[#493](https://github.com/offensive-vk/UntilEverything/pull/493#issuecomment-6042796279)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+4.  🎉 合并公关[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)在[进攻性-vk/x-未公开](https://github.com/offensive-vk/x-undisclosed)
+5.  💪 开启公关[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)在[进攻性-vk/x-未公开](https://github.com/offensive-vk/x-undisclosed)
+6.  🔒 已关闭问题[#42](https://github.com/offensive-vk/auto-label/issues/42)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
+7.  ❌ 封闭公关[#489](https://github.com/offensive-vk/UntilEverything/pull/489)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+8.  🗣 已发表评论[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+9.  ❌ 封闭公关[#486](https://github.com/offensive-vk/UntilEverything/pull/486)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+10. 🗣 已发表评论[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
+11. 🗣 已发表评论[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 12. 🗣 已发表评论[#462](https://github.com/offensive-vk/UntilEverything/pull/462#issuecomment-4945468541)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 13. 🗣 已发表评论[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 14. 🔒 已关闭问题[#5](https://github.com/offensive-vk/Temp/issues/5)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
