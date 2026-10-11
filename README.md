@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the `goal`_. <br>🧑‍💻 I like to audit computer & `code`. <br>🤝 I’m . <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning _LLMs_ thingy. <br>💬 Ask me about automation. <br>⚡ Fun fact: no fun, only logs. <br>💥 Dont think, just do. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   ❞</i>
+<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
