@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝大约 50% 的维基百科破坏行为是由单个计算机程序捕获的，准确率超过 90%。❞</i>
+<i>❝由 12 名工程师组成的团队设计了 IBM PC，他们被称为“The Dirty Dozen”。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
