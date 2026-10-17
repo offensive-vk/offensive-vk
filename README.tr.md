@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝12 mühendisten oluşan bir grup IBM PC'yi tasarladı ve onlara “Kirli Düzine” adı verildi.❞</i>
+<i>❝"Gelecekte bilgisayarların ağırlığı 1,5 tondan fazla olmayacak."— Popüler mekanikler, 1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
