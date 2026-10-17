@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝由 12 名工程师组成的团队设计了 IBM PC，他们被称为“The Dirty Dozen”。❞</i>
+<i>❝“未来，计算机的重量可能不会超过 1.5 吨。”——《大众机械师》，1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
