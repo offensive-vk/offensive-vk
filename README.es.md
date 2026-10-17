@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Un grupo de 12 ingenieros diseñó la PC IBM y la llamaron “La Docena Sucia”.❞</i>
+<i>❝“En el futuro, las computadoras quizás no pesen más de 1,5 toneladas.”—Mecánica popular, 1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
