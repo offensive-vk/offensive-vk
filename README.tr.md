@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Gelecekte bilgisayarların ağırlığı 1,5 tondan fazla olmayacak."— Popüler mekanikler, 1949 ❞</i>
+<i>❝Amazon ciltli kitap satıcısıydı ama aslında artık sert kapaktan daha fazla e-kitap satıyor❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
