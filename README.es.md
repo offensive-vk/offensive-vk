@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En el futuro, las computadoras quizás no pesen más de 1,5 toneladas.”—Mecánica popular, 1949 ❞</i>
+<i>❝Amazon era un vendedor de libros de tapa dura, pero en realidad ahora vende más libros electrónicos que de tapa dura❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
