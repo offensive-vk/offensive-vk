@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„In Zukunft dürfen Computer nicht mehr als 1,5 Tonnen wiegen.“ – Populäre Mechanik, 1949 ❞</i>
+<i>❝Amazon war ein Anbieter von Hardcover-Büchern, verkauft aber mittlerweile mehr E-Books als Hardcover-Bücher❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
