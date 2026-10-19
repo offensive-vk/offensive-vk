@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Amazon war ein Anbieter von Hardcover-Büchern, verkauft aber mittlerweile mehr E-Books als Hardcover-Bücher❞</i>
+<i>❝„Wenn der Code und die Kommentare nicht übereinstimmen, sind möglicherweise beide falsch.“ – Norm Schryer ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
