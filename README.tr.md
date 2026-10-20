@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Amazon ciltli kitap satıcısıydı ama aslında artık sert kapaktan daha fazla e-kitap satıyor❞</i>
+<i>❝"Eğer bir karışıklığı otomatikleştirirseniz, otomatikleştirilmiş bir karışıklık elde edersiniz." - Rod Michael ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
