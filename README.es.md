@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Amazon era un vendedor de libros de tapa dura, pero en realidad ahora vende más libros electrónicos que de tapa dura❞</i>
+<i>❝“Si automatizas un desorden, obtienes un desorden automatizado.”— Rod Michael ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
