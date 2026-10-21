@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“如果你让混乱自动化，那么你就会自动陷入混乱。”——罗德·迈克尔❞</i>
+<i>❝“应该指出的是，没有经过道德培训的软件工程师会同意编写 DestroyBaghdad 程序。基本的职业道德反而要求他编写 DestroyCity 程序，而巴格达可以作为参数。”— Nathaniel S. Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
