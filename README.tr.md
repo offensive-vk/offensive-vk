@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Eğer bir karışıklığı otomatikleştirirseniz, otomatikleştirilmiş bir karışıklık elde edersiniz." - Rod Michael ❞</i>
+<i>❝"Etik açıdan eğitimli hiçbir yazılım mühendisinin Bağdat'ı Destroy prosedürü yazmaya asla izin vermeyeceği unutulmamalıdır. Temel profesyonel etik onun yerine Bağdat'ın parametre olarak verilebileceği bir DestroyCity prosedürü yazmasını gerektirir."— Nathaniel S. Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
