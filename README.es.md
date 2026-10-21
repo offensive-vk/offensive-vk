@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Si automatizas un desorden, obtienes un desorden automatizado.”— Rod Michael ❞</i>
+<i>❝"Cabe señalar que ningún ingeniero de software con formación ética consentiría jamás en escribir un procedimiento DestroyBaghdad. La ética profesional básica le exigiría, en cambio, escribir un procedimiento DestroyCity, al que se le podría dar Bagdad como parámetro".—Nathaniel S. Borenstein ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
