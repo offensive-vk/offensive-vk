@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Es sollte beachtet werden, dass kein ethisch geschulter Softwareentwickler jemals zustimmen würde, ein DestroyBaghdad-Verfahren zu schreiben. Grundlegende Berufsethik würde stattdessen erfordern, dass er ein DestroyCity-Verfahren schreibt, dem Bagdad als Parameter gegeben werden könnte.“ – Nathaniel S. Borenstein ❞</i>
+<i>❝„Ich sehe für mindestens zehn Jahre kaum kommerzielles Potenzial für das Internet.“ – Bill Gates, 1994 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
