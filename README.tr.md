@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Etik açıdan eğitimli hiçbir yazılım mühendisinin Bağdat'ı Destroy prosedürü yazmaya asla izin vermeyeceği unutulmamalıdır. Temel profesyonel etik onun yerine Bağdat'ın parametre olarak verilebileceği bir DestroyCity prosedürü yazmasını gerektirir."— Nathaniel S. Borenstein ❞</i>
+<i>❝Aslında ABD'de ilk kez 1980'de yapılan Asteroids ve Lunar Lander adında iki oyun var.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Birleştirilmiş PR[#497](https://github.com/offensive-vk/UntilEverything/pull/497)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  💪 PR açıldı[#497](https://github.com/offensive-vk/UntilEverything/pull/497)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  ❌ Kapalı PR[#493](https://github.com/offensive-vk/UntilEverything/pull/493)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🗣Yorumlandı[#493](https://github.com/offensive-vk/UntilEverything/pull/493#issuecomment-6042796279)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Birleştirilmiş PR[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)içinde[saldırı-vk/x-açıklanmadı](https://github.com/offensive-vk/x-undisclosed)
-6.  💪 PR açıldı[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)içinde[saldırı-vk/x-açıklanmadı](https://github.com/offensive-vk/x-undisclosed)
-7.  🔒 Kapalı konu[#42](https://github.com/offensive-vk/auto-label/issues/42)içinde[saldırgan-vk/otomatik etiket](https://github.com/offensive-vk/auto-label)
-8.  ❌ Kapalı PR[#489](https://github.com/offensive-vk/UntilEverything/pull/489)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-9.  🗣Yorumlandı[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. ❌ Kapalı PR[#486](https://github.com/offensive-vk/UntilEverything/pull/486)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🗣Yorumlandı[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🗣Yorumlandı[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🗣Yorumlandı[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)içinde[saldırgan-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🔒 Kapalı konu[#5](https://github.com/offensive-vk/Temp/issues/5)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 Kapalı konu[#4](https://github.com/offensive-vk/Temp/issues/4)içinde[saldırı-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🔒 Kapalı konu[#31079](https://github.com/offensive-vk/offensive-vk/issues/31079)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Kapalı konu[#31091](https://github.com/offensive-vk/offensive-vk/issues/31091)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Kapalı konu[#31087](https://github.com/offensive-vk/offensive-vk/issues/31087)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Kapalı konu[#31090](https://github.com/offensive-vk/offensive-vk/issues/31090)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Kapalı konu[#31088](https://github.com/offensive-vk/offensive-vk/issues/31088)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 Kapalı konu[#31085](https://github.com/offensive-vk/offensive-vk/issues/31085)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Kapalı konu[#31089](https://github.com/offensive-vk/offensive-vk/issues/31089)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Kapalı konu[#31082](https://github.com/offensive-vk/offensive-vk/issues/31082)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Kapalı konu[#31086](https://github.com/offensive-vk/offensive-vk/issues/31086)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Kapalı konu[#31084](https://github.com/offensive-vk/offensive-vk/issues/31084)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Kapalı konu[#31083](https://github.com/offensive-vk/offensive-vk/issues/31083)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Kapalı konu[#31081](https://github.com/offensive-vk/offensive-vk/issues/31081)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Kapalı konu[#31076](https://github.com/offensive-vk/offensive-vk/issues/31076)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Kapalı konu[#31071](https://github.com/offensive-vk/offensive-vk/issues/31071)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Kapalı konu[#31080](https://github.com/offensive-vk/offensive-vk/issues/31080)içinde[saldırı-vk/saldırı-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
