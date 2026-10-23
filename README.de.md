@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥 Nicht denken, sondern einfach tun.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥Denke nicht, tue es einfach.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ich sehe für mindestens zehn Jahre kaum kommerzielles Potenzial für das Internet.“ – Bill Gates, 1994 ❞</i>
+<i>❝Nun, es gibt zwei Spiele, die 1980 die ersten in den USA waren: Asteroids und Lunar Lander.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 Zusammengeführte PR[#497](https://github.com/offensive-vk/UntilEverything/pull/497)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  💪 PR eröffnet[#497](https://github.com/offensive-vk/UntilEverything/pull/497)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  ❌ Geschlossene PR[#493](https://github.com/offensive-vk/UntilEverything/pull/493)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 Kommentiert[#493](https://github.com/offensive-vk/UntilEverything/pull/493#issuecomment-6042796279)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 Zusammengeführte PR[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)In[offensive-vk/x-undisclosed](https://github.com/offensive-vk/x-undisclosed)
-6.  💪 PR eröffnet[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)In[offensive-vk/x-undisclosed](https://github.com/offensive-vk/x-undisclosed)
-7.  🔒 Geschlossenes Problem[#42](https://github.com/offensive-vk/auto-label/issues/42)In[offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-8.  ❌ Geschlossene PR[#489](https://github.com/offensive-vk/UntilEverything/pull/489)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-9.  🗣 Kommentiert[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. ❌ Geschlossene PR[#486](https://github.com/offensive-vk/UntilEverything/pull/486)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🗣 Kommentiert[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🗣 Kommentiert[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🗣 Kommentiert[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)In[offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🔒 Geschlossenes Problem[#5](https://github.com/offensive-vk/Temp/issues/5)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 Geschlossenes Problem[#4](https://github.com/offensive-vk/Temp/issues/4)In[offensive-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🔒 Geschlossenes Problem[#31079](https://github.com/offensive-vk/offensive-vk/issues/31079)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 Geschlossenes Problem[#31091](https://github.com/offensive-vk/offensive-vk/issues/31091)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 Geschlossenes Problem[#31087](https://github.com/offensive-vk/offensive-vk/issues/31087)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 Geschlossenes Problem[#31090](https://github.com/offensive-vk/offensive-vk/issues/31090)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 Geschlossenes Problem[#31088](https://github.com/offensive-vk/offensive-vk/issues/31088)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 Geschlossenes Problem[#31085](https://github.com/offensive-vk/offensive-vk/issues/31085)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 Geschlossenes Problem[#31089](https://github.com/offensive-vk/offensive-vk/issues/31089)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 Geschlossenes Problem[#31082](https://github.com/offensive-vk/offensive-vk/issues/31082)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 Geschlossenes Problem[#31086](https://github.com/offensive-vk/offensive-vk/issues/31086)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 Geschlossenes Problem[#31084](https://github.com/offensive-vk/offensive-vk/issues/31084)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 Geschlossenes Problem[#31083](https://github.com/offensive-vk/offensive-vk/issues/31083)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 Geschlossenes Problem[#31081](https://github.com/offensive-vk/offensive-vk/issues/31081)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 Geschlossenes Problem[#31076](https://github.com/offensive-vk/offensive-vk/issues/31076)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 Geschlossenes Problem[#31071](https://github.com/offensive-vk/offensive-vk/issues/31071)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 Geschlossenes Problem[#31080](https://github.com/offensive-vk/offensive-vk/issues/31080)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
