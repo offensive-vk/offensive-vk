@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“应该指出的是，没有经过道德培训的软件工程师会同意编写 DestroyBaghdad 程序。基本的职业道德反而要求他编写 DestroyCity 程序，而巴格达可以作为参数。”— Nathaniel S. Borenstein ❞</i>
+<i>❝嗯，有两款游戏是 1980 年在美国制作的第一款游戏，分别是《Asteroids》和《Lunar Lander》。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 合并公关[#497](https://github.com/offensive-vk/UntilEverything/pull/497)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-2.  💪 开启公关[#497](https://github.com/offensive-vk/UntilEverything/pull/497)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-3.  ❌ 封闭公关[#493](https://github.com/offensive-vk/UntilEverything/pull/493)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 已发表评论[#493](https://github.com/offensive-vk/UntilEverything/pull/493#issuecomment-6042796279)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 合并公关[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)在[进攻性-vk/x-未公开](https://github.com/offensive-vk/x-undisclosed)
-6.  💪 开启公关[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)在[进攻性-vk/x-未公开](https://github.com/offensive-vk/x-undisclosed)
-7.  🔒 已关闭问题[#42](https://github.com/offensive-vk/auto-label/issues/42)在[进攻性-vk/自动标签](https://github.com/offensive-vk/auto-label)
-8.  ❌ 封闭公关[#489](https://github.com/offensive-vk/UntilEverything/pull/489)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-9.  🗣 已发表评论[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-10. ❌ 封闭公关[#486](https://github.com/offensive-vk/UntilEverything/pull/486)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-11. 🗣 已发表评论[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-12. 🗣 已发表评论[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-13. 🗣 已发表评论[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)在[进攻-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-14. 🔒 已关闭问题[#5](https://github.com/offensive-vk/Temp/issues/5)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
-15. 🔒 已关闭问题[#4](https://github.com/offensive-vk/Temp/issues/4)在[进攻-vk/Temp](https://github.com/offensive-vk/Temp)
+1.  🔒 已关闭问题[#31079](https://github.com/offensive-vk/offensive-vk/issues/31079)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 已关闭问题[#31091](https://github.com/offensive-vk/offensive-vk/issues/31091)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 已关闭问题[#31087](https://github.com/offensive-vk/offensive-vk/issues/31087)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 已关闭问题[#31090](https://github.com/offensive-vk/offensive-vk/issues/31090)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 已关闭问题[#31088](https://github.com/offensive-vk/offensive-vk/issues/31088)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 已关闭问题[#31085](https://github.com/offensive-vk/offensive-vk/issues/31085)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 已关闭问题[#31089](https://github.com/offensive-vk/offensive-vk/issues/31089)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 已关闭问题[#31082](https://github.com/offensive-vk/offensive-vk/issues/31082)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 已关闭问题[#31086](https://github.com/offensive-vk/offensive-vk/issues/31086)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 已关闭问题[#31084](https://github.com/offensive-vk/offensive-vk/issues/31084)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 已关闭问题[#31083](https://github.com/offensive-vk/offensive-vk/issues/31083)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 已关闭问题[#31081](https://github.com/offensive-vk/offensive-vk/issues/31081)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 已关闭问题[#31076](https://github.com/offensive-vk/offensive-vk/issues/31076)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 已关闭问题[#31071](https://github.com/offensive-vk/offensive-vk/issues/31071)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 已关闭问题[#31080](https://github.com/offensive-vk/offensive-vk/issues/31080)在[进攻-vk/进攻-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
