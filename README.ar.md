@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"أرى إمكانات تجارية ضئيلة للإنترنت لمدة عشر سنوات على الأقل." - بيل جيتس، 1994 ❞</i>
+<i>❝حسنًا، هناك لعبتان تم إنتاجهما لأول مرة في الولايات المتحدة وهما Asteroids وLunar Lander في عام 1980.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -147,21 +147,21 @@
 
 <!--START_SECTION:activity-->
 
-1.  🎉 العلاقات العامة المدمجة[#497](https://github.com/offensive-vk/UntilEverything/pull/497)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-2.  💪 فتح العلاقات العامة[#497](https://github.com/offensive-vk/UntilEverything/pull/497)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-3.  ❌ علاقات عامة مغلقة[#493](https://github.com/offensive-vk/UntilEverything/pull/493)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-4.  🗣 تم التعليق عليه[#493](https://github.com/offensive-vk/UntilEverything/pull/493#issuecomment-6042796279)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-5.  🎉 العلاقات العامة المدمجة[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)في[هجوم-vk/x-غير معلن](https://github.com/offensive-vk/x-undisclosed)
-6.  💪 فتح العلاقات العامة[#1](https://github.com/offensive-vk/x-undisclosed/pull/1)في[هجوم-vk/x-غير معلن](https://github.com/offensive-vk/x-undisclosed)
-7.  🔒 قضية مغلقة[#42](https://github.com/offensive-vk/auto-label/issues/42)في[الهجوم-vk/التسمية التلقائية](https://github.com/offensive-vk/auto-label)
-8.  ❌ علاقات عامة مغلقة[#489](https://github.com/offensive-vk/UntilEverything/pull/489)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-9.  🗣 تم التعليق عليه[#489](https://github.com/offensive-vk/UntilEverything/pull/489#issuecomment-5966411104)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-10. ❌ علاقات عامة مغلقة[#486](https://github.com/offensive-vk/UntilEverything/pull/486)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-11. 🗣 تم التعليق عليه[#486](https://github.com/offensive-vk/UntilEverything/pull/486#issuecomment-5778945561)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-12. 🗣 تم التعليق عليه[#487](https://github.com/offensive-vk/UntilEverything/pull/487#issuecomment-5776550954)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-13. 🗣 تم التعليق عليه[#464](https://github.com/offensive-vk/UntilEverything/pull/464#issuecomment-4945454616)في[الهجوم-vk/حتى كل شيء](https://github.com/offensive-vk/UntilEverything)
-14. 🔒 قضية مغلقة[#5](https://github.com/offensive-vk/Temp/issues/5)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
-15. 🔒 قضية مغلقة[#4](https://github.com/offensive-vk/Temp/issues/4)في[هجوم-vk/درجة الحرارة](https://github.com/offensive-vk/Temp)
+1.  🔒 قضية مغلقة[#31079](https://github.com/offensive-vk/offensive-vk/issues/31079)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+2.  🔒 قضية مغلقة[#31091](https://github.com/offensive-vk/offensive-vk/issues/31091)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒 قضية مغلقة[#31087](https://github.com/offensive-vk/offensive-vk/issues/31087)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+4.  🔒 قضية مغلقة[#31090](https://github.com/offensive-vk/offensive-vk/issues/31090)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+5.  🔒 قضية مغلقة[#31088](https://github.com/offensive-vk/offensive-vk/issues/31088)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+6.  🔒 قضية مغلقة[#31085](https://github.com/offensive-vk/offensive-vk/issues/31085)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+7.  🔒 قضية مغلقة[#31089](https://github.com/offensive-vk/offensive-vk/issues/31089)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒 قضية مغلقة[#31082](https://github.com/offensive-vk/offensive-vk/issues/31082)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+9.  🔒 قضية مغلقة[#31086](https://github.com/offensive-vk/offensive-vk/issues/31086)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+10. 🔒 قضية مغلقة[#31084](https://github.com/offensive-vk/offensive-vk/issues/31084)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+11. 🔒 قضية مغلقة[#31083](https://github.com/offensive-vk/offensive-vk/issues/31083)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+12. 🔒 قضية مغلقة[#31081](https://github.com/offensive-vk/offensive-vk/issues/31081)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+13. 🔒 قضية مغلقة[#31076](https://github.com/offensive-vk/offensive-vk/issues/31076)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+14. 🔒 قضية مغلقة[#31071](https://github.com/offensive-vk/offensive-vk/issues/31071)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒 قضية مغلقة[#31080](https://github.com/offensive-vk/offensive-vk/issues/31080)في[هجوم-vk/هجوم-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
