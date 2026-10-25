@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Quizás las historias sean sólo datos con alma.”— Brené Brown❞</i>
+<i>❝“La mejor manera de obtener información precisa en Usenet es publicar algo incorrecto y esperar las correcciones.”— Matthew Austern ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
