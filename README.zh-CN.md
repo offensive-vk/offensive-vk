@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“也许故事只是有灵魂的数据。”——Brené Brown❞</i>
+<i>❝“在 Usenet 上获取准确信息的最佳方法是发布错误内容并等待更正。”— Matthew Austern ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
