@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“La mejor manera de obtener información precisa en Usenet es publicar algo incorrecto y esperar las correcciones.”— Matthew Austern ❞</i>
+<i>❝IBM era tan poderosa en 1983 que la gente temía que su computadora personal PCjr destruyera a Apple, Commodore y todos los demás competidores. El PCjr se convirtió en “uno de los mayores fracasos en la historia de la informática”.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
