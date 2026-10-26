@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Aslında ABD'de ilk kez 1980'de yapılan Asteroids ve Lunar Lander adında iki oyun var.❞</i>
+<i>❝IBM 1983'te o kadar güçlüydü ki insanlar PCjr ev bilgisayarının Apple'ı, Commodore'u ve diğer tüm rakiplerini yok edeceğinden korkuyorlardı. PCjr, "bilgisayar tarihindeki en büyük fiyaskolardan biri" oldu.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
