@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM 1983'te o kadar güçlüydü ki insanlar PCjr ev bilgisayarının Apple'ı, Commodore'u ve diğer tüm rakiplerini yok edeceğinden korkuyorlardı. PCjr, "bilgisayar tarihindeki en büyük fiyaskolardan biri" oldu.❞</i>
+<i>❝INTERCAL diye bir programlama dili var, içinde GÖZALDIĞINIZ, LÜTFEN, UNUTUN gibi anahtar kelimeler var. Kodlama sırasında LÜTFEN'i yeterince kullanmazsanız Derleyici kodu reddeder.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
