@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝IBM era tan poderosa en 1983 que la gente temía que su computadora personal PCjr destruyera a Apple, Commodore y todos los demás competidores. El PCjr se convirtió en “uno de los mayores fracasos en la historia de la informática”.❞</i>
+<i>❝Existe un lenguaje de programación llamado INTERCAL que tiene palabras clave como IGNORAR, POR FAVOR, OLVIDAR. Si no usa PLEASE suficientes veces mientras codifica, el compilador rechaza el código.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
