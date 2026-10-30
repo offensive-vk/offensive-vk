@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the `goal`_. <br>🧑‍💻 I like to audit computer & `code`. <br>🤝 I’m . <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning _LLMs_ thingy. <br>💬 Ask me about automation. <br>⚡ Fun fact: no fun, only logs. <br>💥 Dont think, just do. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
+<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
