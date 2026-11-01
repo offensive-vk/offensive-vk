@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝INTERCAL diye bir programlama dili var, içinde GÖZALDIĞINIZ, LÜTFEN, UNUTUN gibi anahtar kelimeler var. Kodlama sırasında LÜTFEN'i yeterince kullanmazsanız Derleyici kodu reddeder.❞</i>
+<i>❝Intel tarafından yaratılan ilk mikroişlemci, bir hesap makinesi için tasarlanmıştı ve o zamanlar kimse bunun nereye varacağını hayal edemiyordu.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
