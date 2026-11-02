@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Intel tarafından yaratılan ilk mikroişlemci, bir hesap makinesi için tasarlanmıştı ve o zamanlar kimse bunun nereye varacağını hayal edemiyordu.❞</i>
+<i>❝Statista'ya göre 2023 yılına kadar 50 milyardan fazla cihaz internete bağlanacak.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
