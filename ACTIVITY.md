@@ -39,8 +39,4 @@
 38. 💪 Opened pull request [#1](https://github.com/offensive-vk/x-undisclosed/pull/1) in [offensive-vk/x-undisclosed](https://github.com/offensive-vk/x-undisclosed)
 39. ✅ Approved on pull request [#83](https://github.com/offensive-vk/develop-actions/pull/83) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
 40. 🔒 Closed issue [#42](https://github.com/offensive-vk/auto-label/issues/42) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
-41. ✅ Approved on pull request [#490](https://github.com/offensive-vk/UntilEverything/pull/490) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-42. ❌ Closed pull request [#489](https://github.com/offensive-vk/UntilEverything/pull/489) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-43. 🗣 Commented on issue [#489](https://github.com/offensive-vk/UntilEverything/issues/489) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-44. ✅ Approved on pull request [#489](https://github.com/offensive-vk/UntilEverything/pull/489) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
