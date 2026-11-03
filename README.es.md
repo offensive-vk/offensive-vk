@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Existe un lenguaje de programación llamado INTERCAL que tiene palabras clave como IGNORAR, POR FAVOR, OLVIDAR. Si no usa PLEASE suficientes veces mientras codifica, el compilador rechaza el código.❞</i>
+<i>❝Según statista, para 2023, más de 50 mil millones de dispositivos estarán conectados a Internet.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
