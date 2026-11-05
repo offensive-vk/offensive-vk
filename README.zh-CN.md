@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝英特尔创建的第一个微处理器是它是为计算器而设计的，当时没有人想象它会走向何方。❞</i>
+<i>❝“这是个玩笑，好吗？如果我们认为它会实际使用，我们就不会编写它！”— Mark Andreesen，谈到 HTML 标签 BLINK ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
