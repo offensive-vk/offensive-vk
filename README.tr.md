@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Statista'ya göre 2023 yılına kadar 50 milyardan fazla cihaz internete bağlanacak.❞</i>
+<i>❝"Şakaydı, tamam mı? Gerçekten kullanılacağını düşünseydik yazmazdık!"— Mark Andreesen, HTML BLINK etiketinden bahsediyor ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
