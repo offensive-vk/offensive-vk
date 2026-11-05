@@ -38,5 +38,4 @@
 37. ❌ Merged pull request [#1](https://github.com/offensive-vk/x-undisclosed/pull/1) in [offensive-vk/x-undisclosed](https://github.com/offensive-vk/x-undisclosed)
 38. 💪 Opened pull request [#1](https://github.com/offensive-vk/x-undisclosed/pull/1) in [offensive-vk/x-undisclosed](https://github.com/offensive-vk/x-undisclosed)
 39. ✅ Approved on pull request [#83](https://github.com/offensive-vk/develop-actions/pull/83) in [offensive-vk/develop-actions](https://github.com/offensive-vk/develop-actions)
-40. 🔒 Closed issue [#42](https://github.com/offensive-vk/auto-label/issues/42) in [offensive-vk/auto-label](https://github.com/offensive-vk/auto-label)
 <!--END_SECTION:activity-->
