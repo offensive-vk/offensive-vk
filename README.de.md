@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Nun, es gibt zwei Spiele, die 1980 die ersten in den USA waren: Asteroids und Lunar Lander.❞</i>
+<i>❝„Es war ein Witz, okay? Wenn wir gedacht hätten, dass es tatsächlich verwendet würde, hätten wir es nicht geschrieben!“ – Mark Andreesen über das HTML-Tag BLINK ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
