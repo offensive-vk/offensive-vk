@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Según statista, para 2023, más de 50 mil millones de dispositivos estarán conectados a Internet.❞</i>
+<i>❝"Era una broma, ¿vale? ¡Si pensáramos que realmente se usaría, no lo habríamos escrito!"— Mark Andreesen, hablando de la etiqueta HTML BLINK ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
