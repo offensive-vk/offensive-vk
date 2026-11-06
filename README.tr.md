@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Şakaydı, tamam mı? Gerçekten kullanılacağını düşünseydik yazmazdık!"— Mark Andreesen, HTML BLINK etiketinden bahsediyor ❞</i>
+<i>❝“Dünya büyük bir veri sorunudur.”— Andrew McAfee❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
