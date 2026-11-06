@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝"Era una broma, ¿vale? ¡Si pensáramos que realmente se usaría, no lo habríamos escrito!"— Mark Andreesen, hablando de la etiqueta HTML BLINK ❞</i>
+<i>❝“El mundo es un gran problema de datos.”— Andrew McAfee❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
