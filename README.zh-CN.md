@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“这是个玩笑，好吗？如果我们认为它会实际使用，我们就不会编写它！”— Mark Andreesen，谈到 HTML 标签 BLINK ❞</i>
+<i>❝“世界是一个大数据问题。”— Andrew McAfee❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
