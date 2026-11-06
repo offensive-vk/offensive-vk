@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Es war ein Witz, okay? Wenn wir gedacht hätten, dass es tatsächlich verwendet würde, hätten wir es nicht geschrieben!“ – Mark Andreesen über das HTML-Tag BLINK ❞</i>
+<i>❝„Die Welt ist ein großes Datenproblem.“ – Andrew McAfee❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
