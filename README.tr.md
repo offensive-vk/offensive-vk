@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“Dünya büyük bir veri sorunudur.”— Andrew McAfee❞</i>
+<i>❝Apple'ın ilk bilgisayarı Apple I, 1976'da 666,66 dolara satışa çıktı çünkü Steve Wozniak yinelenen rakamları seviyordu ve yazmayı daha kolay buluyordu. Numaranın herhangi bir Şeytani çağrışımından haberi olmadığını söyledi.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
