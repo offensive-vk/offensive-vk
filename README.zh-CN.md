@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“世界是一个大数据问题。”— Andrew McAfee❞</i>
+<i>❝比尔·盖茨居住的房子是使用 Macintosh 计算机设计的。❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
