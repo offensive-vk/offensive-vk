@@ -29,5 +29,4 @@
 28. ✅ Approved on pull request [#31109](https://github.com/offensive-vk/offensive-vk/pull/31109) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 29. ✅ Approved on pull request [#31105](https://github.com/offensive-vk/offensive-vk/pull/31105) in [offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 30. ❌ Merged pull request [#497](https://github.com/offensive-vk/UntilEverything/pull/497) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
-31. 💪 Opened pull request [#497](https://github.com/offensive-vk/UntilEverything/pull/497) in [offensive-vk/UntilEverything](https://github.com/offensive-vk/UntilEverything)
 <!--END_SECTION:activity-->
