@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Apple'ın ilk bilgisayarı Apple I, 1976'da 666,66 dolara satışa çıktı çünkü Steve Wozniak yinelenen rakamları seviyordu ve yazmayı daha kolay buluyordu. Numaranın herhangi bir Şeytani çağrışımından haberi olmadığını söyledi.❞</i>
+<i>❝Bill Gates'in yaşadığı ev Macintosh bilgisayar kullanılarak tasarlandı.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
