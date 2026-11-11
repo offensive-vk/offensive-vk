@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“El mundo es un gran problema de datos.”— Andrew McAfee❞</i>
+<i>❝“En dos ocasiones me han preguntado: 'Si pones en la máquina cifras equivocadas, ¿saldrán las respuestas correctas?' No puedo comprender correctamente el tipo de confusión de ideas que podría provocar semejante pregunta.”—Charles Babbage ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
