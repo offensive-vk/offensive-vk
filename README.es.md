@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En dos ocasiones me han preguntado: 'Si pones en la máquina cifras equivocadas, ¿saldrán las respuestas correctas?' No puedo comprender correctamente el tipo de confusión de ideas que podría provocar semejante pregunta.”—Charles Babbage ❞</i>
+<i>❝“En el futuro, las computadoras quizás no pesen más de 1,5 toneladas.”—Mecánica popular, 1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
