@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥Denke nicht, tue es einfach.<br>📧_Du wirst einen Weg finden_.
+🔭_Perfektion ist nicht das`goal`_.<br>🧑‍💻 Ich auditiere gerne Computer &`code`.<br>🤝 Ich bin .<br>✨ Leben im Inneren`terminal`.<br>🌱 Ich lerne gerade_LLMs_Ding.<br>💬 Fragen Sie mich nach Automatisierung.<br>⚡ Lustige Tatsache: Kein Spaß, nur Protokolle.<br>💥 Nicht denken, sondern einfach tun.<br>📧_Du wirst einen Weg finden_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Die Welt ist ein großes Datenproblem.“ – Andrew McAfee❞</i>
+<i>❝„In Zukunft dürfen Computer nicht mehr als 1,5 Tonnen wiegen.“ – Populäre Mechanik, 1949 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -149,19 +149,19 @@
 
 1.  🔒 Geschlossenes Problem[#31079](https://github.com/offensive-vk/offensive-vk/issues/31079)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 2.  🔒 Geschlossenes Problem[#31091](https://github.com/offensive-vk/offensive-vk/issues/31091)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-3.  🔒 Geschlossenes Problem[#31087](https://github.com/offensive-vk/offensive-vk/issues/31087)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+3.  🔒Geschlossenes Problem[#31087](https://github.com/offensive-vk/offensive-vk/issues/31087)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 4.  🔒 Geschlossenes Problem[#31090](https://github.com/offensive-vk/offensive-vk/issues/31090)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 5.  🔒 Geschlossenes Problem[#31088](https://github.com/offensive-vk/offensive-vk/issues/31088)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 6.  🔒 Geschlossenes Problem[#31085](https://github.com/offensive-vk/offensive-vk/issues/31085)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 7.  🔒 Geschlossenes Problem[#31089](https://github.com/offensive-vk/offensive-vk/issues/31089)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-8.  🔒 Geschlossenes Problem[#31082](https://github.com/offensive-vk/offensive-vk/issues/31082)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+8.  🔒Geschlossenes Problem[#31082](https://github.com/offensive-vk/offensive-vk/issues/31082)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 9.  🔒 Geschlossenes Problem[#31086](https://github.com/offensive-vk/offensive-vk/issues/31086)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 10. 🔒 Geschlossenes Problem[#31084](https://github.com/offensive-vk/offensive-vk/issues/31084)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 11. 🔒 Geschlossenes Problem[#31083](https://github.com/offensive-vk/offensive-vk/issues/31083)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 12. 🔒 Geschlossenes Problem[#31081](https://github.com/offensive-vk/offensive-vk/issues/31081)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 13. 🔒 Geschlossenes Problem[#31076](https://github.com/offensive-vk/offensive-vk/issues/31076)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
 14. 🔒 Geschlossenes Problem[#31071](https://github.com/offensive-vk/offensive-vk/issues/31071)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
-15. 🔒 Geschlossenes Problem[#31080](https://github.com/offensive-vk/offensive-vk/issues/31080)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
+15. 🔒Geschlossenes Problem[#31080](https://github.com/offensive-vk/offensive-vk/issues/31080)In[offensive-vk/offensive-vk](https://github.com/offensive-vk/offensive-vk)
     <!--END_SECTION:activity-->
 
 </p>
