@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝比尔·盖茨居住的房子是使用 Macintosh 计算机设计的。❞</i>
+<i>❝CAPTCHA 是“完全自动化的公共图灵测试来区分计算机和人类”的缩写❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
