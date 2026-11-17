@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfección no es el`goal`_.<br>🧑‍💻 Me gusta auditar computadoras y`code`.<br>🤝 Soy .<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo_LLM_cosita.<br>💬 Pregúntame sobre la automatización.<br>⚡ Dato curioso: no es divertido, solo registros.<br>💥 No pienses, solo hazlo.<br>📧_Encontrarás una manera_.
+🔭_La perfección no es`goal`_.<br>🧑‍💻 Me gusta auditar computadoras y`code`.<br>🤝 Soy .<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo_LLM_cosita.<br>💬 Pregúntame sobre la automatización.<br>⚡ Dato curioso: no es divertido, solo registros.<br>💥 No pienses, solo hazlo.<br>📧_Encontrarás una manera_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En el futuro, las computadoras quizás no pesen más de 1,5 toneladas.”—Mecánica popular, 1949 ❞</i>
+<i>❝“En una economía de la información, los activos más valiosos de una empresa regresan a casa todas las noches. Si no se los trata bien, no regresan a la mañana siguiente.”— Peter Chang ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
