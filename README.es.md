@@ -54,11 +54,11 @@
    
 ## 💫 About Me:
 
-🔭_La perfección no es`goal`_.<br>🧑‍💻 Me gusta auditar computadoras y`code`.<br>🤝 Soy .<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo_LLM_cosita.<br>💬 Pregúntame sobre la automatización.<br>⚡ Dato curioso: no es divertido, solo registros.<br>💥 No pienses, solo hazlo.<br>📧_Encontrarás una manera_.
+🔭_La perfección no es el`goal`_.<br>🧑‍💻 Me gusta auditar computadoras y`code`.<br>🤝 Soy .<br>✨ Vivir dentro del`terminal`.<br>🌱 Actualmente estoy aprendiendo_LLM_cosita.<br>💬 Pregúntame sobre la automatización.<br>⚡ Dato curioso: no es divertido, solo registros.<br>💥 No pienses, solo hazlo.<br>📧_Encontrarás una manera_.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“En una economía de la información, los activos más valiosos de una empresa regresan a casa todas las noches. Si no se los trata bien, no regresan a la mañana siguiente.”— Peter Chang ❞</i>
+<i>❝La fabricación de CPU es tan impredecible que es necesario probar cada chip, ya que la mayoría de los chips terminados son defectuosos. A los que sobreviven se les asigna un número de modelo y un precio que reflejan su máximo rendimiento seguro.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
