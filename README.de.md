@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Die CPU-Herstellung ist so unvorhersehbar, dass jeder Chip getestet werden muss, da die meisten fertigen Chips defekt sind. Den Überlebenden wird eine Modellnummer und ein Preis zugewiesen, die ihre maximale Sicherheitsleistung widerspiegeln.❞</i>
+<i>❝„In zwei Jahren wird Spam beseitigt sein.“ – Bill Gates, 2004 ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
