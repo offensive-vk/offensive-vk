@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝La fabricación de CPU es tan impredecible que es necesario probar cada chip, ya que la mayoría de los chips terminados son defectuosos. A los que sobreviven se les asigna un número de modelo y un precio que reflejan su máximo rendimiento seguro.❞</i>
+<i>❝Todos los nombres de dominio como Google, Iniciar sesión o Registrarse eran gratuitos hasta 1995, pero ahora todos tienen que pagar por cada nuevo nombre de dominio.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
