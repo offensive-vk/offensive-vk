@@ -55,7 +55,7 @@
 🔭 _Perfection isn't the `goal`_. <br>🧑‍💻 I like to audit computer & `code`. <br>🤝 I’m . <br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning _LLMs_ thingy. <br>💬 Ask me about automation. <br>⚡ Fun fact: no fun, only logs. <br>💥 Dont think, just do. <br>📧 _You will find a way_.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   ❞</i>
+<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
