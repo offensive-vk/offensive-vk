@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„In zwei Jahren wird Spam beseitigt sein.“ – Bill Gates, 2004 ❞</i>
+<i>❝„Ihre unzufriedensten Kunden sind Ihre größte Lernquelle.“ – Bill Gates ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
