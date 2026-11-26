@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Todos los nombres de dominio como Google, Iniciar sesión o Registrarse eran gratuitos hasta 1995, pero ahora todos tienen que pagar por cada nuevo nombre de dominio.❞</i>
+<i>❝“La mejor manera de predecir el futuro es implementarlo.”—David Heinemeier Hansson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
