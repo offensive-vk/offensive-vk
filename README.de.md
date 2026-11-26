@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Ihre unzufriedensten Kunden sind Ihre größte Lernquelle.“ – Bill Gates ❞</i>
+<i>❝„Der beste Weg, die Zukunft vorherzusagen, besteht darin, sie umzusetzen.“ – David Heinemeier Hansson ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
