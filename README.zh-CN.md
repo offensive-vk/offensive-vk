@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“最不满意的客户是你最大的学习源泉。”——比尔·盖茨❞</i>
+<i>❝“编程可以很有趣，密码学也可以；但是它们不应该结合在一起。”——Kreitzberg 和 Shneiderman ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
