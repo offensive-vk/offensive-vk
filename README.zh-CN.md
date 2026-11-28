@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝“编程可以很有趣，密码学也可以；但是它们不应该结合在一起。”——Kreitzberg 和 Shneiderman ❞</i>
+<i>❝“软件就像熵：它很难掌握，没有重量，并且遵循热力学第二定律；即，它总是在增加。”——诺曼·奥古斯丁❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
