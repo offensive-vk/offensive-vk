@@ -58,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝„Der beste Weg, die Zukunft vorherzusagen, besteht darin, sie umzusetzen.“ – David Heinemeier Hansson ❞</i>
+<i>❝„Software ist wie Entropie: Sie ist schwer zu erfassen, wiegt nichts und gehorcht dem zweiten Hauptsatz der Thermodynamik; d. h. sie nimmt immer zu.“ – Norman Augustine ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
